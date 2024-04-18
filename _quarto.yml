@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ISCB 2025"
+  cookie-consent:
+    type: express
+    style: headline
+    policy-url: https://www.iscb2025.info/imprint-and-privacy-policy.html
+    prefs-text: "Cookie Preferences & Privacy Policy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      # - text: "Committees"
+      #   href: committees.qmd
+      - text: "Conference information"
+        menu: 
+        # - href: venue.qmd
+        #   text: "Conference venue"
+        - href: imprint-and-privacy-policy.qmd
+          text: "Privacy policy"
+      # - text: "Program"
+      #   menu: 
+      #   - text: "TBD"
+      # - text: "About Basel"
+      #   menu: 
+      #   - text: "TBD"
+  favicon: img/favicon.jpg
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+

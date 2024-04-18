@@ -1,0 +1,15 @@
+# Privacy Policy
+Please refer too the [ISCB homepage](https://iscb.international/) for the [ISCB privacy policy](https://iscb.international/wp-content/uploads/2024/02/ISCB-GDPR_policy_final_web-new-emails.pdf).
+
+This web page is [open-source](https://github.com/iscb2025/home) and hosted on [Github Pages](https://pages.github.com/). The Github Privacy Policy can be found on the [Github site policy page](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). 
+ 
+
+# Imprint
+INTERNATIONAL SOCIETY FOR CLINICAL BIOSTATISTICS  
+ISCB LEGAL SEAT  
+Chemin du Petit-Bel-Air 115  
+CH-1226 Thonex   
+Switzerland  
+
+For the ISCB contact information, refer to [the contact page on the ISCB website](https://iscb.international/contact/).
+
