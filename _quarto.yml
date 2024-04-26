@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+  - fonts/Inter.ttf
 
 website:
   title: "ISCB 2025"
@@ -29,9 +31,12 @@ website:
       #   - text: "TBD"
   favicon: img/favicon.jpg
 
+
 format:
   html:
-    theme: zephyr
+    theme: 
+    - zephyr
+    - custom.scss
     css: styles.css
     toc: true
 

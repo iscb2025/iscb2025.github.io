@@ -11,9 +11,12 @@ format:
 <h1><span style="color: white;">46<sup>th</sup>&nbsp;Conference<br>August 24<sup>th</sup> - 28<sup>th</sup>&nbsp;2025</span></h1>
 :::
 :::
-<br>
-<br>
+::: {.column-screen}
+![](img/IMG_2950_wide.jpg){width="100%"}
+:::
+
 
 <center>
 <span style="font-size: 1.5em;"><b>Save the date and stay tuned for exciting news!</b><br>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University](https://www.unibas.ch/en) of [Basel](https://www.basel.com), Switzerland.</span>
 </center>
+
