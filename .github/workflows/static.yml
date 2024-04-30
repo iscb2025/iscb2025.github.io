@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://iscb2025.github.io
+      url: https://iscb2025.github.io/home
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -36,7 +36,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
           path: './docs'
       - name: Deploy to GitHub Pages
         id: deployment
