@@ -1,4 +1,4 @@
-# ISCB 2025 Committee
+# ISCB 2025 Committees
 
 ```{r, echo=F, results=F, message=F, warning=F}
 library(tibble)
