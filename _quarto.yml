@@ -15,10 +15,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - text: "Committees"
-      #   href: committees.qmd
       - text: "Conference information"
         menu: 
+        - text: "Committees"
+          href: committees.qmd
         # - href: venue.qmd
         #   text: "Conference venue"
         - href: imprint-and-privacy-policy.qmd
