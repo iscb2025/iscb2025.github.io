@@ -15,10 +15,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "Conference information"
+      - text: "About ISCB 2025"
         menu: 
         - text: "Committees"
           href: committees.qmd
+      - text: "Conference information"
+        menu: 
         # - href: venue.qmd
         #   text: "Conference venue"
         - href: imprint-and-privacy-policy.qmd
