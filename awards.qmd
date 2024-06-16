@@ -1,0 +1,24 @@
+# Awards
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(tibble)
+library(dplyr)
+library(tidyr)
+library(readxl)
+library(knitr)
+library(kableExtra)
+library(stringr)
+
+awards_dates <- 
+  read_excel("data/key_dates.xlsx",
+             sheet = "Awards application") 
+
+```
+
+```{r echo=F, message=F, warning=F}
+awards_dates |> 
+  select(Item, Date) |> 
+  kable(col.names = c("", "Date")) |>
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
+  
+```

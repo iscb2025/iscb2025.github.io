@@ -1,0 +1,70 @@
+# Calls
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(tibble)
+library(dplyr)
+library(tidyr)
+library(readxl)
+library(knitr)
+library(kableExtra)
+library(stringr)
+
+submission_dates <- 
+  read_excel("data/key_dates.xlsx",
+             sheet = "Submissions") |> 
+  mutate(Date =  replace_na(Date, "TBA"),
+         Item = ifelse(Item == "Call", "Opens", Item)) 
+
+tidy_kable <- function(data){
+  kable(data, col.names = c("", "Date")) |>
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
+                full_width = F) |> 
+   column_spec(column = 1:2, width = "7cm")
+}
+```
+
+## Abstracts
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Abstracts") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
+
+## Posters
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Posters") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
+## Invited Sessions
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Invited sessions") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
+## Topic-Contributed Sessions
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Topic-contributed sessions") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
+## Short Courses
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Short courses") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
