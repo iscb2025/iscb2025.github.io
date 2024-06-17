@@ -1,0 +1,21 @@
+---
+title: "Restaurants"
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: no
+    self_contained: yes
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+---
+
+Some restaurants that are also open on Sunday and Monday and are in walking distance of the conference venue include:
+
+* [Hotel Rheinfelderhof](https://www.rheinfelderhof.ch/) 
+* [Restaurant Fischerstube](https://restaurantfischerstube.ch/en/)
+* [Zum Braunen Mutz – Brasserie zum Braunen Mutz](https://www.braunermutz.ch)
+* [Restaurant Fiorentina Basel](https://www.fiorentinabasel.ch/home)
+* [KLARA](https://www.klarabasel.ch/)
+
+For a comprehensive list, see [the website of Basel](https://www.basel.com/en/eating-out/all-restaurants).

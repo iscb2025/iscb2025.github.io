@@ -1,0 +1,139 @@
+---
+title: "About Basel"
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: no
+    self_contained: yes
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+---
+
+<div style="position: relative; padding-bottom: 56.25%;">
+<iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/76WTm9Q0w_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe></div>
+
+
+<div style="display:none">
+
+# About Basel
+
+</div>
+
+<br><br>
+
+## Basel – Switzerland’s Capital for Art and Culture
+
+Nestled in the heart of Europe, on both banks of the Rhine,Basel is a pocket-sized metropolis that combines proverbial Swiss quality with a multicultural population.
+
+The city is the centre of the idyllic tri-border region of Switzerland, Germany and France – lying between the Swiss Jura, Germany’s Black Forest and the Vosges in Alsace.
+The narrow alleyways and hidden squares with over 200 fountains as well as the many century-old buildings and eye-catching sights such as the remarkable and richly ornamented Town Hall or the Cathedral, that has stood gracefully above the city for over 1000 years, combine to make Basel’s Old Town one of the most beautiful and intact of its kind in Europe. In hardly any other cityscape in Europe do historic buildings from the 14th and 15th century blend so harmoniously with contemporary buildings. 
+
+It was not without reason that Basel is seen as Switzerland’s capital of architecture. Just a few steps away from the picturesque Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta or the Basel-based Herzog & de Meuron. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world. Buildings such as the Roche Towers, Novartis Pavillon, Basel Exhibition Centre, Fondation Beyeler or Museum Tinguely are the modern landmarks.
+
+In Basel, art can be seen wherever you go, whether strolling through the Old Town or when visiting one of the almost 40 museums. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. Kunstmuseum Basel, whose history dates back to 1661, is one of the world’s very first museums. Its collection includes many major works of art from the last 700 years. Wandering through the halls, you will discover a veritable “Who’s Who” of classical modernism, from Pablo Picasso to Henri Matisse and Joan Miró to Paul Klee. Small wonder then, that London’s The Times named the museum the fifth best in the world in 2013. 
+
+Walking around Basel and letting your eyes wander to the right and left (and sometimes upwards) from time to time, you will be rewarded: you will discover impressive street art and graffiti everywhere in the city centre. National and international artists are also constantly creating new, colourful artworks on the outskirts of the city. Urban art has become an integral part of the art scene in recent years and is now an indispensable element of urban tourism in Basel: [www.basel.com](https://www.basel.com/en).
+
+# Top places of interest in Basel
+These are the landmarks you should definitely not miss on your tour of Basel:
+
+## [Basler Münster (Cathedrale)](https://www.basel.com/en/attractions/basler-muenster-bc9d869a33)
+With its red sandstone walls, colourful roof tiles and twin towers, no other building adorns the cityscape of Basel like the Cathedral. The former episcopal church, built between the years 1019 and 1500 in the Romantic and Gothic styles, is probably the most famous landmark in Basel. The crypt, the chancel, the tomb of Erasmus of Rotterdam, the Gallus gate and the two cloisters are witness to a fascinating tale of construction over a period of several centuries. The piazza in which the Cathedral stands is today a popular meeting place and is often used for concerts and events. The Pfalz - the terrace offering wonderful views over the Rhine - is one of the most popular viewpoints in the city.
+
+## [Pfalz](https://www.basel.com/en/attractions/pfalz-70feca698b)
+The Pfalz viewing terrace in Basel offers fantastic views over the Old Town and as far as the border triangle. The word “Pfalz” is derived from the Latin word “Palatium”, meaning “palace”. The terrace high above the Rhine and behind the Münster Cathedral is so-called because it is situated close to the location in which the former palace of the Bishop once stood. On one side of the viewing terrace are steps that lead down to the landing jetty of the Münster ferry. On the other side there is a small gateway leading to the quiet cloisters of the Cathedral. Here you will find richly decorated gravestones of members of prominent Basel families from the 16th to 19th centuries.
+
+## [City Hall](https://www.basel.com/en/attractions/city-hall-7099cbb9f4)
+The City Hall is the seat of the Basel government and its parliament. In the midst of the Old Town, it is particularly eye¬catching with its red facade, the characteristic tower and playful frescoes. It was built after the great earthquake to replace the former seat of government. After Basel joined the Swiss Confederation, the front part of the building was replaced with an imposing new structure. The coats of arms of Basel and the 11 other members of the then Confederation adorn the crenellations. At the beginning of the 17th century, the city hall was extended, and the artist Hans Bock decorated the facade with painted trompe l'oeil. In 1900 the building was extended again to include the left-hand wing and the tower at the right.
+
+## [Spalentor](https://www.basel.com/en/attractions/spalentor-a90d70d429)
+The Spalentor (Gate of Spalen) is the most magnificent and impressive of the three city gates still remaining from the city fortifications dating from 1400. In times gone by, many important supplies and provisions entered the city through this gate having arrived from Alsace. Its square main tower, flanked on each side by two round towers, would have been seen long before arriving at the gates of the city. The façade facing away from the city is also decorated with three figures dating back to the 15th century - the Madonna and two prophets.
+
+## [Tinguely Fountain](https://www.basel.com/en/attractions/tinguely-fountain-6259537a82)
+In 1977 Jean Tinguely created sculptural machines in a shallow fountain where the stage of the old city theatre company once stood, and in the process gifted Basel a famous modern landmark. The Swiss artist lined a shallow fountain with black asphalt and created inside mechanical figures powered by low-voltage current who appear to be playing in the water. These ten iron figures are in constant motion and conversation with each other - like the mime artists, actors and dancers that once occupied the stage that stood in this spot. 
+ 
+## [Mittlere Brücke](https://www.basel.com/en/attractions/mittlere-bruecke-b37cf289fc)
+Hardly another monument in the city of Basel has become such a symbol of the city as the Mittlere Brücke. Opened in 1226, it is one of the oldest Rhine crossings between Lake Constance and the North Sea. The Mittlere Brücke was initially used for local traffic, in conjunction with the development of the route over the Gotthard Pass as an international trade route, in the 14th century it gained significance as a crossing over the Rhine for international trade. With the advent of electric trams, the old bridge had to make way for the new Mittlere Brücke in 1905. A copy of the old bridge chapel, the so-called “Käppelijoch”, where in the Middle Ages convicted criminals were sentenced to death, was erected as a  reminder of the original construction.
+
+## [Basel Zoo](https://www.basel.com/en/attractions/basel-zoo-fd95eb5a48)
+The Zoological Gardens, known affectionately as “Zolli” by Basel's inhabitants, opened in Basel in 1874 and is home to a large number of indigenous and exotic animals. The zoo is a popular excursion destination and well worth a visit at any time of year. In the summer months the park is an ideal place to stroll in the open air, in the winter months the various animal houses guarantee up close and personal encounters with a wide variety of animals. If you wish to discover an underwater world, there are several underwater creatures to discover at the vivarium.
+
+# Activities and Excursions in Basel
+
+## [Boat trips on the Rhine](https://www.basel.com/en/activities-excursions/boat-trips)
+A boat trip along the Rhine lets you admire the landmarks of Basel, such as Basel Cathedral (Münster), the Roche Towers and the picturesque Old Townhouses on the banks of the Rhine from from their most beautiful perspective.
+In the evenings, you can enjoy a relaxing aperitif and dinner cruise on board the Rhystärn. Totally relaxed and just as the mood takes you – with constant views of the setting sun and the passing cityscape. A special experience with the feel-good factor. The perfect way to see, feel and experience Basel.
+Rates: visit the [website of Basel Tourism](https://www.basel.com/en/activities-excursions/boat-trips). With your BaselCard you’ll get 50% discount on boat trips.  
+
+### Timetable
+City- and harbour cruises  
+7 April to 15 October 2023: on Friday and Sunday  
+10.00 am, 11.00 am, 12.00 noon, 1.00 pm, 2.00 pm, 3.00 pm, 4.00 pm  
+
+Evening cruises  
+6 April to 14 October 2023: Thursday, Friday and Saturday  
+5.00 pm, 6.00 pm, 7.00 pm, 8.00 pm, 9.00 pm  
+
+
+## [City tour on a sightseeing bus](https://www.basel.com/en/Basel/experience/detail/TDS00020014005323139?globalReset=1&lang=en#tp-anchor-search)
+Basel City Tour offers [informative and entertaining bus tours around the city centre]. The two-hour tour takes you past Spalentor, Kunstmuseum Basel, Museum Tinguely, the Roche Tower, Messe Basel (exhibition square) and the Dreiländereck (tri-border point). 
+Each seat has an iPad mini2 with an audio guide app. The app presents the tour highlights and provides interesting background information about culture in Basel. Young passengers can enjoy a special channel with stories in Basel dialect.  
+Languages: German, English, French, Italian, Spanish, Japanese, Arabic, Chinese Mandarin  
+Rates: visit the [website of Basel Tourism](https://www.basel.com/en/Basel/experience/detail/TDS00020014005323139?globalReset=1&lang=en#tp-anchor-description). With your BaselCard you’ll get 50% discount on boat trips.  
+
+### Timetable
+Wednesday, Thursday, Friday, Saturday and Sunday
+Departures: 11.00 am, 1.25 pm 
+Departure point: Bus stop car park vis à vis the Tinguely fountain (Steinenberg 4, Basel)
+
+## Ferries
+With the four Basel ferries, you’ll cross the Rhine river through the force of the current alone. The four Rhine river ferries “Wild Maa”, “Leu”, “Vogel Gryff” and “Ueli” link Grossbasel to Kleinbasel. They are attached to a long wire cable and are driven purely by the current of the Rhine itself. The ferries will silently bring you to the opposite shore all year round. Experience the way in which time seems to stand still during this brief crossing.  
+Timetables and rates: visit the [website of Basel Tourism](https://www.basel.com/en/activities-excursions/ferries)  
+
+# Art, Culture and modern Architecture
+Discover the cultural capital of Switzerland!
+
+## Museums
+[Nearly 40 museums](https://www.basel.com/en/art/museums) with spectacular collections and special exhibitions – unique in Switzerland and at the top of the international league too. If you want to understand why Basel’s residents are so keen on art, you should visit at least one of them.
+With the BaselCard you enjoy the museums in Basel at half price for admisssion – including for special exhibitions.
+
+### Kunstmuseum Basel
+Its prestigious collection – the first ever publicly accessible art collection – and internationally acclaimed exhibitions provide unforgettable art experiences. take you on a journey through art history, from the fifteenth century right up to the present day. You’ll find artworks by Hans Holbein, Rembrandt, Paul Cézanne, Claude Monet, Vincent Van Gogh, Pablo Picasso, Sophie Taeuber-Arp and Andy Warhol in this collection of over 300,000 pieces. 
+Special exhibition 2nd September 2023 until 21st January 2024 at Kunstmuseum Basel:
+Matisse, Derain and Friends – The Paris Avantgarde 1904 – 1908
+Fauvism was the first avantgarde movement of the 20th century. This circle of artists, which included Henri Matisse, André Derain and Geroges Braque, had a formative influence on Paris in the years from 1904 to 1908. Marking Switzerland’s first major show of « Les Fauves » in seventy years, this exhibition will also feature several superb works yet unseen in this country.
+
+### Fondation Beyeler
+The museum in Riehen near Basel is internationally renowned for its high-calibre exhibitions, its major collection of modern and contemporary art, as well as its ambitious programme of events. The museum building was designed by Renzo Piano in the idyllic setting of a park with venerable trees and water lily ponds. It boasts a unique location in the heart of a local recreation area, looking out onto fields, pastures and vineyards close to the foothills of the Black Forest. In collaboration with Swiss architect Peter Zumthor, the Fondation Beyeler is constructing a new museum building in the adjoining park, thus further enhancing the harmonious interplay of art, architecture and nature.
+
+### Museum Tinguely
+Museum Tinguely, designed by Ticino architect Mario Botta and opened in 1996, is situated right on the bank of the Rhine. It houses the largest collection of works by Jean Tinguely (1925–1991), one of the most innovative and important Swiss artists of the 20th century. Vibrancy, laughter, amazement, discovery – a museum that stimulates the senses, in which art comes to the beholder. Jean Tinguely’s kinetic works make him one of the most eminent pioneers in the post-1950 art world. The permanent exhibition showcases a compilation of his work spanning four decades – from early, filigree reliefs to the monumental machine sculptures of the 1980s. Inspired by Tinguely’s ideas, Museum Tinguely stages a wide range of events and exhibitions that seek to engage with other artists and art forms, while providing an interactive museum experience that appeals to all the senses.
+
+### Vitra Design Museum
+Vitra Design Museum in Weil am Rhein (Germany) numbers among the world’s most prominent museums of design. It is dedicated to the research and presentation of design, past and present, and examines its relationship to architecture, art and everyday culture. In the main museum building by Frank Gehry, the museum annually mounts two major temporary exhibitions. In conjunction with our alternating exhibitions, the Vitra Design Museum offers a variety of workshops and guided tours.
+
+
+## Modern Architecture
+Basel is seen as Switzerland’s capital of architecture. The number of buildings designed by world-famous architects in such close proximity is unsurpassed, all in the midst of an architectural setting that has evolved over centuries. The Swiss architectural scene has an appeal that extends well beyond the country’s borders. Numerous Swiss architectural firms have attracted attention all over the world in recent decades with a series of outstanding creations. Many of the renowned firms hail from Basel such as Christ & Gantenbein, Diener & Diener Architects and Herzog & de Meuron. They have all helped to lay the foundation of a lively architectural scene in Basel.
+Just a few steps away from the picturesque and well-preserved Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world.
+
+### Roche Towers
+The Roche Towers, designed by architects Herzog & de Meuron, can rightly be viewed as a modern landmark of Basel – but as the tallest office buildings in Switzerland, they can be seen far outside the city limits, too.
+These two skyscrapers are home to the offices of the Roche pharmaceutical group. Building 1 was completed in 2015 and, at 178 metres, was the tallest office building in Switzerland until it was overtaken by Building 2 in 2022. 
+Building 2 is 205 metres tall and has a total of 50 floors. It is one of the most sustainable, energy-efficient office buildings in the world.
+
+### Goetheanum Dornach
+The Goetheanum is situated in Dornach, around 10 kilometres outside the city centre. It serves as the head office and conference venue of the General Anthroposophical Society and boasts a distinctive shape, which has also inspired the architects of neighbouring buildings.
+Following the destruction of the original Goetheanum building in an arson attack in 1923, the current building was constructed between 1925 and 1928. Both were designed by the esoteric Rudolf Steiner, the founder of anthroposophy. The monumental exposed-concrete building is particularly striking, owing to the almost complete absence of right angles.
+
+### Novartis Campus
+With about 20 buildings designed by top international architects, the Novartis Campus is a true Mecca of modern architecture. f you are interested in top-class architecture, appreciate short distances and also enjoy quiet moments in green surroundings, then the Novartis Campus, open to the public on working days, is just the place for you.
+The list of architects who have put their stamp on the Novartis Campus reads like a who’s who of architecture: Diener & Diener kicked things off in 2005, followed by SANAA and Peter Märkli (both 2006), Marco Serra (2007), Vittorio Magnago Lampugnani and Adolf Krischanitz (both 2008), Frank O. Gehry, José Rafael Moneo Vallès and Fumihiko Maki (all 2009), Tadao Ando, David Chipperfield and Yoshio Taniguchi (all 2010), Eduardo Souto de Moura and Álvaro Siza (both 2011), Rahul Mehrotra (2013), Juan Navarro Baldeweg (2014) and Herzog & de Meuron (2015). For the time being, the final piece of Vittorio Magnago Lampugnani’s master plan scheduled for completion by 2030 is the Novartis Pavillon – conceived by Michele De Lucchi.
+If you’re coming to see the Novartis Pavillon with its artistically luminous zero-energy media facade, you’d best plan enough time to visit the “Wonders of Medicine” exhibition, where four interactive areas (exploring life, disease, the history of medicine and the future of healthcare) invite you to delve into the secrets of the life sciences. The Novartis Pavillon is located in one of the carefully designed green spaces bearing the signatures of leading landscape-architecture luminaries, such as Peter Walker, Günther Vogt and Guido Hager. A diverse collection of artworks – including a sculpture by Richard Serra, art within architecture by Jenny Holzer, a sound installation by Laurie Anderson and a 60-metre-high mural by Claudia Comte – make your visit complete.
+
+### Basel Exhibition Centre / Messe Basel
+The new Messe Basel trade fair building is one of the city's newer landmarks. The central architectural urban feature of the hall complex, developed by Herzog & de Meuron, is the City Lounge.
+This covered, public space not only marks the entrance to the exhibitions, but also functions as a meeting place for locals and visitors. The architects called the prominent hole in the middle the "Fenster zum Himmel" ("window to heaven").
+
