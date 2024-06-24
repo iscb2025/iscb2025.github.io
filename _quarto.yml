@@ -16,13 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - text: "Key Dates"
-        menu: 
-        - text: "Registration"
-          href: registration.qmd
-        - text: "Calls"
-          href: calls.qmd
-        - text: "Awards"
-          href: awards.qmd
+        href: key-dates.qmd
       - text: "About ISCB 2025"
         menu: 
         - text: "Committees"

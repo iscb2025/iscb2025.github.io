@@ -1,4 +1,4 @@
-# Calls
+# Key Dates
 
 ```{r, echo=F, results=F, message=F, warning=F}
 library(tibble)
@@ -9,21 +9,43 @@ library(knitr)
 library(kableExtra)
 library(stringr)
 
-submission_dates <- 
-  read_excel("data/key_dates.xlsx",
-             sheet = "Submissions") |> 
-  mutate(Date =  replace_na(Date, "TBA"),
-         Item = ifelse(Item == "Call", "Opens", Item)) 
-
 tidy_kable <- function(data){
   kable(data, col.names = c("", "Date")) |>
   kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
                 full_width = F) |> 
    column_spec(column = 1:2, width = "7cm")
 }
+
+```
+
+
+## Registration
+
+```{r, echo=F, message=F, warning=F}
+
+registration_dates <- 
+  read_excel("data/key_dates.xlsx", sheet = "Registration") |> 
+  separate(col = "Item", sep = "\\s+(?=\\S*$)", into = c("Item1", "Item2")) |> 
+  mutate(across(.cols = c(Item1, Item2),
+                .fns = str_to_title))
+  
+registration_dates |> 
+  select(Item2, Date) |> 
+  tidy_kable() |> 
+  pack_rows(index = table(registration_dates$Item1))
+
 ```
 
 ## Abstracts
+
+```{r, echo=F, results=F, message=F, warning=F}
+submission_dates <- 
+  read_excel("data/key_dates.xlsx",
+             sheet = "Submissions") |> 
+  mutate(Date =  replace_na(Date, "TBA"),
+         Item = ifelse(Item == "Call", "Opens", Item)) 
+
+```
 
 ```{r echo=F, message=F, warning=F}
 submission_dates |> 
@@ -68,3 +90,13 @@ submission_dates |>
   select(Item, Date) |> 
   tidy_kable()
 ```
+
+## Awards
+
+```{r echo=F, message=F, warning=F}
+read_excel("data/key_dates.xlsx",
+             sheet = "Awards application") |> 
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
