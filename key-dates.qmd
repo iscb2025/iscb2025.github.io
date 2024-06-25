@@ -16,68 +16,25 @@ tidy_kable <- function(data){
    column_spec(column = 1:2, width = "7cm")
 }
 
-```
-
-
-## Registration
-
-```{r, echo=F, message=F, warning=F}
+submission_dates <- 
+  read_excel("data/key_dates.xlsx",
+             sheet = "Submissions") |> 
+  mutate(Date =  replace_na(Date, "TBA"))
+#, Item = ifelse(Item == "Call", "Opens", Item)) 
 
 registration_dates <- 
   read_excel("data/key_dates.xlsx", sheet = "Registration") |> 
   separate(col = "Item", sep = "\\s+(?=\\S*$)", into = c("Item1", "Item2")) |> 
   mutate(across(.cols = c(Item1, Item2),
                 .fns = str_to_title))
-  
-registration_dates |> 
-  select(Item2, Date) |> 
-  tidy_kable() |> 
-  pack_rows(index = table(registration_dates$Item1))
 
 ```
 
-## Abstracts
-
-```{r, echo=F, results=F, message=F, warning=F}
-submission_dates <- 
-  read_excel("data/key_dates.xlsx",
-             sheet = "Submissions") |> 
-  mutate(Date =  replace_na(Date, "TBA"),
-         Item = ifelse(Item == "Call", "Opens", Item)) 
-
-```
+## Contributed Sessions
 
 ```{r echo=F, message=F, warning=F}
 submission_dates |> 
-  filter(Type == "Abstracts") |>
-  select(Item, Date) |> 
-  tidy_kable()
-```
-
-
-## Posters
-
-```{r echo=F, message=F, warning=F}
-submission_dates |> 
-  filter(Type == "Posters") |>
-  select(Item, Date) |> 
-  tidy_kable()
-```
-
-## Invited Sessions
-
-```{r echo=F, message=F, warning=F}
-submission_dates |> 
-  filter(Type == "Invited sessions") |>
-  select(Item, Date) |> 
-  tidy_kable()
-```
-
-## Topic-Contributed Sessions
-
-```{r echo=F, message=F, warning=F}
-submission_dates |> 
-  filter(Type == "Topic-contributed sessions") |>
+  filter(Type == "Contributed sessions") |>
   select(Item, Date) |> 
   tidy_kable()
 ```
@@ -91,7 +48,40 @@ submission_dates |>
   tidy_kable()
 ```
 
-## Awards
+## Abstract Submissions
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Abstracts") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
+
+
+
+<!-- ## Posters -->
+
+<!-- ```{r echo=F, message=F, warning=F} -->
+<!-- submission_dates |>  -->
+<!--   filter(Type == "Posters") |> -->
+<!--   select(Item, Date) |>  -->
+<!--   tidy_kable() -->
+<!-- ``` -->
+
+
+
+<!-- ## Topic-Contributed Sessions -->
+
+<!-- ```{r echo=F, message=F, warning=F} -->
+<!-- submission_dates |>  -->
+<!--   filter(Type == "Topic-contributed sessions") |> -->
+<!--   select(Item, Date) |>  -->
+<!--   tidy_kable() -->
+<!-- ``` -->
+
+
+## Awards Applications
 
 ```{r echo=F, message=F, warning=F}
 read_excel("data/key_dates.xlsx",
@@ -100,3 +90,14 @@ read_excel("data/key_dates.xlsx",
   tidy_kable()
 ```
 
+
+## Registration
+
+```{r, echo=F, message=F, warning=F}
+  
+registration_dates |> 
+  select(Item2, Date) |> 
+  tidy_kable() |> 
+  pack_rows(index = table(registration_dates$Item1))
+
+```
