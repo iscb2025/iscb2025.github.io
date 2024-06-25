@@ -10,12 +10,11 @@ library(kableExtra)
 committees <- read_excel("data/committees.xlsx") |> arrange(last |> toupper())
 committees$name <- paste(committees$first, committees$last, sep = " ")
 
-print_committee <- function(data, title, cols=c("name")) {
+print_committee <- function(data, title, cols=c("name", "institution")) {
   data |> select(any_of(cols)) |>
     kable( col.names = NULL) |>
     add_header_above(title) |>
     kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
-    #column_spec(1, width = "50%") |>
 }
 ```
 
@@ -25,33 +24,35 @@ print_committee <- function(data, title, cols=c("name")) {
 ```{r, echo=F, include=T}
 committees |> 
   filter(loc_chair == 1) |> 
-  print_committee(title=c("Chairs" = 1))
+  print_committee(title=c("Chairs" = 2))
 ```
 
 ```{r, echo=F, include=T}
 committees |> 
   filter(finance == 1) |> 
-  print_committee(title=c("Finance" = 1))
+  print_committee(title=c("Finance" = 2))
 ```
 
 ```{r, echo=F, include=T}
 committees |> 
   filter((loc_core == 1 | loc_extended == 1) & is.na(loc_chair) & is.na(finance)) |> 
-  print_committee(title=c("Members" = 1))
+  print_committee(title=c("Members" = 2))
 ```
 :::
 ::: {.g-col-12 .g-col-md-6}
 #### Scientific Organizing Committee
 ```{r, echo=F, include=T}
 committees |> 
+  mutate(institution_country = paste(institution, country, sep = ", ")) |>
   filter(spc_chair == 1) |>
-  print_committee(title=c("Chair" = 2), cols = c("name", "country"))
+  print_committee(title=c("Chair" = 2), cols = c("name", "institution_country"))
 ```
 
 ```{r, echo=F, include=T}
 committees |> 
+  mutate(institution_country = paste(institution, country, sep = ", ")) |>
   filter(spc == 1 & is.na(spc_chair)) |>
-  print_committee(title=c("Members" = 2), cols = c("name", "country"))
+  print_committee(title=c("Members" = 2), cols = c("name", "institution_country"))
 ```
 :::
 ::: 
