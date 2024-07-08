@@ -10,10 +10,27 @@ library(kableExtra)
 library(stringr)
 
 tidy_kable <- function(data){
-  kable(data, col.names = c("", "Date")) |>
+  
+  if(ncol(data) == 3){
+    tbl <-
+      kable(data, col.names = c("", "Date", "Notes")) |>
   kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
                 full_width = F) |> 
    column_spec(column = 1:2, width = "7cm")
+    
+  }
+  
+  if(ncol(data) == 2){
+    tbl <-
+      kable(data, col.names = c("", "Date")) |>
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
+                full_width = F) |> 
+   column_spec(column = 1:2, width = "5cm") 
+    
+  }
+  
+  return(tbl)
+  
 }
 
 submission_dates <- 
@@ -52,10 +69,13 @@ submission_dates |>
 ## Abstract Submissions
 
 ```{r echo=F, message=F, warning=F}
+options(knitr.kable.NA = '')
+
 submission_dates |> 
   filter(Type == "Abstracts") |>
-  select(Item, Date) |> 
-  tidy_kable()
+  select(Item, Date, Notes) |> 
+  tidy_kable() |> 
+  column_spec(3, color = "red", bold = T)
 ```
 
 
