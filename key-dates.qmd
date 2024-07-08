@@ -30,15 +30,6 @@ registration_dates <-
 
 ```
 
-## Contributed Sessions
-
-```{r echo=F, message=F, warning=F}
-submission_dates |> 
-  filter(Type == "Contributed sessions") |>
-  select(Item, Date) |> 
-  tidy_kable()
-```
-
 ## Short Courses
 
 ```{r echo=F, message=F, warning=F}
