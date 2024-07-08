@@ -30,6 +30,16 @@ registration_dates <-
 
 ```
 
+## Invited Sessions
+
+```{r echo=F, message=F, warning=F}
+submission_dates |> 
+  filter(Type == "Invited Sessions") |>
+  select(Item, Date) |> 
+  tidy_kable()
+```
+
+
 ## Short Courses
 
 ```{r echo=F, message=F, warning=F}
