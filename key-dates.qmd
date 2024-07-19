@@ -1,6 +1,7 @@
 # Key Dates
 
 ```{r, echo=F, results=F, message=F, warning=F}
+Sys.setlocale("LC_ALL", "English")
 library(tibble)
 library(dplyr)
 library(tidyr)
@@ -8,114 +9,93 @@ library(readxl)
 library(knitr)
 library(kableExtra)
 library(stringr)
+library(lubridate)
 
-tidy_kable <- function(data){
+
+key_dates <- list(
+  "Short Courses" =
+    tribble(
+      ~ Item, ~ Date,
+      "Call", ymd("2024-10-04"),
+      "Deadline", ymd("2025-01-05"),
+      "Notifications sent", ymd("2025-02-07")
+    ),
+  "Abstract Submissions" =
+    tribble(
+      ~ Item, ~ Date,
+      "Call", ymd("2024-11-22"),
+      "Deadline", ymd("2025-02-14"),
+      "Notifications sent", ymd("2025-03-21")
+    ),
+  "Award Applications" =
+    tribble(
+      ~ Item, ~ Date,
+      "Deadline", ymd("2025-02-23")
+    ),
+  "Registration" =
+    tribble(
+      ~ Item1, ~ Item2, ~ Date,
+      "Early Bird", "Opens", ymd("2025-03-21"),
+      "Early Bird", "Closes", ymd("2025-05-21"),
+      "Regular", "Opens", ymd("2025-05-22"),
+      "Regular", "Closes", ymd("2025-06-30")
+    )
+)
   
-  if(ncol(data) == 3){
-    tbl <-
-      kable(data, col.names = c("", "Date", "Notes")) |>
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
-                full_width = F) |> 
-   column_spec(column = 1:2, width = "7cm")
-    
+
+
+tidy_kable <- function(data, type) {
+  if (class(data$Date[0]) == "Date") {
+    data <- mutate(data, Date = format(Date, "%A, %d %B %Y"))
   }
-  
-  if(ncol(data) == 2){
-    tbl <-
-      kable(data, col.names = c("", "Date")) |>
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
-                full_width = F) |> 
-   column_spec(column = 1:2, width = "5cm") 
+
+  tbl <- data |>
+    kable(col.names = c("", "Date"), align = "rl") |>
+    kable_styling(
+      bootstrap_options = c("striped", "hover", "condensed"),
+      full_width = F
+    ) |> 
+    column_spec(column = 1, width = "160px")
+    # column_spec(column = 2, width = "70%") 
     
-  }
-  
   return(tbl)
-  
 }
 
-submission_dates <- 
-  read_excel("data/key_dates.xlsx",
-             sheet = "Submissions") |> 
-  mutate(Date =  replace_na(Date, "TBA"))
-#, Item = ifelse(Item == "Call", "Opens", Item)) 
-
-registration_dates <- 
-  read_excel("data/key_dates.xlsx", sheet = "Registration") |> 
-  separate(col = "Item", sep = "\\s+(?=\\S*$)", into = c("Item1", "Item2")) |> 
-  mutate(across(.cols = c(Item1, Item2),
-                .fns = str_to_title))
 
 ```
 
-## Invited Sessions
+<!-- ## Invited Sessions -->
 
-```{r echo=F, message=F, warning=F}
-submission_dates |> 
-  filter(Type == "Invited Sessions") |>
-  select(Item, Date) |> 
-  tidy_kable()
-```
+<!-- ```{r echo=F, message=F, warning=F} -->
+<!-- key_dates[["Invited Sessions"]] |>  -->
+<!--   tidy_kable() -->
+<!-- ``` -->
 
 
-## Short Courses
+<!-- ## Short Courses -->
 
-```{r echo=F, message=F, warning=F}
-submission_dates |> 
-  filter(Type == "Short courses") |>
-  select(Item, Date) |> 
-  tidy_kable()
-```
+<!-- ```{r echo=F, message=F, warning=F} -->
+<!-- key_dates[["Short Courses"]] |> tidy_kable() -->
+<!-- ``` -->
 
 ## Abstract Submissions
 
 ```{r echo=F, message=F, warning=F}
-options(knitr.kable.NA = '')
-
-submission_dates |> 
-  filter(Type == "Abstracts") |>
-  select(Item, Date, Notes) |> 
-  tidy_kable() |> 
-  column_spec(3, color = "red", bold = T)
+key_dates[["Abstract Submissions"]] |> tidy_kable()
 ```
-
-
-
-
-<!-- ## Posters -->
-
-<!-- ```{r echo=F, message=F, warning=F} -->
-<!-- submission_dates |>  -->
-<!--   filter(Type == "Posters") |> -->
-<!--   select(Item, Date) |>  -->
-<!--   tidy_kable() -->
-<!-- ``` -->
-
-
-
-<!-- ## Topic-Contributed Sessions -->
-
-<!-- ```{r echo=F, message=F, warning=F} -->
-<!-- submission_dates |>  -->
-<!--   filter(Type == "Topic-contributed sessions") |> -->
-<!--   select(Item, Date) |>  -->
-<!--   tidy_kable() -->
-<!-- ``` -->
-
+[Note that the abstract submission deadline is *final* and will *not* be extended!]{style="color:red"}
 
 ## Awards Applications
 
 ```{r echo=F, message=F, warning=F}
-read_excel("data/key_dates.xlsx",
-             sheet = "Awards application") |> 
-  select(Item, Date) |> 
-  tidy_kable()
+key_dates[["Award Applications"]] |> tidy_kable()
 ```
 
 
 ## Registration
 
 ```{r, echo=F, message=F, warning=F}
-  
+registration_dates <- key_dates[["Registration"]]
 registration_dates |> 
   select(Item2, Date) |> 
   tidy_kable() |> 
