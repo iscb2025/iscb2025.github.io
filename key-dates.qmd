@@ -72,11 +72,11 @@ tidy_kable <- function(data, type) {
 <!-- ``` -->
 
 
-<!-- ## Short Courses -->
+## Short Courses
 
-<!-- ```{r echo=F, message=F, warning=F} -->
-<!-- key_dates[["Short Courses"]] |> tidy_kable() -->
-<!-- ``` -->
+```{r echo=F, message=F, warning=F}
+key_dates[["Short Courses"]] |> tidy_kable()
+```
 
 ## Abstract Submissions
 
