@@ -4,7 +4,7 @@ format:
     css: styles-index.css
     toc: false
 ---
-::: {.column-screen .navbar-dark}
+::: {.column-screen .navbar}
 :::{.column-body}
 <div style="float: left; position: relative; top: 0px; padding-right: 30px; padding-top: 30px; padding-bottom: 30px;">
 ![](img/ISCB_transparent_white.png){width="96px"}</div>
