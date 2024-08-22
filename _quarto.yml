@@ -39,7 +39,7 @@ website:
 format:
   html:
     theme: 
-    - zephyr
+    - zephyr-red.scss
     - custom.scss
     css: styles.css
     toc: true
