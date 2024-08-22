@@ -20,6 +20,9 @@
   display: flex;
   align-items: center;
   position: relative;
+  background-size:     cover;                    
+  background-repeat:   no-repeat;
+  background-position: center center;   
   /* background-color: rgb(0, 117, 121); */
 }
 
@@ -32,7 +35,7 @@
 }
 
 .video__notice {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
   padding: 1.5rem;
   width: 100%;

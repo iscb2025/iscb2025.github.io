@@ -23,7 +23,7 @@ function activateVideos() {
 
 ::: {.column-page}
 
-<div class="video">
+<div class="video" style="background-image: url('./img/IMG_2950_wide.jpg');">
 <iframe class="video__iframe" width="100%" height="100%" data-src="https://www.youtube-nocookie.com/embed/FkZtrsmV8Cg" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 <form class="video__notice">
