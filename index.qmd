@@ -4,7 +4,7 @@ format:
     css: styles-index.css
     toc: false
 ---
-::: {.column-screen .navbar-dark}
+::: {.column-screen .navbar}
 :::{.column-body}
 <div style="float: left; position: relative; top: 0px; padding-right: 30px; padding-top: 30px; padding-bottom: 30px;">
 ![](img/ISCB_transparent_white.png){width="96px"}</div>
@@ -17,6 +17,6 @@ format:
 
 
 <center>
-<span style="font-size: 1.5em;"><b>Save the date and stay tuned for exciting news!</b><br>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University](https://www.unibas.ch/en) of [Basel](https://www.basel.com), Switzerland.</span>
+<span style="font-size: 1.5em;"><b>Save the [dates](key-dates.html) and stay tuned for exciting news!</b><br>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University](https://www.unibas.ch/en) of [Basel](https://www.basel.com), Switzerland.</span>
 </center>
 
