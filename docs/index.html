@@ -161,7 +161,7 @@ cookieconsent.run({
 
 <script>
 function activateVideos() {
-  const iframes = document.querySelectorAll('.video__iframe[data-src*="youtube-nocookie.com"]');iframes.forEach((iframe) => {iframe.src = iframe.dataset.src;}); }
+  const iframes = document.querySelectorAll('.video__iframe[data-src*="youtube-nocookie.com"]');iframes.forEach((iframe) => {iframe.src = iframe.dataset.src + "?autoplay=1";}); }
 </script>
 <div style="height:20px">
 
@@ -169,7 +169,9 @@ function activateVideos() {
 <div class="column-page">
 <div class="grid">
 <div class="g-col-12 g-col-md-6">
-<p><img src="img/Logo ISCB2025 BBS.jpg" class="img-fluid" style="width:95.0%"></p>
+<center>
+<img src="img/Logo ISCB2025 BBS.jpg" class="img-fluid" style="width:95.0%">
+</center>
 </div>
 <div class="g-col-12 g-col-md-6">
 <h1 style="line-height:130%">
@@ -181,6 +183,9 @@ August 24<sup>th</sup> - 28<sup>th</sup>, 2025<br>Basel, Switzerland
 </div>
 </div>
 </div>
+<div style="height:20px">
+
+</div>
 <div class="column-page">
 <div class="video" style="background-image: url('./img/IMG_2950_wide.jpg');">
 <iframe class="video__iframe" width="100%" height="100%" data-src="https://www.youtube-nocookie.com/embed/FkZtrsmV8Cg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
@@ -190,7 +195,7 @@ August 24<sup>th</sup> - 28<sup>th</sup>, 2025<br>Basel, Switzerland
 We’ve embedded content from YouTube here. As YouTube may collect personal data and track your viewing behaviour, we’ll only load the video after you consent to their use of cookies and similar technologies as described in their <a href="https://www.youtube.com/t/privacy">privacy policy</a>.
 </p>
 <button type="button" onclick="activateVideos()">
-Allow content from YouTube
+Allow and play content from YouTube
 </button>
 </form>
 </div>
