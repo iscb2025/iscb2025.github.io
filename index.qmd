@@ -12,7 +12,7 @@ function activateVideos() {
 :::{.column-page}
 :::{.grid}
 :::{.g-col-12 .g-col-md-6}
-<center>![](img/Logo ISCB2025 BBS.jpg){width=95%}</center>
+<center>![](img/Logo ISCB2025 BBS.jpg){width=100%}</center>
 :::
 :::{.g-col-12 .g-col-md-6}
 <h1 style="line-height:130%">46<sup>th</sup> Annual Conference of the International Society for Clinical Biostatistics (ISCB)</h1>
@@ -38,7 +38,7 @@ similar technologies as described in their
 </div>
 <!--![](img/IMG_2950_wide.jpg){width="100%"} -->
 :::
-<div style="margin-top:20px;text-align: center;">
+<div style="margin-top:20px;">
 <span style="font-size: 1.5em; "><b>Save the [dates](key-dates.html) and stay tuned for exciting news!</b><br>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University](https://www.unibas.ch/en) of [Basel](https://www.basel.com), Switzerland.</span>
 </div>
 
