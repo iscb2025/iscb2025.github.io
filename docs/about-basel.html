@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.551">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -88,6 +88,12 @@ cookieconsent.run({
 });
 </script> 
   
+<script>
+function activateVideos() {
+  const iframes = document.querySelectorAll('.video__iframe[data-src*="youtube-nocookie.com"]');
+  iframes.forEach((iframe) => {iframe.src = iframe.dataset.src + "?autoplay=1";});
+}
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -114,6 +120,10 @@ cookieconsent.run({
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./key-dates.html"> 
+<span class="menu-text">Key Dates</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-iscb-2025" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About ISCB 2025</span>
@@ -136,6 +146,25 @@ cookieconsent.run({
   </li>  
     </ul>
   </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-basel" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About Basel</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-basel">    
+        <li>
+    <a class="dropdown-item" href="./about-basel.html">
+ <span class="dropdown-text">Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./basel-card.html">
+ <span class="dropdown-text">Basel Card</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./restaurants.html">
+ <span class="dropdown-text">Restaurants</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -153,28 +182,36 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#about-basel" id="toc-about-basel" class="nav-link active" data-scroll-target="#about-basel">About Basel</a></li>
-  <li><a href="#basel-switzerlands-capital-for-art-and-culture" id="toc-basel-switzerlands-capital-for-art-and-culture" class="nav-link" data-scroll-target="#basel-switzerlands-capital-for-art-and-culture">Basel – Switzerland’s Capital for Art and Culture</a></li>
+  <li><a href="#basel-switzerlands-capital-for-art-and-culture" id="toc-basel-switzerlands-capital-for-art-and-culture" class="nav-link" data-scroll-target="#basel-switzerlands-capital-for-art-and-culture">Basel – Switzerland’s Capital for Art and Culture</a>
+  <ul class="collapse">
+  <li><a href="#baselcard" id="toc-baselcard" class="nav-link" data-scroll-target="#baselcard">BaselCard</a></li>
+  </ul></li>
   <li><a href="#top-places-of-interest-in-basel" id="toc-top-places-of-interest-in-basel" class="nav-link" data-scroll-target="#top-places-of-interest-in-basel">Top places of interest in Basel</a>
   <ul class="collapse">
-  <li><a href="#basler-münster-cathedrale" id="toc-basler-münster-cathedrale" class="nav-link" data-scroll-target="#basler-münster-cathedrale">Basler Münster (Cathedrale)</a></li>
+  <li><a href="#minster-of-basel-or-münster" id="toc-minster-of-basel-or-münster" class="nav-link" data-scroll-target="#minster-of-basel-or-münster">Minster of Basel (or Münster)</a></li>
+  <li><a href="#mittlere-brücke" id="toc-mittlere-brücke" class="nav-link" data-scroll-target="#mittlere-brücke">Mittlere Brücke</a></li>
   <li><a href="#pfalz" id="toc-pfalz" class="nav-link" data-scroll-target="#pfalz">Pfalz</a></li>
   <li><a href="#city-hall" id="toc-city-hall" class="nav-link" data-scroll-target="#city-hall">City Hall</a></li>
   <li><a href="#spalentor" id="toc-spalentor" class="nav-link" data-scroll-target="#spalentor">Spalentor</a></li>
   <li><a href="#tinguely-fountain" id="toc-tinguely-fountain" class="nav-link" data-scroll-target="#tinguely-fountain">Tinguely Fountain</a></li>
-  <li><a href="#mittlere-brücke" id="toc-mittlere-brücke" class="nav-link" data-scroll-target="#mittlere-brücke">Mittlere Brücke</a></li>
   <li><a href="#basel-zoo" id="toc-basel-zoo" class="nav-link" data-scroll-target="#basel-zoo">Basel Zoo</a></li>
   </ul></li>
   <li><a href="#activities-and-excursions-in-basel" id="toc-activities-and-excursions-in-basel" class="nav-link" data-scroll-target="#activities-and-excursions-in-basel">Activities and Excursions in Basel</a>
   <ul class="collapse">
+  <li><a href="#public-guided-tour-stories-of-basels-old-town" id="toc-public-guided-tour-stories-of-basels-old-town" class="nav-link" data-scroll-target="#public-guided-tour-stories-of-basels-old-town">Public Guided Tour – Stories of Basel’s Old Town</a></li>
+  <li><a href="#tickets" id="toc-tickets" class="nav-link" data-scroll-target="#tickets">Tickets</a></li>
   <li><a href="#boat-trips-on-the-rhine" id="toc-boat-trips-on-the-rhine" class="nav-link" data-scroll-target="#boat-trips-on-the-rhine">Boat trips on the Rhine</a>
   <ul class="collapse">
-  <li><a href="#timetable" id="toc-timetable" class="nav-link" data-scroll-target="#timetable">Timetable</a></li>
+  <li><a href="#tickets-and-timetable" id="toc-tickets-and-timetable" class="nav-link" data-scroll-target="#tickets-and-timetable">Tickets and Timetable</a></li>
   </ul></li>
   <li><a href="#city-tour-on-a-sightseeing-bus" id="toc-city-tour-on-a-sightseeing-bus" class="nav-link" data-scroll-target="#city-tour-on-a-sightseeing-bus">City tour on a sightseeing bus</a>
   <ul class="collapse">
-  <li><a href="#timetable-1" id="toc-timetable-1" class="nav-link" data-scroll-target="#timetable-1">Timetable</a></li>
+  <li><a href="#tickets-and-timetable-1" id="toc-tickets-and-timetable-1" class="nav-link" data-scroll-target="#tickets-and-timetable-1">Tickets and Timetable</a></li>
   </ul></li>
-  <li><a href="#ferries" id="toc-ferries" class="nav-link" data-scroll-target="#ferries">Ferries</a></li>
+  <li><a href="#ferries" id="toc-ferries" class="nav-link" data-scroll-target="#ferries">Ferries</a>
+  <ul class="collapse">
+  <li><a href="#tickets-and-timetable-2" id="toc-tickets-and-timetable-2" class="nav-link" data-scroll-target="#tickets-and-timetable-2">Tickets and Timetable</a></li>
+  </ul></li>
   </ul></li>
   <li><a href="#art-culture-and-modern-architecture" id="toc-art-culture-and-modern-architecture" class="nav-link" data-scroll-target="#art-culture-and-modern-architecture">Art, Culture and modern Architecture</a>
   <ul class="collapse">
@@ -197,7 +234,7 @@ cookieconsent.run({
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -218,48 +255,75 @@ cookieconsent.run({
 </header>
 
 
-<div style="position: relative; padding-bottom: 56.25%;">
-<iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/76WTm9Q0w_Q" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+<div class="column-body">
+<div class="video" style="background-image: url('./img/IMG_2950_wide.jpg'); ">
+<iframe class="video__iframe" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" data-src="https://www.youtube-nocookie.com/embed/76WTm9Q0w_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
 </iframe>
+<form class="video__notice">
+<p>
+We’ve embedded content from YouTube here. As YouTube may collect personal data and track your viewing behaviour, we’ll only load the video after you consent to their use of cookies and similar technologies as described in their <a href="https://www.youtube.com/t/privacy">privacy policy</a>.
+</p>
+<button type="button" onclick="activateVideos()">
+Allow and play content from YouTube
+</button>
+</form>
 </div>
+</div>
+<!-- <div style="position: relative; padding-bottom: 56.25%;"> -->
+<!-- <iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/76WTm9Q0w_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> -->
+<!-- </iframe></div> -->
 <section id="about-basel" class="level1" style="display:none">
 <h1>About Basel</h1>
 </section>
-<p><br><br></p>
+<p><br></p>
 <section id="basel-switzerlands-capital-for-art-and-culture" class="level2">
 <h2 class="anchored" data-anchor-id="basel-switzerlands-capital-for-art-and-culture">Basel – Switzerland’s Capital for Art and Culture</h2>
-<p>Nestled in the heart of Europe, on both banks of the Rhine,Basel is a pocket-sized metropolis that combines proverbial Swiss quality with a multicultural population.</p>
+<p>Nestled in the heart of Europe, on both banks of the Rhine, <a href="https://www.basel.com/en">Basel</a> is a pocket-sized metropolis that combines proverbial Swiss quality with a multicultural population.</p>
 <p>The city is the centre of the idyllic tri-border region of Switzerland, Germany and France – lying between the Swiss Jura, Germany’s Black Forest and the Vosges in Alsace. The narrow alleyways and hidden squares with over 200 fountains as well as the many century-old buildings and eye-catching sights such as the remarkable and richly ornamented Town Hall or the Cathedral, that has stood gracefully above the city for over 1000 years, combine to make Basel’s Old Town one of the most beautiful and intact of its kind in Europe. In hardly any other cityscape in Europe do historic buildings from the 14th and 15th century blend so harmoniously with contemporary buildings.</p>
 <p>It was not without reason that Basel is seen as Switzerland’s capital of architecture. Just a few steps away from the picturesque Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta or the Basel-based Herzog &amp; de Meuron. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world. Buildings such as the Roche Towers, Novartis Pavillon, Basel Exhibition Centre, Fondation Beyeler or Museum Tinguely are the modern landmarks.</p>
 <p>In Basel, art can be seen wherever you go, whether strolling through the Old Town or when visiting one of the almost 40 museums. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. Kunstmuseum Basel, whose history dates back to 1661, is one of the world’s very first museums. Its collection includes many major works of art from the last 700 years. Wandering through the halls, you will discover a veritable “Who’s Who” of classical modernism, from Pablo Picasso to Henri Matisse and Joan Miró to Paul Klee. Small wonder then, that London’s The Times named the museum the fifth best in the world in 2013.</p>
-<p>Walking around Basel and letting your eyes wander to the right and left (and sometimes upwards) from time to time, you will be rewarded: you will discover impressive street art and graffiti everywhere in the city centre. National and international artists are also constantly creating new, colourful artworks on the outskirts of the city. Urban art has become an integral part of the art scene in recent years and is now an indispensable element of urban tourism in Basel: <a href="https://www.basel.com/en">www.basel.com</a>.</p>
+<p>Walking around Basel and letting your eyes wander to the right and left (and sometimes upwards) from time to time, you will be rewarded: you will discover impressive street art and graffiti everywhere in the city centre. National and international artists are also constantly creating new, colourful artworks on the outskirts of the city. Urban art has become an integral part of the art scene in recent years and is now an indispensable element of urban tourism in Basel.</p>
+<section id="baselcard" class="level3">
+<h3 class="anchored" data-anchor-id="baselcard">BaselCard</h3>
+<p>The <a href="www.basel.com/en/baselcard">BaselCard</a> is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app.</p>
+<p>All advantages of the BaselCard at a glance:</p>
+<ul>
+<li><p>Free travel on all public transport in Basel throughout your entire stay, including your initial journey to your hotel from EuroAirport Basel-Mulhouse-Freiburg or one of the three train stations in Basel (Basel SBB train station, Basel Bad Bhf and Basel SNCF). For your initial journey the booking confirmation of your accommodation serves as a free ticket for this transfer.</p></li>
+<li><p>50% discount</p>
+<ul>
+<li>on museum entrances and the entrance to Basel Zoo</li>
+<li>on the public walking tour of the Basel Old Town and the tour on the sightseeing bus</li>
+<li>and many additional touristic offers</li>
+</ul></li>
+</ul>
+</section>
 </section>
 <section id="top-places-of-interest-in-basel" class="level1">
 <h1>Top places of interest in Basel</h1>
-<p>These are the landmarks you should definitely not miss on your tour of Basel:</p>
-<section id="basler-münster-cathedrale" class="level2">
-<h2 class="anchored" data-anchor-id="basler-münster-cathedrale"><a href="https://www.basel.com/en/attractions/basler-muenster-bc9d869a33">Basler Münster (Cathedrale)</a></h2>
-<p>With its red sandstone walls, colourful roof tiles and twin towers, no other building adorns the cityscape of Basel like the Cathedral. The former episcopal church, built between the years 1019 and 1500 in the Romantic and Gothic styles, is probably the most famous landmark in Basel. The crypt, the chancel, the tomb of Erasmus of Rotterdam, the Gallus gate and the two cloisters are witness to a fascinating tale of construction over a period of several centuries. The piazza in which the Cathedral stands is today a popular meeting place and is often used for concerts and events. The Pfalz - the terrace offering wonderful views over the Rhine - is one of the most popular viewpoints in the city.</p>
-</section>
-<section id="pfalz" class="level2">
-<h2 class="anchored" data-anchor-id="pfalz"><a href="https://www.basel.com/en/attractions/pfalz-70feca698b">Pfalz</a></h2>
-<p>The Pfalz viewing terrace in Basel offers fantastic views over the Old Town and as far as the border triangle. The word “Pfalz” is derived from the Latin word “Palatium”, meaning “palace”. The terrace high above the Rhine and behind the Münster Cathedral is so-called because it is situated close to the location in which the former palace of the Bishop once stood. On one side of the viewing terrace are steps that lead down to the landing jetty of the Münster ferry. On the other side there is a small gateway leading to the quiet cloisters of the Cathedral. Here you will find richly decorated gravestones of members of prominent Basel families from the 16th to 19th centuries.</p>
-</section>
-<section id="city-hall" class="level2">
-<h2 class="anchored" data-anchor-id="city-hall"><a href="https://www.basel.com/en/attractions/city-hall-7099cbb9f4">City Hall</a></h2>
-<p>The City Hall is the seat of the Basel government and its parliament. In the midst of the Old Town, it is particularly eye¬catching with its red facade, the characteristic tower and playful frescoes. It was built after the great earthquake to replace the former seat of government. After Basel joined the Swiss Confederation, the front part of the building was replaced with an imposing new structure. The coats of arms of Basel and the 11 other members of the then Confederation adorn the crenellations. At the beginning of the 17th century, the city hall was extended, and the artist Hans Bock decorated the facade with painted trompe l’oeil. In 1900 the building was extended again to include the left-hand wing and the tower at the right.</p>
-</section>
-<section id="spalentor" class="level2">
-<h2 class="anchored" data-anchor-id="spalentor"><a href="https://www.basel.com/en/attractions/spalentor-a90d70d429">Spalentor</a></h2>
-<p>The Spalentor (Gate of Spalen) is the most magnificent and impressive of the three city gates still remaining from the city fortifications dating from 1400. In times gone by, many important supplies and provisions entered the city through this gate having arrived from Alsace. Its square main tower, flanked on each side by two round towers, would have been seen long before arriving at the gates of the city. The façade facing away from the city is also decorated with three figures dating back to the 15th century - the Madonna and two prophets.</p>
-</section>
-<section id="tinguely-fountain" class="level2">
-<h2 class="anchored" data-anchor-id="tinguely-fountain"><a href="https://www.basel.com/en/attractions/tinguely-fountain-6259537a82">Tinguely Fountain</a></h2>
-<p>In 1977 Jean Tinguely created sculptural machines in a shallow fountain where the stage of the old city theatre company once stood, and in the process gifted Basel a famous modern landmark. The Swiss artist lined a shallow fountain with black asphalt and created inside mechanical figures powered by low-voltage current who appear to be playing in the water. These ten iron figures are in constant motion and conversation with each other - like the mime artists, actors and dancers that once occupied the stage that stood in this spot.</p>
+<p>These are the landmarks you should definitely not miss on your tour of Basel.</p>
+<section id="minster-of-basel-or-münster" class="level2">
+<h2 class="anchored" data-anchor-id="minster-of-basel-or-münster"><a href="https://www.basel.com/en/attractions/basler-muenster-bc9d869a33">Minster of Basel (or Münster)</a></h2>
+<p>Together with the Mittlere Brücke, the Minster of Basel (Münster), built between 1019 AC and 1500 AC in the Romanesque and Gothic styles, is probably the most famous landmark in Basel. With its red sandstone walls, colourful roof tiles and twin towers, no other building adorns the cityscape of Basel like the Cathedral.</p>
 </section>
 <section id="mittlere-brücke" class="level2">
 <h2 class="anchored" data-anchor-id="mittlere-brücke"><a href="https://www.basel.com/en/attractions/mittlere-bruecke-b37cf289fc">Mittlere Brücke</a></h2>
-<p>Hardly another monument in the city of Basel has become such a symbol of the city as the Mittlere Brücke. Opened in 1226, it is one of the oldest Rhine crossings between Lake Constance and the North Sea. The Mittlere Brücke was initially used for local traffic, in conjunction with the development of the route over the Gotthard Pass as an international trade route, in the 14th century it gained significance as a crossing over the Rhine for international trade. With the advent of electric trams, the old bridge had to make way for the new Mittlere Brücke in 1905. A copy of the old bridge chapel, the so-called “Käppelijoch”, where in the Middle Ages convicted criminals were sentenced to death, was erected as a reminder of the original construction.</p>
+<p>Hardly any other monument in the city of Basel has become such a symbol of the city as the Mittlere Brücke. Opened in 1226 AC, it is one of the oldest Rhine crossings between Lake Constance and the North Sea.</p>
+</section>
+<section id="pfalz" class="level2">
+<h2 class="anchored" data-anchor-id="pfalz"><a href="https://www.basel.com/en/attractions/pfalz-70feca698b">Pfalz</a></h2>
+<p>The viewing terrace by the Minster of Basel offers stunning vistas of the city and the Rhine. The word “Pfalz” is derived from the Latin word “Palatium”, meaning “palace”. The terrace high above the Rhine is so-called because it is situated close to the location in which the former palace of the Bishop once stood.</p>
+</section>
+<section id="city-hall" class="level2">
+<h2 class="anchored" data-anchor-id="city-hall"><a href="https://www.basel.com/en/attractions/city-hall-7099cbb9f4">City Hall</a></h2>
+<p>The City Hall is the seat of the Basel government and its parliament. Located in the midst of the Old Town, it is particularly eye-catching with its red facade, the characteristic tower, and playful frescoes.</p>
+</section>
+<section id="spalentor" class="level2">
+<h2 class="anchored" data-anchor-id="spalentor"><a href="https://www.basel.com/en/attractions/spalentor-a90d70d429">Spalentor</a></h2>
+<p>Spalentor (Gate of Spalen) is the most magnificent and impressive of the three city gates still remaining from the city fortifications dating back to 1400 AC. Its square main tower, flanked on each side by two round towers, would have been seen long before arriving at the gates of the city.</p>
+</section>
+<section id="tinguely-fountain" class="level2">
+<h2 class="anchored" data-anchor-id="tinguely-fountain"><a href="https://www.basel.com/en/attractions/tinguely-fountain-6259537a82">Tinguely Fountain</a></h2>
+<p>In 1977, Jean Tinguely created sculptural machines in a shallow fountain where the stage of the old city theatre company once stood, and thereby gifting Basel a famous new landmark.</p>
 </section>
 <section id="basel-zoo" class="level2">
 <h2 class="anchored" data-anchor-id="basel-zoo"><a href="https://www.basel.com/en/attractions/basel-zoo-fd95eb5a48">Basel Zoo</a></h2>
@@ -268,33 +332,40 @@ cookieconsent.run({
 </section>
 <section id="activities-and-excursions-in-basel" class="level1">
 <h1>Activities and Excursions in Basel</h1>
+<section id="public-guided-tour-stories-of-basels-old-town" class="level2">
+<h2 class="anchored" data-anchor-id="public-guided-tour-stories-of-basels-old-town"><a href="https://www.basel.com/en/Basel/experience/detail/Basel-Oeffentliche-Stadtfuehrungen-Stories-of-Basel-s-Old-Town-TDS00020012555134824#/">Public Guided Tour – Stories of Basel’s Old Town</a></h2>
+<p>You’ll take a journey back through the ages. There can be few other cityscapes where buildings dating back as far as the fifteenth century engage so harmoniously and vibrantly with the contemporary creations of internationally distinguished architects. On our tour, we’ll tell you facts and anecdotes about Basel and the background to its development while passing historic buildings such as the Town Hall, the Basel Cathedral (Münster) and the Barfüsserkirche. We’ll also explain a lot about the city’s present situation. As well as taking you to some picturesque corners of the Old Town, we’ll show you places that closely reflect Basel’s present-day Zeitgeist, such as the Museum der Kulturen and the Tinguely Fountain.</p>
+</section>
+<section id="tickets" class="level2">
+<h2 class="anchored" data-anchor-id="tickets">Tickets</h2>
+<p><a href="https://www.basel.com/en/Basel/experience/detail/Basel-Oeffentliche-Stadtfuehrungen-Stories-of-Basel-s-Old-Town-TDS00020012555134824#/">Online</a> or at the Tourist Information in the Stadtcasino at Barfüsserplatz. The number of participants is limited. With your BaselCard you’ll get 50% discount on boat trips.</p>
+</section>
 <section id="boat-trips-on-the-rhine" class="level2">
 <h2 class="anchored" data-anchor-id="boat-trips-on-the-rhine"><a href="https://www.basel.com/en/activities-excursions/boat-trips">Boat trips on the Rhine</a></h2>
-<p>A boat trip along the Rhine lets you admire the landmarks of Basel, such as Basel Cathedral (Münster), the Roche Towers and the picturesque Old Townhouses on the banks of the Rhine from from their most beautiful perspective. In the evenings, you can enjoy a relaxing aperitif and dinner cruise on board the Rhystärn. Totally relaxed and just as the mood takes you – with constant views of the setting sun and the passing cityscape. A special experience with the feel-good factor. The perfect way to see, feel and experience Basel. Rates: visit the <a href="https://www.basel.com/en/activities-excursions/boat-trips">website of Basel Tourism</a>. With your BaselCard you’ll get 50% discount on boat trips.</p>
-<section id="timetable" class="level3">
-<h3 class="anchored" data-anchor-id="timetable">Timetable</h3>
-<p>City- and harbour cruises<br>
-7 April to 15 October 2023: on Friday and Sunday<br>
-10.00 am, 11.00 am, 12.00 noon, 1.00 pm, 2.00 pm, 3.00 pm, 4.00 pm</p>
-<p>Evening cruises<br>
-6 April to 14 October 2023: Thursday, Friday and Saturday<br>
-5.00 pm, 6.00 pm, 7.00 pm, 8.00 pm, 9.00 pm</p>
+<p>A boat trip along the Rhine lets you admire the landmarks of Basel, such as Basel Cathedral (Münster), the Roche Towers and the picturesque Old Townhouses on the banks of the Rhine from from their most beautiful perspective.</p>
+<p>In the evenings, you can enjoy a relaxing aperitif and dinner cruise on board the Rhystärn. Totally relaxed and just as the mood takes you – with constant views of the setting sun and the passing cityscape. A special experience with the feel-good factor. The perfect way to see, feel and experience Basel.</p>
+<section id="tickets-and-timetable" class="level3">
+<h3 class="anchored" data-anchor-id="tickets-and-timetable">Tickets and Timetable</h3>
+<p>Visit the website of <a href="https://www.basel.com/en/activities-excursions/boat-trips">Basel Tourism</a>. With your BaselCard you’ll get 50% discount on boat trips.</p>
 </section>
 </section>
 <section id="city-tour-on-a-sightseeing-bus" class="level2">
-<h2 class="anchored" data-anchor-id="city-tour-on-a-sightseeing-bus"><a href="https://www.basel.com/en/Basel/experience/detail/TDS00020014005323139?globalReset=1&amp;lang=en#tp-anchor-search">City tour on a sightseeing bus</a></h2>
-<p>Basel City Tour offers [informative and entertaining bus tours around the city centre]. The two-hour tour takes you past Spalentor, Kunstmuseum Basel, Museum Tinguely, the Roche Tower, Messe Basel (exhibition square) and the Dreiländereck (tri-border point). Each seat has an iPad mini2 with an audio guide app. The app presents the tour highlights and provides interesting background information about culture in Basel. Young passengers can enjoy a special channel with stories in Basel dialect.<br>
-Languages: German, English, French, Italian, Spanish, Japanese, Arabic, Chinese Mandarin<br>
-Rates: visit the <a href="https://www.basel.com/en/Basel/experience/detail/TDS00020014005323139?globalReset=1&amp;lang=en#tp-anchor-description">website of Basel Tourism</a>. With your BaselCard you’ll get 50% discount on boat trips.</p>
-<section id="timetable-1" class="level3">
-<h3 class="anchored" data-anchor-id="timetable-1">Timetable</h3>
-<p>Wednesday, Thursday, Friday, Saturday and Sunday Departures: 11.00 am, 1.25 pm Departure point: Bus stop car park vis à vis the Tinguely fountain (Steinenberg 4, Basel)</p>
+<h2 class="anchored" data-anchor-id="city-tour-on-a-sightseeing-bus"><a href="https://www.basel.com/en/Basel/experience/detail/TDS00020014005323139?globalReset=1&amp;lang=en#/">City tour on a sightseeing bus</a></h2>
+<p>Basel City Tour offers informative and entertaining bus tours around the city centre. The two-hour tour takes you past Spalentor, Kunstmuseum Basel, Museum Tinguely, the Roche Tower, Messe Basel (exhibition square) and the Dreiländereck (tri-border point).</p>
+<p>Each seat has an iPad mini2 with an audio guide app. The app presents the tour highlights and provides interesting background information about culture in Basel. Young passengers can enjoy a special channel with stories in Basel dialect.</p>
+<p>Languages: German, English, French, Italian, Spanish, Japanese, Arabic, Chinese Mandarin</p>
+<section id="tickets-and-timetable-1" class="level3">
+<h3 class="anchored" data-anchor-id="tickets-and-timetable-1">Tickets and Timetable</h3>
+<p>Visit the website of <a href="https://www.basel.com/en/Basel/experience/detail/TDS00020014005323139?globalReset=1&amp;lang=en#/">Basel Tourism</a>. With your BaselCard you’ll get 50% discount on boat trips.</p>
 </section>
 </section>
 <section id="ferries" class="level2">
 <h2 class="anchored" data-anchor-id="ferries">Ferries</h2>
-<p>With the four Basel ferries, you’ll cross the Rhine river through the force of the current alone. The four Rhine river ferries “Wild Maa”, “Leu”, “Vogel Gryff” and “Ueli” link Grossbasel to Kleinbasel. They are attached to a long wire cable and are driven purely by the current of the Rhine itself. The ferries will silently bring you to the opposite shore all year round. Experience the way in which time seems to stand still during this brief crossing.<br>
-Timetables and rates: visit the <a href="https://www.basel.com/en/activities-excursions/ferries">website of Basel Tourism</a></p>
+<p>With the four Basel ferries, you’ll cross the Rhine river through the force of the current alone. The four Rhine river ferries “Wild Maa”, “Leu”, “Vogel Gryff” and “Ueli” link Grossbasel to Kleinbasel. They are attached to a long wire cable and are driven purely by the current of the Rhine itself. The ferries will silently bring you to the opposite shore all year round. Experience the way in which time seems to stand still during this brief crossing.</p>
+<section id="tickets-and-timetable-2" class="level3">
+<h3 class="anchored" data-anchor-id="tickets-and-timetable-2">Tickets and Timetable</h3>
+<p>Visit the website of <a href="https://www.basel.com/en/activities-excursions/ferries">Basel Tourism</a>.</p>
+</section>
 </section>
 </section>
 <section id="art-culture-and-modern-architecture" class="level1">
@@ -302,42 +373,50 @@ Timetables and rates: visit the <a href="https://www.basel.com/en/activities-exc
 <p>Discover the cultural capital of Switzerland!</p>
 <section id="museums" class="level2">
 <h2 class="anchored" data-anchor-id="museums">Museums</h2>
-<p><a href="https://www.basel.com/en/art/museums">Nearly 40 museums</a> with spectacular collections and special exhibitions – unique in Switzerland and at the top of the international league too. If you want to understand why Basel’s residents are so keen on art, you should visit at least one of them. With the BaselCard you enjoy the museums in Basel at half price for admisssion – including for special exhibitions.</p>
+<p>In Basel, art can be seen wherever you go, whether strolling through the beautiful Old Town or when visiting one of the <a href="https://www.basel.com/en/art/museums">nearly 40 museums</a>. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. In addition, there are countless galleries scattered throughout the city.</p>
+<p>With the BaselCard you enjoy the museums in Basel at half price for admisssion – including for special exhibitions.</p>
 <section id="kunstmuseum-basel" class="level3">
-<h3 class="anchored" data-anchor-id="kunstmuseum-basel">Kunstmuseum Basel</h3>
-<p>Its prestigious collection – the first ever publicly accessible art collection – and internationally acclaimed exhibitions provide unforgettable art experiences. take you on a journey through art history, from the fifteenth century right up to the present day. You’ll find artworks by Hans Holbein, Rembrandt, Paul Cézanne, Claude Monet, Vincent Van Gogh, Pablo Picasso, Sophie Taeuber-Arp and Andy Warhol in this collection of over 300,000 pieces. Special exhibition 2nd September 2023 until 21st January 2024 at Kunstmuseum Basel: Matisse, Derain and Friends – The Paris Avantgarde 1904 – 1908 Fauvism was the first avantgarde movement of the 20th century. This circle of artists, which included Henri Matisse, André Derain and Geroges Braque, had a formative influence on Paris in the years from 1904 to 1908. Marking Switzerland’s first major show of « Les Fauves » in seventy years, this exhibition will also feature several superb works yet unseen in this country.</p>
+<h3 class="anchored" data-anchor-id="kunstmuseum-basel"><a href="https://www.basel.com/en/attractions/kunstmuseum-basel-hauptbau-and-neubau-4fe6fa1ae5">Kunstmuseum Basel</a></h3>
+<p>One of the world’s best-known museums, the Kunstmuseum Basel features a prestigious collection – the first ever publicly accessible art collection – and internationally acclaimed exhibitions that provide unforgettable art experiences. The collection of over 300,000 pieces includes artworks by Hans Holbein, Rembrandt, Paul Cézanne, Claude Monet, Vincent van Gogh, Pablo Picasso, Sophie Taeuber-Arp and Andy Warhol.</p>
 </section>
 <section id="fondation-beyeler" class="level3">
-<h3 class="anchored" data-anchor-id="fondation-beyeler">Fondation Beyeler</h3>
-<p>The museum in Riehen near Basel is internationally renowned for its high-calibre exhibitions, its major collection of modern and contemporary art, as well as its ambitious programme of events. The museum building was designed by Renzo Piano in the idyllic setting of a park with venerable trees and water lily ponds. It boasts a unique location in the heart of a local recreation area, looking out onto fields, pastures and vineyards close to the foothills of the Black Forest. In collaboration with Swiss architect Peter Zumthor, the Fondation Beyeler is constructing a new museum building in the adjoining park, thus further enhancing the harmonious interplay of art, architecture and nature.</p>
+<h3 class="anchored" data-anchor-id="fondation-beyeler"><a href="https://www.basel.com/en/attractions/fondation-beyeler-6d79b586f3">Fondation Beyeler</a></h3>
+<p>The museum in Riehen near Basel is internationally renowned for its high-calibre exhibitions and its major collection of modern and contemporary art. The museum building was designed by Renzo Piano, is set in an idyllic park with venerable trees and water lily ponds. It boasts a unique location in the heart of a local recreation area, loverlooking fields, pastures and vineyards close to the foothills of the Black Forest.</p>
 </section>
 <section id="museum-tinguely" class="level3">
-<h3 class="anchored" data-anchor-id="museum-tinguely">Museum Tinguely</h3>
-<p>Museum Tinguely, designed by Ticino architect Mario Botta and opened in 1996, is situated right on the bank of the Rhine. It houses the largest collection of works by Jean Tinguely (1925–1991), one of the most innovative and important Swiss artists of the 20th century. Vibrancy, laughter, amazement, discovery – a museum that stimulates the senses, in which art comes to the beholder. Jean Tinguely’s kinetic works make him one of the most eminent pioneers in the post-1950 art world. The permanent exhibition showcases a compilation of his work spanning four decades – from early, filigree reliefs to the monumental machine sculptures of the 1980s. Inspired by Tinguely’s ideas, Museum Tinguely stages a wide range of events and exhibitions that seek to engage with other artists and art forms, while providing an interactive museum experience that appeals to all the senses.</p>
+<h3 class="anchored" data-anchor-id="museum-tinguely"><a href="https://www.basel.com/en/attractions/museum-tinguely-d3be563dcb">Museum Tinguely</a></h3>
+<p>Designed by Ticino architect Mario Botta and opened in 1996, Museum Tinguely is situated right on the bank of the Rhine. It houses the largest collection of works by Jean Tinguely (1925–1991), one of the most innovative and important Swiss artists of the 20th century. Vibrancy, laughter, amazement and discovery – this museum stimulates the senses and brings art to the beholder. Jean Tinguely’s kinetic works make him one of the most eminent pioneers in the post-1950 art world. The permanent exhibition showcases a compilation of his work spanning four decades – from early, filigree reliefs to the monumental machine sculptures of the 1980s.</p>
 </section>
 <section id="vitra-design-museum" class="level3">
-<h3 class="anchored" data-anchor-id="vitra-design-museum">Vitra Design Museum</h3>
-<p>Vitra Design Museum in Weil am Rhein (Germany) numbers among the world’s most prominent museums of design. It is dedicated to the research and presentation of design, past and present, and examines its relationship to architecture, art and everyday culture. In the main museum building by Frank Gehry, the museum annually mounts two major temporary exhibitions. In conjunction with our alternating exhibitions, the Vitra Design Museum offers a variety of workshops and guided tours.</p>
+<h3 class="anchored" data-anchor-id="vitra-design-museum"><a href="https://www.basel.com/en/attractions/vitra-design-museum-880b951492">Vitra Design Museum</a></h3>
+<p>The Vitra Design Museum is among the world’s most prominent museums of design. It is dedicated to the research and presentation of design, past and present, and examines its relationship to architecture, art and everyday culture. In its main building designed by Frank Gehry, the museum annually mounts two major temporary exhibitions.</p>
 </section>
 </section>
 <section id="modern-architecture" class="level2">
 <h2 class="anchored" data-anchor-id="modern-architecture">Modern Architecture</h2>
-<p>Basel is seen as Switzerland’s capital of architecture. The number of buildings designed by world-famous architects in such close proximity is unsurpassed, all in the midst of an architectural setting that has evolved over centuries. The Swiss architectural scene has an appeal that extends well beyond the country’s borders. Numerous Swiss architectural firms have attracted attention all over the world in recent decades with a series of outstanding creations. Many of the renowned firms hail from Basel such as Christ &amp; Gantenbein, Diener &amp; Diener Architects and Herzog &amp; de Meuron. They have all helped to lay the foundation of a lively architectural scene in Basel. Just a few steps away from the picturesque and well-preserved Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world.</p>
+<p>Basel is seen as Switzerland’s capital of architecture. The number of buildings designed by world-famous architects in such close proximity is unsurpassed, all in the midst of an architectural setting that has evolved over centuries. The Swiss architectural scene has an appeal that extends well beyond the country’s borders. Numerous Swiss architectural firms have attracted attention all over the world in recent decades with a series of outstanding creations. Many of the renowned firms hail from Basel such as Christ &amp; Gantenbein, Diener &amp; Diener Architects and Herzog &amp; de Meuron. They have all helped to lay the foundation of a lively architectural scene in Basel.</p>
+<p>Just a few steps away from the picturesque and well-preserved Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world.</p>
 <section id="roche-towers" class="level3">
 <h3 class="anchored" data-anchor-id="roche-towers">Roche Towers</h3>
-<p>The Roche Towers, designed by architects Herzog &amp; de Meuron, can rightly be viewed as a modern landmark of Basel – but as the tallest office buildings in Switzerland, they can be seen far outside the city limits, too. These two skyscrapers are home to the offices of the Roche pharmaceutical group. Building 1 was completed in 2015 and, at 178 metres, was the tallest office building in Switzerland until it was overtaken by Building 2 in 2022. Building 2 is 205 metres tall and has a total of 50 floors. It is one of the most sustainable, energy-efficient office buildings in the world.</p>
+<p>The Roche Towers, designed by architects Herzog &amp; de Meuron, can rightly be viewed as a modern landmark of Basel – but as the tallest office buildings in Switzerland, they can be seen far outside the city limits, too.</p>
+<p>These two skyscrapers are home to the offices of the Roche pharmaceutical group. Building 1 was completed in 2015 and, at 178 metres, was the tallest office building in Switzerland until it was overtaken by Building 2 in 2022.</p>
+<p>Building 2 is 205 metres tall and has a total of 50 floors. It is one of the most sustainable, energy-efficient office buildings in the world.</p>
 </section>
 <section id="goetheanum-dornach" class="level3">
 <h3 class="anchored" data-anchor-id="goetheanum-dornach">Goetheanum Dornach</h3>
-<p>The Goetheanum is situated in Dornach, around 10 kilometres outside the city centre. It serves as the head office and conference venue of the General Anthroposophical Society and boasts a distinctive shape, which has also inspired the architects of neighbouring buildings. Following the destruction of the original Goetheanum building in an arson attack in 1923, the current building was constructed between 1925 and 1928. Both were designed by the esoteric Rudolf Steiner, the founder of anthroposophy. The monumental exposed-concrete building is particularly striking, owing to the almost complete absence of right angles.</p>
+<p>The Goetheanum is situated in Dornach, around 10 kilometres outside the city centre. It serves as the head office and conference venue of the General Anthroposophical Society and boasts a distinctive shape, which has also inspired the architects of neighbouring buildings.</p>
+<p>Following the destruction of the original Goetheanum building in an arson attack in 1923, the current building was constructed between 1925 and 1928. Both were designed by the esoteric Rudolf Steiner, the founder of anthroposophy. The monumental exposed-concrete building is particularly striking, owing to the almost complete absence of right angles.</p>
 </section>
 <section id="novartis-campus" class="level3">
 <h3 class="anchored" data-anchor-id="novartis-campus">Novartis Campus</h3>
-<p>With about 20 buildings designed by top international architects, the Novartis Campus is a true Mecca of modern architecture. f you are interested in top-class architecture, appreciate short distances and also enjoy quiet moments in green surroundings, then the Novartis Campus, open to the public on working days, is just the place for you. The list of architects who have put their stamp on the Novartis Campus reads like a who’s who of architecture: Diener &amp; Diener kicked things off in 2005, followed by SANAA and Peter Märkli (both 2006), Marco Serra (2007), Vittorio Magnago Lampugnani and Adolf Krischanitz (both 2008), Frank O. Gehry, José Rafael Moneo Vallès and Fumihiko Maki (all 2009), Tadao Ando, David Chipperfield and Yoshio Taniguchi (all 2010), Eduardo Souto de Moura and Álvaro Siza (both 2011), Rahul Mehrotra (2013), Juan Navarro Baldeweg (2014) and Herzog &amp; de Meuron (2015). For the time being, the final piece of Vittorio Magnago Lampugnani’s master plan scheduled for completion by 2030 is the Novartis Pavillon – conceived by Michele De Lucchi. If you’re coming to see the Novartis Pavillon with its artistically luminous zero-energy media facade, you’d best plan enough time to visit the “Wonders of Medicine” exhibition, where four interactive areas (exploring life, disease, the history of medicine and the future of healthcare) invite you to delve into the secrets of the life sciences. The Novartis Pavillon is located in one of the carefully designed green spaces bearing the signatures of leading landscape-architecture luminaries, such as Peter Walker, Günther Vogt and Guido Hager. A diverse collection of artworks – including a sculpture by Richard Serra, art within architecture by Jenny Holzer, a sound installation by Laurie Anderson and a 60-metre-high mural by Claudia Comte – make your visit complete.</p>
+<p>With about 20 buildings designed by top international architects, the Novartis Campus is a true Mecca of modern architecture. f you are interested in top-class architecture, appreciate short distances and also enjoy quiet moments in green surroundings, then the Novartis Campus, open to the public on working days, is just the place for you.</p>
+<p>The list of architects who have put their stamp on the Novartis Campus reads like a who’s who of architecture: Diener &amp; Diener kicked things off in 2005, followed by SANAA and Peter Märkli (both 2006), Marco Serra (2007), Vittorio Magnago Lampugnani and Adolf Krischanitz (both 2008), Frank O. Gehry, José Rafael Moneo Vallès and Fumihiko Maki (all 2009), Tadao Ando, David Chipperfield and Yoshio Taniguchi (all 2010), Eduardo Souto de Moura and Álvaro Siza (both 2011), Rahul Mehrotra (2013), Juan Navarro Baldeweg (2014) and Herzog &amp; de Meuron (2015). For the time being, the final piece of Vittorio Magnago Lampugnani’s master plan scheduled for completion by 2030 is the Novartis Pavillon – conceived by Michele De Lucchi.</p>
+<p>If you’re coming to see the Novartis Pavillon with its artistically luminous zero-energy media facade, you’d best plan enough time to visit the “Wonders of Medicine” exhibition, where four interactive areas (exploring life, disease, the history of medicine and the future of healthcare) invite you to delve into the secrets of the life sciences. The Novartis Pavillon is located in one of the carefully designed green spaces bearing the signatures of leading landscape-architecture luminaries, such as Peter Walker, Günther Vogt and Guido Hager. A diverse collection of artworks – including a sculpture by Richard Serra, art within architecture by Jenny Holzer, a sound installation by Laurie Anderson and a 60-metre-high mural by Claudia Comte – make your visit complete.</p>
 </section>
 <section id="basel-exhibition-centre-messe-basel" class="level3">
 <h3 class="anchored" data-anchor-id="basel-exhibition-centre-messe-basel">Basel Exhibition Centre / Messe Basel</h3>
-<p>The new Messe Basel trade fair building is one of the city’s newer landmarks. The central architectural urban feature of the hall complex, developed by Herzog &amp; de Meuron, is the City Lounge. This covered, public space not only marks the entrance to the exhibitions, but also functions as a meeting place for locals and visitors. The architects called the prominent hole in the middle the “Fenster zum Himmel” (“window to heaven”).</p>
+<p>The new Messe Basel trade fair building is one of the city’s newer landmarks. The central architectural urban feature of the hall complex, developed by Herzog &amp; de Meuron, is the City Lounge.</p>
+<p>This covered, public space not only marks the entrance to the exhibitions, but also functions as a meeting place for locals and visitors. The architects called the prominent hole in the middle the “Fenster zum Himmel” (“window to heaven”).</p>
 
 
 </section>

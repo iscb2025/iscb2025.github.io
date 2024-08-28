@@ -88,6 +88,12 @@ cookieconsent.run({
 });
 </script> 
   
+<script>
+function activateVideos() {
+  const iframes = document.querySelectorAll('.video__iframe[data-src*="youtube-nocookie.com"]');
+  iframes.forEach((iframe) => {iframe.src = iframe.dataset.src + "?autoplay=1";});
+}
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -141,6 +147,25 @@ cookieconsent.run({
   </li>  
     </ul>
   </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-basel" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About Basel</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-basel">    
+        <li>
+    <a class="dropdown-item" href="./about-basel.html">
+ <span class="dropdown-text">Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./basel-card.html">
+ <span class="dropdown-text">Basel Card</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./restaurants.html">
+ <span class="dropdown-text">Restaurants</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -159,10 +184,6 @@ cookieconsent.run({
 
 
 
-<script>
-function activateVideos() {
-  const iframes = document.querySelectorAll('.video__iframe[data-src*="youtube-nocookie.com"]');iframes.forEach((iframe) => {iframe.src = iframe.dataset.src + "?autoplay=1";}); }
-</script>
 <div style="height:20px">
 
 </div>

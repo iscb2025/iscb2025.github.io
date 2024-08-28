@@ -31,9 +31,14 @@ website:
       # - text: "Program"
       #   menu: 
       #   - text: "TBD"
-      # - text: "About Basel"
-      #   menu: 
-      #   - text: "TBD"
+      - text: "About Basel"
+        menu:
+        - text: "Overview"
+          href: about-basel.qmd
+        - text: "Basel Card"
+          href: basel-card.qmd
+        - text: "Restaurants"
+          href: restaurants.qmd
   favicon: img/favicon.jpg
 
 

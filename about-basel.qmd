@@ -1,18 +1,27 @@
 ---
 title: "About Basel"
-output: 
-  rmarkdown::html_document:
-    highlight: pygments
-    number_sections: no
-    self_contained: yes
-    toc: yes
-    toc_depth: 2
-    toc_float: yes
+include-in-header:
+  file: scripts.js
 ---
+::: {.column-body}
+<div class="video" style="background-image: url('./img/IMG_2950_wide.jpg'); ">
+<iframe class="video__iframe" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" data-src="https://www.youtube-nocookie.com/embed/76WTm9Q0w_Q" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+<form class="video__notice">
+<p>
+We've embedded content from YouTube here. As YouTube may collect personal data and track your
+viewing behaviour, we'll only load the video after you consent to their use of cookies and
+similar technologies as described in their
+<a href="https://www.youtube.com/t/privacy">privacy policy</a>.
+</p>
+<button type="button" onclick="activateVideos()">Allow and play content from YouTube</button>
+</form>
+</div>
+:::
 
-<div style="position: relative; padding-bottom: 56.25%;">
-<iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/76WTm9Q0w_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe></div>
+<!-- <div style="position: relative; padding-bottom: 56.25%;"> -->
+<!-- <iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/76WTm9Q0w_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> -->
+<!-- </iframe></div> -->
 
 
 <div style="display:none">
@@ -21,7 +30,7 @@ output:
 
 </div>
 
-<br><br>
+<br>
 
 ## Basel – Switzerland’s Capital for Art and Culture
 

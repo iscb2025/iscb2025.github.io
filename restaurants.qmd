@@ -1,13 +1,8 @@
 ---
 title: "Restaurants"
-output: 
-  rmarkdown::html_document:
-    highlight: pygments
-    number_sections: no
-    self_contained: yes
-    toc: no
-    toc_depth: 2
-    toc_float: yes
+format: 
+  html:
+    toc: false
 ---
 
 Some restaurants that are also open on Sunday and Monday and are in walking distance of the conference venue include:
