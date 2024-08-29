@@ -5,9 +5,15 @@ format:
     toc: false
 ---
 
-\* The booking confirmation of your booked accommodation in Basel serves as a free ticket for the transfer from the airport or train station to your accommodation
+The [BaselCard](https://www.basel.com/en/baselcard) is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app.  
 
+Some of the main advantages of the BaselCard at a glance: 
 
-The BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app. 
-The BaselCard app works mostly offline and offers the same free services and discounts. In its electronic version, the guest card also features an interactive city map. For more information, see
-[www.basel.com/en/baselcard](https://www.basel.com/en/baselcard).
+* <b>Free travel on all public transport in Basel throughout your entire stay, including your initial journey to your hotel from EuroAirport Basel-Mulhouse-Freiburg or one of the three train stations in Basel (Basel SBB train station, Basel Bad Bhf and Basel SNCF). For your initial journey the booking confirmation of your accommodation serves as a free ticket for this transfer.</b>
+
+* 50% discount  
+  + on museum entrances and the entrance to Basel Zoo 
+  + on the public walking tour of the Basel Old Town and the tour on the sightseeing bus 
+  + and many additional touristic offers 
+  
+For more information, see [www.basel.com/en/baselcard](https://www.basel.com/en/baselcard).
