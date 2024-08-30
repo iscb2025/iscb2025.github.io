@@ -6,7 +6,7 @@ project:
   - img/IMG_2950_wide.jpg
 
 website:
-  title: "ISCB 2025"
+  title: "ISCB46"
   cookie-consent:
     type: express
     style: headline
@@ -18,7 +18,7 @@ website:
         text: Home
       - text: "Key Dates"
         href: key-dates.qmd
-      - text: "About ISCB 2025"
+      - text: "About ISCB46"
         menu: 
         - text: "Committees"
           href: committees.qmd
@@ -31,9 +31,14 @@ website:
       # - text: "Program"
       #   menu: 
       #   - text: "TBD"
-      # - text: "About Basel"
-      #   menu: 
-      #   - text: "TBD"
+      - text: "About Basel"
+        menu:
+        - text: "Overview"
+          href: about-basel.qmd
+        - text: "Basel Card"
+          href: basel-card.qmd
+        - text: "Restaurants"
+          href: restaurants.qmd
   favicon: img/favicon.jpg
 
 

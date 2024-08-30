@@ -3,11 +3,9 @@ format:
   html:
     css: styles-index.css
     toc: false
+include-in-header:
+  file: scripts.js
 ---
-<script>
-function activateVideos() {
-  const iframes = document.querySelectorAll('.video__iframe[data-src*="youtube-nocookie.com"]');iframes.forEach((iframe) => {iframe.src = iframe.dataset.src + "?autoplay=1";}); }
-</script>
 <div style="height:20px"></div>
 :::{.column-page}
 :::{.grid}
@@ -39,7 +37,7 @@ similar technologies as described in their
 <!--![](img/IMG_2950_wide.jpg){width="100%"} -->
 :::
 <div style="margin-top:20px;">
-<span style="font-size: 1.5em; "><b>Save the [dates](key-dates.html) and stay tuned for exciting news!</b><br>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University](https://www.unibas.ch/en) of [Basel](https://www.basel.com), Switzerland.</span>
+<span style="font-size: 1.5em; "><b>Save the [dates](key-dates.html) and stay tuned for exciting news!</b><br>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University of Basel](https://www.unibas.ch/en) and the [Department of Biosystems Science and Engineering (D-BSSE)](https://bsse.ethz.ch/) of [ETH Zürich](https://www.ethz.ch) with the support of the [Basel Biometric Society (BBS)](https://baselbiometrics.github.io/home/docs/) in [Basel](https://www.basel.com), Switzerland.</span>
 </div>
 
 <!--
