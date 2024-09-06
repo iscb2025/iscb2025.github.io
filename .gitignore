@@ -47,3 +47,6 @@ rsconnect/
 
 # Quarto cache
 /.quarto/
+
+# MacOS DS store files
+**/.DS_Store
