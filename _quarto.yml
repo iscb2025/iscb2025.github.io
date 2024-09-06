@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-  - fonts/Inter.ttf
+  - fonts/*.*
   - img/IMG_2950_wide.jpg
 
 website:
