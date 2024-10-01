@@ -24,8 +24,16 @@ website:
           href: committees.qmd
       - text: "Conference information"
         menu: 
+        - text: "Awards & Support"
+        - text: "Student Conference Awards"
+          href: awards-student.qmd
+        - text: "Conference Awards for Scientists"
+          href: awards-scientists.qmd
+        - text: "Conference Fund for Developing Countries"
+          href: fund-for-developing-countries.qmd
         # - href: venue.qmd
         #   text: "Conference venue"
+        - text: "Policies"
         - href: imprint-and-privacy-policy.qmd
           text: "Privacy policy"
       # - text: "Program"
