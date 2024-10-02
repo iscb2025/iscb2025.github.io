@@ -30,7 +30,7 @@ key_dates <- list(
   "Award Applications" =
     tribble(
       ~ Item, ~ Date,
-      "Deadline", ymd("2025-02-23")
+      "Deadline", ymd("2025-02-14")
     ),
   "Registration" =
     tribble(
