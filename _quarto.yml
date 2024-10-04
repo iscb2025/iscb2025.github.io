@@ -24,6 +24,8 @@ website:
           href: committees.qmd
       - text: "Conference information"
         menu: 
+        - text: "Calls"
+          href: calls.qmd
         # - href: venue.qmd
         #   text: "Conference venue"
         - href: imprint-and-privacy-policy.qmd
