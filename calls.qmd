@@ -2,3 +2,38 @@
 title: "Calls"
 ---
 
+The ISCB 2025 conference will provide a scientific forum for international exchange of theory, methods and applications of clinical biostatistics among biostatisticians, epidemiologists and medical data analysts.
+
+## Short Courses
+
+The Scientific Programme Committee and Local Organizing Committee for the 46th Annual 
+Conference of the ISCB are pleased to announce that we are seeking proposals for pre-conference 
+courses to be included within the conference programme. The courses will be held on **Sunday, 
+August 24, 2025**.
+
+
+If you would like to submit a course for consideration, please submit your proposal through conftool
+([https://www.conftool.org/iscb2025/](https://www.conftool.org/iscb2025/)) with the following details: 
+
+* Title of the course 
+* Course presenters 
+* Position and affiliation of course presenters 
+* Contact details of course presenters including email address 
+* Full day or half day 
+* Short abstract of the course, including main topics and learning objectives [300 words]
+* Technical level of the course (low, moderate, high) 
+* Upper limit for number of participants (if desired)
+* Reason why the course would be appealing to attendees of ISCB conference [300 words]
+
+
+Financial incentives: 
+For successful proposals, the conference budget will cover (for a max. of two presenters) registration 
+fees, attendance at the conference dinner, 200 Euro towards accommodation and limited travel 
+costs (100/350/700 Euro for Switzerland/Europe/Intercontinental). Note that we reserve the right to 
+cancel courses with low number of participants.
+
+
+
+[Deadline for submissions](key-dates.html) is **midnight (CEST)** on **Sunday January 5th, 2025**.
+
+Notification of acceptance will be by February 7th, 2025.
