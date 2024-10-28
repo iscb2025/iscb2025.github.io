@@ -41,6 +41,8 @@ website:
           href: basel-card.qmd
         - text: "Restaurants"
           href: restaurants.qmd
+      - text: "FAQ"
+        href: faq.qmd
   favicon: img/favicon.jpg
 
 
