@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-  - fonts/Inter.ttf
+  - fonts/*.*
   - img/IMG_2950_wide.jpg
 
 website:
@@ -24,6 +24,8 @@ website:
           href: committees.qmd
       - text: "Conference information"
         menu: 
+        - text: "Calls"
+          href: calls.qmd
         - text: "Awards & Support"
         - text: "Student Conference Awards"
           href: awards-student.qmd
@@ -47,6 +49,8 @@ website:
           href: basel-card.qmd
         - text: "Restaurants"
           href: restaurants.qmd
+      - text: "FAQ"
+        href: faq.qmd
   favicon: img/favicon.jpg
 
 
