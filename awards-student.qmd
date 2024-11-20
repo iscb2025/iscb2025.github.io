@@ -5,15 +5,15 @@ editor: visual
 
 The Student Conference Award (StCA) is available for registered postgraduate students in biostatistics to attend and present a paper at the 46th Annual Conference of the International Society for Clinical Biostatistics, 24-28 August 2025. Approximately three awards will be granted depending on the number and quality of the applications. Selection will be made on the basis of the abstract and a summary of a paper to be presented, which should illustrate the application of statistical methodology to clinical or epidemiological research.
 
-Applicants should submit their abstract using the ISCB 46 submission portal. In the online abstract submission portal, you are asked to check the box that indicates that you are applying for the 2025 Student Conference Award on your abstract. You will then need to additionally submit the documents described in the Student Conference Award track.
+Applicants should submit their abstract using the [ISCB46 abstract submission system](https://www.conftool.org/iscb2025). In the online abstract submission portal, you are asked to check the box that indicates that you are applying for the 2025 Student Conference Award on your abstract. You will then need to additionally submit the documents described in the Student Conference Award track.
 
 The closing date for applications is the same as the general abstract deadline. <!-- If the latter is extended the Student Conference Award deadline is automatically extended to the same date. -->
 
-Applicants should not register for the conference until they have heard the outcome of their application for the Award. Unsuccessful applicants who still wish to attend the conference will remain eligible for the Early Bird rate until three weeks after the outcome of their application is sent to them: see guidelines for details.
+Applicants should not register for the conference until they have heard the outcome of their application for the Award. Unsuccessful applicants who still wish to attend the conference will remain eligible for the Early Bird rate until three weeks after the outcome of their application is sent to them.
 
 ## Eligibility
 
-(a) Any student registered for a postgraduate degree in biostatistics is eligible to apply for an ISCB Student Conference Award, provided s/he has not been the winner of a previous ISCB Student Conference Award. Students from any country may apply for the StCA independently of applying for the Conference Attendance Support Program (CASP).
+(a) Any student registered for a postgraduate degree in biostatistics is eligible to apply for an ISCB Student Conference Award, provided s/he has not been the winner of a previous ISCB Student Conference Award. Students from any country may apply for the StCA independently of [applying for the Conference Attendance Support Program (CASP)](awards-casp.qmd).
 (b) The application must relate to original work that has not yet been published and is predominantly the student’s own work. Acceptable topics encompass all areas of biostatistics, both methodological and applied. However, results of particular studies are of interest only if the analysis has methodological implications or shows a novel and interesting application of biostatistics to clinical or epidemiological research.
 
 ## Awards
