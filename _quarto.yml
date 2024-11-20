@@ -27,12 +27,12 @@ website:
         - text: "Calls"
           href: calls.qmd
         - text: "Awards & Support"
-        - text: "Student Conference Awards"
+        - text: "Best Poster & Presentation Awards"
+          href: awards-contributions.qmd
+        - text: "Student Conference Award (StCA)"
           href: awards-student.qmd
-        - text: "Conference Awards for Scientists"
-          href: awards-scientists.qmd
-        - text: "Conference Fund for Developing Countries"
-          href: fund-for-developing-countries.qmd
+        - text: "Conference Attendance Support Program (CASPP"
+          href: awards-casp.qmd
         # - href: venue.qmd
         #   text: "Conference venue"
         - text: "Policies"
