@@ -23,7 +23,8 @@ key_dates <- list(
   "Abstract Submissions" =
     tribble(
       ~ Item, ~ Date,
-      "Call", ymd("2024-11-22"),
+      "Call", ymd("2024-11-27"),
+      "Submission opens", ymd("2024-12-09"),
       "Deadline", ymd("2025-02-14"),
       "Notifications sent", ymd("2025-03-21")
     ),
