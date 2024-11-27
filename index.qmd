@@ -36,7 +36,7 @@ include-in-header:
 <div style="height:20px"></div>
 ::: {.callout-important}
 # Latest News
-The call for short courses is now <b>open until January 5<sup>th</sup>, 2025!</b>
+The calls for pre-conference courses and abstracts are now <b>open until January 5<sup>th</sup> and February 14<sup>th</sup>, 2025</b>, respectively!
 See the [calls](calls.html) and [key dates](key-dates.html) pages for more information.
 
 :::
