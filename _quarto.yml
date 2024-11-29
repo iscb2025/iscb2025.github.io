@@ -26,8 +26,16 @@ website:
         menu: 
         - text: "Calls"
           href: calls.qmd
+        - text: "Awards & Support"
+        - text: "Best Poster & Presentation Awards"
+          href: awards-contributions.qmd
+        - text: "Student Conference Award (StCA)"
+          href: awards-student.qmd
+        - text: "Conference Attendance Support Program (CASP)"
+          href: awards-casp.qmd
         # - href: venue.qmd
         #   text: "Conference venue"
+        - text: "Policies"
         - href: imprint-and-privacy-policy.qmd
           text: "Privacy policy"
       # - text: "Program"

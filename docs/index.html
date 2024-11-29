@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ISCB46</title>
+<title>2025 Conference – ISCB46</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cda6d0583de0ba0d0d158716ce5bdafa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -145,6 +145,20 @@ function activateVideos() {
     <a class="dropdown-item" href="./calls.html">
  <span class="dropdown-text">Calls</span></a>
   </li>  
+        <li class="dropdown-header">Awards &amp; Support</li>
+        <li>
+    <a class="dropdown-item" href="./awards-contributions.html">
+ <span class="dropdown-text">Best Poster &amp; Presentation Awards</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./awards-student.html">
+ <span class="dropdown-text">Student Conference Award (StCA)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./awards-casp.html">
+ <span class="dropdown-text">Conference Attendance Support Program (CASP)</span></a>
+  </li>  
+        <li class="dropdown-header">Policies</li>
         <li>
     <a class="dropdown-item" href="./imprint-and-privacy-policy.html">
  <span class="dropdown-text">Privacy policy</span></a>
@@ -189,19 +203,25 @@ function activateVideos() {
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
-
-
-
-<!-- Sponsor logo at the top right -->
-<!-- <div style="position: absolute; top: 70px; right: 70px;"> -->
-<!--   <p></p> -->
-<!--   <p></p> -->
-<!--   <p></p> -->
-<!--   <img src="img/Logo_Basel_URL_black_ohne_Beschnitt.png" alt="Sponsor: Canton of Basel-Stadt" width="150px" /> -->
-<!-- </div> -->
-<div style="height:20px">
-
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">2025 Conference</h1>
 </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
 <div class="column-page">
 <div class="grid">
 <div class="g-col-12 g-col-md-5">
@@ -236,7 +256,7 @@ Latest News
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The call for short courses is now <b>open until January 5<sup>th</sup>, 2025!</b> See the <a href="calls.html">calls</a> and <a href="key-dates.html">key dates</a> pages for more information.</p>
+<p>The <b>call for pre-conference courses is now open until January 5<sup>th</sup>, 2025</b>, and <b>abstract submission will open on December 9<sup>th</sup>, 2024, until February 14<sup>th</sup>, 2025</b>! See the <a href="calls.html">calls</a> and <a href="key-dates.html">key dates</a> pages for more information.</p>
 </div>
 </div>
 </div>
@@ -359,8 +379,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -471,7 +489,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
