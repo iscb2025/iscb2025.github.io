@@ -1,4 +1,6 @@
-# Key Dates
+---
+title: "Key Dates"
+---
 
 ```{r, echo=F, results=F, message=F, warning=F}
 Sys.setlocale("LC_ALL", "English")

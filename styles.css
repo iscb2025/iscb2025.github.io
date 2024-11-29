@@ -61,4 +61,7 @@
   background-color: #000;
 }
 
+.navbar .dropdown-header {
+  padding-top: 0.5rem;
+}
 
