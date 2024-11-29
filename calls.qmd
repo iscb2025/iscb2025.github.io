@@ -85,9 +85,8 @@ guidelines:
 -   Abstract text word limit: 400 words (excluding author names and
     affiliation details).
 -   The full names and affiliations of all authors should be submitted
-    in the relevant fields. The uploaded PDF file should be blinded,
-    meaning no author or affiliation information should exist within the
-    file.
+    in the relevant fields. The abstract should be blinded, meaning no author 
+    or affiliation information should exist within the abstract.
 -   References may be included within the abstract provided the total
     word count does not exceed the 400-word limit.
 -   We recommend organising the abstract into the following sections, if
