@@ -56,8 +56,9 @@ section](https://www.conftool.org/iscb2025/index.php?page=submissions).
 
 Please note the following key points:
 
+-   The call for abstracts opens on **Monday, December 9<sup>th</sup>, 2025**.
 -   [Deadline for abstract submissions](key-dates.html) is **midnight
-    (CEST)** on **Friday, February 14th, 2025**. Note that **the
+    (CEST)** on **Friday, February 14<sup>th</sup>, 2025**. Note that **the
     abstract submission deadline is final and will not be extended**.
 -   Abstracts submitted by e-mail will not be accepted. **Only
     submissions through the submission portal will be considered**.
