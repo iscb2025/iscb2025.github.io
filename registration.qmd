@@ -16,7 +16,7 @@ library(tidyr)
 library(kableExtra)
 
 fees_source <- read.csv(file = "registration-fees.csv") |> 
-  mutate(Value = paste(Value, "CHF"))
+  mutate(Value = paste(Value, "EUR"))
 
 print_fees <- \(fees_source, registration) {
   fees_source |>
