@@ -26,6 +26,8 @@ website:
         menu: 
         - text: "Calls"
           href: calls.qmd
+        - text: "Registration"
+          href: registration.qmd
         - text: "Awards & Support"
         - text: "Best Poster & Presentation Awards"
           href: awards-contributions.qmd

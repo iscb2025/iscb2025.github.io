@@ -1,0 +1,40 @@
+---
+title: "Registration"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+General registration info.
+
+
+## Fees
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(dplyr)
+library(tidyr)
+library(kableExtra)
+
+fees_source <- read.csv(file = "registration-fees.csv") |> 
+  mutate(Value = paste(Value, "CHF"))
+  
+```
+
+
+
+```{r, echo=F}
+fees_table <- fees_source |> 
+  select(-Type) |> 
+  kbl(col.names = c("Category", "Membership", "Value")) |> 
+  kable_styling(full_width = TRUE)  |> 
+  collapse_rows(columns = 1:2, valign = "top", ) |> 
+  pack_rows("Early registration", 1, 6, indent = FALSE, background = c("#EAEAEA")) |> 
+  pack_rows("Late registration", 7, 12, indent = FALSE, background = c("#EAEAEA")) |>
+  column_spec(1:2, background = rep(c("white", "#EAEAEA"), length.out = nrow(fees_source)))
+
+gsub("<thead>.*</thead>", "", fees_table)
+
+
+```
+
+
