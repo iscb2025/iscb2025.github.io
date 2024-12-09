@@ -71,6 +71,10 @@ Please note the following key points:
     limitation in abstract co-authorship**.
 -   All abstracts must be submitted in **English**.
 -   Please **do not submit multiple copies** of the same abstract.
+-   If you would like to apply to the Student Conference Award (StCA) or Conference Attendance Support Program (CASP), **make sure that you 
+    select the corresponding checkbox after topic selection** when submitting, 
+    and **in addition separately submit the required documents through the StCA and/or
+    CASP tracks**. See the [StCA](awards-student.qmd) and [CASP](awards-casp.qmd) guidelines for details.
 -   All abstracts will be reviewed and rated by the Scientific Program
     Committee.
 
