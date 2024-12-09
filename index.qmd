@@ -24,9 +24,14 @@ title: "2025 Conference"
 
 :::
 <div style="height:20px"></div>
+
+
+### Statistical Thinking Across Borders: Building Bridges and Expanding Horizons in Clinical Biostatistics
+
+
 ::: {.callout-important}
 # Latest News
-The <b>call for pre-conference courses is now open until January 5<sup>th</sup>, 2025</b>, and <b>abstract submission will open on December 9<sup>th</sup>, 2024, until February 14<sup>th</sup>, 2025</b>!
+The <b>call for pre-conference courses is open until January 5<sup>th</sup>, 2025</b>, and <b>abstract submission is now open until February 14<sup>th</sup>, 2025 (deadlines will not be extended)!</b>
 See the [calls](calls.html) and [key dates](key-dates.html) pages for more information.
 
 :::
