@@ -15,7 +15,7 @@ library(lubridate)
 
 
 key_dates <- list(
-  "Short Courses" =
+  "Pre-conference Courses" =
     tribble(
       ~ Item, ~ Date,
       "Call", ymd("2024-10-04"),
@@ -75,10 +75,10 @@ tidy_kable <- function(data, type) {
 <!-- ``` -->
 
 
-## Short Courses
+## Pre-conference Courses
 
 ```{r echo=F, message=F, warning=F}
-key_dates[["Short Courses"]] |> tidy_kable()
+key_dates[["Pre-conference Courses"]] |> tidy_kable()
 ```
 
 ## Abstract Submissions
