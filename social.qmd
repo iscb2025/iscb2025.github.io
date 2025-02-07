@@ -26,6 +26,8 @@ The address is Martinsgasse 2. It is approximately a 20-minute walk.
 
 ## Social activities (TUE afternoon, 26 AUG 2025)
 
+*Disclaimer:* All photos for the below advertisement of the social activities are taken from ["This is Basel!"](https://www.basel.com/en/Basel/offer).
+
 ### Guided Tour: Street Art Guided tour of Basel
 
 The tri-border area around Basel is regarded as an unrivalled street-art Mecca.
@@ -37,15 +39,11 @@ stories behind the artworks. Your guide will show you the impressive works of
 local artists and take you to see outstanding pieces by internationally renowned
 names of the street-art scene.
 
-**Duration:** 1.5 hours.
 
-**Price:** 20 EUR per person.
+::: {layout-ncol=2 layout-valign="middle"}
+![](img/social/social_streetart_1.png)
 
-::: {#fig-street layout-ncol=2}
-
-![](img/social/social_chocolate_1.png){}
-
-![](img/social/social_chocolate_2.png){}
+![](img/social/social_streetart_2.png)
 :::
 
 ### Guided Tour: Stories of Basel's Old Town
@@ -58,6 +56,12 @@ and given it its unique character.
 **Duration:** 1.5 hours.
 
 **Price:** 20 EUR per person.
+
+::: {layout="[[1,1]]"}
+![](img/social/social_oldtown_1.png)
+
+![](img/social/social_oldtown_2.png)
+:::
 
 ### Guided Tour: Novartis Campus Architecture
 
@@ -72,6 +76,12 @@ to enable dialogue and collaboration through architecture and spatial design.
 
 **Price:** 20 EUR per person.
 
+::: {layout-ncol=2}
+![](img/social/social_novartis_1.png)
+
+![](img/social/social_novartis_2.png)
+:::
+
 ### Confiserie Beschle – Chocolate factory visit and create your own chocolate bar
 
 Embark on a journey through the world of chocolate and learn how professionals
@@ -83,6 +93,12 @@ all off, create your own chocolate bar.
 **Duration:** 2 hours.
 
 **Price:** 85 EUR per person.
+
+::: {layout-ncol=2}
+![](img/social/social_chocolate_2.png)
+
+![](img/social/social_chocolate_1.png)
+:::
 
 ### Adventure-filled Scavenger Hunt in Basel
 
@@ -96,6 +112,13 @@ several further customisation options to create the perfect experience for you.
 
 **Price:** 39 EUR per person.
 
+::: {layout-ncol=2}
+![](img/social/social_scavenger_1.png)
+
+![](img/social/social_scavenger_2.png)
+:::
+
+
 ### Crossbow event – William Tell, the central figure of the Swiss Confederacy
 
 Have you ever wondered what it feels like to be William Tell? Learn from professionals on how to use a crossbow and rediscover this traditional Swiss sport. Will your arrow find the apple's core?
@@ -104,6 +127,11 @@ Have you ever wondered what it feels like to be William Tell? Learn from profess
 
 **Price:** 39 EUR per person.
 
+::: {layout-ncol=2}
+![](img/social/social_crossbow_1.png)
+
+![](img/social/social_crossbow_2.png)
+:::
 
 ## Conference Dinner (WED evening, 27 AUG 2025)
 
