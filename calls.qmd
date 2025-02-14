@@ -1,39 +1,163 @@
 ---
 title: "Calls"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-The ISCB 2025 conference will provide a scientific forum for international exchange of theory, methods and applications of clinical biostatistics among biostatisticians, epidemiologists and medical data analysts.
+The ISCB 2025 conference will provide a scientific forum for
+international exchange of theory, methods and applications of clinical
+biostatistics among biostatisticians, epidemiologists and medical data
+analysts.
 
-## Short Courses
+## Pre-conference Courses
 
-The Scientific Programme Committee and Local Organizing Committee for the 46th Annual 
-Conference of the ISCB are pleased to announce that we are seeking proposals for pre-conference 
-courses to be included within the conference programme. The courses will be held on **Sunday, 
-August 24, 2025**.
+The Scientific Programme Committee and Local Organizing Committee for
+the 46th Annual Conference of the ISCB are pleased to announce that we
+are seeking proposals for pre-conference courses to be included within
+the conference programme. The courses will be held on **Sunday, August
+24, 2025**.
 
+If you would like to submit a course for consideration, please submit
+your proposal through conftool (<https://www.conftool.org/iscb2025/>)
+with the following details:
 
-If you would like to submit a course for consideration, please submit your proposal through conftool
-([https://www.conftool.org/iscb2025/](https://www.conftool.org/iscb2025/)) with the following details: 
+-   Title of the course
+-   Course presenters
+-   Position and affiliation of course presenters
+-   Contact details of course presenters including email address
+-   Full day or half day
+-   Short abstract of the course, including main topics and learning
+    objectives \[300 words\]
+-   Technical level of the course (low, moderate, high)
+-   Upper limit for number of participants (if desired)
+-   Reason why the course would be appealing to attendees of ISCB
+    conference \[300 words\]
 
-* Title of the course 
-* Course presenters 
-* Position and affiliation of course presenters 
-* Contact details of course presenters including email address 
-* Full day or half day 
-* Short abstract of the course, including main topics and learning objectives [300 words]
-* Technical level of the course (low, moderate, high) 
-* Upper limit for number of participants (if desired)
-* Reason why the course would be appealing to attendees of ISCB conference [300 words]
+Financial incentives: For successful proposals, the conference budget
+will cover (for a max. of two presenters) registration fees, attendance
+at the conference dinner, 200 Euro towards accommodation and limited
+travel costs (100/350/700 Euro for Switzerland/Europe/Intercontinental).
+Note that we reserve the right to cancel courses with low number of
+participants.
 
-
-Financial incentives: 
-For successful proposals, the conference budget will cover (for a max. of two presenters) registration 
-fees, attendance at the conference dinner, 200 Euro towards accommodation and limited travel 
-costs (100/350/700 Euro for Switzerland/Europe/Intercontinental). Note that we reserve the right to 
-cancel courses with low number of participants.
-
-
-
-[Deadline for submissions](key-dates.html) is **midnight (CEST)** on **Sunday January 5th, 2025**.
+[Deadline for pre-conference course submissions](key-dates.html) is
+**midnight (CEST)** on **Sunday January 5th, 2025**.
 
 Notification of acceptance will be by February 7th, 2025.
+
+## Abstracts
+
+To submit your abstract for consideration to ISCB 2025, please create an
+account on the [online submission
+portal](https://www.conftool.org/iscb2025) and submit your abstract by
+filling in the form in the ["Your Submissions"
+section](https://www.conftool.org/iscb2025/index.php?page=submissions).
+
+Please note the following key points:
+
+-   The call for abstracts opens on **Monday, December 9<sup>th</sup>, 2025**.
+-   [Deadline for abstract submissions](key-dates.html) is **midnight
+    (CEST)** on **Friday, February 14<sup>th</sup>, 2025**. Note that **the
+    abstract submission deadline is final and will not be extended**.
+-   Abstracts submitted by e-mail will not be accepted. **Only
+    submissions through the submission portal will be considered**.
+-   The **presenting author must register by the authors’ registration
+    deadline (Wednesday, 21 May 2025; end of early bird registration)**
+    to ensure inclusion of the abstract in the Conference Program (once
+    accepted by the Scientific Program Committee).
+-   **Each presenter may present only one talk/poster.**
+-   The **first author can submit up to 2 abstracts**. There is **no
+    limitation in abstract co-authorship**.
+-   All abstracts must be submitted in **English**.
+-   Please **do not submit multiple copies** of the same abstract.
+-   If you would like to apply to the Student Conference Award (StCA) or Conference Attendance Support Program (CASP), **make sure that you 
+    select the corresponding checkbox after topic selection** when submitting, 
+    and **in addition separately submit the required documents through the StCA and/or
+    CASP tracks**. See the [StCA](awards-student.qmd) and [CASP](awards-casp.qmd) guidelines for details.
+-   All abstracts will be reviewed and rated by the Scientific Program
+    Committee.
+
+### Format
+
+The abstracts will be published in the ISCB 2025 Conference Final
+Program & Abstract Book exactly as submitted (i.e., in their original
+form). Authors are kindly requested to adhere to the following
+guidelines:
+
+-   Language: British English
+-   Abstract text word limit: 400 words (excluding author names and
+    affiliation details).
+-   The full names and affiliations of all authors should be submitted
+    in the relevant fields. The abstract should be blinded, meaning no author 
+    or affiliation information should exist within the abstract.
+-   References may be included within the abstract provided the total
+    word count does not exceed the 400-word limit.
+-   We recommend organising the abstract into the following sections, if
+    applicable; however, other formats will also be accepted:
+    -   Background / Introduction
+    -   Methods
+    -   Results
+    -   Conclusion
+
+### Topics
+
+You are required to choose a primary topic for your abstract submission
+from the following options (you will need to select 3-5):
+
+-   Analysis of multi-omics data
+-   Analysis of observational/real-world data (EHR, registries)
+-   Bayesian methods
+-   Biomarker studies
+-   Causal inference
+-   Clinical epidemiology
+-   Clinical trials - analysis
+-   Clinical trials - designs
+-   Clinical trials - estimands
+-   Computational methods in biostatistics
+-   Data integration
+-   Diagnostic tests
+-   Health economics
+-   Imperfect data (missings, measurement error, bias)
+-   Infectious disease modelling
+-   Longitudinal data (repeated measures / joint modelling)
+-   Machine learning & AI
+-   Meta-analysis
+-   Meta-science (reproducibility / replicability)
+-   Methods for genetic epidemiology / statistical genetics
+-   Multiple testing
+-   Nonparametric methods
+-   Prediction / prognostic modelling
+-   Pharmaceutical statistics
+-   Rare diseases
+-   Regulatory issues
+-   Simulation studies
+-   Statistical education
+-   Statistical methods for epidemiology
+-   Time-to-event analyses (survival / competing risks / multi-state)
+
+Important Note: **Responsibility for accuracy rests with the
+author(s).**
+
+### Submission
+
+The abstract must be submitted through the online submission portal by
+completing all required fields. If you experience any problems with the
+online submission, please do not hesitate to contact the ISCB 2025
+Conference Organisers using the contact details provided at the bottom
+of the submission portal
+([organizers\@iscb2025.info](mailto:organizers@iscb2025.info)).
+
+### Abstract withdrawal
+
+If you wish to withdraw an abstract ahead of the review process, you can
+do so in [the submission portal](https://www.conftool.org/iscb2025) in
+the "Your Submissions" section, directly.
+
+### Confirmation of receipt & notification of decision
+
+After submission you will receive a confirmation e-mail from the
+submission system and your submission will be visible in "Your
+Submissions" when you log into your account.
+
+Notification of acceptance will be by March 21st, 2025.

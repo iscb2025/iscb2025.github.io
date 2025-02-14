@@ -5,19 +5,9 @@ format:
     toc: false
 include-in-header:
   file: scripts.js
+title: "2025 Conference"
 ---
 
-<!-- Sponsor logo at the top right -->
-<!-- <div style="position: absolute; top: 70px; right: 70px;"> -->
-<!--   <p></p> -->
-<!--   <p></p> -->
-<!--   <p></p> -->
-<!--   <img src="img/Logo_Basel_URL_black_ohne_Beschnitt.png" alt="Sponsor: Canton of Basel-Stadt" width="150px" /> -->
-<!-- </div> -->
-      
-
-
-<div style="height:20px"></div>
 :::{.column-page}
 :::{.grid}
 :::{.g-col-12 .g-col-md-5}
@@ -34,9 +24,14 @@ include-in-header:
 
 :::
 <div style="height:20px"></div>
+
+
+### Statistical Thinking Across Borders: Building Bridges and Expanding Horizons in Clinical Biostatistics
+
+
 ::: {.callout-important}
 # Latest News
-The call for short courses is now <b>open until January 5<sup>th</sup>, 2025!</b>
+The <b>call for abstract submission is now open until February 14<sup>th</sup>, 2025 (deadline will not be extended)</b>, and the call for pre-conference courses is now closed. 
 See the [calls](calls.html) and [key dates](key-dates.html) pages for more information.
 
 :::

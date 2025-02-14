@@ -1,0 +1,52 @@
+---
+title: "Registration"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Information on registration fees is now available. Note that these do not include pre-conference courses, social
+programme and other additional costs. These as well as details on the registration process will be communicated as they become
+available.
+
+## Fees
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(dplyr)
+library(tidyr)
+library(kableExtra)
+
+fees_source <- read.csv(file = file.path("data", "registration-fees.csv")) |> 
+  mutate(Value = paste(Value, "EUR"))
+
+print_fees <- \(fees_source, registration) {
+  fees_source |>
+  filter(Type == registration) |>
+  select(-Type) |> 
+  kbl() |>
+  kable_styling(full_width = TRUE) |> 
+  collapse_rows(columns = 1:2, valign = "top", ) |> 
+  pack_rows(registration, 1, nrow(fees_source), indent = FALSE, background = c("#EAEAEA")) |> 
+  row_spec(c(2,4,6), extra_css = "border-bottom: 1px solid grey;", align = "left") |> 
+  column_spec(1, extra_css = "border-bottom: 1px solid grey;")
+}
+```
+
+Early-bird registration will open on Friday, 21<sup>st</sup> of March 2025 and end on Wednesday, 21<sup>st</sup> of May 2025, with the following fees (see @nte-cond for details on the categories):
+```{r, echo=F}
+gsub("<thead>.*</thead>", "", print_fees(fees_source, "Early-bird registration"))
+```
+<br>
+From Thursday, 22<sup>nd</sup> of May 2025, late registration fees apply:
+```{r, echo=F}
+gsub("<thead>.*</thead>", "", print_fees(fees_source, "Late registration"))
+```
+
+
+::: {#nte-cond .callout-note}
+## Fee category conditions
+* Member fees are applicable only if membership status is active. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at [office@iscb.international](mailto:office@iscb.international) for membership queries.
+* Reduced fees apply to low-income and medium-low-income countries considered, according to [the World Bank list for the fiscal year 2025](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)).
+* For student registrations, a valid student ID / letter from supervisor needs to be provided through the online registration process. We reserve the right to allocate your registration to the appropriate category, in case relevant documentation is missing or is not valid.
+* Retired or Senior (65+ y.o.) registration category applies ONLY for those registered to ISCB as “Retired/65+” for 2025. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at [office@iscb.international](mailto:office@iscb.international) for membership queries.
+:::

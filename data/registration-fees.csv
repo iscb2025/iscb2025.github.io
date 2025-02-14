@@ -1,0 +1,13 @@
+Type,Category,Membership,Value
+Early-bird registration,Regular,ISCB Member,500
+Early-bird registration,Regular,Non-ISCB Member,650
+Early-bird registration,Reduced fees,ISCB Member,325
+Early-bird registration,Reduced fees,Non-ISCB Member,410
+Early-bird registration,Student or retired (>65y),ISCB Member,250
+Early-bird registration,Student or retired (>65y),Non-ISCB Member,320
+Late registration,Regular,ISCB Member,625
+Late registration,Regular,Non-ISCB Member,780
+Late registration,Reduced fees,ISCB Member,410
+Late registration,Reduced fees,Non-ISCB Member,500
+Late registration,Student or retired (>65y),ISCB Member,320
+Late registration,Student or retired (>65y),Non-ISCB Member,390

@@ -1,0 +1,45 @@
+---
+title: "ISCB Student Conference Award (StCA) at ISCB46"
+---
+
+The Student Conference Award (StCA) is available for registered postgraduate students in biostatistics to attend and present a paper at the 46th Annual Conference of the International Society for Clinical Biostatistics, 24-28 August 2025. Approximately three awards will be granted depending on the number and quality of the applications. Selection will be made on the basis of the abstract and a summary of a paper to be presented -- for details, see the eligibility criteria and submission procedure below.
+
+Applicants should submit their abstract using the [ISCB46 abstract submission system](https://www.conftool.org/iscb2025). In the online abstract submission portal, you are asked to check the box that indicates that you are applying for the 2025 Student Conference Award on your abstract. You will then need to additionally submit the documents described in the Student Conference Award track.
+
+The closing date for applications is the same as the general abstract deadline (see the [key dates page](key-dates.qmd)).
+
+Applicants should not register for the conference until they have heard the outcome of their application for the Award. Unsuccessful applicants who still wish to attend the conference will remain eligible for the Early Bird rate until three weeks after the outcome of their application is sent to them.
+
+## Eligibility
+
+(a) Any student registered for a postgraduate degree in biostatistics is eligible to apply for an ISCB Student Conference Award, provided s/he has not been the winner of a previous ISCB Student Conference Award. All students may apply for the StCA independently of [applying for the Conference Attendance Support Program (CASP)](awards-casp.qmd).
+(b) The application must relate to original work that has not yet been published and is predominantly the student’s own work. Acceptable topics encompass all areas of biostatistics, both methodological and applied. However, results of particular studies are of interest only if the analysis has methodological implications or shows a novel and interesting application of biostatistics to clinical or epidemiological research.
+
+## Awards
+
+(a) The StCA winners will have their papers scheduled in a dedicated session at the conference. Their status as Award Winners will be indicated in the Conference Programme.
+(b) The StCA will pay for registration, accommodation, conference course, conference dinner, and travel (all expenses will be prepaid on the winners behalf).\
+(c) On being selected, a student must submit a travel budget to the StCA Subcommittee Chair by email to [StCA\@iscb.international](mailto:StCA@iscb.international) for approval by the Treasurer.
+
+## Submission Procedure
+
+Applications should consist of the following:
+
+(a) A short abstract of the paper prepared according to the ISCB standard conference format, uploaded via the ISCB 2025 Abstract Submission Portal in the "Abstracts" track, **with the "StCA" award checkbox selected**.
+(b) A summary of the paper of no more than 3 double-spaced pages of 12-point text with a maximum of three figures or tables on additional pages. **The summary must be in blinded format, i.e., any indication of the student or further authors should not be included**.
+(c) A letter from the student’s supervisor, on official letterhead of the student’s institution, confirming that the student is registered for a postgraduate degree, and that the paper to be presented is original, not previously published, and is predominantly the student’s own work. If the manuscript is co-authored, this letter should also include an indication of the level of involvement of the various authors.
+
+**The two files containing (b) and (c) should be uploaded via the [conference abstract handling system](https://www.conftool.org/iscb2025) by submitting to the Student Award track**.
+
+Any applications submitted after the due date or incomplete or applications not adhering to the procedures above will not be considered.
+
+## Review
+
+(a) Applications will be judged by the StCA Subcommittee, and applicants will be notified of the results as soon as possible, usually within six weeks of the application submission due date. Evaluation of applications will concern the quality of the research described and its relevance to the application of statistics to clinical and epidemiological research. The presentation of the application materials and the interest of the work to the ISCB members will be taken into consideration. The decisions made by the Subcommittee will be final.
+(b) In selecting papers for Awards, each member of the StCA Subcommittee will independently grade each paper allocated to them by the Subcommittee Chair. In the case of ties in total grades, the Subcommittee will make the final selection through discussion.
+(c) Members of the StCA Subcommittee must declare a conflict of interest in submissions from students with whom they have had substantial contact. Such contact certainly includes students supervised by or in the same department as Subcommittee members and may also include professional contact with the project as well as family links. The Subcommittee member with a conflict of interest in the submission will not grade it, other grades being scaled accordingly, and will not participate in discussions of that submission.
+(d) Applicants must be able to travel to the meeting and present their work to be selected as the StCA winners.
+(e) The Society intends to make three awards. However, the StCA Subcommittee reserves the right to make more or fewer awards, or even none at all, subject to the approval of the ISCB President.
+(f) Applications not selected for the StCA may still be considered for selection for an oral presentation at a Contributed Paper session or a poster presentation by the Program Committee, since the abstract has been also submitted separately via the conference abstract handling system. This holds unless the applicant indicates that they do not wish to have their submission considered further.
+
+In case of questions, please, contact the ISCB Office at the following email: [office\@iscb.international](mailto:office@iscb.international).
