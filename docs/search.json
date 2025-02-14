@@ -18,7 +18,7 @@
     "href": "registration.html#fees",
     "title": "Registration",
     "section": "Fees",
-    "text": "Fees\nEarly-bird registration will open on Friday, 21st of March 2025 and end on Wednesday, 21st of May 2025, with the following fees (see Note 1 for details on the categories):\n\n\n\n\n\nEarly-bird registration\n\n\nRegular\nISCB Member\n500 EUR\n\n\nNon-ISCB Member\n650 EUR\n\n\nReduced fees\nISCB Member\n325 EUR\n\n\nNon-ISCB Member\n410 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n250 EUR\n\n\nNon-ISCB Member\n320 EUR\n\n\n\n\n\n\n\n From Thursday, 22nd of May 2025, late registration fees apply:\n\n\n\n\n\nLate registration\n\n\nRegular\nISCB Member\n625 EUR\n\n\nNon-ISCB Member\n780 EUR\n\n\nReduced fees\nISCB Member\n410 EUR\n\n\nNon-ISCB Member\n500 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n320 EUR\n\n\nNon-ISCB Member\n390 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote 1: Fee category conditions\n\n\n\n\nMember fees are applicable only if membership status is active. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at office@iscb.international for membership queries.\nReduced fees apply to low-income and medium-low-income countries considered, according to the World Bank list for the fiscal year 2025).\nFor student registrations, a valid student ID / letter from supervisor needs to be provided through the online registration process. We reserve the right to allocate your registration to the appropriate category, in case relevant documentation is missing or is not valid.\nRetired or Senior (65+ y.o.) registration category applies ONLY for those registered to ISCB as “Retired/65+” for 2025. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at office@iscb.international for membership queries."
+    "text": "Fees\nEarly-bird registration will open on Friday, 21st of March 2025 and end on Wednesday, 21st of May 2025, with the following fees (see Note 1 for details on the categories):\n\n\n\n\n\n\nEarly-bird registration\n\n\nRegular\nISCB Member\n500 EUR\n\n\nNon-ISCB Member\n650 EUR\n\n\nReduced fees\nISCB Member\n325 EUR\n\n\nNon-ISCB Member\n410 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n250 EUR\n\n\nNon-ISCB Member\n320 EUR\n\n\n\n\n\n\n\n\n From Thursday, 22nd of May 2025, late registration fees apply:\n\n\n\n\n\n\nLate registration\n\n\nRegular\nISCB Member\n625 EUR\n\n\nNon-ISCB Member\n780 EUR\n\n\nReduced fees\nISCB Member\n410 EUR\n\n\nNon-ISCB Member\n500 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n320 EUR\n\n\nNon-ISCB Member\n390 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote 1: Fee category conditions\n\n\n\n\nMember fees are applicable only if membership status is active. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at office@iscb.international for membership queries.\nReduced fees apply to low-income and medium-low-income countries considered, according to the World Bank list for the fiscal year 2025).\nFor student registrations, a valid student ID / letter from supervisor needs to be provided through the online registration process. We reserve the right to allocate your registration to the appropriate category, in case relevant documentation is missing or is not valid.\nRetired or Senior (65+ y.o.) registration category applies ONLY for those registered to ISCB as “Retired/65+” for 2025. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at office@iscb.international for membership queries."
   },
   {
     "objectID": "imprint-and-privacy-policy.html",
@@ -390,5 +390,33 @@
     "title": "Social Program",
     "section": "Conference Dinner (WED evening, 27 AUG 2025)",
     "text": "Conference Dinner (WED evening, 27 AUG 2025)\nEnjoy a diverse selection of food options at our conference dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks (including beer and wine).\nDetailed information about the conference dinner can be found in the conference booklet."
+  },
+  {
+    "objectID": "faq.html#the-conference-is-hybrid-for-attendees.-can-presentations-also-be-given-remotely",
+    "href": "faq.html#the-conference-is-hybrid-for-attendees.-can-presentations-also-be-given-remotely",
+    "title": "Frequently Asked Questions",
+    "section": "The conference is hybrid for attendees. Can presentations also be given remotely?",
+    "text": "The conference is hybrid for attendees. Can presentations also be given remotely?\nNo."
+  },
+  {
+    "objectID": "faq.html#can-posters-be-presented-remotely",
+    "href": "faq.html#can-posters-be-presented-remotely",
+    "title": "Frequently Asked Questions",
+    "section": "Can posters be presented remotely?",
+    "text": "Can posters be presented remotely?\nNo."
+  },
+  {
+    "objectID": "faq.html#the-instructions-state-that-each-presenter-may-present-only-one-talkposter.-does-this-mean-i-can-present-a-talk-and-poster-or-one-or-the-other",
+    "href": "faq.html#the-instructions-state-that-each-presenter-may-present-only-one-talkposter.-does-this-mean-i-can-present-a-talk-and-poster-or-one-or-the-other",
+    "title": "Frequently Asked Questions",
+    "section": "The instructions state that “Each presenter may present only one talk/poster.” Does this mean I can present a talk and poster or one or the other? ",
+    "text": "The instructions state that “Each presenter may present only one talk/poster.” Does this mean I can present a talk and poster or one or the other? \nNo. Just one or the other."
+  },
+  {
+    "objectID": "faq.html#can-presentations-be-given-remotely",
+    "href": "faq.html#can-presentations-be-given-remotely",
+    "title": "Frequently Asked Questions",
+    "section": "Can presentations be given remotely?",
+    "text": "Can presentations be given remotely?\nNo."
   }
 ]
