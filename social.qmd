@@ -10,13 +10,13 @@ editor:
 Information on the social program organised for the ISCB 2025 conference is
 summarized below.
 
-## Student Gathering (SUN evening, 24 AUG 2025)
+## Student Gathering (Sunday evening, 24 August 2025)
 
 The Student Gathering  will take place at Martkhalle.
 
 <!-- Photos: https://altemarkthalle.ch/wp-content/uploads/2020/02/Markthalle-Info.pdf -->
 
-## Welcome Reception (MON evening, 25 AUG 2025)
+## Welcome Reception (Monday evening, 25 August 2025)
 
 The Welcome Reception will take place at the city archives behind the parliament building (Rathaus).
 The address is Martinsgasse 2. It is approximately a 20-minute walk.
@@ -24,7 +24,7 @@ The address is Martinsgasse 2. It is approximately a 20-minute walk.
 <!-- MAP TO BE ADDED -->
 
 
-## Social activities (TUE afternoon, 26 AUG 2025)
+## Social activities (Tuesday afternoon, 26 August 2025)
 
 *Disclaimer:* All photos for the below advertisement of the social activities are taken from ["This is Basel!"](https://www.basel.com/en/Basel/offer).
 
@@ -38,6 +38,8 @@ On this guided group tour, you can discover colourful, urban Basel and hear the
 stories behind the artworks. Your guide will show you the impressive works of
 local artists and take you to see outstanding pieces by internationally renowned
 names of the street-art scene.
+
+Pictures are taken from [Artstuebli, Basel](https://www.artstuebli.ch/tours/).
 
 
 ::: {layout-ncol=2 layout-valign="middle"}
@@ -70,7 +72,8 @@ you will get to see the outsides of impressive office and research buildings des
 by famous architects (Diener & Diener, Frank O. Gehry and Herzog & de Meuron, to
 name some of them). The walk also takes you through grand parks and past impressive
 sculptures, and you will discover the architect Vittorio Magnago Lampugnani’s plan
-to enable dialogue and collaboration through architecture and spatial design.
+to enable dialogue and collaboration through architecture and spatial design.  
+Pictures are taken from the [Novartis Media Library](https://www.novartis.com/news/media-library).
 
 **Duration:** 1.5 hours.
 
@@ -94,9 +97,7 @@ all off, create your own chocolate bar.
 
 **Price:** 85 EUR per person.
 
-::: {layout-ncol=2}
-![](img/social/social_chocolate_2.png)
-
+:::
 ![](img/social/social_chocolate_1.png)
 :::
 
@@ -123,6 +124,8 @@ several further customisation options to create the perfect experience for you.
 
 Have you ever wondered what it feels like to be William Tell? Learn from professionals on how to use a crossbow and rediscover this traditional Swiss sport. Will your arrow find the apple's core?
 
+Pictures are taken from [asevent GmbH](https://asevent.ch/).
+
 **Duration:** 2.5 hours.
 
 **Price:** 39 EUR per person.
@@ -133,9 +136,15 @@ Have you ever wondered what it feels like to be William Tell? Learn from profess
 ![](img/social/social_crossbow_2.png)
 :::
 
-## Conference Dinner (WED evening, 27 AUG 2025)
+## Conference Dinner (Wednesday evening, 27 August 2025)
 
-Enjoy a diverse selection of food options at our conference dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks (including beer and wine). 
+Enjoy a diverse selection of local and international food options at our conference
+dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks
+(including beer and wine). 
+
+This is the perfect opportunity to connect with fellow attendees and speakers in
+a more informal and relaxed setting. We look forward to sharing this memorable
+evening with you!
 
 Detailed information about the conference dinner can be found in the conference booklet.
 
