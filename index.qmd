@@ -76,15 +76,19 @@ Society for Clinical Biostatistics (ISCB)</h1>
 
 ### Platinum Sponsors {style="text-align: center;"}
 <br>
-<a href="https://www.novartis.com/">![](img/sponsors/platinum_novartis.png){width="32%"}</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.roche.com/">![](img/sponsors/platinum_roche.png){width="27%"}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.sas.com/en_us/home.html/">![](img/sponsors/platinum_sas.png){width="27%"}</a>
+<a href="https://www.novartis.com/">![](img/sponsors/platinum_novartis.png){width="55%"}</a>
+<span style="display:inline-block; width:10px;"></span>
+<a href="https://www.roche.com/">![](img/sponsors/platinum_roche.png){width="27%"}</a>
+<span style="display:inline-block; width:57px;"></span>
+<a href="https://www.sas.com/en_us/home.html/">![](img/sponsors/platinum_sas.png){width="21%"}</a>
+<span style="display:inline-block; width:57px;"></span>
+<a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="35%"}</a>
 <br><br>
-<a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="27%"}</a>
 
 ### Gold Sponsors {style="text-align: center;"}
 <br>
 <a href="iscb2025.info">![](img/sponsors/gold_test.png){width="17%"}</a><br> <br>
+
 
 ### Silver Sponsors {style="text-align: center;"}
 <br>
