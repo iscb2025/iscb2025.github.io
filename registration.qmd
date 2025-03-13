@@ -4,12 +4,21 @@ editor:
   markdown: 
     wrap: 72
 ---
-
+<!--
 Information on registration fees is now available. Note that these do not include pre-conference courses, social
 programme and other additional costs. These as well as details on the registration process will be communicated as they become
 available.
+-->
 
-## Fees
+Information on registration fees is now available. Details on the registration process will be communicated as they become available
+
+**Early-bird registration** will open on Friday, 21<sup>st</sup> of March 2025 and end on Wednesday, 21<sup>st</sup> of May 2025, with the following fees (see @nte-cond for details on the categories).
+
+From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply.
+
+
+
+## Conference 
 
 ```{r, echo=F, results=F, message=F, warning=F}
 library(dplyr)
@@ -18,6 +27,10 @@ library(kableExtra)
 
 fees_source <- read.csv(file = file.path("data", "registration-fees.csv")) |> 
   mutate(Value = paste(Value, "EUR"))
+  
+conf_fees_source <- fees_source |> 
+  filter(Purpose == "Conference") |> 
+  select(-Purpose)
 
 print_fees <- \(fees_source, registration) {
   fees_source |>
@@ -32,15 +45,82 @@ print_fees <- \(fees_source, registration) {
 }
 ```
 
-Early-bird registration will open on Friday, 21<sup>st</sup> of March 2025 and end on Wednesday, 21<sup>st</sup> of May 2025, with the following fees (see @nte-cond for details on the categories):
 ```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(fees_source, "Early-bird registration"))
+gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Early-bird registration"))
 ```
 <br>
-From Thursday, 22<sup>nd</sup> of May 2025, late registration fees apply:
 ```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(fees_source, "Late registration"))
+gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Late registration"))
 ```
+
+
+## Courses
+
+```{r, echo=F}
+courses_fees_source <- fees_source |> 
+  filter(Purpose == "Courses") |> 
+  select(-Purpose)
+```
+
+```{r, echo=F}
+gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Early-bird registration"))
+```
+<br>
+```{r, echo=F}
+gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Late registration"))
+```
+
+## Mini-Symposia
+
+```{r, echo=F}
+symp_fees_source <- fees_source |> 
+  filter(Purpose == "Mini-Symposia") |> 
+  select(-Purpose)
+
+```
+
+```{r, echo=F}
+
+early_symp_fees <-
+  symp_fees_source |> 
+  filter(Type == "Early-bird registration") |> 
+  select(Category, Membership, Value) |> 
+  kbl(col.names = NULL) |>
+  kable_styling(full_width = TRUE) |> 
+  pack_rows("Early-bird registration", 1, nrow(filter(symp_fees_source, Type == "Early-bird registration")), 
+            indent = FALSE, background = "#EAEAEA")
+
+gsub("<thead>.*</thead>", "", early_symp_fees)
+
+```
+<br>
+```{r, echo=F}
+late_symp_fees <-
+  symp_fees_source |> 
+  filter(Type == "Late registration") |> 
+  select(Category, Membership, Value) |> 
+  kbl(col.names = NULL) |>
+  kable_styling(full_width = TRUE) |> 
+  pack_rows("Late registration", 1, 2, indent = FALSE, background = "#EAEAEA") 
+
+sub("<thead>.*</thead>", "", late_symp_fees)
+```
+
+
+## Social Dinner
+
+```{r, echo=F}
+
+dinner_fees <-
+  fees_source |> 
+  filter(Purpose == "Social Dinner") |> 
+  select(Category, Value) |> 
+  kbl(col.names = NULL) |>  
+  kable_styling(full_width = TRUE)  
+
+gsub("<thead>.*</thead>", "", dinner_fees)
+```
+
 
 
 ::: {#nte-cond .callout-note}

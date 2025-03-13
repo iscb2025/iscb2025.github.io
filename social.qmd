@@ -10,13 +10,21 @@ editor:
 Information on the social program organised for the ISCB 2025 conference is
 summarized below.
 
+<<<<<<< HEAD
 ## Student Gathering (SUN evening, 24 AUG 2025)
+=======
+## Student Gathering (Sunday evening, 24 August 2025)
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 The Student Gathering  will take place at Martkhalle.
 
 <!-- Photos: https://altemarkthalle.ch/wp-content/uploads/2020/02/Markthalle-Info.pdf -->
 
+<<<<<<< HEAD
 ## Welcome Reception (MON evening, 25 AUG 2025)
+=======
+## Welcome Reception (Monday evening, 25 August 2025)
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 The Welcome Reception will take place at the city archives behind the parliament building (Rathaus).
 The address is Martinsgasse 2. It is approximately a 20-minute walk.
@@ -24,7 +32,11 @@ The address is Martinsgasse 2. It is approximately a 20-minute walk.
 <!-- MAP TO BE ADDED -->
 
 
+<<<<<<< HEAD
 ## Social activities (TUE afternoon, 26 AUG 2025)
+=======
+## Social activities (Tuesday afternoon, 26 August 2025)
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 ### Guided Tour: Street Art Guided tour of Basel
 
@@ -35,23 +47,49 @@ into a giant open-air museum with works on every corner.
 On this guided group tour, you can discover colourful, urban Basel and hear the
 stories behind the artworks. Your guide will show you the impressive works of
 local artists and take you to see outstanding pieces by internationally renowned
+<<<<<<< HEAD
 names of the street-art scene.
 
 **Duration:** 1.5 hours.
 
 **Price:** 20 EUR per person.
+=======
+names of the street-art scene.  
+Pictures are taken from [Artstuebli, Basel](https://www.artstuebli.ch/tours/).
+
+
+::: {layout-ncol=2 layout-valign="middle"}
+![](img/social/social_streetart_1.png)
+
+![](img/social/social_streetart_2.png)
+:::
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 ### Guided Tour: Stories of Basel's Old Town
 
 This traditional tour offers visitors and locals alike a close-up view of Basel.
 We will guide you through narrow alleyways and secluded squares, past impressive
 buildings and lively and vivid cityscapes, experiencing what has shaped the city
+<<<<<<< HEAD
 and given it its unique character.
+=======
+and given it its unique character.  
+Pictures are taken from ["This is Basel!"](https://www.basel.com/en/Basel/offer).
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 **Duration:** 1.5 hours.
 
 **Price:** 20 EUR per person.
 
+<<<<<<< HEAD
+=======
+::: {layout="[[1,1]]"}
+![](img/social/social_oldtown_1.png)
+
+![](img/social/social_oldtown_2.png)
+:::
+
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 ### Guided Tour: Novartis Campus Architecture
 
 The Novartis Campus in Basel is the global headquarters of Novartis. On this tour,
@@ -59,48 +97,109 @@ you will get to see the outsides of impressive office and research buildings des
 by famous architects (Diener & Diener, Frank O. Gehry and Herzog & de Meuron, to
 name some of them). The walk also takes you through grand parks and past impressive
 sculptures, and you will discover the architect Vittorio Magnago Lampugnani’s plan
+<<<<<<< HEAD
 to enable dialogue and collaboration through architecture and spatial design.
+=======
+to enable dialogue and collaboration through architecture and spatial design.  
+Pictures are taken from the [Novartis Media Library](https://www.novartis.com/news/media-library).
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 **Duration:** 1.5 hours.
 
 **Price:** 20 EUR per person.
 
+<<<<<<< HEAD
+=======
+::: {layout-ncol=2}
+![](img/social/social_novartis_1.png)
+
+![](img/social/social_novartis_2.png)
+:::
+
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 ### Confiserie Beschle – Chocolate factory visit and create your own chocolate bar
 
 Embark on a journey through the world of chocolate and learn how professionals
 sample and craft this most indulgent treat. Discover the process of growing and
 processing cocoa beans, and gain insight into how chocolate is made and refined.
 Plus, enjoy the opportunity to taste different types of chocolate and, to top it
+<<<<<<< HEAD
 all off, create your own chocolate bar.
+=======
+all off, create your own chocolate bar.  
+Pictures are provided by [Beschle, Basel](https://beschle.ch/).
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 **Duration:** 2 hours.
 
 **Price:** 85 EUR per person.
 
+<<<<<<< HEAD
+=======
+![](img/social/social_chocolate_11.png)
+
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 ### Adventure-filled Scavenger Hunt in Basel
 
 Head out to the prettiest places in the city and solve thrilling riddles.
 Discover hidden architectural gems and see long-known things with new eyes.
 An iPad guides a group of 6 attendees through the adventure, and the riddle bag
 holds further utensils. Additionally to difficulty and duration, there are
+<<<<<<< HEAD
 several further customisation options to create the perfect experience for you.
+=======
+several further customisation options to create the perfect experience for you.  
+Pictures are taken from ["This is Basel!"](https://www.basel.com/en/Basel/offer).
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 **Duration:** 2 hours.
 
 **Price:** 39 EUR per person.
 
+<<<<<<< HEAD
 ### Crossbow event – William Tell, the central figure of the Swiss Confederacy
 
 Have you ever wondered what it feels like to be William Tell? Learn from professionals on how to use a crossbow and rediscover this traditional Swiss sport. Will your arrow find the apple's core?
+=======
+::: {layout-ncol=2}
+![](img/social/social_scavenger_1.png)
+
+![](img/social/social_scavenger_2.png)
+:::
+
+
+### Crossbow event – William Tell, the central figure of the Swiss Confederacy
+
+Have you ever wondered what it feels like to be William Tell? Learn from professionals on how to use a crossbow and rediscover this traditional Swiss sport. Will your arrow find the apple's core?  
+Pictures are taken from [asevent GmbH](https://asevent.ch/).
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 **Duration:** 2.5 hours.
 
 **Price:** 39 EUR per person.
 
+<<<<<<< HEAD
 
 ## Conference Dinner (WED evening, 27 AUG 2025)
 
 Enjoy a diverse selection of food options at our conference dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks (including beer and wine). 
+=======
+::: {layout-ncol=2}
+![](img/social/social_crossbow_1.png)
+
+![](img/social/social_crossbow_2.png)
+:::
+
+## Conference Dinner (Wednesday evening, 27 August 2025)
+
+Enjoy a diverse selection of local and international food options at our conference
+dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks
+(including beer and wine). 
+
+This is the perfect opportunity to connect with fellow attendees and speakers in
+a more informal and relaxed setting. We look forward to sharing this memorable
+evening with you!
+>>>>>>> 9a2c6cc3bf7af55a57f0f81e663f470ecbed8375
 
 Detailed information about the conference dinner can be found in the conference booklet.
 

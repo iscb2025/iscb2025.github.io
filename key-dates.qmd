@@ -20,7 +20,7 @@ key_dates <- list(
       ~ Item, ~ Date,
       "Call", ymd("2024-10-04"),
       "Deadline", ymd("2025-01-05"),
-      "Notifications sent", ymd("2025-02-07")
+      "Notifications sent", ymd("2025-02-11")
     ),
   "Abstract Submissions" =
     tribble(
@@ -78,8 +78,22 @@ tidy_kable <- function(data, type) {
 ## Pre-conference Courses
 
 ```{r echo=F, message=F, warning=F}
-key_dates[["Pre-conference Courses"]] |> tidy_kable()
+tbl_data <- 
+  key_dates[["Pre-conference Courses"]] |> 
+  mutate(Date = format(Date, "%A, %d %B %Y"))
+
+tbl_data[3,2] <- paste0(tbl_data[3,2],"*")
+
+tbl_data |> 
+  kable(col.names = c("", "Date"), align = "rl") |>
+    kable_styling(
+      bootstrap_options = c("striped", "hover", "condensed"),
+      full_width = F
+    ) |> 
+    column_spec(column = 1, width = "160px")
 ```
+[\* Original date: Friday, 07 February 2025]{style="font-size:80%"}
+
 
 ## Abstract Submissions
 

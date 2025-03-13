@@ -71,10 +71,25 @@ similar technologies as described in their
 Society for Clinical Biostatistics (ISCB)</h1>
 <h1 style="margin: 0 0 10px 0; font-size: 20px;">August 24<sup>th</sup> - 28<sup>th</sup>, 2025 | Basel, Switzerland</h1> -->
 
+<br>
+<br>
 
-<!-- <!-- Sponsor Image at the bottom -->
-<!-- <div style="text-align: center; margin-top: 50px;"> -->
-<!--   <p>Sponsors</p> -->
-<!--   <img src="img/Logo_Basel_URL_black_ohne_Beschnitt.png" alt="Sponsor: Canton of Basel-Stadt" width="300px" /> -->
-<!-- </div> -->
+### Platinum Sponsors {style="text-align: center;"}
+<br>
+<a href="https://www.novartis.com/">![](img/sponsors/platinum_novartis.png){width="55%"}</a>
+<span style="display:inline-block; width:10px;"></span>
+<a href="https://www.roche.com/">![](img/sponsors/platinum_roche.png){width="27%"}</a>
+<span style="display:inline-block; width:57px;"></span>
+<a href="https://www.sas.com/en_us/home.html/">![](img/sponsors/platinum_sas.png){width="21%"}</a>
+<span style="display:inline-block; width:57px;"></span>
+<a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="35%"}</a>
+<br><br>
 
+### Gold Sponsors {style="text-align: center;"}
+<br>
+<a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a><br> <br>
+
+
+<!-- ### Silver Sponsors {style="text-align: center;"} -->
+<!-- <br> -->
+<!-- <a href="iscb2025.info/">![](img/sponsors/silver_test.png){width="10%"}</a>  -->
