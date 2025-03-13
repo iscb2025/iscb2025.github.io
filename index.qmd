@@ -26,13 +26,13 @@ title: "2025 Conference"
 <div style="height:20px"></div>
 
 
-### Statistical Thinking Across Borders: Building Bridges and Expanding Horizons in Clinical Biostatistics
+### Statistical Thinking Across Borders:<br> Building Bridges and Expanding Horizons in Clinical Biostatistics
 
 
 ::: {.callout-important}
 # Latest News
-The <b>call for abstract submission is now open until February 14<sup>th</sup>, 2025 (deadline will not be extended)</b>, and the call for pre-conference courses is now closed. 
-See the [calls](calls.html) and [key dates](key-dates.html) pages for more information.
+The calls for abstract submission and for pre-conference courses are now closed, and course organizers have been notified.
+Notifications for abstracts will be sent when registrations opens on March 21<sup>st</sup>, see the [key dates](key-dates.html) page for more information.
 
 :::
 :::
