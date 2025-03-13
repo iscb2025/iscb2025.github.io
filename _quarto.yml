@@ -49,6 +49,8 @@ website:
         menu:
         - text: "Overview"
           href: about-basel.qmd
+        - text: "Accommodation"
+          href: accommodation.qmd
         - text: "Basel Card"
           href: basel-card.qmd
         - text: "Restaurants"
