@@ -2,7 +2,7 @@
 title: "Accommodation"
 ---
 
-Hotels can be booked through Basel Tourism’s website for the conference. 
+Hotels can be booked through [Basel Tourism’s website for the conference via hotelmap.com](https://hotelmap.com/M7EKW). 
 
 [The BaselCard](basel-card.qmd) is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app. The BaselCard app works mostly offline and offers the same free services and discounts. In its electronic version, the guest card also features an interactive city map. For more information, see [www.basel.com/en/baselcard](https://www.basel.com/en/baselcard).
 
