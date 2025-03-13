@@ -11,7 +11,7 @@
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "Information on registration fees is now available. Note that these do not include pre-conference courses, social programme and other additional costs. These as well as details on the registration process will be communicated as they become available."
+    "text": "Information on registration fees is now available. Details on the registration process will be communicated as they become available\nEarly-bird registration will open on Friday, 21st of March 2025 and end on Wednesday, 21st of May 2025, with the following fees (see Note 1 for details on the categories).\nFrom Thursday, 22nd of May 2025, late registration fees apply."
   },
   {
     "objectID": "registration.html#fees",
@@ -446,5 +446,47 @@
     "title": "Social Program",
     "section": "Conference Dinner (Wednesday evening, 27 August 2025)",
     "text": "Conference Dinner (Wednesday evening, 27 August 2025)\nEnjoy a diverse selection of local and international food options at our conference dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks (including beer and wine).\nThis is the perfect opportunity to connect with fellow attendees and speakers in a more informal and relaxed setting. We look forward to sharing this memorable evening with you!\nDetailed information about the conference dinner can be found in the conference booklet."
+  },
+  {
+    "objectID": "registration.html#conference-fees",
+    "href": "registration.html#conference-fees",
+    "title": "Registration",
+    "section": "Conference Fees",
+    "text": "Conference Fees\nEarly-bird registration will open on Friday, 21st of March 2025 and end on Wednesday, 21st of May 2025, with the following fees (see Note 1 for details on the categories):\n\n\n\n\n\n\nEarly-bird registration\n\n\nRegular\nISCB Member\n500 EUR\n\n\nNon-ISCB Member\n650 EUR\n\n\nReduced fees\nISCB Member\n325 EUR\n\n\nNon-ISCB Member\n410 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n250 EUR\n\n\nNon-ISCB Member\n320 EUR\n\n\n\n\n\n\n\n\n From Thursday, 22nd of May 2025, late registration fees apply:\n\n\n\n\n\n\nLate registration\n\n\nConference\nRegular\nISCB Member\n625 EUR\n\n\nNon-ISCB Member\n780 EUR\n\n\nReduced fees\nISCB Member\n410 EUR\n\n\nNon-ISCB Member\n500 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n320 EUR\n\n\nNon-ISCB Member\n390 EUR\n\n\nCourses\nRegular\nHalf-Day\n300 EUR\n\n\nFull Day\n500 EUR\n\n\nReduced fees\nHalf-Day\n200 EUR\n\n\nFull Day\n300 EUR\n\n\nStudent or retired (&gt;65y)\nHalf-Day\n200 EUR\n\n\nFull Day\n300 EUR\n\n\nMini-Symposia\nNon-Conference Attendee\n\n180 EUR\n\n\nConference Attendee\n\n0 EUR"
+  },
+  {
+    "objectID": "registration.html#courses-fees",
+    "href": "registration.html#courses-fees",
+    "title": "Registration",
+    "section": "Courses Fees",
+    "text": "Courses Fees\n\ncourses_fees_source &lt;- fees_source |&gt; \n  filter(Purpose == \"Courses\") |&gt; \n  select(-Purpose)\n\n\n\n\n\n\n\nEarly-bird registration\n\n\nRegular\nHalf-Day\n250 EUR\n\n\nFull Day\n400 EUR\n\n\nReduced fees\nHalf-Day\n150 EUR\n\n\nFull Day\n250 EUR\n\n\nStudent or retired (&gt;65y)\nHalf-Day\n150 EUR\n\n\nFull Day\n250 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLate registration\n\n\nRegular\nHalf-Day\n300 EUR\n\n\nFull Day\n500 EUR\n\n\nReduced fees\nHalf-Day\n200 EUR\n\n\nFull Day\n300 EUR\n\n\nStudent or retired (&gt;65y)\nHalf-Day\n200 EUR\n\n\nFull Day\n300 EUR"
+  },
+  {
+    "objectID": "registration.html#mini-symposia",
+    "href": "registration.html#mini-symposia",
+    "title": "Registration",
+    "section": "Mini-Symposia",
+    "text": "Mini-Symposia\n\n\n\n\n\n\nEarly-bird registration\n\n\nNon-Conference Attendee\n\n150 EUR\n\n\nConference Attendee\n\n0 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLate registration\n\n\nNon-Conference Attendee\n\n180 EUR\n\n\nConference Attendee\n\n0 EUR"
+  },
+  {
+    "objectID": "registration.html#social-dinner",
+    "href": "registration.html#social-dinner",
+    "title": "Registration",
+    "section": "Social Dinner",
+    "text": "Social Dinner\n\n\n\n\n\n\nRegular\n99 EUR\n\n\nReduced fees\n66 EUR\n\n\nStudent or retired (&gt;65y)\n66 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote 1: Fee category conditions\n\n\n\n\nMember fees are applicable only if membership status is active. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at office@iscb.international for membership queries.\nReduced fees apply to low-income and medium-low-income countries considered, according to the World Bank list for the fiscal year 2025).\nFor student registrations, a valid student ID / letter from supervisor needs to be provided through the online registration process. We reserve the right to allocate your registration to the appropriate category, in case relevant documentation is missing or is not valid.\nRetired or Senior (65+ y.o.) registration category applies ONLY for those registered to ISCB as “Retired/65+” for 2025. Membership status will be verified and followed up by the ISCB Office. Please address the ISCB Office at office@iscb.international for membership queries."
+  },
+  {
+    "objectID": "registration.html#conference",
+    "href": "registration.html#conference",
+    "title": "Registration",
+    "section": "Conference",
+    "text": "Conference\n\n\n\n\n\n\nEarly-bird registration\n\n\nRegular\nISCB Member\n500 EUR\n\n\nNon-ISCB Member\n650 EUR\n\n\nReduced fees\nISCB Member\n325 EUR\n\n\nNon-ISCB Member\n410 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n250 EUR\n\n\nNon-ISCB Member\n320 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLate registration\n\n\nRegular\nISCB Member\n625 EUR\n\n\nNon-ISCB Member\n780 EUR\n\n\nReduced fees\nISCB Member\n410 EUR\n\n\nNon-ISCB Member\n500 EUR\n\n\nStudent or retired (&gt;65y)\nISCB Member\n320 EUR\n\n\nNon-ISCB Member\n390 EUR"
+  },
+  {
+    "objectID": "registration.html#courses",
+    "href": "registration.html#courses",
+    "title": "Registration",
+    "section": "Courses",
+    "text": "Courses\n\n\n\n\n\n\nEarly-bird registration\n\n\nRegular\nHalf-Day\n250 EUR\n\n\nFull Day\n400 EUR\n\n\nReduced fees\nHalf-Day\n150 EUR\n\n\nFull Day\n250 EUR\n\n\nStudent or retired (&gt;65y)\nHalf-Day\n150 EUR\n\n\nFull Day\n250 EUR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLate registration\n\n\nRegular\nHalf-Day\n300 EUR\n\n\nFull Day\n500 EUR\n\n\nReduced fees\nHalf-Day\n200 EUR\n\n\nFull Day\n300 EUR\n\n\nStudent or retired (&gt;65y)\nHalf-Day\n200 EUR\n\n\nFull Day\n300 EUR"
   }
 ]
