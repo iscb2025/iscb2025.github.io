@@ -48,7 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,6 +63,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -75,6 +82,8 @@ cookieconsent.run({
   "preferences_center_close_button_hide":false,
   "website_name":"",
 "website_privacy_policy_url":"https://www.iscb2025.info/imprint-and-privacy-policy.html"
+  ,
+"language":"en"
   });
 });
 </script> 
@@ -88,9 +97,9 @@ cookieconsent.run({
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">ISCB46</span>
     </a>
@@ -102,12 +111,12 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./key-dates.html" rel="" target="">
- <span class="menu-text">Key Dates</span></a>
+    <a class="nav-link" href="./key-dates.html"> 
+<span class="menu-text">Key Dates</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-iscb46" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -115,7 +124,7 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about-iscb46">    
         <li>
-    <a class="dropdown-item" href="./committees.html" rel="" target="">
+    <a class="dropdown-item" href="./committees.html">
  <span class="dropdown-text">Committees</span></a>
   </li>  
     </ul>
@@ -126,33 +135,33 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-conference-information">    
         <li>
-    <a class="dropdown-item" href="./calls.html" rel="" target="">
+    <a class="dropdown-item" href="./calls.html">
  <span class="dropdown-text">Calls</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./registration.html" rel="" target="">
+    <a class="dropdown-item" href="./registration.html">
  <span class="dropdown-text">Registration</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./social.html" rel="" target="">
+    <a class="dropdown-item" href="./social.html">
  <span class="dropdown-text">Social Program</span></a>
   </li>  
         <li class="dropdown-header">Awards &amp; Support</li>
         <li>
-    <a class="dropdown-item" href="./awards-contributions.html" rel="" target="">
+    <a class="dropdown-item" href="./awards-contributions.html">
  <span class="dropdown-text">Best Poster &amp; Presentation Awards</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./awards-student.html" rel="" target="">
+    <a class="dropdown-item" href="./awards-student.html">
  <span class="dropdown-text">Student Conference Award (StCA)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./awards-casp.html" rel="" target="">
+    <a class="dropdown-item" href="./awards-casp.html">
  <span class="dropdown-text">Conference Attendance Support Program (CASP)</span></a>
   </li>  
         <li class="dropdown-header">Policies</li>
         <li>
-    <a class="dropdown-item" href="./imprint-and-privacy-policy.html" rel="" target="">
+    <a class="dropdown-item" href="./imprint-and-privacy-policy.html">
  <span class="dropdown-text">Privacy policy</span></a>
   </li>  
     </ul>
@@ -163,32 +172,31 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about-basel">    
         <li>
-    <a class="dropdown-item" href="./about-basel.html" rel="" target="">
+    <a class="dropdown-item" href="./about-basel.html">
  <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./accommodation.html" rel="" target="">
+    <a class="dropdown-item" href="./accommodation.html">
  <span class="dropdown-text">Accommodation</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./basel-card.html" rel="" target="">
+    <a class="dropdown-item" href="./basel-card.html">
  <span class="dropdown-text">Basel Card</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./restaurants.html" rel="" target="">
+    <a class="dropdown-item" href="./restaurants.html">
  <span class="dropdown-text">Restaurants</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./faq.html" rel="" target="">
- <span class="menu-text">FAQ</span></a>
+    <a class="nav-link" href="./faq.html"> 
+<span class="menu-text">FAQ</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -239,7 +247,9 @@ cookieconsent.run({
   </div>
   
 
+
 </header>
+
 
 <!-- * https://cen2023.github.io/home/social.html -->
 <p>Information on the social program organised for the ISCB 2025 conference is summarized below.</p>
@@ -260,7 +270,10 @@ cookieconsent.run({
 <h1><strong>Price:</strong> 20 EUR per person.</h1>
 <p>names of the street-art scene.<br>
 Pictures are taken from <a href="https://www.artstuebli.ch/tours/">Artstuebli, Basel</a>.</p>
-<div class="quarto-layout-panel">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <p><img src="img/social/social_streetart_1.png" class="img-fluid"></p>
@@ -295,8 +308,11 @@ Pictures are taken from <a href="https://www.basel.com/en/Basel/offer">“This i
 </section>
 <section id="head" class="level1">
 <h1>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</h1>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[[1,1]]">
+<div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <p><img src="img/social/social_oldtown_1.png" class="img-fluid"></p>
 </div>
@@ -327,8 +343,11 @@ Pictures are taken from the <a href="https://www.novartis.com/news/media-library
 </section>
 <section id="head-1" class="level1">
 <h1>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</h1>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <p><img src="img/social/social_novartis_1.png" class="img-fluid"></p>
 </div>
@@ -383,8 +402,11 @@ Pictures are taken from <a href="https://www.basel.com/en/Basel/offer">“This i
 </section>
 <section id="have-you-ever-wondered-what-it-feels-like-to-be-william-tell-learn-from-professionals-on-how-to-use-a-crossbow-and-rediscover-this-traditional-swiss-sport.-will-your-arrow-find-the-apples-core" class="level1">
 <h1>Have you ever wondered what it feels like to be William Tell? Learn from professionals on how to use a crossbow and rediscover this traditional Swiss sport. Will your arrow find the apple’s core?</h1>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <p><img src="img/social/social_scavenger_1.png" class="img-fluid"></p>
 </div>
@@ -407,8 +429,11 @@ Pictures are taken from <a href="https://asevent.ch/">asevent GmbH</a>. &gt;&gt;
 </section>
 <section id="enjoy-a-diverse-selection-of-food-options-at-our-conference-dinner-featuring-food-booths-a-relaxed-atmosphere-and-complimentary-drinks-including-beer-and-wine." class="level1">
 <h1>Enjoy a diverse selection of food options at our conference dinner, featuring food booths, a relaxed atmosphere, and complimentary drinks (including beer and wine).</h1>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <p><img src="img/social/social_crossbow_1.png" class="img-fluid"></p>
 </div>
@@ -528,7 +553,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -538,8 +562,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -718,6 +751,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -743,6 +777,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -808,12 +868,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences &amp; Privacy Policy</a></div></div>
+    <div class="nav-footer-center">
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences &amp; Privacy Policy</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
+
 
 
 
