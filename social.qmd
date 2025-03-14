@@ -114,9 +114,6 @@ Pictures are taken from ["This is Basel!"](https://www.basel.com/en/Basel/offer)
 
 **Price:** 39 EUR per person.
 
-### Crossbow event – William Tell, the central figure of the Swiss Confederacy
-
-Have you ever wondered what it feels like to be William Tell? Learn from professionals on how to use a crossbow and rediscover this traditional Swiss sport. Will your arrow find the apple's core?
 
 ::: {layout-ncol=2}
 ![](img/social/social_scavenger_1.png)
