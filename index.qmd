@@ -90,6 +90,7 @@ Society for Clinical Biostatistics (ISCB)</h1>
 <a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a><br> <br>
 
 
-<!-- ### Silver Sponsors {style="text-align: center;"} -->
-<!-- <br> -->
-<!-- <a href="iscb2025.info/">![](img/sponsors/silver_test.png){width="10%"}</a>  -->
+### Silver Sponsors {style="text-align: center;"}
+<br>
+<br>
+<a href="https://www.datamap.de/">![](img/sponsors/silver_datamap.png){width="18%"}</a>
