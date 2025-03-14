@@ -13,4 +13,6 @@ Some restaurants that are also open on Sunday and Monday and are in walking dist
 * [Restaurant Fiorentina Basel](https://www.fiorentinabasel.ch/home)
 * [KLARA](https://www.klarabasel.ch/)
 
+The webpage of the [EFSPI regulatory statistics workshop](https://efspieurope.github.io/workshop/restaurants.html) also offers a lightly curated list of restaurants.
+
 For a comprehensive list, see [the website of Basel](https://www.basel.com/en/eating-out/all-restaurants).
