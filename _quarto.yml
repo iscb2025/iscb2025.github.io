@@ -57,6 +57,8 @@ website:
           href: restaurants.qmd
       - text: "FAQ"
         href: faq.qmd
+      - text: "Sponsors"
+        href: sponsors.qmd
   favicon: img/favicon.jpg
 
 
