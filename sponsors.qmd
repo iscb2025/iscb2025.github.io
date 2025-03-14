@@ -9,7 +9,7 @@ format: html
 
 <div style="width: 100%; text-align: center; padding: 15px; background-color: #f8f9fa; border-top: 3px solid #2f3e55; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 3px solid #2f3e55;">
   <h3 style="color: #2f3e55; font-size: 1.5em; margin: 0;"> &nbsp;&nbsp;&nbsp;Become a Sponsor</h3>
-  <a href="sponsor.pdf" download class="btn btn-primary" style="background-color: #2f3e55; border-color: #2f3e55; font-size: 1em; padding: 8px 20px; color: #fff; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">
+  <a href="data/ISCB46_SponsoringBrochure.pdf" download class="btn btn-primary" style="background-color: #2f3e55; border-color: #2f3e55; font-size: 1em; padding: 8px 20px; color: #fff; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">
     Download Brochure
   </a>
 </div>
