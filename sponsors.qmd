@@ -34,3 +34,9 @@ format: html
 ### Gold Sponsors {style="text-align: center;"}
 <br>
 <a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a><br> <br>
+
+### Silver Sponsors {style="text-align: center;"}
+<br>
+<br>
+<a href="https://www.datamap.de/">![](img/sponsors/silver_datamap.png){width="18%"}</a>
+
