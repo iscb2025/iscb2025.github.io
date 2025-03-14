@@ -34,7 +34,7 @@ key_dates <- list(
     tribble(
       ~ Item, ~ Date,
       "Deadline", ymd("2025-02-14"),
-      "Notifications sent", ymd("2025-04-04")
+      "Notifications sent", ymd("2025-04-11")
     ),
   "Registration" =
     tribble(
