@@ -41,8 +41,8 @@ travel costs (100/350/700 Euro for Switzerland/Europe/Intercontinental).
 Note that we reserve the right to cancel courses with low number of
 participants.
 
-[Deadline for pre-conference course submissions](key-dates.html) is
-**midnight (CEST)** on **Sunday January 5th, 2025**.
+[Deadline for pre-conference course submissions](key-dates.html) was
+on **Sunday January 5<sup>th</sup>, 2025, 23:59 (CEST)**.
 
 Notification of acceptance will be by February 7th, 2025.
 
@@ -57,8 +57,8 @@ section](https://www.conftool.org/iscb2025/index.php?page=submissions).
 Please note the following key points:
 
 -   The call for abstracts opens on **Monday, December 9<sup>th</sup>, 2025**.
--   [Deadline for abstract submissions](key-dates.html) is **midnight
-    (CEST)** on **Friday, February 14<sup>th</sup>, 2025**. Note that **the
+-   [Deadline for abstract submissions](key-dates.html) is on 
+    **Friday, February 14<sup>th</sup>, 2025, 23:59 (CEST)**. Note that **the
     abstract submission deadline is final and will not be extended**.
 -   Abstracts submitted by e-mail will not be accepted. **Only
     submissions through the submission portal will be considered**.
