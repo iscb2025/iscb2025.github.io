@@ -1,0 +1,36 @@
+---
+title: "Sponsors"
+editor: 
+  markdown: 
+    wrap: 72
+format: html
+---
+
+
+<div style="width: 100%; text-align: center; padding: 15px; background-color: #f8f9fa; border-top: 3px solid #2f3e55; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 3px solid #2f3e55;">
+  <h3 style="color: #2f3e55; font-size: 1.5em; margin: 0;"> &nbsp;&nbsp;&nbsp;Become a Sponsor</h3>
+  <a href="data/ISCB46_SponsoringBrochure.pdf" download class="btn btn-primary" style="background-color: #2f3e55; border-color: #2f3e55; font-size: 1em; padding: 8px 20px; color: #fff; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">
+    Download Brochure
+  </a>
+</div>
+
+
+
+
+<br>
+<br>
+
+### Platinum Sponsors {style="text-align: center;"}
+<br>
+<a href="https://www.novartis.com/">![](img/sponsors/platinum_novartis.png){width="55%"}</a>
+<span style="display:inline-block; width:10px;"></span>
+<a href="https://www.roche.com/">![](img/sponsors/platinum_roche.png){width="27%"}</a>
+<span style="display:inline-block; width:57px;"></span>
+<a href="https://www.sas.com/en_us/home.html/">![](img/sponsors/platinum_sas.png){width="21%"}</a>
+<span style="display:inline-block; width:57px;"></span>
+<a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="35%"}</a>
+<br><br>
+
+### Gold Sponsors {style="text-align: center;"}
+<br>
+<a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a><br> <br>
