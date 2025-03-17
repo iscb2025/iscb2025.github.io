@@ -94,3 +94,11 @@ Society for Clinical Biostatistics (ISCB)</h1>
 <br>
 <br>
 <a href="https://www.datamap.de/">![](img/sponsors/silver_datamap.png){width="18%"}</a>
+<span style="display:inline-block; width:20px;"></span>
+<a href="https://www.boehringer-ingelheim.com/">![](img/sponsors/silver_bi.png){width="18%"}</a>
+
+
+### Bronze Sponsors {style="text-align: center;"}
+<br>
+<br>
+<a href="https://www.routledge.com/statistics">![](img/sponsors/bronze_taylorfrancis.png){width="20%"}</a>
