@@ -5,7 +5,8 @@ editor:
     wrap: 72
 ---
 
-On **Thursday, August 28th, 2025**, the last day of the 46th annual conference of the ISCB, the following mini symposia will take place:
+On **Thursday, August 28th, 2025**, the last day of the 46th annual conference of the ISCB, the following mini symposia will take place. Mini-symposia are included in the price of the main conference (see the [registration page](registration.qmd) for details) and must be selected during registration.
+It is also possible to register for the mini symposia separately (without registering for the rest of the conference). 
 
 ## Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum
 
