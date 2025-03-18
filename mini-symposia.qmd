@@ -1,0 +1,72 @@
+---
+title: "Mini-Symposia"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum
+
+**Date:** Thursday morning\
+**Organizers:** Alex Ocampo, Cristina Sotto in collaboration with the
+PSI special interest group in Causal Inference.
+
+### Objective
+
+Causal inference is emerging as an indispensable tool for statisticians
+to properly answer clinical questions of interest. This is due to a
+mathematically rigorous framework - i.e. potential outcomes - that can
+explicitly formalize causal effects (estimands) of interest and their
+identification assumptions. An often-overlooked benefit of adopting a
+causal toolkit is that it can help create a bridge between statisticians
+and subject matter experts. For example, causal diagrams can visualize
+the interplay between various clinical factors and the paths on these
+diagrams can be used to identify effects of interest together with
+clinical colleagues. Additionally, causal effects can be defined with
+simple contrasts of potential outcomes which are generally more closely
+related to clinical questions than the parameters of statistical models.
+This mini symposium will equip participants with fundamental tools from
+causal inference to enable them to improve their collaborations with
+clinicians and other non-statistician subject matter experts. Through an
+introductory lecture on causal inference, a guided hands-on practicum in
+small breakout groups, and a panel discussion with causal inference
+experts, attendees of this mini symposium will have the chance to
+experience how causal inference can assist in improving collaborations
+between statisticians and clinicians.
+
+
+## Mini-Symposium 2: Early Career Biostatisticians' (ECB) Day
+
+**Date:** Thursday morning\
+**Organizers:** TBD.
+
+### Objective
+
+TBD
+
+## Mini-Symposium 3: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis
+
+**Date:** Thursday morning\
+**Organizers:** Anne-Laure Boulesteix, Willi Sauerbrei
+
+### Objective
+Although new biostatistical methods are published at a very high rate, many of these developments are not independently evaluated, raising potential concerns about the accuracy and validity of the results. Similar to the well-known phases of research in drug development, Heinze et al. (2024) propose to identify four phases of methodological research. The first of the four phases (I) covers proposing a new methodological idea while providing, for example, logical reasoning or proofs. The three further phases aim at providing empirical evidence helping to evaluate the method’s performance in either simulations studies or real-world analyses, with a gradually increasing complexity of the settings and level of evidence. Phase II considers a narrow target setting, while phase III relies on an extended range of settings and for various outcomes, accompanied by appropriate application examples. Finally, phase IV involves investigations that establish a method as sufficiently well-understood to know when it is preferred over others and when it is not; including a systematic exploration of its potential pitfalls.
+
+In a session of one hour, we will have four talks starting with an introductory presentation of the phases concept (Georg Heinze), followed by three presentations, each revisiting the development history of a specific important biostatistical method, in light of this concept. These three talks will aim at illustrating what phases of methods’ development and evaluation were considered and how they were implemented. Together, they may contribute to a further refinement of the phases of methodological research and stimulate discussions around these pivotal issues. Michal Abrahamowicz will speak about ‘Phases of development of the Weighted Cumulative Exposure modeling of time-varying exposures in time-to-event analyses’, the title of a talk by Willi Sauerbrei is ‘Investigating treatment effect modification by a continuous covariate – development of the MFPI (Multivariable Fractional Polynomial Interaction) approach’, and the third speaker will be determined soon.
+
+Lead by TG3 (Initial data analysis), the project ‘SAPI – Statistical Analysis Plan for Observational Studies with Initial Data Analysis’ was registered on the EQUATOR website as a reporting guideline under development for observational studies. The project is in an advanced stage and will be presented by Carsten Schmidt.
+
+Furthermore, we will have three or four talks from topic groups or joint projects. These talks will center around deriving guidance for highly relevant issue in the analysis of observational studies.
+
+Heinze, G., Boulesteix, A. L., Kammer, M., Morris, T. P., White, I. R., & Simulation Panel of the STRATOS Initiative. (2024). Phases of methodological research in biostatistics—building the evidence base for new methods. Biometrical Journal, 66(1), 2200222.
+
+
+## Mini-Symposium 4: Enhancing Cancer Clinical Trials with Patient-Reported Outcomes: Insights from SISAQOL-IMI
+**Date:** Thursday afternoon\
+**Organizers:** Corneel Coens on behalf of SISAQOL-IMI
+
+### Objective
+The SISAQOL-IMI (Setting International Standards in Analysing Patient-Reported Outcomes and Quality of Life Endpoints in Cancer Clinical Trials) is an international multidisciplinary consortium with funding from the Innovative Medicines Initiative (IMI) aimed to reach standardization for the design, analysis, interpretation and presentation of patient-reported-outcomes (PROs) in cancer clinical trials across various stakeholders (e.g., industry, regulators, HTA bodies, academia, clinicians, patients). 
+
+This mini-symposium will report on the experience and progress that led to 146 specific consensus -based recommendations. We will also demonstrate how these recommendations can be easily implemented following practical validation. Application of these recommendation will ensure that PRO objectives can be translated into meaningful design, analysis and reporting considerations. This symposium is relevant not only for statisticians but also for other stakeholders (such as clinicians, patients, pharmaceutical industry, …). As a large part of the recommendation are aimed at improving communication and understanding of PRO objectives so that the results of cancer clinical trials can be interpreted by all in a standardized manner.
+
