@@ -34,7 +34,7 @@ courses <- tribble(
 ```
 ## Overview
 
-The following short courses will be held **in-person-only** on **Sunday, 24<sup>th</sup> of August 2025** (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book short courses.    
+The following short courses will be held **in-person-only** on **Sunday, 24<sup>th</sup> of August 2025** (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book pre-conference courses. See the [registration](registration.qmd#courses) page for details on the registration costs for the pre-conference courses.
 
 ```{r, echo=F, include=T, results = "asis"}
 kbl(courses, escape = F, format = "html", table.attr = "quarto-disable-processing=true") %>%
@@ -81,7 +81,7 @@ personalized targeted therapies for advanced breast cancer.
 
 **Instructors:**
 
-* Audrey Te-ying Yeo, TBA
+* Audrey Te-ying Yeo, Independent
 * Alessandro Gasparini, Red Door Analytics AB
 * Daniel Sabanés Bové, RCONIS
 
