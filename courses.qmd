@@ -1,0 +1,252 @@
+---
+title: "Pre-conference Courses"
+---
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(tibble) 
+library(dplyr)
+library(knitr)
+library(kableExtra)
+
+courses <- tribble(
+  ~Time, ~Course, ~Instructors,
+  "Full-day", "Bayesian Methods for Precision Medicine", "Peter F. Thall",  
+  "Full-day", "Good Software Engineering Practice for R Packages", "Audrey Te-ying Yeo,<br>Alessandro Gasparini,<br>Daniel Sabanés Bové",
+  "Full-day", "Multi-State Models:<br>Theory, Applications and New Developments", "Liesbeth de Wreede,<br>Hein Putter",
+  "Full-day", "Network Meta-Analysis:<br>From Key Concepts to Advanced Methods", "Virginia Chiocchia,<br>Konstantina Chalkou,<br>Orestis Efthimiou,<br>Tasnim Hamza,<br>Georgia Salanti", 
+  "Morning", "Targeted Learning", "Oliver Dukes,<br>Stijn Vansteelandt,<br>Shaun Seaman",
+  "Afternoon", "The Design of Simulation Studies", "Tim P. Morris,<br>Ian R. White"
+) |> 
+  mutate(
+    Course = paste0(
+      "<a href='#", 
+      Course |>
+        gsub(pattern = "<br>", replacement = "-", fixed = TRUE) |> 
+        gsub(pattern = " ", replacement = "-", fixed = TRUE) |> 
+        gsub(pattern = ":", replacement = "", fixed = TRUE) |> 
+        gsub(pattern = ",", replacement = "", fixed = TRUE) |> 
+        tolower()
+      , 
+      "'>", Course, "</a>"
+    )
+  )
+
+```
+## Overview
+
+The following short courses will be held **in-person-only** on **Sunday, 24<sup>th</sup> of August 2025** (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book pre-conference courses. See the [registration](registration.qmd#courses) page for details on the registration costs for the pre-conference courses.
+
+```{r, echo=F, include=T, results = "asis"}
+kbl(courses, escape = F, format = "html", table.attr = "quarto-disable-processing=true") %>%
+  column_spec(2, width = "55%") %>%
+  column_spec(3, width = "35%") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+cat("\n") 
+```
+
+
+## Bayesian Methods for Precision Medicine
+
+**Instructor:**
+
+* Peter F. Thall, M.D. Anderson Cancer Center, United States of America
+
+This half day short course will
+present statistical concepts and methods related to precision, or
+'personalized' medicine, which uses individual patient covariates to
+choose treatment or doses. The topics are drawn from the book, 'Bayesian
+Precision Medicine' published by Chapman and Hall in 2024. To start, the
+problem of comparing immunotherapy to prayer for treating a severe
+disease will be discussed. Basic concepts of causal inference will be
+reviewed, including bias correction methods for analyzing observational
+data, causal diagrams, with both toy and real-world illustrative
+examples. Two clinical trial designs will be reviewed that aim to
+identify optimal subgroup-specific doses or treatments in particular
+medical settings, each using a utility of a multivariate outcome. The
+first is a phase 1-2 design that uses the joint utility of five
+time-to-event outcomes to optimize patient subgroup-specific natural
+killer cell doses for treating advanced leukemia or lymphoma. The second
+design does phase 2 treatment screening and selection, illustrated by a
+randomized three-arm trial to compare targeted agents. Two data analyses
+that apply Bayesian nonparametric regression models to identify optimal
+covariate-specific treatments then will be presented. The first analysis
+uses observational data to identify optimal covariate-specific doses of
+intravenous busulfan as part of the preparative regimen for allogeneic
+stem cell transplantation. The second is a re-analysis of a published
+dataset from a randomized trial, with a joint utility of progression
+free survival time and total toxicity burden used to choose optimal
+personalized targeted therapies for advanced breast cancer.
+
+## Good Software Engineering Practice for R Packages
+
+**Instructors:**
+
+* Audrey Te-ying Yeo, Independent
+* Alessandro Gasparini, Red Door Analytics AB
+* Daniel Sabanés Bové, RCONIS
+
+The vast majority of statisticians in academia and
+industry alike write statistical software daily. Nonetheless, software
+engineering principles are often neglected in biostatistics: most
+biostatisticians know a programming language (such as R) but lack formal
+training in writing reusable and reliable code.
+
+This course aims to equip participants with the essential software
+engineering practices required to develop and maintain robust R
+packages. With the growing demand for reproducible research and the
+increasing complexity of statistical methods developed for
+multidimensional data, writing high-quality R packages has become a
+critical skill for statisticians to prototype, develop, and disseminate
+novel methods and push their adoption in practice. The course will focus
+on the key principles of software engineering, such as workflows,
+modular design, version control, testing, documentation, and quality
+indicators. Focussing on these aspects ensures the reliability and
+sustainability of R packages.
+
+Participants will learn how to structure their R packages following best
+practices and making use of tools that streamline the development
+process. The course will also cover version control using Git, allowing
+participants to manage code changes effectively and collaborate with
+others. A significant emphasis will be placed on writing and running
+unit tests, ensuring that packages are error-free and behave as expected
+across different environments and over time.
+
+Furthermore, the course will cover quality indicators for R packages and
+explore techniques for writing effective documentation, enabling users
+to pick, understand, and use statistical software packages effectively.
+
+By the end of the course, participants will have a solid understanding
+of good software engineering principles tailored to R package
+development, enabling them to build packages that are not only
+functional but also reliable, reusable, and easy to maintain.
+
+## Multi-State Models: Theory, Applications and New Developments
+
+**Instructors:**
+
+* Liesbeth de Wreede, Leiden University Medical Center, Netherlands
+* Hein Putter, Leiden University Medical Center, Netherlands
+
+The Multi-state models play an increasingly important role in the
+analysis of time-to-event data. They provide a comprehensive framework
+to analyze and understand complex medical phenomena, making them
+invaluable in research aimed at improving patient care, guiding public
+health policies, and advancing medical science. Extensions of the
+Nelson-Aalen estimator of the cumulative hazard and of the Kaplan-Meier
+estimator of the survival function allow for a detailed assessment of
+the dynamics of complex disease processes and patient trajectories, and
+the effect of covariates on these patterns.
+
+In the first half we offer a brief coverage of basic concepts and
+techniques in multi-state models, focusing on non- and semi-parametric
+(Cox-model based) Markov models. We start with an introduction to
+important concepts, in particular transition intensities (rates) and
+transition probabilities (risks) and the relation between them, viewing
+multi-state models as an extension of competing risks models. We
+continue with methods for assessment of the effect of covariates on the
+transition intensities through proportional hazards models. Throughout
+the course, all steps needed for a multi-state analysis will be
+illustrated with examples and syntax based on the mstate package in R.
+
+In the second half we focus on two selected topics related to more
+recent advancements in multi-state modelling. The first concerns the
+Markov assumption. We discuss formal tests for the Markov assumption. We
+explore estimation of transition probabilities that are consistent also
+when the Markov assumption is violated, in particular the landmark
+Aalen-Johansen estimator, and extensions like the hybrid landmark
+Aalen-Johansen estimator. The second topic concerns incorporation of
+relative survival in multi-state models. This allows to split mortality
+in excess and background mortality with and without intermediate events.
+Two different models for assessing the impact of covariates on the
+excess hazard will be introduced: the Cox model and Aalen's additive
+hazards model. 
+
+## Network Meta-Analysis: From Key Concepts to Advanced Methods
+
+**Instructors:**
+
+* Virginia Chiocchia, Institute of Social and Preventive Medicine, University of Bern, Switzerland
+* Konstantina Chalkou, Institute of Social and Preventive Medicine, University of Bern, Switzerland
+* Orestis Efthimiou, Institute of Primary Health Care (BIHAM), University of Bern, Switzerland 
+* Tasnim Hamza, Institute of Social and Preventive Medicine, University of Bern, Switzerland
+* Georgia Salanti, Institute of Social and Preventive Medicine, University of Bern, Switzerland
+
+Network meta-analysis is an extension of pairwise
+meta-analysis that allows us to compare three or more interventions
+simultaneously, by combining direct and indirect evidence from a network
+of studies. Network meta-analysis can be used to estimate the relative
+treatmenteffects between any pair of interventions in the network, it
+increases precision compared to using only direct evidence, and it can
+produce a hierarchy of the interventions.
+
+In the morning session of this full-day course we will demonstrate the
+assumptions and methods of network meta-analysis and network
+meta-regression with interactive lectures and practical exercise. In the
+afternoon we will introduce advanced topics in network meta-analysis,
+such as the use of individual participant data, component network
+meta-analysis for composite interventions, and dose-response analysis.
+
+The course is designed for participants who are familiar with
+meta-analysis and Bayesian statistics. By the end of the course,
+participants will be able to:
+
+-   Understand and assess the assumptions underlying the validity of
+    indirect comparisonsand network meta-analysis
+
+-   Estimate the relative treatment effects between any pair of
+    interventions within a network of studies and present them in a
+    transparent way
+
+-   Assess and test for inconsistency within a network of interventions
+
+-   Formulate a network meta-regression model and interpret the results
+    and output
+
+-   Obtain an overview of advanced methods and extensions in network
+    meta-analysis
+
+The practical exercises will be performed in the statistical software R.
+
+## Targeted Learning
+
+**Instructors:**
+
+* Oliver Dukes, Ghent University, Belgium 
+* Stijn Vansteelandt, Ghent University, Belgium
+* Shaun Seaman, University of Cambridge, United Kingdom
+
+Evaluating treatment effects using observational data or
+trials with complex intercurrent events may require accounting for
+high-dimensional confounding. This course will describe how, in these
+challenging situations, machine learning and variable selection
+procedures can be used to infer causal effects. The first part is a high
+level overview of how and why this methodology works, touching on recent
+developments in 'double machine learning' and 'targeted maximum
+likelihood estimation'. In the second part the participants will
+exercise the concepts and methods explained during the first part via
+the analysis of real data sets.
+
+This introductory course is aimed at researchers in the (pharmaceutical)
+industry and academia working with observational as well as trial data;
+a basic understanding of causal inference can be helpful but is not
+necessary. We foresee a mix of lectures and hands-on exercises using R.
+
+## The Design of Simulation Studies
+
+**Instructors:**
+
+* Tim P. Morris, UCL, United Kingdom
+* Ian R. White, UCL, United Kingdom
+
+Simulation studies are an invaluable tool for 
+biostatistical research, as you will see at the ISCB46 conference this
+week, where they will play a prominent role in many presentations. You
+may even be presenting one of your own. Do you have the confidence to
+thoughtfully critique someone's simulation study, or to defend yours?
+Although it is tempting to think of a simulation studies as a mere
+coding exercise, we have a rather different view. This short course will
+focus on the design of simulation studies, following the ADEMP framework
+(Aims, Data-generating mechanisms, Estimands, Methods of Analysis,
+Performance measures). Practical sessions will be interactive rather
+than computer-based, involving group discussions and debates on issues
+around the design of simulation studies.
