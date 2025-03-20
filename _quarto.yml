@@ -24,12 +24,12 @@ website:
           href: committees.qmd
       - text: "Conference information"
         menu: 
-        - text: "Calls"
-          href: calls.qmd
         - text: "Registration"
           href: registration.qmd
         - text: "Social Program"
           href: social.qmd
+        - text: "Calls (archived)"
+          href: calls.qmd
         - text: "Awards & Support"
         - text: "Best Poster & Presentation Awards"
           href: awards-contributions.qmd
@@ -42,9 +42,14 @@ website:
         - text: "Policies"
         - href: imprint-and-privacy-policy.qmd
           text: "Privacy policy"
-      # - text: "Program"
-      #   menu: 
-      #   - text: "TBD"
+      - text: "Program"
+        menu: 
+         - text: "Pre-conference Courses"
+           href: courses.qmd
+         - text: "Invited Sessions"
+           href: invited-sessions.qmd
+         - text: "Mini-Symposia"
+           href: mini-symposia.qmd
       - text: "About Basel"
         menu:
         - text: "Overview"
