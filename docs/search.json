@@ -105,11 +105,39 @@
     "text": "Can posters be presented remotely?\nNo."
   },
   {
-    "objectID": "faq.html#the-instructions-state-that-each-presenter-may-present-only-one-talkposter.-does-this-mean-i-can-present-a-talk-and-poster-or-one-or-the-other",
-    "href": "faq.html#the-instructions-state-that-each-presenter-may-present-only-one-talkposter.-does-this-mean-i-can-present-a-talk-and-poster-or-one-or-the-other",
+    "objectID": "faq.html#the-instructions-state-that-each-presenter-may-present-only-one-talkposter.does-this-mean-i-can-present-a-talk-and-poster-or-one-or-the-other",
+    "href": "faq.html#the-instructions-state-that-each-presenter-may-present-only-one-talkposter.does-this-mean-i-can-present-a-talk-and-poster-or-one-or-the-other",
     "title": "Frequently Asked Questions",
-    "section": "The instructions state that “Each presenter may present only one talk/poster.” Does this mean I can present a talk and poster or one or the other? ",
-    "text": "The instructions state that “Each presenter may present only one talk/poster.” Does this mean I can present a talk and poster or one or the other? \nNo. Just one or the other."
+    "section": "The instructions state that “Each presenter may present only one talk/poster.”Does this mean I can present a talk and poster or one or the other?",
+    "text": "The instructions state that “Each presenter may present only one talk/poster.”Does this mean I can present a talk and poster or one or the other?\nNo. Just one or the other."
+  },
+  {
+    "objectID": "faq.html#i-need-a-visa.-how-do-i-get-all-the-necessary-information-from-the-organizers",
+    "href": "faq.html#i-need-a-visa.-how-do-i-get-all-the-necessary-information-from-the-organizers",
+    "title": "Frequently Asked Questions",
+    "section": "I need a visa. How do I get all the necessary information from the organizers?",
+    "text": "I need a visa. How do I get all the necessary information from the organizers?\nYou can chose the option of getting a visa invitation while registering for the conference."
+  },
+  {
+    "objectID": "faq.html#i-have-submitted-an-abstract-for-presentation-only.-it-got-rejected.-is-there-an-option-i-still-can-present-a-poster",
+    "href": "faq.html#i-have-submitted-an-abstract-for-presentation-only.-it-got-rejected.-is-there-an-option-i-still-can-present-a-poster",
+    "title": "Frequently Asked Questions",
+    "section": "I have submitted an abstract for “presentation only”. It got rejected. Is there an option I still can present a poster?",
+    "text": "I have submitted an abstract for “presentation only”. It got rejected. Is there an option I still can present a poster?\nNo. Decisions are final. If you have indicated that you are willing to present only and did not make that cut your contribution has been rejected."
+  },
+  {
+    "objectID": "faq.html#i-have-submitted-an-abstract-for-presentation-or-poster.-it-got-rejected.-is-there-an-option-i-still-can-present-a-poster",
+    "href": "faq.html#i-have-submitted-an-abstract-for-presentation-or-poster.-it-got-rejected.-is-there-an-option-i-still-can-present-a-poster",
+    "title": "Frequently Asked Questions",
+    "section": "I have submitted an abstract for “presentation or poster”. It got rejected. Is there an option I still can present a poster?",
+    "text": "I have submitted an abstract for “presentation or poster”. It got rejected. Is there an option I still can present a poster?\nNo. Decisions are final. If you have indicated that you are willing to present a talk or a poster and still have been rejected then your contribution did not make the cut for poster either."
+  },
+  {
+    "objectID": "faq.html#while-submitting-my-abstract-i-have-not-applied-for-either-stca-or-casp.-can-i-still-make-up-for-that-and-apply-after-my-abstract-has-been-accepted",
+    "href": "faq.html#while-submitting-my-abstract-i-have-not-applied-for-either-stca-or-casp.-can-i-still-make-up-for-that-and-apply-after-my-abstract-has-been-accepted",
+    "title": "Frequently Asked Questions",
+    "section": "While submitting my abstract I have not applied for either StCA or CASP. Can I still make up for that and apply after my abstract has been accepted?",
+    "text": "While submitting my abstract I have not applied for either StCA or CASP. Can I still make up for that and apply after my abstract has been accepted?\nNo."
   },
   {
     "objectID": "index.html",
