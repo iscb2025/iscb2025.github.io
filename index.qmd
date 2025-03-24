@@ -31,7 +31,7 @@ title: "2025 Conference"
 
 ::: {.callout-important}
 # Latest News
-**[Early-bird regstration](registration.qmd) has opened!**
+**[Early-bird regstration](registration.qmd) has opened!** See the **[FAQ page](faq.qmd)** for frequently asked questions.
 
 [Keynote speakers and invited sessions](invited-speakers-sessions.qmd) are now available, as is the information on [pre-conference courses](courses.qmd), [mini symposia](mini-symposia.qmd), the [social program](social.qmd) and [accommodation](accommodation.qmd).
 Notifications for abstracts have been sent, and notifications for the StCA and CASP application will be sent on April 11<sup>th</sup>, see the [key dates](key-dates.qmd) page for more information.
