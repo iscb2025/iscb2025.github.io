@@ -9,12 +9,22 @@ editor:
 
 From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply.
 
-<center>[**REGISTER HERE**](https://pcoconvin.eventsair.com/iscb25/regform/Site/Register)</center><br>
-
+<center>[**REGISTER HERE**](https://pcoconvin.eventsair.com/iscb25/regform/Site/Register)</center>
+<br>
 For questions regarding registration, please contact [registrations@iscb2025.info](mailto:registrations@iscb2025.info).
-<br><br>
+<br>
+The fees for the 2025 conference are as follows:
 
 ## Conference 
+
+**Registration Entitlements**
+
+* Attendance to all scientific sessions
+* Conference material
+* Access to the Exhibition Area
+* Coffee breaks & lunches
+* Welcome Reception attendance
+* Access to the Conference proceedings
 
 ```{r, echo=F, results=F, message=F, warning=F}
 library(dplyr)
