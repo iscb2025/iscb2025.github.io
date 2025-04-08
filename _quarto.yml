@@ -40,6 +40,8 @@ website:
         # - href: venue.qmd
         #   text: "Conference venue"
         - text: "Policies"
+        - href: registration-terms.qmd
+          text: "Registration Terms and Conditions"
         - href: imprint-and-privacy-policy.qmd
           text: "Privacy policy"
       - text: "Program"

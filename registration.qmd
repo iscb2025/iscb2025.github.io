@@ -13,7 +13,7 @@ From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply.
 <br>
 For questions regarding registration, please first consult the [frequently-asked-question (FAQ) page](faq.qmd), and only then contact [registrations@iscb2025.info](mailto:registrations@iscb2025.info).
 <br><br>
-The fees for the 2025 conference are as follows (see @nte-cond for details on the categories):
+The fees for the 2025 conference are as follows (see @nte-cond for details on the categories, and the [terms and conditions for registration](registration-terms.qmd)):
 
 ## Conference 
 
