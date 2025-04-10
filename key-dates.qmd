@@ -34,7 +34,7 @@ key_dates <- list(
     tribble(
       ~ Item, ~ Date,
       "Deadline", ymd("2025-02-14"),
-      "Notifications sent", ymd("2025-04-11")
+      "Notifications sent", ymd("2025-04-15")
     ),
   "Registration" =
     tribble(
@@ -108,7 +108,7 @@ key_dates[["Abstract Submissions"]] |> tidy_kable()
 ```{r echo=F, message=F, warning=F}
 key_dates[["Award Applications"]] |> tidy_kable()
 ```
-
+[Original date for notifications: Friday, 11 April 2025]{style="font-size:80%"}
 
 ## Registration
 
