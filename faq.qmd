@@ -8,9 +8,9 @@ title: "Frequently Asked Questions"
 
 ## I have been accepted for a presentation and asked to register quickly. Is there a spot reserved for me, given I will be a presenter? 
 
-No. Please register as soon as possible. Registrations may be potentially be capped at some point.
+No. Please register as soon as possible. Registrations may potentially be capped at some point.
 
-## I have missed the submission deadline (abstrac, pre-conference course)? Can I still submit a contribution? 
+## I have missed the submission deadline (abstract, pre-conference course)? Can I still submit a contribution? 
 
 No.
 

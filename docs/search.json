@@ -613,7 +613,7 @@
     "href": "faq.html#i-have-been-accepted-for-a-presentation-and-asked-to-register-quickly.-is-there-a-spot-reserved-for-me-given-i-will-be-a-presenter",
     "title": "Frequently Asked Questions",
     "section": "I have been accepted for a presentation and asked to register quickly. Is there a spot reserved for me, given I will be a presenter?",
-    "text": "I have been accepted for a presentation and asked to register quickly. Is there a spot reserved for me, given I will be a presenter?\nNo. Please register as soon as possible. Registrations may be potentially be capped at some point."
+    "text": "I have been accepted for a presentation and asked to register quickly. Is there a spot reserved for me, given I will be a presenter?\nNo. Please register as soon as possible. Registrations may potentially be capped at some point."
   },
   {
     "objectID": "faq.html#are-there-block-registrations-or-discounts-for-big-pharma-companies-in-basel",
@@ -642,5 +642,12 @@
     "title": "Frequently Asked Questions",
     "section": "I have signed up for a social event / tour, but now want to cancel it.",
     "text": "I have signed up for a social event / tour, but now want to cancel it.\nPlease read instructions here."
+  },
+  {
+    "objectID": "faq.html#i-have-missed-the-submission-deadline-abstract-pre-conference-course-can-i-still-submit-a-contribution",
+    "href": "faq.html#i-have-missed-the-submission-deadline-abstract-pre-conference-course-can-i-still-submit-a-contribution",
+    "title": "Frequently Asked Questions",
+    "section": "I have missed the submission deadline (abstract, pre-conference course)? Can I still submit a contribution?",
+    "text": "I have missed the submission deadline (abstract, pre-conference course)? Can I still submit a contribution?\nNo."
   }
 ]
