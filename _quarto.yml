@@ -26,6 +26,9 @@ website:
         menu: 
         - text: "Registration"
           href: registration.qmd
+        - text: "Schedule (PDF)"
+          href: data/ISCB46_Schedule.pdf
+          target: "_blank"
         - text: "Social Program"
           href: social.qmd
         - text: "Calls (archived)"
