@@ -5,11 +5,7 @@ editor:
     wrap: 72
 ---
 
-You have been accepted as a speaker for a contributed talk at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions. For more general questions please refer to the [FAQs](faq.html).
-
-# Posting of presentations and recordings for later watching
-
-Do we need to say something about this?
+You have been accepted as a speaker for a contributed talk at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions. 
 
 # Slidedecks and short bio
 
@@ -21,4 +17,10 @@ Please share a short bio with your session chair so that he/her can introduce yo
 
 - The conference will run as hybrid, i.e. with participants in the room and online.
 
+# Posting of presentations and recordings for later watching
 
+Do we need to say something about this?
+
+# FAQs
+
+For more general questions please refer to the [FAQs](faq.html).

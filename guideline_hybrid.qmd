@@ -1,100 +1,15 @@
 ---
-title: "Guideline for speakers"
+title: "Guideline for remote participants"
 editor: 
   markdown: 
     wrap: 72
 ---
 
-You have been accepted as a speaker at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions. For more general questions please refer to the [FAQs](faq.html).
+You have registered for ISCB46 as a hybrid participant. In this document we summarize answers to some common questions and further instructions. 
 
-For reimbursement please complete [this form](data/2024/20240911_EFSPI_workshop_reimbursement.docx) and send it to [Egbert Biesheuvel](mailto:egbert.biesheuvel@viatris.com).
 
-Registration fee is not waived for poster and short topic session presenters.
 
-# Hotels
 
-We ask you to book your travel and accommodation yourself. We have reserved rooms at the following hotels:
+# FAQs
 
-- [Hotel D 4*](https://www.hoteld-basel.ch/en/).
-  - 11 min walk from venue.
-  - Rate = 173 CHF incl breakfast (plus 4.20 CHF city tax/night).
-  - Book directly via email basel@hoteld.ch with keyword "EFSPI2025".
-  - Room contingent blocked until 21st Aug 2025 or when all blocked rooms have been booked.
-- [Motel One 3*](https://www.motel-one.com/en/hotels/basel/hotel-basel/)
-  - 15 min by tram to venue.
-  - Rate = CHF 159 per night (excluding breakfast / Buffet available for 19.50 CHF, plus 4.20 CHF city tax/night).
-  - Book directly via e-mail to res.basel@motel-one.com with keyword "EFSPI2025".
-  - Room contingent blocked until 1st Sep 2025 or when all blocked rooms have been booked.
-- [Hotel Spalentor 4*](http://www.hotelspalentor.ch).
-  - 8 min walk from venue.
-  - Rate = 169 CHF incl breakfast (plus 4.20 CHF city tax/night).
-  - Book directly via email to info@hotelspalentor.ch or call (+41 61 262 26 26) with keyword "EFSPI2025".
-  - Room contingent blocked until 30th July  2025 or when all blocked rooms have been booked.
-
-Should you have any questions, please reach out to [bibiana.blatna@novartis.com](mailto:bibiana.blatna@novartis.com).
-
-No pre-reservation is possible at Hotel Odelya 3* (9 min walk from venue). Book online [here](https://www.odelya.ch/en).
-
-# Posting of presentations on EFSPI webpage
-
-After the workshop, we would like to post presentation slide decks and recordings of the webinars to the EFSPI webpage (see `r paste("[here](", past[past["Year"] == last, "Slidedecks"], ")", sep = "")` for the `r last` issue). Please let us know in case you would prefer NOT to post your slides and/or the recording to the EFSPI webpage by sending an email to [Helle Lynggaard](mailto:hlyn@novonordisk.com).
-
-# Recording
-
-If possible we would like to record the session and post it on the EFSPI webpage (see `r paste("[EFSPI regulatory statistics workshop ", last, "](", past[past[, "Year"] == last, "Slidedecks"], ")", sep = "")` for the `r last` issue). Please do let us know in case you would prefer NOT to be recorded. If $\ge 1$ contributor opts out of recording we will not record the entire session.
-
-# Slidedecks and short bio
-
-We would be very grateful to receive the final version of your presentation slidedeck by `r colFmt("2nd September 2024", "red")`. This, in order to be flexible and to potentially run the slides from our end in case of issues with the internet connection.
-
-We would also appreciate if you could share with us a short paragraph that the session chairs will use to introduce you during the session.
-
-Please send all these materials to [Helle Lynggaard](mailto:hlyn@novonordisk.com) and cc: your respective session chairs.
-
-# Session chairs
-
-Some preliminaries for chairing:
-
-- The unique feature of the workshop is an atmosphere of collaboration and open discussion of statistical and regulatory science in general.
-- As chairs you should set directions for the session and promote high-quality discussions.
-
-In order to meet these goals we therefore propose the following preparatory actions:
-
-- Call for at least one teleconference prior to workshop (early enough as the workshop is rather shortly after typical summer vacation dates).
-- Align talks to avoid duplication.
-- Remind speakers to rather focus on principles and regulatory actions than technical (statistical) details.
-- Remind speakers to send slides to [Helle Lynggaard](mailto:hlyn@novonordisk.com) by `r colFmt("2nd September 2024", "red")` with cc: the session chairs.
-- Timing: keep allocated time for each presentation and for the session overall. Remind speakers of their allocated time.
-- Clarify with speakers `r colFmt("prior to the workshop")` whether they are ok to post their slides and / or the recording of their session on the workshop webpage.
-- Remind speakers to use a headphone (not speak to their computers).
-
-When chairing the session:
-
-- Call out those on the phone so that they can contribute to the discussion as well.
-- Prioritise discussions at the end of the session and only take clarifying questions in-between presentations. Exception: sessions on regulatory updates.
-- Stick to the allocated time and end on time.
-- Presenters in the room: do not use hand-held mic, but head mics.
-- Be aware of the chat monitors and mic runners.
-
-# Technical setup and how we plan to run the sessions
-
-- The conference will run as hybrid, i.e. with participants in the room and online.
-- The webinar tool that we will most likely use is Zoom. The dial-in details will be added to the invite (which is already in your calendar) in due time.
-- We will open the Zoom session at least 30min prior to the scheduled starting date and invite everyone to dial in early.
-- Preference is to run the slides centrally by the chairs. However, speakers can opt to drive the slides themselves. If you prefer to do so please familiarize yourself with Zoom and your own setup such that transitions from one speaker to the next can be made efficiently.
-- We will invite attendees to ask questions in the Zoom chat. Every attendee can see them. The chairs will structure them and ask them in the panel discussion.
-
-# Dial-in instructions
-
-See [here](dialin.html).
-
-# Poster presentations
-
-Panels for poster presenters will be available. Poster should be the usual standard format (there is no template available or required), portrait format (we can cater up to A0, but no landscape format). Pins will be available. The idea is that at least during the official lunch & poster session (11th September) that you would be near your poster and discuss and answer questions of participants.
-
-Registration fee for poster presenters is not waived.
-
-# Questions?
-
-For feedback and questions send an email to [info@efspiworkshop.org](mailto:info@efspiworkshop.org).
-
+For more general questions please refer to the [FAQs](faq.html).

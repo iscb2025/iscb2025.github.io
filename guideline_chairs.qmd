@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-You have agreed to be a chair of a session ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions. For more general questions please refer to the [FAQs](faq.html).
+You have agreed to be a chair of a session ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions. 
 
 # Technical setup and how we plan to run the sessions
 
@@ -20,4 +20,6 @@ Your task prior and during the session are:
 - Call out those on the phone so that they can questions as well.
 - Be aware of the chat monitors and mic runners.
 
+# FAQs
 
+For more general questions please refer to the [FAQs](faq.html).
