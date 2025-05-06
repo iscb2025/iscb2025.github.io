@@ -80,6 +80,8 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -235,9 +237,15 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#posting-of-presentations-and-recordings-for-later-watching" id="toc-posting-of-presentations-and-recordings-for-later-watching" class="nav-link active" data-scroll-target="#posting-of-presentations-and-recordings-for-later-watching">Posting of presentations and recordings for later watching</a></li>
+  <li><a href="#hotels" id="toc-hotels" class="nav-link active" data-scroll-target="#hotels">Hotels</a></li>
+  <li><a href="#posting-of-presentations-on-efspi-webpage" id="toc-posting-of-presentations-on-efspi-webpage" class="nav-link" data-scroll-target="#posting-of-presentations-on-efspi-webpage">Posting of presentations on EFSPI webpage</a></li>
+  <li><a href="#recording" id="toc-recording" class="nav-link" data-scroll-target="#recording">Recording</a></li>
   <li><a href="#slidedecks-and-short-bio" id="toc-slidedecks-and-short-bio" class="nav-link" data-scroll-target="#slidedecks-and-short-bio">Slidedecks and short bio</a></li>
+  <li><a href="#session-chairs" id="toc-session-chairs" class="nav-link" data-scroll-target="#session-chairs">Session chairs</a></li>
   <li><a href="#technical-setup-and-how-we-plan-to-run-the-sessions" id="toc-technical-setup-and-how-we-plan-to-run-the-sessions" class="nav-link" data-scroll-target="#technical-setup-and-how-we-plan-to-run-the-sessions">Technical setup and how we plan to run the sessions</a></li>
+  <li><a href="#dial-in-instructions" id="toc-dial-in-instructions" class="nav-link" data-scroll-target="#dial-in-instructions">Dial-in instructions</a></li>
+  <li><a href="#poster-presentations" id="toc-poster-presentations" class="nav-link" data-scroll-target="#poster-presentations">Poster presentations</a></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions?</a></li>
   </ul>
 </nav>
     </div>
@@ -261,21 +269,100 @@ cookieconsent.run({
 
 </header>
 
-<p>You have been accepted as a speaker for a contributed talk at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions. For more general questions please refer to the <a href="faq.html">FAQs</a>.</p>
-<section id="posting-of-presentations-and-recordings-for-later-watching" class="level1">
-<h1>Posting of presentations and recordings for later watching</h1>
-<p>Do we need to say something about this?</p>
+<p>You have been accepted as a speaker at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions. For more general questions please refer to the <a href="faq.html">FAQs</a>.</p>
+<p>For reimbursement please complete <a href="data/2024/20240911_EFSPI_workshop_reimbursement.docx">this form</a> and send it to <a href="mailto:egbert.biesheuvel@viatris.com">Egbert Biesheuvel</a>.</p>
+<p>Registration fee is not waived for poster and short topic session presenters.</p>
+<section id="hotels" class="level1">
+<h1>Hotels</h1>
+<p>We ask you to book your travel and accommodation yourself. We have reserved rooms at the following hotels:</p>
+<ul>
+<li><a href="https://www.hoteld-basel.ch/en/">Hotel D 4*</a>.
+<ul>
+<li>11 min walk from venue.</li>
+<li>Rate = 173 CHF incl breakfast (plus 4.20 CHF city tax/night).</li>
+<li>Book directly via email basel@hoteld.ch with keyword “EFSPI2025”.</li>
+<li>Room contingent blocked until 21st Aug 2025 or when all blocked rooms have been booked.</li>
+</ul></li>
+<li><a href="https://www.motel-one.com/en/hotels/basel/hotel-basel/">Motel One 3*</a>
+<ul>
+<li>15 min by tram to venue.</li>
+<li>Rate = CHF 159 per night (excluding breakfast / Buffet available for 19.50 CHF, plus 4.20 CHF city tax/night).</li>
+<li>Book directly via e-mail to res.basel@motel-one.com with keyword “EFSPI2025”.</li>
+<li>Room contingent blocked until 1st Sep 2025 or when all blocked rooms have been booked.</li>
+</ul></li>
+<li><a href="http://www.hotelspalentor.ch">Hotel Spalentor 4*</a>.
+<ul>
+<li>8 min walk from venue.</li>
+<li>Rate = 169 CHF incl breakfast (plus 4.20 CHF city tax/night).</li>
+<li>Book directly via email to info@hotelspalentor.ch or call (+41 61 262 26 26) with keyword “EFSPI2025”.</li>
+<li>Room contingent blocked until 30th July 2025 or when all blocked rooms have been booked.</li>
+</ul></li>
+</ul>
+<p>Should you have any questions, please reach out to <a href="mailto:bibiana.blatna@novartis.com">bibiana.blatna@novartis.com</a>.</p>
+<p>No pre-reservation is possible at Hotel Odelya 3* (9 min walk from venue). Book online <a href="https://www.odelya.ch/en">here</a>.</p>
+</section>
+<section id="posting-of-presentations-on-efspi-webpage" class="level1">
+<h1>Posting of presentations on EFSPI webpage</h1>
+<p>After the workshop, we would like to post presentation slide decks and recordings of the webinars to the EFSPI webpage (see <code>r paste("[here](", past[past["Year"] == last, "Slidedecks"], ")", sep = "")</code> for the <code>r last</code> issue). Please let us know in case you would prefer NOT to post your slides and/or the recording to the EFSPI webpage by sending an email to <a href="mailto:hlyn@novonordisk.com">Helle Lynggaard</a>.</p>
+</section>
+<section id="recording" class="level1">
+<h1>Recording</h1>
+<p>If possible we would like to record the session and post it on the EFSPI webpage (see <code>r paste("[EFSPI regulatory statistics workshop ", last, "](", past[past[, "Year"] == last, "Slidedecks"], ")", sep = "")</code> for the <code>r last</code> issue). Please do let us know in case you would prefer NOT to be recorded. If <span class="math inline">\(\ge 1\)</span> contributor opts out of recording we will not record the entire session.</p>
 </section>
 <section id="slidedecks-and-short-bio" class="level1">
 <h1>Slidedecks and short bio</h1>
-<p>Please upload your slidedeck to conftool by xxx.</p>
-<p>Please share a short bio with your session chair so that he/her can introduce you before your talk.</p>
+<p>We would be very grateful to receive the final version of your presentation slidedeck by <code>r colFmt("2nd September 2024", "red")</code>. This, in order to be flexible and to potentially run the slides from our end in case of issues with the internet connection.</p>
+<p>We would also appreciate if you could share with us a short paragraph that the session chairs will use to introduce you during the session.</p>
+<p>Please send all these materials to <a href="mailto:hlyn@novonordisk.com">Helle Lynggaard</a> and cc: your respective session chairs.</p>
+</section>
+<section id="session-chairs" class="level1">
+<h1>Session chairs</h1>
+<p>Some preliminaries for chairing:</p>
+<ul>
+<li>The unique feature of the workshop is an atmosphere of collaboration and open discussion of statistical and regulatory science in general.</li>
+<li>As chairs you should set directions for the session and promote high-quality discussions.</li>
+</ul>
+<p>In order to meet these goals we therefore propose the following preparatory actions:</p>
+<ul>
+<li>Call for at least one teleconference prior to workshop (early enough as the workshop is rather shortly after typical summer vacation dates).</li>
+<li>Align talks to avoid duplication.</li>
+<li>Remind speakers to rather focus on principles and regulatory actions than technical (statistical) details.</li>
+<li>Remind speakers to send slides to <a href="mailto:hlyn@novonordisk.com">Helle Lynggaard</a> by <code>r colFmt("2nd September 2024", "red")</code> with cc: the session chairs.</li>
+<li>Timing: keep allocated time for each presentation and for the session overall. Remind speakers of their allocated time.</li>
+<li>Clarify with speakers <code>r colFmt("prior to the workshop")</code> whether they are ok to post their slides and / or the recording of their session on the workshop webpage.</li>
+<li>Remind speakers to use a headphone (not speak to their computers).</li>
+</ul>
+<p>When chairing the session:</p>
+<ul>
+<li>Call out those on the phone so that they can contribute to the discussion as well.</li>
+<li>Prioritise discussions at the end of the session and only take clarifying questions in-between presentations. Exception: sessions on regulatory updates.</li>
+<li>Stick to the allocated time and end on time.</li>
+<li>Presenters in the room: do not use hand-held mic, but head mics.</li>
+<li>Be aware of the chat monitors and mic runners.</li>
+</ul>
 </section>
 <section id="technical-setup-and-how-we-plan-to-run-the-sessions" class="level1">
 <h1>Technical setup and how we plan to run the sessions</h1>
 <ul>
 <li>The conference will run as hybrid, i.e.&nbsp;with participants in the room and online.</li>
+<li>The webinar tool that we will most likely use is Zoom. The dial-in details will be added to the invite (which is already in your calendar) in due time.</li>
+<li>We will open the Zoom session at least 30min prior to the scheduled starting date and invite everyone to dial in early.</li>
+<li>Preference is to run the slides centrally by the chairs. However, speakers can opt to drive the slides themselves. If you prefer to do so please familiarize yourself with Zoom and your own setup such that transitions from one speaker to the next can be made efficiently.</li>
+<li>We will invite attendees to ask questions in the Zoom chat. Every attendee can see them. The chairs will structure them and ask them in the panel discussion.</li>
 </ul>
+</section>
+<section id="dial-in-instructions" class="level1">
+<h1>Dial-in instructions</h1>
+<p>See <a href="dialin.html">here</a>.</p>
+</section>
+<section id="poster-presentations" class="level1">
+<h1>Poster presentations</h1>
+<p>Panels for poster presenters will be available. Poster should be the usual standard format (there is no template available or required), portrait format (we can cater up to A0, but no landscape format). Pins will be available. The idea is that at least during the official lunch &amp; poster session (11th September) that you would be near your poster and discuss and answer questions of participants.</p>
+<p>Registration fee for poster presenters is not waived.</p>
+</section>
+<section id="questions" class="level1">
+<h1>Questions?</h1>
+<p>For feedback and questions send an email to <a href="mailto:info@efspiworkshop.org">info@efspiworkshop.org</a>.</p>
 
 
 </section>
