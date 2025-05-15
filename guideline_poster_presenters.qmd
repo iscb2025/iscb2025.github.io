@@ -7,11 +7,17 @@ editor:
 
 You have been accepted as a poster presenter at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions.
 
-# Poster presentations
+Please find below some guidance for creating and submitting your poster for the conference:
 
-- Panels for poster presenters will be available.
-- Poster should be the usual standard format (there is no template available or required), portrait format (we can cater up to A0, but no landscape format).
-- Pins will be available.
+## Poster sessions
+
+We are not organizing a dedicated poster session where you will be standing next to your poster, but we encourage you to stand next to your poster during the coffee breaks and lunches.
+
+## Poster Format
+
+Size: <b>A0 portrait</b> orientation.  
+
+Printing: Note that there is <b>no printing service at the conference</b> and you will need to bring your printed poster with you.  
 
 # FAQs
 
