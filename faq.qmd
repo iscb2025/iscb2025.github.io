@@ -14,89 +14,113 @@ format:
 
 No. Please register as soon as possible. Registrations may potentially be capped at some point.
 
-#### I have missed the submission deadline (abstract, pre-conference course)? Can I still submit a contribution?
+##### I have missed the submission deadline (abstract, pre-conference course)? Can I still submit a contribution?
 
 No.
 
-#### The submission deadline has passed. Will there be an extension?
+##### The submission deadline has passed. Will there be an extension?
 
 No.
 
-#### The instructions state that "Each presenter may present only one talk/poster." Does this mean I can present a talk and poster or one or the other?
+##### The instructions state that "Each presenter may present only one talk/poster." Does this mean I can present a talk and poster or one or the other?
 
 No. Just one or the other.
 
-#### I have submitted an abstract for "presentation only". It got rejected. Is there an option I still can present a poster?
+##### I have submitted an abstract for "presentation only". It got rejected. Is there an option I still can present a poster?
 
 No. Decisions are final. If you have indicated that you are willing to present only and did not make that cut your contribution has been rejected.
 
-#### I have submitted an abstract for "presentation or poster". It got rejected. Is there an option I still can present a poster?
+##### I have submitted an abstract for "presentation or poster". It got rejected. Is there an option I still can present a poster?
 
 No. Decisions are final. If you have indicated that you are willing to present a talk or a poster and still have been rejected then your contribution did not make the cut for poster either.
 
-#### While submitting my abstract I have not applied for either StCA or CASP. Can I still make up for that and apply after my abstract has been accepted?
+##### While submitting my abstract I have not applied for either StCA or CASP. Can I still make up for that and apply after my abstract has been accepted?
 
 No.
 
-#### I might be eligible for certain discounts on my registration. How do I claim them?
+##### I might be eligible for certain discounts on my registration. How do I claim them?
 
 Eligible colleagues will receive a code that they can use for registration.
 
-#### Are there block registrations or discounts for big Pharma companies in Basel?
+##### Are there block registrations or discounts for big Pharma companies in Basel?
 
 No.
 
-#### How can I pay my registration?
+##### How can I pay my registration?
 
 You may pay by debit / credit card (AMEX is not accepted) or bank transfer.
 
-#### By when do I have to pay my registration if I choose bank transfer?
+##### By when do I have to pay my registration if I choose bank transfer?
 
 -   Early bird registrations: payment has to be received by 21st May 2025 at the latest.
 -   Regular registrations: payment has to be received by 30th June 2025 at latest. In specific cases, you may ask for extension of payment policy. Please contact the [leads of the organizing committee](mailto:registrations@iscb2025.info).
 
 If the payment is not submitted by the deadline for the fee applicable, the outstanding amount will be changed to the one that corresponds to the next registration period.
 
-#### I would like to transfer my registration to a colleague – is this possible?
+##### I would like to transfer my registration to a colleague – is this possible?
 
 Yes, under the conditions outlined [here](registration-terms.html#cancellation-alteration-policy).
 
-#### I need to cancel my registration: what do I have to do and will I get the money back?
+##### I need to cancel my registration: what do I have to do and will I get the money back?
 
 Please read instructions [here](registration-terms.html#cancellation-alteration-policy).
 
-#### I have signed up for a social event / tour, but now want to cancel it.
+##### I have signed up for a social event / tour, but now want to cancel it.
 
 Please read instructions [here](registration-terms.html#cancellation-alteration-policy).
+
+##### What is the difference between Early registration, Late registration, and Virtual attendance?
+
+Early and Late registrations provide hybrid access to the conference, allowing both in-person and virtual participation. Virtual attendance, on the other hand, grants access only to live-streamed content, Q&A sessions, and conference proceedings — without in-person access.
+
+##### What is covered by Hybrid attendance?
+
+Hybrid attendance (available through Early and Late registrations) includes:
+
+* Access to all scientific sessions (in person and online)
+* Access to live streams
+* Conference materials
+* Entry to the Exhibition Area
+* Coffee breaks and lunches
+* Welcome Reception attendance
+* Access to the Conference proceedings
+
+##### What is covered by Virtual attendance?
+
+Virtual attendance includes:
+
+* Live-stream access to scientific sessions
+* Participation in Q&A sessions during live streams
+* Access to the Conference proceedings
 
 ## Format of the conference
 
-#### Will the conference be hybrid?
+##### Will the conference be hybrid?
 
 Yes, all talks will be live streamed. Recordings will be made available for limited time to be watched after the conference.
 
-#### When and where will pre-conference courses take place?
+##### When and where will pre-conference courses take place?
 
 Sunday, 24th August in the Biozentrum in Basel.
 
-#### Will the pre-conference courses be hybrid?
+##### Will the pre-conference courses be hybrid?
 
 No.
 
-#### Will social events be hybrid?
+##### Will social events be hybrid?
 
 No.
 
-#### Can presentations be given remotely?
+##### Can presentations be given remotely?
 
 No.
 
-#### Can posters be presented remotely?
+##### Can posters be presented remotely?
 
 No.
 
 ## Administrative aspects
 
-#### I need a visa. How do I get all the necessary information from the organizers?
+##### I need a visa. How do I get all the necessary information from the organizers?
 
 You can chose the option of getting a visa invitation while registering for the conference.

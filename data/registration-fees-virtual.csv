@@ -1,0 +1,43 @@
+Purpose,Type,Category,Membership,Value
+Conference,Early-bird registration,Regular,ISCB Member,500
+Conference,Early-bird registration,Regular,Non-ISCB Member,650
+Conference,Early-bird registration,Reduced fees,ISCB Member,325
+Conference,Early-bird registration,Reduced fees,Non-ISCB Member,410
+Conference,Early-bird registration,Student or retired (>65y),ISCB Member,250
+Conference,Early-bird registration,Student or retired (>65y),Non-ISCB Member,320
+Conference,Late registration,Regular,ISCB Member,625
+Conference,Late registration,Regular,Non-ISCB Member,780
+Conference,Late registration,Reduced fees,ISCB Member,410
+Conference,Late registration,Reduced fees,Non-ISCB Member,500
+Conference,Late registration,Student or retired (>65y),ISCB Member,320
+Conference,Late registration,Student or retired (>65y),Non-ISCB Member,390
+Conference,Virtual attendance,Regular,ISCB Member,500
+Conference,Virtual attendance,Regular,Non-ISCB Member,650
+Conference,Virtual attendance,Reduced fees,ISCB Member,325
+Conference,Virtual attendance,Reduced fees,Non-ISCB Member,410
+Conference,Virtual attendance,Student or retired (>65y),ISCB Member,250
+Conference,Virtual attendance,Student or retired (>65y),Non-ISCB Member,320
+Courses,Early-bird registration,Regular,Half-Day,250
+Courses,Early-bird registration,Regular,Full Day,400
+Courses,Early-bird registration,Reduced fees,Half-Day,150
+Courses,Early-bird registration,Reduced fees,Full Day,250
+Courses,Early-bird registration,Student or retired (>65y),Half-Day,150
+Courses,Early-bird registration,Student or retired (>65y),Full Day,250
+Courses,Late registration,Regular,Half-Day,300
+Courses,Late registration,Regular,Full Day,500
+Courses,Late registration,Reduced fees,Half-Day,200
+Courses,Late registration,Reduced fees,Full Day,300
+Courses,Late registration,Student or retired (>65y),Half-Day,200
+Courses,Late registration,Student or retired (>65y),Full Day,300
+Mini-Symposia,Early-bird registration,Non-Conference Attendee,,150
+Mini-Symposia,Early-bird registration,Non-Conference Attendee,Early Career Biostatistics (ECB) Day,35
+Mini-Symposia,Early-bird registration,Conference Attendee,,0
+Mini-Symposia,Virtual attendance,Non-Conference Attendee,,150
+Mini-Symposia,Virtual attendance,Non-Conference Attendee,Early Career Biostatistics (ECB) Day,35
+Mini-Symposia,Virtual attendance,Conference Attendee,,0
+Mini-Symposia,Late registration,Non-Conference Attendee,,180
+Mini-Symposia,Late registration,Non-Conference Attendee,Early Career Biostatistics (ECB) Day,35
+Mini-Symposia,Late registration,Conference Attendee,,0
+Social Dinner,,Regular,,99
+Social Dinner,,Reduced fees,,66
+Social Dinner,,Student or retired (>65y),,66

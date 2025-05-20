@@ -5,9 +5,13 @@ editor:
     wrap: 72
 ---
 
-**Early-bird registration** has opened on Friday, 21<sup>st</sup> of March 2025 and will end on Wednesday, 21<sup>st</sup> of May 2025. Note that symposia can be booked independently, but for pre-conference conference courses, main conference registration is a prerequisite to be able to book.    
+<!-- **Early-bird registration** has opened on Friday, 21<sup>st</sup> of March 2025 and will end on Wednesday, 21<sup>st</sup> of May 2025. Note that symposia can be booked independently, but for pre-conference conference courses, main conference registration is a prerequisite to be able to book.     -->
 
-From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply.
+<!-- From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply. -->
+
+~~**Early-bird registration** has opened on Friday, 21<sup>st</sup> of March 2025 and will end on Wednesday, 21<sup>st</sup> of May 2025. From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply.~~
+
+<span style="color:red">Only virtual attendance is now possible.</span>
 
 <center>[**REGISTER HERE**](https://pcoconvin.eventsair.com/iscb25/regform/Site/Register)</center>
 <br>
@@ -17,9 +21,16 @@ The fees for the 2025 conference are as follows (see @nte-cond for details on th
 
 ## Conference 
 
-**Registration Entitlements**
+**[Virtual Attendance](faq.html#what-is-covered-by-virtual-attendance) Entitlements**
+
+* Access to live streams of the scientific sessions
+* Access to Q&A during live streams
+* Access to the Conference proceedings
+
+**[Hybrid Attendance](faq.html#what-is-covered-by-hybrid-attendance) Entitlements**
 
 * Attendance to all scientific sessions
+* Access to live streams
 * Conference material
 * Access to the Exhibition Area
 * Coffee breaks & lunches
@@ -31,7 +42,7 @@ library(dplyr)
 library(tidyr)
 library(kableExtra)
 
-fees_source <- read.csv(file = file.path("data", "registration-fees.csv")) |> 
+fees_source <- read.csv(file = file.path("data", "registration-fees-virtual.csv")) |> 
   mutate(Value = paste(Value, "EUR"))
   
 conf_fees_source <- fees_source |> 
@@ -49,43 +60,63 @@ print_fees <- \(fees_source, registration) {
   row_spec(c(2,4,6), extra_css = "border-bottom: 1px solid grey;", align = "left") |> 
   column_spec(1, extra_css = "border-bottom: 1px solid grey;")
 }
+
+print_fees_strike <- \(fees_source, registration) {
+  d <- fees_source |>
+  filter(Type == registration) |>
+  select(-Type)
+  
+  d |> 
+    kbl() |>
+    kable_styling(full_width = TRUE) |> 
+    collapse_rows(columns = 1:2, valign = "top", ) |> 
+    pack_rows(paste(registration, "(CLOSED)"), 1, nrow(d), indent = FALSE, background = c("#EAEAEA")) |> 
+    row_spec(c(2,4,6), extra_css = "border-bottom: 1px solid grey;", align = "left") |> 
+    column_spec(1, extra_css = "border-bottom: 1px solid grey;")  |> 
+    row_spec(1:nrow(d), extra_css = "text-decoration: line-through;")
+}
 ```
 
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Early-bird registration"))
+```{r, echo=F,  message=F, warning=F}
+gsub("<thead>.*</thead>", "", print_fees_strike(conf_fees_source, "Early-bird registration"))
 ```
 <br>
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Late registration"))
+```{r, echo=F, message=F, warning=F}
+gsub("<thead>.*</thead>", "", print_fees_strike(conf_fees_source, "Late registration"))
 ```
+<br>
+```{r, echo=F, message=F, warning=F}
+gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Virtual attendance"))
+```
+
 
 
 ## Courses
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 courses_fees_source <- fees_source |> 
   filter(Purpose == "Courses") |> 
   select(-Purpose)
 ```
 
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Early-bird registration"))
+```{r, echo=F, message=F, warning=F}
+gsub("<thead>.*</thead>", "", print_fees_strike(courses_fees_source, "Early-bird registration"))
 ```
 <br>
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Late registration"))
+```{r, echo=F, message=F, warning=F}
+gsub("<thead>.*</thead>", "", print_fees_strike(courses_fees_source, "Late registration"))
 ```
 
 ## Mini-Symposia
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 symp_fees_source <- fees_source |> 
   filter(Purpose == "Mini-Symposia") |> 
   select(-Purpose)
 
 ```
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 
 early_symp_fees <-
   symp_fees_source |> 
@@ -93,21 +124,23 @@ early_symp_fees <-
   select(Category, Membership, Value) |> 
   kbl(col.names = NULL) |>
   kable_styling(full_width = TRUE) |> 
-  pack_rows("Early-bird registration", 1, nrow(filter(symp_fees_source, Type == "Early-bird registration")), 
-            indent = FALSE, background = "#EAEAEA")
+  pack_rows("Early-bird registration (CLOSED)", 1, nrow(filter(symp_fees_source, Type == "Early-bird registration")), 
+            indent = FALSE, background = "#EAEAEA") |> 
+  row_spec(1:3, extra_css = "text-decoration: line-through;")
 
 gsub("<thead>.*</thead>", "", early_symp_fees)
 
 ```
 <br>
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 late_symp_fees <-
   symp_fees_source |> 
   filter(Type == "Late registration") |> 
   select(Category, Membership, Value) |> 
   kbl(col.names = NULL) |>
   kable_styling(full_width = TRUE) |> 
-  pack_rows("Late registration", 1, 2, indent = FALSE, background = "#EAEAEA") 
+  pack_rows("Late registration (CLOSED)", 1, 2, indent = FALSE, background = "#EAEAEA") |> 
+  row_spec(1:3, extra_css = "text-decoration: line-through;")
 
 sub("<thead>.*</thead>", "", late_symp_fees)
 ```
@@ -115,14 +148,15 @@ sub("<thead>.*</thead>", "", late_symp_fees)
 
 ## Social Dinner
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 
 dinner_fees <-
   fees_source |> 
   filter(Purpose == "Social Dinner") |> 
   select(Category, Value) |> 
-  kbl(col.names = NULL) |>  
-  kable_styling(full_width = TRUE)  
+  kbl(col.names = NULL) |>   
+  kable_styling(full_width = TRUE)   |> 
+  row_spec(1:3, extra_css = "text-decoration: line-through;")
 
 gsub("<thead>.*</thead>", "", dinner_fees)
 ```
