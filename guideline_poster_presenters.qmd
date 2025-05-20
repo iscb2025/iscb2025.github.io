@@ -1,0 +1,24 @@
+---
+title: "Guideline for poster presenters"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+You have been accepted as a poster presenter at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions.
+
+Please find below some guidance for creating and submitting your poster for the conference:
+
+## Poster sessions
+
+We are not organizing a dedicated poster session where you will be standing next to your poster, but we encourage you to stand next to your poster during the coffee breaks and lunches.
+
+## Poster Format
+
+Size: <b>A0 portrait</b> orientation.  
+
+Printing: Note that there is <b>no printing service at the conference</b> and you will need to bring your printed poster with you.  
+
+# FAQs
+
+For more general questions please refer to the [FAQs](faq.html).

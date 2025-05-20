@@ -22,10 +22,13 @@ website:
         menu: 
         - text: "Committees"
           href: committees.qmd
+        - text: "Sustainability"
+          href: sustainability.qmd
       - text: "Conference information"
         menu: 
         - text: "Registration"
           href: registration.qmd
+   
         - text: "Social Program"
           href: social.qmd
         - text: "Calls (archived)"
@@ -46,6 +49,9 @@ website:
           text: "Privacy policy"
       - text: "Program"
         menu: 
+         - text: "Schedule (PDF)"
+           href: data/ISCB46_Schedule.pdf
+           target: "_blank"    
          - text: "Pre-conference Courses"
            href: courses.qmd
          - text: "Keynote Speakers & Invited Sessions"

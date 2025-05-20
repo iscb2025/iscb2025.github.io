@@ -1,0 +1,15 @@
+---
+title: "Guideline for remote participants"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+You have registered for ISCB46 as a hybrid participant. In this document we summarize answers to some common questions and further instructions. 
+
+
+** What do add here?**
+
+# FAQs
+
+For more general questions please refer to the [FAQs](faq.html).

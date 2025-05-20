@@ -47,7 +47,7 @@ local artists and take you to see outstanding pieces by internationally renowned
 Pictures are taken from [Artstuebli, Basel](https://www.artstuebli.ch/tours/).
 
 
-::: {layout-ncol=2 layout-valign="middle"}
+::: {layout-ncol=2}
 ![](img/social/social_streetart_1.png)
 
 ![](img/social/social_streetart_2.png)

@@ -1,0 +1,20 @@
+---
+title: "Frequently Asked Questions - <br> Courses and Invited Sessions"
+search: false
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+<br>
+
+## Related to reimbursement
+
+#### As an invited speaker or pre-conference instructor I may be eligible to reimbursement of travel expenses. How do I claim these?
+
+Please use [the following form](data/ISCB46_reimbursement.docx) and send your travel expenses to the email address noted on the form with your expenses after the conference within the limits of what has been [shared in the call](calls.qmd#pre-conference-courses).
+
+#### Are financial incentives [shared in the call](calls.qmd#pre-conference-courses) understood as lump sums or per night?
+
+These are lump sums.
