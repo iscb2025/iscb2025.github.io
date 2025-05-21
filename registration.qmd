@@ -64,18 +64,6 @@ print_fees <- \(fees_source, registration) {
 gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Virtual attendance"))
 ```
 
-## Courses
-
-```{r, echo=F}
-courses_fees_source <- fees_source |> 
-  filter(Purpose == "Courses") |> 
-  select(-Purpose)
-```
-
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Late registration"))
-```
-
 ## Mini-Symposia
 
 ```{r, echo=F}
