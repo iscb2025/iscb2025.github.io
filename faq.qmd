@@ -83,7 +83,7 @@ Hybrid attendance (available through Early and Late registrations) includes:
 * Entry to the Exhibition Area
 * Coffee breaks and lunches
 * Welcome Reception attendance
-* Access to the Conference proceedings
+* Access to the Conference proceedings (collection of abstracts and recordings)
 
 ##### What is covered by Virtual attendance?
 
@@ -91,7 +91,11 @@ Virtual attendance includes:
 
 * Live-stream access to scientific sessions
 * Participation in Q&A sessions during live streams
-* Access to the Conference proceedings
+* Access to the Conference proceedings (collection of abstracts and recordings)
+
+##### What is the rate for  Virtual attendance?
+
+The rate for Virtual attendance is the same as the Early registration rate. Please note that this rate will not be reduced.
 
 ## Format of the conference
 
