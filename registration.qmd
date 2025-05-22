@@ -5,9 +5,9 @@ editor:
     wrap: 72
 ---
 
-**Early-bird registration** has opened on Friday, 21<sup>st</sup> of March 2025 and will end on Wednesday, 21<sup>st</sup> of May 2025. Note that symposia can be booked independently, but for pre-conference conference courses, main conference registration is a prerequisite to be able to book.    
+**We have reached full capacity for on-site attendance. Only virtual attendance is now possible!**
 
-From Thursday, 22<sup>nd</sup> of May 2025, **late registration** fees apply.
+**Join the waiting list for on-site attendance should slots become available.** 
 
 <center>[**REGISTER HERE**](https://pcoconvin.eventsair.com/iscb25/regform/Site/Register)</center>
 <br>
@@ -17,14 +17,23 @@ The fees for the 2025 conference are as follows (see @nte-cond for details on th
 
 ## Conference 
 
-**Registration Entitlements**
+**Virtual attendance entitlements**
+
+* Access to live streams of the scientific sessions
+* Access to Q&A during live streams
+* Access to the Conference proceedings
+
+**Hybrid attendance entitlements**
 
 * Attendance to all scientific sessions
+* Access to live streams
 * Conference material
 * Access to the Exhibition Area
 * Coffee breaks & lunches
 * Welcome Reception attendance
 * Access to the Conference proceedings
+
+
 
 ```{r, echo=F, results=F, message=F, warning=F}
 library(dplyr)
@@ -52,28 +61,7 @@ print_fees <- \(fees_source, registration) {
 ```
 
 ```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Early-bird registration"))
-```
-<br>
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Late registration"))
-```
-
-
-## Courses
-
-```{r, echo=F}
-courses_fees_source <- fees_source |> 
-  filter(Purpose == "Courses") |> 
-  select(-Purpose)
-```
-
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Early-bird registration"))
-```
-<br>
-```{r, echo=F}
-gsub("<thead>.*</thead>", "", print_fees(courses_fees_source, "Late registration"))
+gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Virtual attendance"))
 ```
 
 ## Mini-Symposia
@@ -85,21 +73,7 @@ symp_fees_source <- fees_source |>
 
 ```
 
-```{r, echo=F}
 
-early_symp_fees <-
-  symp_fees_source |> 
-  filter(Type == "Early-bird registration") |> 
-  select(Category, Membership, Value) |> 
-  kbl(col.names = NULL) |>
-  kable_styling(full_width = TRUE) |> 
-  pack_rows("Early-bird registration", 1, nrow(filter(symp_fees_source, Type == "Early-bird registration")), 
-            indent = FALSE, background = "#EAEAEA")
-
-gsub("<thead>.*</thead>", "", early_symp_fees)
-
-```
-<br>
 ```{r, echo=F}
 late_symp_fees <-
   symp_fees_source |> 
@@ -112,20 +86,6 @@ late_symp_fees <-
 sub("<thead>.*</thead>", "", late_symp_fees)
 ```
 
-
-## Social Dinner
-
-```{r, echo=F}
-
-dinner_fees <-
-  fees_source |> 
-  filter(Purpose == "Social Dinner") |> 
-  select(Category, Value) |> 
-  kbl(col.names = NULL) |>  
-  kable_styling(full_width = TRUE)  
-
-gsub("<thead>.*</thead>", "", dinner_fees)
-```
 
 
 

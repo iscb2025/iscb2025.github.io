@@ -5,27 +5,26 @@ editor:
     wrap: 72
 ---
 
-Thank you for presenting a short course at the CEN 2023 Conference in Basel, Switzerland. 
-Please find below some guidance for creating and submitting your short course for the conference:
+Thank you for presenting a short course at the ISCB46 Conference in Basel. Please find below some guidance for creating and submitting your short course for the conference:
 
 ## Session Time
-If you want to know your session date and time then [visit the schedule online](https://www.conftool.pro/cen2023/sessions.php).  
-All short courses take place on Sunday, 3<sup>rd</sup> of September.
+
+If you want to know your session date and time then [visit the schedule online](https://www.conftool.pro/iscb2025).  
+All short courses take place on Sunday, 23th<sup>rd</sup> of August.
 
 
 ## Before the conference
 
-Please [get in touch with us](mailto:organizers@cen2023.ch) to inform us about the following points:
+Please [get in touch with us](mailto:organizers@iscb2025.info) to inform us about the following points:
 
 * Do you need to <b>share any websites or datasets</b> with your participants before the course starts? If yes, please provide a link to the website or datasets. Only participants of your short course will have access to this link via conftool.
 * If you want to communicate anything else to your participants, we can share this via conftool. We will share a <b>list of all participants of your short course</b> with you and you can also contact them on your own.
 * Please indicate if you like the conference to offer a laptop for your course (with only basic functionality, such as PowerPoint and Zoom), otherwise, we assume that you will bring your <b>own laptop</b>.
-* For moderating the zoom chat, a laptop that is connected to the stream will be available in the room. Alternatively, you can also connect to the stream from your phone.
 
 
 ## Upload of presentation (if needed for your course)
 
-* Upload your presentation via conftool if it is smaller than <b>10 megabytes</b>. Clearly <b>identify your presentation</b> with your presentation date and name in the filename (example: `04SEP23_John_Smith.pptx`)
+* Upload your presentation via conftool if it is smaller than <b>10 megabytes</b>. Clearly <b>identify your presentation</b> with your presentation date and name in the filename (example: `20250824_John_Smith.pptx`)
 * If your presentation is larger you can send it to us via email or bring an USB stick.
 * When logging into conftool you can click on “Your Submission” to see your submission:  
   ![](img/guidance/poster-yoursubmissions.png)
@@ -44,4 +43,3 @@ Please [get in touch with us](mailto:organizers@cen2023.ch) to inform us about t
 * Be aware of the time for your short course. We will have coffee breaks and lunch.
 * A technician will be present to assist if needed.
 * A microphone will be used for all presentations. 
-* You will not be able to use a laser pointer if your course is hybrid since virtual attendees can’t see the laser pointer. If you need to point to anything in your presentation you have to use the pointer within Powerpoint. Please get familiar with this before the conference.
