@@ -17,13 +17,13 @@ The fees for the 2025 conference are as follows (see @nte-cond for details on th
 
 ## Conference 
 
-**Virtual attendance entitlements**
+**[Virtual attendance](faq.html#what-is-covered-by-virtual-attendance) entitlements**
 
 * Access to live streams of the scientific sessions
 * Access to Q&A during live streams
 * Access to the Conference proceedings
 
-**Hybrid attendance entitlements**
+**[Hybrid attendance](faq.html#what-is-covered-by-hybrid-attendance) entitlements**
 
 * Attendance to all scientific sessions
 * Access to live streams
@@ -60,13 +60,13 @@ print_fees <- \(fees_source, registration) {
 }
 ```
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 gsub("<thead>.*</thead>", "", print_fees(conf_fees_source, "Virtual attendance"))
 ```
 
 ## Mini-Symposia
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 symp_fees_source <- fees_source |> 
   filter(Purpose == "Mini-Symposia") |> 
   select(-Purpose)
@@ -74,7 +74,7 @@ symp_fees_source <- fees_source |>
 ```
 
 
-```{r, echo=F}
+```{r, echo=F, message=F, warning=F}
 late_symp_fees <-
   symp_fees_source |> 
   filter(Type == "Late registration") |> 
