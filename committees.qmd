@@ -54,5 +54,12 @@ committees |>
   filter(spc == 1 & is.na(spc_chair)) |>
   print_committee(title=c("Members" = 2), cols = c("name", "institution_country"))
 ```
+
+```{r, echo=F, include=T}
+committees |> 
+  mutate(institution_country = paste(institution, country, sep = ", ")) |>
+  filter(sup_reviewer == 1) |>
+  print_committee(title=c("Supporting Reviewers" = 2), cols = c("name", "institution_country"))
+```
 :::
 ::: 
