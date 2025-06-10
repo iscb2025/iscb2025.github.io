@@ -68,8 +68,20 @@ website:
           href: basel-card.qmd
         - text: "Restaurants"
           href: restaurants.qmd
-      - text: "FAQ"
-        href: faq.qmd
+      - text: "FAQ & instructions"
+        menu: 
+        - text: "General FAQ"
+          href: faq.qmd
+        - text: "Guideline courses"
+          href: guideline_courses.qmd
+        - text: "Guideline hybrid"
+          href: guideline_hybrid.qmd
+        - text: "Guideline session chairs"
+          href: guideline_chairs.qmd
+        - text: "Guideline speakers"
+          href: guideline_speakers.qmd
+        - text: "Guideline poster presenters"
+          href: guideline_poster_presenters.qmd
       - text: "Sponsors"
         href: sponsors.qmd
   favicon: img/favicon.jpg
