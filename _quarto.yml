@@ -72,15 +72,16 @@ website:
         menu: 
         - text: "General FAQ"
           href: faq.qmd
-        - text: "Guideline courses"
+        - text: "Guidelines"
+        - text: "Pre-conference courses"
           href: guideline_courses.qmd
-        - text: "Guideline hybrid"
+        - text: "Hybrid"
           href: guideline_hybrid.qmd
-        - text: "Guideline session chairs"
+        - text: "Session chairs"
           href: guideline_chairs.qmd
-        - text: "Guideline speakers"
+        - text: "Speakers"
           href: guideline_speakers.qmd
-        - text: "Guideline poster presenters"
+        - text: "Poster presenters"
           href: guideline_poster_presenters.qmd
       - text: "Sponsors"
         href: sponsors.qmd

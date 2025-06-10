@@ -11,7 +11,7 @@ It is also possible to register for the mini symposia separately (without regist
 ## Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum
 
 **Date:** Thursday morning, August 28th, 2025\
-**Organizers:** Alex Ocampo, Cristina Sotto in collaboration with the
+**Organizers:** Alex Ocampo, Cristina Sotto and Jinesh Shah in collaboration with the
 PSI special interest group in Causal Inference.
 
 ### Objective
