@@ -32,9 +32,9 @@ title: "2025 Conference"
 ::: {.callout-important}
 # Latest News
 
-**We have reached full capacity for on-site attendance. [Only virtual attendance is now possible!](registration.qmd)**
+**We have reached full capacity for on-site attendance and the waiting list is now closed. [Only virtual attendance is now possible!](registration.qmd)**
 
-**Join the waiting list for on-site attendance should slots become available.** Please follow the [registration process](registration.qmd) for virtual attendance and choose the corresponding option. 
+Please follow the [registration process](registration.qmd) for virtual attendance and choose the corresponding option. 
 
 See the **[FAQ page](faq.qmd)** for frequently asked questions.
 
