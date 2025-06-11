@@ -5,11 +5,9 @@ editor:
     wrap: 72
 ---
 
-**We have reached full capacity for on-site attendance. Only virtual attendance is now possible!**
+**We have reached full capacity for on-site attendance and the waiting list is now closed. Only virtual attendance is now possible!**
 
-**Join the waiting list for on-site attendance should slots become available.** 
-
-<center>[**REGISTER HERE**](https://pcoconvin.eventsair.com/iscb25/regform/Site/Register)</center>
+<center>[**REGISTER FOR VIRTUAL ATTENDENCE HERE**](https://pcoconvin.eventsair.com/iscb25/regform/Site/Register)</center>
 <br>
 For questions regarding registration, please first consult the [frequently-asked-question (FAQ) page](faq.qmd), and only then contact [registrations@iscb2025.info](mailto:registrations@iscb2025.info).
 <br><br>
