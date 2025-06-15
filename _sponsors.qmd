@@ -15,6 +15,8 @@
 <a href="https://www.sas.com/en_us/home.html/">![](img/sponsors/platinum_sas.png){width="21%"}</a>
 <span style="display:inline-block; width:57px;"></span>
 <a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="35%"}</a>
+<span style="display:inline-block; width:57px"></span>
+<a href="https://www.merckgroup.com">![](img/sponsors/platinum_merck.jpg){width="37%" style="margin-top: 10px;"}</a>
 <br><br>
 
 ### Gold Sponsors{style="text-align: center;"}
