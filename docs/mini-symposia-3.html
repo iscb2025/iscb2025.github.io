@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.551">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>ISCB46 - Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./img/favicon.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"headline",
+  "consent_type":"express",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":"",
+"website_privacy_policy_url":"https://www.iscb2025.info/imprint-and-privacy-policy.html"
+  ,
+"language":"en"
+  });
+});
+</script> 
+  
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">ISCB46</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./key-dates.html"> 
+<span class="menu-text">Key Dates</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-iscb46" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About ISCB46</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-iscb46">    
+        <li>
+    <a class="dropdown-item" href="./committees.html">
+ <span class="dropdown-text">Committees</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./sustainability.html">
+ <span class="dropdown-text">Sustainability</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conference-information" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Conference information</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-conference-information">    
+        <li>
+    <a class="dropdown-item" href="./registration.html">
+ <span class="dropdown-text">Registration</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./social.html">
+ <span class="dropdown-text">Social Program</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./calls.html">
+ <span class="dropdown-text">Calls (archived)</span></a>
+  </li>  
+        <li class="dropdown-header">Awards &amp; Support</li>
+        <li>
+    <a class="dropdown-item" href="./awards-contributions.html">
+ <span class="dropdown-text">Best Poster &amp; Presentation Awards</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./awards-student.html">
+ <span class="dropdown-text">Student Conference Award (StCA)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./awards-casp.html">
+ <span class="dropdown-text">Conference Attendance Support Program (CASP)</span></a>
+  </li>  
+        <li class="dropdown-header">Policies</li>
+        <li>
+    <a class="dropdown-item" href="./registration-terms.html">
+ <span class="dropdown-text">Registration Terms and Conditions</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./imprint-and-privacy-policy.html">
+ <span class="dropdown-text">Privacy policy</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Program</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-program">    
+        <li>
+    <a class="dropdown-item" href="./data/ISCB46_Schedule.pdf" target="_blank">
+ <span class="dropdown-text">Schedule (PDF)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./courses.html">
+ <span class="dropdown-text">Pre-conference Courses</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./keynote-speakers.html">
+ <span class="dropdown-text">Keynote Speakers</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./invited-sessions.html">
+ <span class="dropdown-text">Invited Sessions</span></a>
+  </li>  
+        <li class="dropdown-header">Mini-Symposia</li>
+        <li>
+    <a class="dropdown-item" href="./mini-symposia.html">
+ <span class="dropdown-text">Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mini-symposia-2.html">
+ <span class="dropdown-text">Mini-Symposium 2</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mini-symposia-3.html">
+ <span class="dropdown-text">Mini-Symposium 3</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mini-symposia-4.html">
+ <span class="dropdown-text">Mini-Symposium 4</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-basel" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About Basel</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-basel">    
+        <li>
+    <a class="dropdown-item" href="./about-basel.html">
+ <span class="dropdown-text">Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./accommodation.html">
+ <span class="dropdown-text">Accommodation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./basel-card.html">
+ <span class="dropdown-text">Basel Card</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./restaurants.html">
+ <span class="dropdown-text">Restaurants</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-faq--instructions" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">FAQ &amp; Instructions</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-faq--instructions">    
+        <li>
+    <a class="dropdown-item" href="./faq.html">
+ <span class="dropdown-text">General FAQ</span></a>
+  </li>  
+        <li class="dropdown-header">Guidelines</li>
+        <li>
+    <a class="dropdown-item" href="./guideline_courses.html">
+ <span class="dropdown-text">Pre-conference courses</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./guideline_chairs.html">
+ <span class="dropdown-text">Session chairs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./guideline_speakers.html">
+ <span class="dropdown-text">Speakers</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./guideline_poster_presenters.html">
+ <span class="dropdown-text">Poster presenters</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./sponsors.html"> 
+<span class="menu-text">Sponsors</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#program" id="toc-program" class="nav-link active" data-scroll-target="#program">Program</a>
+  <ul class="collapse">
+  <li><a href="#session-1-0900-1030-phases-of-methodological-research" id="toc-session-1-0900-1030-phases-of-methodological-research" class="nav-link" data-scroll-target="#session-1-0900-1030-phases-of-methodological-research">Session 1 (09:00-10:30): Phases of methodological research</a></li>
+  <li><a href="#session-2-1100-1230-talks-from-tgs-and-panels" id="toc-session-2-1100-1230-talks-from-tgs-and-panels" class="nav-link" data-scroll-target="#session-2-1100-1230-talks-from-tgs-and-panels">Session 2 (11:00-12:30): Talks from TGs and panels</a></li>
+  </ul></li>
+  <li><a href="#program-abstracts" id="toc-program-abstracts" class="nav-link" data-scroll-target="#program-abstracts">Program Abstracts</a>
+  <ul class="collapse">
+  <li><a href="#session-1" id="toc-session-1" class="nav-link" data-scroll-target="#session-1">Session 1</a></li>
+  <li><a href="#session-2" id="toc-session-2" class="nav-link" data-scroll-target="#session-2">Session 2</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Organizers: Anne-Laure Boulesteix (Munich, Germany), Willi Sauerbrei (Freiburg, Germany)</p>
+<p>Although new biostatistical methods are published at a very high rate, many of these developments are not independently evaluated, raising potential concerns about the accuracy and validity of the results. Similar to the well-known phases of research in drug development, Heinze et al.&nbsp;(2024) propose to identify four phases of methodological research.</p>
+<p>In the first session, we will have four talks starting with an introductory presentation of the phases concept, followed by three presentations, each revisiting the development history of a specific important biostatistical method, in light of this concept. These three talks will aim at illustrating what phases of methods’ development and evaluation were considered and how they were implemented. Together, they may contribute to a further refinement of the phases of methodological research and stimulate discussions around these pivotal issues.</p>
+<p>In the second session we will have four talks from TG3 (Carsten Schmidt), TG5 (Rima Izem), the open science panel (Sabine Hoffmann) and about a joint project of TGs 2 and 4 (Aris Perperoglou).</p>
+<section id="program" class="level2">
+<h2 class="anchored" data-anchor-id="program">Program</h2>
+<section id="session-1-0900-1030-phases-of-methodological-research" class="level3">
+<h3 class="anchored" data-anchor-id="session-1-0900-1030-phases-of-methodological-research">Session 1 (09:00-10:30): Phases of methodological research</h3>
+<p><em>Chair: Anne-Laure Boulesteix</em></p>
+<p>09:00-09:20 Georg Heinze (Medical University of Vienna, Austria)<br> <strong>How Biostatistical Methods Mature: Understanding the Four Phases of Methodological Research</strong></p>
+<p>09:20-09:40 Michal Abrahamowicz (McGill University, Montreal, Canada)<br> <strong>Phases of development of the Weighted Cumulative Exposure modeling</strong></p>
+<p>09:40-10:00 Willi Sauerbrei (Medical Center - University of Freiburg, Germany)<br> <strong>Phases of development of the Multivariable Fractional Polynomial Interaction (MFPI) approach</strong></p>
+<p>10:00-10:20 Ewout Steyerberg (University Medical Center Utrecht, Netherlands)<br> <strong>Will Net Benefit trump Net Reclassification Index as a measure for incremental value of markers in prediction models? A historical perspective</strong></p>
+<p>10:20-10:30 <strong>Discussion</strong></p>
+</section>
+<section id="session-2-1100-1230-talks-from-tgs-and-panels" class="level3">
+<h3 class="anchored" data-anchor-id="session-2-1100-1230-talks-from-tgs-and-panels">Session 2 (11:00-12:30): Talks from TGs and panels</h3>
+<p><em>Chair: Willi Sauerbrei</em></p>
+<p>11:00-11.23 Rima Izem (Novartis, Basel, Switzerland) for TG5<br> <strong>Mission impossible? Specifying target estimands for long-term risks and benefits of novel therapies</strong></p>
+<p>11:23-11:45 Carsten Oliver Schmidt (University of Greifswald, Germany) for TG3<br> <strong>An overview on recent works and activities of the STRATOS topic group TG3 “Initial data analysis”</strong></p>
+<p>11:45-12:08 Sabine Hoffmann (Ludwig-Maximilians-Universität Munich, Germany) for the open science panel<br> <strong>An overview and recent developments of the STRATOS Open Science panel</strong></p>
+<p>12:08-12:30 Aris Perporoglou (GSK, London, UK) for TG2/TG4<br> <strong>Adjusting for Covariate Measurement Error in Non-Linear Regression: Comprehensive Phase 2 Results from the STRATOS TG2-TG4 Study</strong></p>
+</section>
+</section>
+<section id="program-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="program-abstracts">Program Abstracts</h2>
+<section id="session-1" class="level3">
+<h3 class="anchored" data-anchor-id="session-1">Session 1</h3>
+<section id="how-biostatistical-methods-mature-understanding-the-four-phases-of-methodological-research" class="level4">
+<h4 class="anchored" data-anchor-id="how-biostatistical-methods-mature-understanding-the-four-phases-of-methodological-research">How Biostatistical Methods Mature: Understanding the Four Phases of Methodological Research</h4>
+<p><strong>Georg Heinze</strong><sup>1</sup>, Anne-Laure Boulesteix<sup>2</sup>, Michael Kammer<sup>3</sup>, Tim P. Morris<sup>4</sup>, Ian R. White<sup>4</sup></p>
+<p><sup>1</sup>Medical University of Vienna, Center for Medical Data Science, Institute of Clinical Biometrics, Vienna, Austria<br> <sup>2</sup>LMU Munich, Institute for Medical Information Processing, Biometry and Epidemiology, Munich, Germany<br> <sup>3</sup>Medical University of Vienna, Department of Medicine III, Division of Nephrology, Vienna, Austria<br> <sup>4</sup>UCL, MRC Clinical Trials Unit, Institute of Clinical Trials and Methodology, London, UK</p>
+<p>Similar to the well-known phases of research in drug development, Heinze et al.&nbsp;[1] identified four phases of methodological research in biostatistics. The initial phase (I) centers on the development of a novel method. It typically raises the rationale for the method’s relevance and novelty, and includes theoretical justifications or formal mathematical proofs. Basic illustrations or toy examples may be contained, but comprehensive empirical evaluation is usually not yet considered. This phase is often limited to a single publication presenting the new idea.</p>
+<p>In Phase II, an initial evaluation in a controlled and limited simulation setting is performed. Typically, the method’s properties are tested under ideal or simplified conditions, and using well-defined, specific data structures. This phase may include an illustrative real data example and provide a first software implementation, but generalizability is not yet the focus. Many journal articles with biostatistical contributions could be assigned to this phase, but few of them make it to the next phase.</p>
+<p>Phase III comprises broad evaluations of a method across diverse settings to investigate a method’s wider applicability. This usually includes simulation studies or example applications that span over various settings (e.g., different sample sizes, effect sizes, distributions, sometimes even different types of outcome variables). Alternative methods are well-selected based on evidence, and comparisons among methods are often conducted as neutral comparison studies, avoiding or at least disclosing possible biases. This phase helps in identifying strengths and weaknesses of methods across multiple use cases.</p>
+<p>The final phase IV provides meta-methodological insights of a method already in use by practitioners (other than its inventors): it further clarifies when and why the method works well or poorly. It may comprise a narrative or systematic review of simulation results, or wide comparative performance studies, sometimes largely extending the originally intended fields of application. After that phase, a method is recognized as mature, enabling recommendations for or against its use in specific contexts or according to potential users’ level of statistical knowledge and experience. Finally, guidance documents or tutorials for applied users may emerge.</p>
+<p>In this introductory talk I will discuss these and some further aspects of the classification and the impact it may have on different stakeholders, such as methodologist, applied researchers, reviewers and journal editors, and funders and policy makers.</p>
+<ol type="1">
+<li>Heinze, G., Boulesteix, A. L., Kammer, M., Morris, T. P., White, I. R., &amp; Simulation Panel of the STRATOS initiative (2024). Phases of methodological research in biostatistics-Building the evidence base for new methods. Biometrical journal, 66(1), e2200222. https://doi.org/10.1002/bimj.202200222</li>
+</ol>
+</section>
+<section id="phases-of-development-of-the-weighted-cumulative-exposure-modeling" class="level4">
+<h4 class="anchored" data-anchor-id="phases-of-development-of-the-weighted-cumulative-exposure-modeling">Phases of development of the Weighted Cumulative Exposure modeling</h4>
+<p><em>Michal Abrahamowicz</em><sup>1</sup></p>
+<p><sup>1</sup>McGill University, Montreal, Canada</p>
+<!-- Weighted Cumulative Exposure (WCE) methodology has been developed to allow for flexible modelling of the cumulative effects of time-varying exposures (TVE) [1].  In time-to-event analyses, the joint impact of past TVE values, for person i, is quantified as: 〖WCE〗_i (u)=∑_t▒〖w(u-t)[X_i (t)]〗, where u is the current time when the hazard is assessed, and Xi(t), t < u, represent TVE values observed at earlier times. The essential component  of the model is the weight function w(u-t) which is estimated using cubic splines and  indicates how the importance of the TVE value observed at time t, for the hazard at time u (u > t), varies with time (u-t) since it was measured [1]. The WCE modeling, originally developed for Cox proportional hazards analyses [1],  has been extended to competing risks, marginal structural models and mixed effects linear modeling of longitudinal changes in a quantitative outcome [2].  -->
+<p>Weighted Cumulative Exposure (WCE) methodology has been developed to allow for flexible modelling of the cumulative effects of time-varying exposures (TVE) [1]. In time-to-event analyses, the joint impact of past TVE values for person <span class="math inline">\(i\)</span> is quantified as <span class="math inline">\(WCE_i(u) = \sum_t w(u - t)[X_i(t)]\)</span>, where <span class="math inline">\(u\)</span> is the current time when the hazard is assessed, and <span class="math inline">\(X_i(t)\)</span>, <span class="math inline">\(t &lt; u\)</span>, represent TVE values observed at earlier times. The essential component of the model is the weight function <span class="math inline">\(w(u - t)\)</span>, which is estimated using cubic splines and indicates how the importance of the TVE value observed at time <span class="math inline">\(t\)</span>, for the hazard at time <span class="math inline">\(u\)</span> (where <span class="math inline">\(u &gt; t\)</span>), varies with time since it was measured [1]. The WCE modeling, originally developed for Cox proportional hazards analyses [1], has been extended to competing risks, marginal structural models, and mixed effects linear modeling of longitudinal changes in a quantitative outcome [2].</p>
+<p>The talk will present an overview of the phases of the development and establishing of the WCE methodology, including its consecutive extensions, and validation in simulations. I will discuss how and to what extent our work on the WCE modelling followed the phases identified by Heinze et al in their recent paper on the phases of methodological research in biostatistics [3]. In addition, further phases such as (a) establishing the need for the new methodological development, (b) proof-of-the-concept phase, and (c) refining the estimation and statistical inference, will be outlined.</p>
+<p>In this context, three important aspects of real-world applications will be briefly discussed. (i) Firstly, I will emphasize the need to incorporate substantive knowledge, and the related challenges. (ii) Secondly, I will illustrate the ability of the WCE analyses to provide new insights into, and generate new hypotheses about, the underlying biological processes linking the exposure with the outcomes. (iii) I will also outline how some real-world results stimulated new methodological developments, necessary to address additional analytical challenges.</p>
+<p>Finally, the need of future research to carry out the additional phase, focusing on neutral simulations to further validate the WCE methodology and compare it with the existing alternative approaches, as recommended in [3], will be briefly presented.</p>
+<ol type="1">
+<li><p>Sylvestre M-P &amp; Abrahamowicz M. Flexible modeling of the cumulative effects of time dependent exposures on the hazard. Statistics in Medicine. 2009 Nov;28(27):3437-3453.</p></li>
+<li><p>Abrahamowicz M. Assessing cumulative effects of medication use: new insights and new challenges. Invited Commentary. Pharmacoepidemiology and Drug Safety. 2024 Jan;33(1):e5746. doi: 10.1002/pds.5746.</p></li>
+<li><p>Heinze G., Boulesteix AL, Kammer M., Morris TP, White I. Phases of methodological research in biostatistics. Biometrical Journal. 2024.</p></li>
+</ol>
+</section>
+<section id="phases-of-development-of-the-multivariable-fractional-polynomial-interaction-mfpi-procedure" class="level4">
+<h4 class="anchored" data-anchor-id="phases-of-development-of-the-multivariable-fractional-polynomial-interaction-mfpi-procedure">Phases of development of the Multivariable Fractional Polynomial Interaction (MFPI) procedure</h4>
+<p><strong>Willi Sauerbrei</strong><sup>1</sup>, Patrick Royston<sup>2</sup></p>
+<p><sup>1</sup>Institute of Medical Biometry and Statistics, Faculty of Medicine and Medical Center - University of Freiburg, Freiburg, Germany<br> <sup>2</sup>MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and Methodology, University College London, London, UK</p>
+<p>MFPI is an extension of the well-established Multivariable Fractional Polynomial (MFP) approach to regression modelling. MFPI was formulated in the context of RCTs to look for an interaction with a continuous variable. The linear interaction model is the simplest special case. More generally, the aim is to investigate for an interaction of a categorical variable with a continuous variable in the framework of a regression model [1]. In the clinical context (RCTs), the key component of this method is the continuous treatment effect function (TEF). We used the bootstrap to perform stability analyses of such functions [2]. Our procedure was inspired by the STEPP (Subpopulation Treatment Effect Pattern Plot) approach. The latter was in vogue some 25 years ago to investigate possible interactions in breast cancer research [3]. We compared the approaches in some examples [4].</p>
+<p>Regarding selection of the specific functions, we initially suggested four approaches with varying flexibility (FLEX1 to FLEX4). The details are demonstrated in a Stata paper in which we also compared MFPI with STEPP [5]. Using a large simulation study, we showed the advantages of MFPI over categorization-based methods. Regression splines were also considered as competitors and did not yield much better results. No other spline approaches were investigated [6, 7].</p>
+<p>We proposed a strategy to average several functions [8] which allowed us to conduct meta-analyses for a continuous variable. Using IPD data from eight RCTs in breast cancer, we illustrated several methodological issues relating to averaging the eight TEF functions [9].</p>
+<ol type="1">
+<li><p>Royston, P. and Sauerbrei, W. (2004): A new approach to modelling interactions between treatment and continuous covariates in clinical trials by using fractional polynomials. Statistics in Medicine, 23:2509-2525.</p></li>
+<li><p>Sauerbrei, W. and Royston, P. (2007). Modelling to extract more information from clinical trials data: On some roles for the bootstrap. Statistics in Medicine, 26(27), 4989-5001.</p></li>
+<li><p>Bonetti, M. and Gelber, R.D. (2000): A graphical method to assess treatment–covariate interactions using the Cox model on subsets of the data, Statistics in Medicine 19: 2595–2609.</p></li>
+<li><p>Sauerbrei, W., Royston, P. and Zapien, K. (2007): Detecting an interaction between treatment and a continuous covariate: a comparison of two approaches. Computational Statistics and Data Analysis, 51: 4054-4063.</p></li>
+<li><p>Royston, P. and Sauerbrei, W. (2009): Two techniques for investigating interactions between treatment and continuous covariates in clinical trials. The Stata Journal, 9: 230-251.</p></li>
+<li><p>Royston, P. and Sauerbrei, W. (2013): Interaction of treatment with a continuous variable: simulation study of significance level for several methods of analysis. Statistics in Medicine, 32(22):3788-3803.</p></li>
+<li><p>Royston, P. and Sauerbrei, W. (2014): Interaction of treatment with a continuous variable: simulation study of power for several methods of analysis. Statistics in Medicine, 33: 4695-4708.</p></li>
+<li><p>Sauerbrei, W. and Royston, P. (2011): A new strategy for meta-analysis of continuous covariates in observational studies. Statistics in Medicine, 30(28):3341-3360.</p></li>
+<li><p>Sauerbrei, W., &amp; Royston, P. (2022). Investigating treatment-effect modification by a continuous covariate in IPD meta-analysis: an approach using fractional polynomials. BMC medical research methodology, 22(1), 98.</p></li>
+</ol>
+</section>
+<section id="will-net-benefit-trump-net-reclassification-index-as-a-measure-for-incremental-value-of-markers-in-prediction-models-a-historical-perspective" class="level4">
+<h4 class="anchored" data-anchor-id="will-net-benefit-trump-net-reclassification-index-as-a-measure-for-incremental-value-of-markers-in-prediction-models-a-historical-perspective">Will Net Benefit trump Net Reclassification Index as a measure for incremental value of markers in prediction models? A historical perspective</h4>
+<p><strong>Ewout Steyerberg</strong><sup>1</sup>, Ben Van Calster<sup>2</sup> for STRATOS TG6</p>
+<p><sup>1</sup>University Medical Center Utrecht, Netherlands<br> <sup>2</sup>KU Leuven, Belgium</p>
+<p>Intro: Markers such as lab measurements and omics features hold promise to improve predictions for individual patients. Various measures can be used to quantify the incremental value of such markers. We aim to place two relatively recent measures in historical perspective: Net Benefit (NB) and Net Reclassification Index (NRI).</p>
+<p>Methods: The NB was introduced by Vickers &amp; Elkin in 2006 [1], and Net Reclassification Index (NRI) by Pencina et al in 2008 [2]. Both papers have high citations rates (total &gt;4000 and &gt;6000; in 2024: 553 and 295 respectively). Both measures can consider the situation that a reference prediction model is extended with a covariate, either categorical or continuous (‘marker extension’).</p>
+<p>Results: The NB fits in the line of research on utility measures, where true positive (TP) classifications usually are weighted as more important than false positive (FP) classifications. NB is weighted sum of TP and FP, with the weight related to the decision threshold to classify patients as high vs low risk. A related measure is Relative Utility, as proposed by Baker [3].</p>
+<p>The NRI is a reclassification measure, where higher risk is an improvement for those with an event, and lower risk for those without an event. For binary classification, the sum of NRI for events and NRI for non-events is equal to the improvement in Youden index (difference in sensitivity plus difference in specificity). Remarkably, Youden index and NB were already described in 1884 in a 1 page paper [4]. The NRI has been criticized for various reasons, including statistically improper behaviour (testing and estimation problems) and fundamental limitations (not accounting for consequences of classifications, which may be context-dependent, and a risk of misinterpretation) [5]. The NRI is equal to NB if the decision threshold is the event rate, so can be considered a simplified case of NB.</p>
+<p>Conclusion: NRI and NB arose from different research traditions, which were already defined in 1884. NRI did not go through systematic phases of evaluation and should not be a prime performance measure for the performance of markers to classify patients as low versus high risk. Time will tell whether NB will trump NRI.</p>
+<ol type="1">
+<li><p>AJ Vickers, EB Elkin. Decision curve analysis: a novel method for evaluating prediction models. Medical Decision Making 2006: 26 (6), 565-74</p></li>
+<li><p>MJ Pencina, RB D’Agostino Sr, RB D’Agostino Jr, RS Vasan. Evaluating the added predictive ability of a new marker: from area under the ROC curve to reclassification and beyond. Stat Med 2008: 27(2), 157-72</p></li>
+<li><p>SG Baker. Putting risk prediction in perspective: relative utility curves JNCI 2009:101;1538–42</p></li>
+<li><p>CS Peirce. The numerical measure of the success of predictions. Science, 1884</p></li>
+<li><p>M Leening, M Vedder, J Witteman, M Pencina, M Pencina, E Steyerberg. Net reclassification improvement: Computation, interpretation, and controversies: A literature review and clinician’s guide. Ann Intern Med 2014:160,122-31</p></li>
+</ol>
+</section>
+</section>
+<section id="session-2" class="level3">
+<h3 class="anchored" data-anchor-id="session-2">Session 2</h3>
+<section id="mission-impossible-specifying-target-estimands-for-long-term-risks-and-benefits-of-novel-therapies" class="level4">
+<h4 class="anchored" data-anchor-id="mission-impossible-specifying-target-estimands-for-long-term-risks-and-benefits-of-novel-therapies">Mission impossible? Specifying target estimands for long-term risks and benefits of novel therapies</h4>
+<p><strong>Rima Izem</strong><sup>1</sup>, Paola Rebora<sup>2</sup>, Nicholas Bakewell<sup>3</sup>, Mitchell Gail<sup>4</sup>, Suzanne Cadarette<sup>5</sup> for TG5</p>
+<p><sup>1</sup>Statistical Methodology, Novartis Pharma AG, Basel, Switzerland<br> <sup>2</sup>School and Medicine and Surgery, University of Milano-Bicocca, Italy<br> <sup>3</sup>Health Services Research, University of Toronto, Canada<br> <sup>4</sup>Biostatistics Branch, National Institutes of Health, Rockville, Maryland, USA<br> <sup>5</sup>Leslie Dan Faculty of Pharmacy, University of Toronto, Canada</p>
+<p>The STRATOS Study Design Topic Group (TG5) aims to offer guidance on planning and designing observational studies. Proper planning, informed by subject-matter expertise, ensures that research objectives are clearly defined, clinically relevant, and that the chosen study design is appropriate and valid. Despite its apparent simplicity, flaws in study design are frequently reported, highlighting the need for robust guidance from this subteam.</p>
+<p>One TG5 topic of interest includes the review of main challenges in planning clinical trials or observational studies to answer causal questions about the long-term risks and benefits of treatments for chronic conditions. In chronic care, extended exposure to treatments raises questions about long-term safety or effectiveness, necessitating further studies.</p>
+<p>The current practice often involves designing studies to compare the initiation of a new treatment with standard care on long-term outcomes. However, the treatment landscape is dynamic. Patients may experience multiple intercurrent events after initiating a treatment, such as dose escalation, switching treatments, therapy gaps, or concurrent treatments, which can influence outcomes. Ignoring these intercurrent events or censoring follow-up at these events allows estimation but muddies the causal inference. Therefore, estimands often focus on quantifying the effect of treatment initiation at the expense of complex exposure patterns.</p>
+<p>A potential alternative that TG5 is exploring is to ask cumulative exposure questions at fixed follow-up periods informed by drug utilization patterns in real-world settings.</p>
+</section>
+<section id="an-overview-on-recent-works-and-activities-of-the-stratos-topic-group-tg3-initial-data-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="an-overview-on-recent-works-and-activities-of-the-stratos-topic-group-tg3-initial-data-analysis">An overview on recent works and activities of the STRATOS topic group TG3 “Initial data analysis”</h4>
+<p>Carsten. O. Schmidt1, Marianne Huebner2, Lara Lusa3</p>
+<p>1Institute for Community Medicine, University Medicine of Greifswald, Greifswald, Germany <br> 2Department of Statistics and Probability, Michigan State University, East Lansing, MI, USA<br> 3Department of Mathematics, Faculty of Mathematics, Natural Sciences and Information Technology, University of Primorska, Koper, Slovenia</p>
+<p>The key principle of Initial Data Analysis (IDA) is to provide reliable knowledge about the data underlying the main statistical analyses (MDA). The STRATOS topic group TG3 “Initial data analysis” aims to improve awareness of IDA as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner in pursue of transparent and reproducible science. IDA focuses on the workflow from metadata setup, data cleaning, data screening, data quality assessments, reporting prior to conducting the MDA. This talk will provide an overview on these steps and introduces an international effort to develop a statistical analysis plan template in cooperation with all STRATOS topic groups for observational studies that incorporates a systematic IDA plan.</p>
+</section>
+<section id="an-overview-and-recent-developments-of-the-stratos-open-science-panel" class="level4">
+<h4 class="anchored" data-anchor-id="an-overview-and-recent-developments-of-the-stratos-open-science-panel">An overview and recent developments of the STRATOS Open Science panel</h4>
+<p>Sabine Hoffmann<sup>1</sup> for the Open Science panel</p>
+<p><sup>1</sup>Institute for Medical Information Processing, Biometry, and Epidemiology, Ludwig-Maximilians-Universität Munich, Germany</p>
+<p>The scientific community, publishers and funders are increasingly encouraging open science practices with the idea that “scientific knowledge of all kinds, where appropriate, should be openly accessible, transparent, rigorous, reproducible, replicable, accumulative and inclusive” [1]. The STRATOS Open Science panel was funded to promote open science practices by providing guidance on ways to achieve this idea. This talk with give a general overview of the importance of open science practices in the design and analysis of observational studies in biomedical research and then focus on two ongoing projects concerning guidance on data sharing through synthetic data generation and a project that illustrates how to deal with analytical choices (“researcher degrees of freedom”) in the analysis of observational studies.</p>
+<ol type="1">
+<li>Parsons S, Flavio Azevedo F, Elsherif MM, Guay S, Shahim ON,Govaart GH, Norris E, Aoife O’Mahony A, Parker AJ, Todorovic A, et al.&nbsp;A community-sourced glossary of open scholarship terms. Nature Human Behaviour, 6(3):312–318, 2022</li>
+</ol>
+</section>
+<section id="adjusting-for-covariate-measurement-error-in-non-linear-regression-comprehensive-phase-2-results-from-the-stratos-tg2-tg4-study" class="level4">
+<h4 class="anchored" data-anchor-id="adjusting-for-covariate-measurement-error-in-non-linear-regression-comprehensive-phase-2-results-from-the-stratos-tg2-tg4-study">Adjusting for Covariate Measurement Error in Non-Linear Regression: Comprehensive Phase 2 Results from the STRATOS TG2-TG4 Study</h4>
+<p>Aris Perperoglou<sup>1</sup>, Mohammed Sedki<sup>2</sup>, Anne Thiébaut<sup>3</sup>, Michal Abrahamowicz<sup>4</sup>, Paul Gustafson<sup>5</sup>, Victor Kipnis<sup>6</sup>, Laurence Freedman<sup>7</sup> on behalf of the STRATOS TG2 &amp; TG4 collaborative groups</p>
+<p><sup>1</sup> GSK, London, UK<br> <sup>2</sup> Université Paris-Saclay, France<br> <sup>3</sup> INSERM National Institute of Health and Medical Research, Villejuif, France<br> <sup>4</sup> McGill University, Montreal, Canada<br> <sup>5</sup> Department of Statistics, The University of British Columbia, Vancouver, British Columbia, Canada<br> <sup>6</sup> Biometry Research Group, Division of Cancer Prevention, National Cancer Institute, Bethesda, Maryland, USA<br> <sup>7</sup> Biostatistics Unit, Gertner Institute for Epidemiology and Health Policy Research, Sheba Medical Center, Tel Hashomer, Israel</p>
+<p>Covariates in medical research are often measured with error, biasing estimates of exposure-outcome relationships, especially when these relationships are non-linear. This study compares methods for measurement error correction in such non-linear settings.</p>
+<p>This blinded, multi-stage simulation project, a collaboration within the STRATOS initiative (Topic Groups 2 and 4), involved a Data Generation and Evaluation team and three Methods teams. These teams applied Bayesian methods, Imputation/Regression Calibration (MI/RC), and Simulation Extrapolation (SIMEX), combined with flexible modelling techniques (B-splines (BS), P-splines (PS), Fractional Polynomials (FP2), and Natural Splines (NS)). Datasets featured a binary outcome, a continuous covariate with classical error (X*), and a replicate substudy. The true non-linear functional form, covariate distribution, error variance, and error distribution were initially withheld. Phase 1 used 5 pilot datasets; Phase 2 expanded to 155 unique datasets by varying sample sizes, measurement error (ME) variance, error distribution (Normal, shifted-Gamma), and true functional forms. Performance was assessed by log Mean Absolute Error (logMAE).</p>
+<p>SIMEX methods consistently demonstrated the highest accuracy. P-splines, FPs, and NS generally outperformed BS, especially with SIMEX or Bayesian approaches. Following SIMEX, Bayesian methods (excluding BS) performed best, then RC (excluding BS), and MI. Bayesian BS combinations typically performed poorest, particularly with smaller samples. Accuracy generally improved with larger sample sizes and smaller ME. Linear relationships were estimated most accurately; J-shaped forms were most challenging. A shifted-Gamma ME distribution yielded slightly better accuracy for most methods. Notably, SIMEX was less sensitive to increased ME magnitude and, unlike MI and Bayes, showed no substantial accuracy improvement with larger replication substudy sizes.</p>
+
+
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences &amp; Privacy Policy</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

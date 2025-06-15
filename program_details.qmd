@@ -1,0 +1,19 @@
+---
+title: "Detsl"
+---
+
+## Keynote Speakers
+
+### Erica Moodie
+
+**Statistical and causal perspectives on machine learning in estimating individualized treatment strategies**
+ 
+The predictive power of machine learning is often celebrated, but caution is also warranted due to the potential for algorithmic bias which often arises from classical statistical concerns such as confounding and selection bias. Statisticians are thus often wary of the use of machine learning in the context of treatment recommendations and other highly sensitive and potentially life-altering decision-making.
+I will discuss two examples in which machine learning approaches were incorporated into a classical statistical method to learn individualized treatment strategies that are designed to address confounding to yield causally valid conclusions. In the first, non-parametric ensemble learner is used in the context of an approach that is not robust to model mis-specification. In the second, probabilistic supervised learning in the form of Gaussian processes will be used to improve performance of inverse probability of treatment weighted estimators. In both cases, the use of machine learning is layered onto classical statistical approaches to causal inference that have been developed to address confounding in the context of observational data analysis. Relevant causal assumptions, and how they may (or may not!) be detected and mitigated will also be discussed.   
+ 
+
+### Ian Marschner
+
+**Confidence distributions: new tools to design, adapt and analyse clinical trials**
+
+Confidence distributions provide a holistic summary of the information that the data contains about a parameter in a statistical model, expressed using a probability distribution over the parameter space. They provide a frequentist analogue of Bayesian posterior distributions, but without the requirement to specify a prior distribution. In randomised clinical trials, confidence distributions are particularly useful for summarising the evidence for a treatment effect, allowing the strength of evidence to be quantified using a confidence statement such as Conf(Benefit)=92%. In this talk, I will review the application of confidence distributions to clinical trials using various case studies and then present promising lines of future research. Confidence distributions are useful at all stages of a clinical trial, from design to monitoring to analysis. They are particularly promising for adaptive designs, where they can be used to adapt design features such as the randomisation probabilities, the sample size or the available treatments.  These confidence-adaptive designs provide various advantages over other types of adaptive designs, by making use of connections with long-standing frequentist group sequential theory that allows less reliance on extensive simulation. In some contexts, confidence distributions may provide the advantages of a Bayesian analysis but with less complexity and sensitivity to assumptions. They have recently found their way into major medical journals and are a promising new tool for clinical biostatisticians.

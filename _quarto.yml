@@ -28,7 +28,6 @@ website:
         menu: 
         - text: "Registration"
           href: registration.qmd
-   
         - text: "Social Program"
           href: social.qmd
         - text: "Calls (archived)"
@@ -54,10 +53,20 @@ website:
            target: "_blank"    
          - text: "Pre-conference Courses"
            href: courses.qmd
-         - text: "Keynote Speakers & Invited Sessions"
-           href: invited-speakers-sessions.qmd
+         - text: "Keynote Speakers"
+           href: keynote-speakers.qmd
+         - text: "Invited Sessions"
+           href: invited-sessions.qmd
          - text: "Mini-Symposia"
+         - text: "Overview"
            href: mini-symposia.qmd
+         - text: "Mini-Symposium 2"
+           href: mini-symposia-2.qmd
+         - text: "Mini-Symposium 3"
+           href: mini-symposia-3.qmd
+         - text: "Mini-Symposium 4"
+           href: mini-symposia-4.qmd
+             
       - text: "About Basel"
         menu:
         - text: "Overview"
