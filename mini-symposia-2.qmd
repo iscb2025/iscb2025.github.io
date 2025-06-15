@@ -1,0 +1,64 @@
+---
+title: "Early Career Biostatisticians' (ECB) Day"
+---
+
+The Early Career Biostatisticians’ (ECB) subcommittee has organised two events in conjunction with the Local Organising Committee (LOC) for this year’s ISCB conference in Basel.
+
+**Student Gathering**
+
+Please join us for our annual networking event at Markthalle on Sunday, 24th August 2025 at 6pm! This will be a great opportunity to network and connect with other students and early career biostatisticians. This event is free of charge to anyone attending the main conference or ECB Day.
+
+**ECB Day**
+
+On Thursday, August 28th, 2025, the last day of the 46th annual conference of the ISCB, the Early Career Biostatisticians' (ECB) Day will take place. The ECB Day focuses on discussing challenges faced by statisticians and conducting biostatistical research. We welcome all ISCB conference participants to attend regardless of their career stage. In previous years, the topics covered have included working in public health vs industry or academia, working in statistics consultancy, effectively planning and organising a project, navigating professional relationships, work-life balance, and ethical challenges.
+
+## Invited Speakers
+
+The following biostatisticians will share their experiences and lessons learned while working as biostatisticians.
+
+**Professor Maria Grazia Valsecchi**<br>
+Senior Professor in Medical Statistics, Bicocca Centre of Bioinformatics, Biostatistics and Bioimaging, University of Milano-Bicocca, Milan, Italy
+
+**The key role of biostatisticians in producing methods and applications that improve clinical research and scientific evidence.**
+
+Clinical research covers many areas: it evaluates the effectiveness of therapeutic and healthcare interventions, the accuracy of diagnostic procedures, the role of new biomarkers, the performance of prognostic or predictive models and many other aspects related to health. Clinical research, if carried out rigorously and efficiently, provides timely results that have a direct impact on clinical practice, patient care and eventually public health. Research is characterized by multidisciplinarity and biostatistics plays an important role, contributing to all phases of its development: from the definition of the clinical/biomedical question, to the design of the study, the collection and statistical analysis of data, and finally to the proper documentation and communication of the results obtained. For this reason, the profession of biostatistician, or medical statistician, is exciting and interesting, since it implies a role as a scientist, a person who gets to the heart of the research content, contributes with good and innovative methods to produce original data, guaranties the methodological rigor that is necessary for deriving scientific evidence. The biostatistician ethical code of behaviour is also fundamental to preserve the integrity of research for the benefit of subjects involved in the study and of those who will be treated in the future according to the findings. In the presentation I will show, through my work experience as a medical statistician, how exciting it is the interplay between applied and methodological research and how important it is the contribution of our discipline in the production of better research and scientific evidence.
+
+---
+
+**Dr. Lisa Hampson**<br>
+Advanced Methodology and Data Science, Novartis Pharma AG, Switzerland
+
+*Transforming methods into applications: reflections on the role of a statistical methodologist in the pharmaceutical industry*
+
+I’ve been fortunate in my career to have had opportunities to work in both academia and the pharmaceutical industry, and the connecting thread has been a focus on methods to support the design and interpretation of clinical trials as well as inform expectations about how likely a study is to ‘succeed’. Many instances of my early career research arose from academia-industry collaborations, beginning with my MSc dissertation, then my PhD, and later a UK Medical Research Council Career Development Award in Biostatistics which featured collaborations with a range of partners. In 2016 I decided to leave academia, and since 2017 I have been based in the Statistical Methodology group at Novartis. Here my role sees me offer consultancy support to project teams on a variety of statistical topics; co-ordinate an early career development program for Novartis Analytics colleagues; and interact with external collaborators to advance methods development and dissemination. In this presentation, I will provide examples illustrating the main pillars of my work as a statistical methodologist in a large pharmaceutical company and the key skills I have needed to develop. Drawing on my experiences, I will also offer some personal reflections comparing and contrasting the day-to-day work of a methodologist in academia and the pharmaceutical industry.
+
+---
+
+**Dr. Karen Lamb**<br>
+Associate Professor, University of Melbourne
+
+
+*Effective communication strategies for biostatisticians to establish and sustain successful collaboration*
+
+Effective communication with collaborators is critical for a successful career in biostatistics. Although an essential skill, communication is rarely emphasised in university training for statisticians. Where offered, communication courses typically focus on written or oral presentation skills. While useful, these courses overlook effective strategies for day-to-day communication required by statisticians. In this presentation, I will discuss essential communication skills biostatisticians need and provide tips and examples of how I use these skills in my own work. I will describe how to establish collaborator trust, how to guide communication pathways, and how to value the experience you bring to a collaboration.
+
+## Early Career Talk
+
+**Solomon Beer**<br>
+PhD Student, University of Galway
+
+
+In recent years there have been a number of opportunities for PhD students as part of a cohort in a targeted subject area, such as Science Foundation Ireland’s Centres for Research Training (CRT) and the UK Research and Innovation’s Centres for Doctoral Training (CDT). These centres generally include an initial training period where PhD students with a diverse range of relevant academic backgrounds are introduced to theory, methods and application in the centre's subject area. There is a wide range in the research focus for these centres, from machine learning and data science to renewable energy and environmental science. I am a third year PhD student in the fourth and final cohort of a CRT in Genomics Data Science, which has students spread across six universities in Ireland, and I will discuss my experience of the PhD journey as part of this programme, including some of the positives and negatives that myself and my peers have found through studying for a PhD as part of a cohort.
+
+## Workshop Session
+
+In another change from previous years, this year’s ECB Day will also include an interactive, workshop-style session in which all participants will be able to get involved in discussions about the challenges faced by statisticians and conducting biostatistical research. For this, we will be using The Dilemma Game app, developed by Erasmus University Rotterdam (EUR), where we pose questions and scenarios relating to professionalism and integrity in research for discussion.
+You can learn more about The Dilemma Game here: [https://www.eur.nl/en/about-university/policy-and-regulations/integrity/research-integrity/dilemma-game](https://www.eur.nl/en/about-university/policy-and-regulations/integrity/research-integrity/dilemma-game )
+We recommend that all ECB day attendees download the app prior to attending the mini-symposium. 
+
+iOS: [https://apps.apple.com/us/app/dilemma-game/id1494087665](https://apps.apple.com/us/app/dilemma-game/id1494087665) 
+<br>
+Android: [https://play.google.com/store/apps/details?id=nl.eur.dilemmagame&hl=nl](https://play.google.com/store/apps/details?id=nl.eur.dilemmagame&hl=nl)
+
+## Registration
+The registration fee for the main conference covers the ECB day. It is possible to register for the ECB day only through the conference website [https://iscb2025.info/registration.html](https://iscb2025.info/registration.html), and the cost is €35. 

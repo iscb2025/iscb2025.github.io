@@ -1,0 +1,67 @@
+---
+title: "Invited Sessions"
+---
+
+
+### When worlds collide: Common methodological themes in meta-analysis, causal inference, and hybrid trial design
+**Organizers:** David Philippo (chair), Lisa Hampson
+
+* Issa Dahabreh 
+*	Antonio Remiro-Azocar
+*	Satrajit Roychoudhury 
+
+
+### AI-driven multi-omics data integration
+**Organizers:** Niko Beerenwinkel (chair), Krista Fischer\
+
+*	Maria Brbic
+*	Julia Vogt
+*	Kjong Lehmann 
+
+
+### Prediction modelling meets causal inference for clinical decision making
+**Organisers:** Ruth Keogh (chair), Giusi Moffa
+
+*	Nan Van Geloven 
+*	Pedro Miranda Afonso
+*	Wouter van Amsterdam
+
+
+### Mathematical and Statistical Modelling in the Life Sciences: Seeking causal explanations
+**Organiser:** Jack Kuipers (chair) 
+
+-	Johannes Textor
+-	Ivana Bozic
+-	Theis Lange
+
+### Optimizing efficiency in adaptive trial designs
+**Organisers:** Kate Lee (chair)
+
+*	Frank Petavy 
+*	Marta Bofill Roig 
+*	Nigel Stallard 
+
+### Generative AI in clinical research and drug development (BBS invited session)
+**Organisers:** Lilla Di Scala, Giusi Moffa (chair) 
+
+*	Holger Fröhlich 
+* Sarah Friedrich 
+*	Maarten van Smeden 
+
+
+### Improving replicability in clinical biostatistics
+**Organisers:** Anne Laure Boulesteix (chair) and Daniel Nevo
+
+*	Leo Held
+*	Sabine Hoffman
+*	Charlotte Soneson
+*	Tim Morris
+
+
+### Cracking causal questions: Estimands for reliable and clinically relevant evidence
+**Organisers:** Marcel Wolbers (chair), Mouna Akacha and Lisa Hampson
+
+*	Kelly van Lancker 
+*	Paul Delmar 
+*	Alexandra Bühler and Tobias Muetze 
+
