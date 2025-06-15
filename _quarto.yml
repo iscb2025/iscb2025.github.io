@@ -68,15 +68,15 @@ website:
           href: basel-card.qmd
         - text: "Restaurants"
           href: restaurants.qmd
-      - text: "FAQ & instructions"
+      - text: "FAQ & Instructions"
         menu: 
         - text: "General FAQ"
           href: faq.qmd
         - text: "Guidelines"
         - text: "Pre-conference courses"
           href: guideline_courses.qmd
-        - text: "Hybrid"
-          href: guideline_hybrid.qmd
+        # - text: "Hybrid" # temporary commented out until info is added
+        #   href: guideline_hybrid.qmd
         - text: "Session chairs"
           href: guideline_chairs.qmd
         - text: "Speakers"
