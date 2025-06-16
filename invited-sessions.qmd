@@ -42,11 +42,11 @@ title: "Invited Sessions"
 *	Nigel Stallard 
 
 ### Generative AI in clinical research and drug development (BBS invited session)
-**Organisers:** Lilla Di Scala, Giusi Moffa (chair) 
+**Organisers:** Giusi Moffa (chair), Lilla Di Scala 
 
 *	Holger Fröhlich 
 * Sarah Friedrich 
-*	Maarten van Smeden 
+*	Simon Anders 
 
 
 ### Improving replicability in clinical biostatistics
