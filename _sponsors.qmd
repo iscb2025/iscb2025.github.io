@@ -4,7 +4,13 @@
 
 <a href="https://www.bwt.com/">![](img/sponsors/bwt.png){width="60%"}</a>
 <span style="display:inline-block; width:10px;"></span>
-<br><br>
+<br><br><br>
+
+### Institutional Sponsors {style="text-align: center;"}
+
+<a href="https://www.snf.ch/">![](img/sponsors/snf.svg){width="75%"}</a>
+<span style="display:inline-block; width:10px;"></span>
+<br><br><br>
 
 ### Platinum Sponsors {style="text-align: center;"}
 <br>
