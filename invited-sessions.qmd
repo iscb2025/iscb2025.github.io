@@ -46,7 +46,7 @@ title: "Invited Sessions"
 
 *	Holger Fröhlich 
 * Sarah Friedrich 
-*	Simon Anders 
+*	Simon Anders
 
 
 ### Improving replicability in clinical biostatistics
