@@ -27,8 +27,11 @@
 
 ### Gold Sponsors{style="text-align: center;"}
 <br>
-<a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a><br> <br>
-
+<a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a>
+<span style="display:inline-block; width:20px;"></span>
+<a href="http://www.beonemedicines.com">![](img/sponsors/gold_beone.jpg){width="37%"}</a>
+<br>
+<br>
 
 ### Silver Sponsors{style="text-align: center;"}
 <br>
