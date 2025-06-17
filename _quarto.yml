@@ -81,6 +81,8 @@ website:
         menu: 
         - text: "General FAQ"
           href: faq.qmd
+        - text: "Childcare"
+          href: childcare.qmd
         - text: "Guidelines"
         - text: "Pre-conference courses"
           href: guideline_courses.qmd
