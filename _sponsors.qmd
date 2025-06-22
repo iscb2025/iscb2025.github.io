@@ -7,9 +7,11 @@
 <br><br><br>
 
 ### Institutional Sponsors {style="text-align: center;"}
-
+<br>
 <a href="https://www.snf.ch/">![](img/sponsors/snf.svg){width="75%"}</a>
 <span style="display:inline-block; width:10px;"></span>
+<br><br><br><br>
+<a href="https://www.basel.com/en/">![](img/sponsors/institutional_basel.png){width="45%"}</a>
 <br><br><br>
 
 ### Platinum Sponsors {style="text-align: center;"}
@@ -30,6 +32,8 @@
 <a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a>
 <span style="display:inline-block; width:20px;"></span>
 <a href="http://www.beonemedicines.com">![](img/sponsors/gold_beone.jpg){width="37%"}</a>
+<span style="display:inline-block; width:20px;"></span>
+<a href="http://amgen.com/">![](img/sponsors/gold_amgen.png){width="34%"}</a>
 <br>
 <br>
 
