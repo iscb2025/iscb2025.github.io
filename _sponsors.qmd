@@ -8,10 +8,12 @@
 
 ### Institutional Sponsors {style="text-align: center;"}
 <br>
-<a href="https://www.snf.ch/">![](img/sponsors/snf.svg){width="75%"}</a>
+<a href="https://www.snf.ch/">![](img/sponsors/snf.svg){width="73%"}</a>
 <span style="display:inline-block; width:10px;"></span>
 <br><br><br><br>
-<a href="https://www.basel.com/en/">![](img/sponsors/institutional_basel.png){width="45%"}</a>
+<a href="https://www.basel.com/en/">![](img/sponsors/institutional_basel.png){width="43%"}</a>
+<span style="display:inline-block; width:10px;"></span>
+<a href="https://bsse.ethz.ch">![](img/sponsors/institutional_eth.png){width="53%"}</a>
 <br><br><br>
 
 ### Platinum Sponsors {style="text-align: center;"}
