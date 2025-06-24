@@ -12,7 +12,7 @@ It is also possible to register for the mini symposia separately (without regist
 
 **Date:** Thursday morning, August 28th, 2025\
 **Organizers:** Alex Ocampo, Cristina Sotto and Jinesh Shah in collaboration with the
-PSI special interest group in Causal Inference.
+PSI special interest group in Causal Inference.  
 **Details:** Further details can be found [here](mini-symposia-1.qmd).
 
 ### Objective
