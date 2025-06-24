@@ -5,7 +5,7 @@ format:
     math: mathjax
 ---
 
-Organizers: Alex Ocampo, Cristina Sotto, & Jinesh Shah in collaboration with the PSI special interest group in causal inference
+Organizers: Alex Ocampo, Cristina Sotto & Jinesh Shah in collaboration with the PSI special interest group in causal inference
 
 
 ## Short description 
