@@ -60,6 +60,8 @@ website:
          - text: "Mini-Symposia"
          - text: "Overview"
            href: mini-symposia.qmd
+         - text: "Mini-Symposium 1"
+           href: mini-symposia-1.qmd
          - text: "Mini-Symposium 2"
            href: mini-symposia-2.qmd
          - text: "Mini-Symposium 3"
