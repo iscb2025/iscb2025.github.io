@@ -1,0 +1,49 @@
+---
+title: "Causal Inference for Improved Clinical Collaborations: A Practicum"
+format:
+  html:
+    math: mathjax
+---
+
+Organizers: Alex Ocampo, Cristina Sotto, & Jinesh Shah in collaboration with the PSI special interest group in causal inference
+
+
+## Short description 
+
+Causal inference is emerging as an indispensable tool for statisticians to properly answer clinical questions of interest. This is due to a mathematically rigorous framework - i.e. potential outcomes - that can explicitly formalize causal effects (estimands) of interest and their identification assumptions. An often-overlooked benefit of adopting a causal toolkit is that it can help create a bridge between statisticians and subject matter experts. For example, causal diagrams can visualize the interplay between various clinical factors and the paths on these diagrams can be used to identify effects of interest together with clinical colleagues. Additionally, causal effects can be defined with simple contrasts of potential outcomes which are generally more closely related to clinical questions than the parameters of statistical models. 
+
+This mini symposium will equip participants with fundamental tools from causal inference to enable them to improve their collaborations with clinicians and other non-statistician subject matter experts. Through an introductory lecture on causal inference, a guided hands-on practicum in small breakout groups, and a panel discussion with causal inference experts, attendees of this mini symposium will have the chance to experience how causal inference can assist in improving collaborations between statisticians and clinicians. 
+
+
+## Agenda
+
+### Session I (09:15 - 10:45)
+Chair: Alex Ocampo
+
+**9:15 - 9:20: Welcome (Alex Ocampo)**
+
+**9:20 - 9:45: Introduction to Causal Inference (Giusi Moffa)**<br>
+A bite-size introduction will be presented to give participants an overview of the concepts, tools, and language of causal inference. 
+
+**9:45 - 10:45: Case Study Practicum (in breakout groups)**<br>
+Participants will have the chance to brainstorm and apply causal thinking to a real case study in small groups. These case studies were drafted by the following statisticians who are applying these tools in clinical trials:
+
+Stefan Englert, Lilla Di Scala, Tim Morris, Yannis Jemiai, Cristina Sotto, Alex Ocampo, & Jinesh Shah
+
+### Coffee Break (10:45 - 11:30)
+
+### Session II (11:30 - 13:00)
+
+**11:30 - 12:00: Case Study Overviews**<br>
+The context of the case studies will be presented by their respective contributors with some time for comments from the breakout groups. 
+
+**12:00 - 13:00: Panel Discussion**<br>
+Lastly, the mini-symposium will conclude with a panel discussion of casual inference experts who will provide their experiences using causal tools in clinical collaborations. Participants will also have a chance to ask questions relevant to the mini-symposium and causal inference more generally.
+
+Panelists: Theis Lange, Giusi Moffa, Antonio Remiro-Acózar, Kelly Van Lancker, & Emily Granger
+
+
+
+
+
+
