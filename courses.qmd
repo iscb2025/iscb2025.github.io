@@ -139,7 +139,7 @@ The practical exercises will be performed in the statistical software R.
 
 **Instructors:**
 
-* Audrey Te-ying Yeo, Independent
+* Audrey Te-ying Yeo, Finc Research
 * Alessandro Gasparini, Red Door Analytics AB
 * Daniel Sabanés Bové, RCONIS
 
