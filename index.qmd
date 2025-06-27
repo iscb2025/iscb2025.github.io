@@ -32,6 +32,8 @@ title: "2025 Conference"
 ::: {.callout-important}
 # Latest News
 
+**The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> is now online!**
+
 **We have reached full capacity for on-site attendance and the waiting list is now closed. [Only virtual attendance is now possible!](registration.qmd)**
 
 Please follow the [registration process](registration.qmd) for virtual attendance and choose the corresponding option. 
@@ -39,7 +41,6 @@ Please follow the [registration process](registration.qmd) for virtual attendanc
 See the **[FAQ page](faq.qmd)** for frequently asked questions.
 
 [Keynote speakers](keynote-speakers.qmd) and [invited sessions](invited-sessions.qmd) are now available, as is the information on [pre-conference courses](courses.qmd), [mini symposia](mini-symposia.qmd), the [social program](social.qmd) and [accommodation](accommodation.qmd).
-Notifications for abstracts, the StCA and CASP applications have been sent. Stay tuned for the full conference program becoming available.
 :::
 :::
 
