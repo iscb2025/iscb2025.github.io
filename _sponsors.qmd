@@ -52,3 +52,5 @@
 <br>
 <br>
 <a href="https://www.routledge.com/statistics">![](img/sponsors/bronze_taylorfrancis.png){width="20%"}</a>
+<span style="display:inline-block; width:20px;"></span>
+<a href="https://servier.com/">![](img/sponsors/bronze_servier.png){width="20%"}</a>
