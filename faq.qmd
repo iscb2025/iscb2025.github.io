@@ -8,6 +8,40 @@ format:
 
 <br>
 
+## Format of the conference
+
+##### Will the conference be hybrid?
+
+Yes, all talks will be live streamed. Recordings will be made available for limited time to be watched after the conference.
+
+##### When and where will pre-conference courses take place?
+
+Sunday, 24th August in the Biozentrum in Basel.
+
+##### Will the pre-conference courses be hybrid?
+
+No.
+
+##### Will social events be hybrid?
+
+No.
+
+##### Can presentations be given remotely?
+
+No.
+
+##### Can posters be presented remotely?
+
+No.
+
+##### The title or author list of my poster has changed. Should I inform the organizers?
+
+No. Just present your updated poster.
+
+##### How do I find out when I present my talk / poster?
+
+The [conference program](https://www.conftool.org/iscb2025/sessions.php) supports full-text search, if you search for your name you will be able to find the session you are presenting in. The order of the talks or poster number will also be displayed.
+
 ## Related to registration
 
 ##### I have been accepted for a presentation and asked to register quickly. Is there a spot reserved for me, given I will be a presenter?
@@ -102,35 +136,6 @@ The rate for Virtual attendance is the same as the Early registration rate. Plea
 
 No, short courses, mini-symposia, the conference dinner, and excursions will not be available to virtual attendees.
 
-## Format of the conference
-
-##### Will the conference be hybrid?
-
-Yes, all talks will be live streamed. Recordings will be made available for limited time to be watched after the conference.
-
-##### When and where will pre-conference courses take place?
-
-Sunday, 24th August in the Biozentrum in Basel.
-
-##### Will the pre-conference courses be hybrid?
-
-No.
-
-##### Will social events be hybrid?
-
-No.
-
-##### Can presentations be given remotely?
-
-No.
-
-##### Can posters be presented remotely?
-
-No.
-
-##### The title or author list of my poster has changed. Should I inform the organizers?
-
-No. Just present your updated poster.
 
 ## Administrative aspects
 
