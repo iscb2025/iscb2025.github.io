@@ -34,9 +34,7 @@ title: "2025 Conference"
 
 **The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> is now online!**
 
-**We have reached full capacity for on-site attendance and the waiting list is now closed. [Only virtual attendance is now possible!](registration.qmd)**
-
-Please follow the [registration process](registration.qmd) for virtual attendance and choose the corresponding option. 
+**We have reached full capacity and registration is now closed.**
 
 See the **[FAQ page](faq.qmd)** for frequently asked questions.
 
@@ -59,55 +57,19 @@ similar technologies as described in their
 <button type="button" onclick="activateVideos()">Allow and play content from YouTube</button>
 </form>
 </div>
-<!--![](img/IMG_2950_wide.jpg){width="100%"} -->
+
 :::
 
 
-<!-- style="font-size: 1.5em; " -->
+
 <div style="margin-top:20px;"> 
 <span>The 46<sup>th</sup> Conference of the [International Society for Clinical Biostatistics (ISCB)](https://www.iscb.international) will take place from 24. - 28. August, 2025, at the [Biozentrum](https://www.biozentrum.unibas.ch) of the [University of Basel](https://www.unibas.ch/en) and the [Department of Biosystems Science and Engineering (D-BSSE)](https://bsse.ethz.ch/) of [ETH Zürich](https://www.ethz.ch) with the support of the [Basel Biometric Society (BBS)](https://baselbiometrics.github.io/home/docs/) in [Basel](https://www.basel.com), Switzerland.</span>
 </div>
 
-<!--
-<div style="float: left; position: relative; top: 0px; padding-right: 30px; padding-top: 30px; padding-bottom: 30px;">
-</div>
 
-
-<h1 style="margin: 100px 0 20px 0; font-size: 28px; font-weight: 600;">ISCB 2025</h1>
-<h1 style="margin: 0 0 10px 0; font-size: 24px; font-weight: 600;">46<sup>th</sup> Annual Conference of the International <br>
-Society for Clinical Biostatistics (ISCB)</h1>
-<h1 style="margin: 0 0 10px 0; font-size: 20px;">August 24<sup>th</sup> - 28<sup>th</sup>, 2025 | Basel, Switzerland</h1> -->
 
 <br>
 <br>
 
 {{< include _sponsors.qmd >}}
 
-<!-- ### Platinum Sponsors {style="text-align: center;"} -->
-<!-- <br> -->
-<!-- <a href="https://www.novartis.com/">![](img/sponsors/platinum_novartis.png){width="55%"}</a> -->
-<!-- <span style="display:inline-block; width:10px;"></span> -->
-<!-- <a href="https://www.roche.com/">![](img/sponsors/platinum_roche.png){width="27%"}</a> -->
-<!-- <span style="display:inline-block; width:57px;"></span> -->
-<!-- <a href="https://www.sas.com/en_us/home.html/">![](img/sponsors/platinum_sas.png){width="21%"}</a> -->
-<!-- <span style="display:inline-block; width:57px;"></span> -->
-<!-- <a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="35%"}</a> -->
-<!-- <br><br> -->
-
-<!-- ### Gold Sponsors {style="text-align: center;"} -->
-<!-- <br> -->
-<!-- <a href="http://www.ucb.com">![](img/sponsors/gold_ucb.png){width="45%"}</a><br> <br> -->
-
-
-<!-- ### Silver Sponsors {style="text-align: center;"} -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <a href="https://www.datamap.de/">![](img/sponsors/silver_datamap.png){width="18%"}</a> -->
-<!-- <span style="display:inline-block; width:20px;"></span> -->
-<!-- <a href="https://www.boehringer-ingelheim.com/">![](img/sponsors/silver_bi.png){width="18%"}</a> -->
-
-
-<!-- ### Bronze Sponsors {style="text-align: center;"} -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- <a href="https://www.routledge.com/statistics">![](img/sponsors/bronze_taylorfrancis.png){width="20%"}</a> -->
