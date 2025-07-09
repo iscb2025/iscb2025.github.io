@@ -5,8 +5,6 @@ editor:
     wrap: 72
 ---
 
-<br>
-
 # Format of the conference
 
 ## Will the conference be hybrid?
