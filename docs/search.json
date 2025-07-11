@@ -207,7 +207,7 @@
     "href": "guideline_speakers.html#session-time",
     "title": "Guideline for speakers",
     "section": "Session time",
-    "text": "Session time\nIf you want to know your session date and time then visit the schedule online.\nThe time allocated for a presentation is 17 minutes excluding Q&A (approx. 3 to 5 minutes)."
+    "text": "Session time\nIf you want to know your session date and time then visit the schedule online.\nThe time allocated for a presentation is 15 minutes excluding Q&A (approx. 3 to 5 minutes)."
   },
   {
     "objectID": "guideline_speakers.html#presentation-format",
@@ -523,6 +523,13 @@
     "title": "Pre-conference Courses",
     "section": "Multi-State Models: Theory, Applications and New Developments",
     "text": "Multi-State Models: Theory, Applications and New Developments\nInstructors:\n\nLiesbeth de Wreede, Leiden University Medical Center, Netherlands\nHein Putter, Leiden University Medical Center, Netherlands\n\nThe Multi-state models play an increasingly important role in the analysis of time-to-event data. They provide a comprehensive framework to analyze and understand complex medical phenomena, making them invaluable in research aimed at improving patient care, guiding public health policies, and advancing medical science. Extensions of the Nelson-Aalen estimator of the cumulative hazard and of the Kaplan-Meier estimator of the survival function allow for a detailed assessment of the dynamics of complex disease processes and patient trajectories, and the effect of covariates on these patterns.\nIn the first half we offer a brief coverage of basic concepts and techniques in multi-state models, focusing on non- and semi-parametric (Cox-model based) Markov models. We start with an introduction to important concepts, in particular transition intensities (rates) and transition probabilities (risks) and the relation between them, viewing multi-state models as an extension of competing risks models. We continue with methods for assessment of the effect of covariates on the transition intensities through proportional hazards models. Throughout the course, all steps needed for a multi-state analysis will be illustrated with examples and syntax based on the mstate package in R.\nIn the second half we focus on two selected topics related to more recent advancements in multi-state modelling. The first concerns the Markov assumption. We discuss formal tests for the Markov assumption. We explore estimation of transition probabilities that are consistent also when the Markov assumption is violated, in particular the landmark Aalen-Johansen estimator, and extensions like the hybrid landmark Aalen-Johansen estimator. The second topic concerns incorporation of relative survival in multi-state models. This allows to split mortality in excess and background mortality with and without intermediate events. Two different models for assessing the impact of covariates on the excess hazard will be introduced: the Cox model and Aalen’s additive hazards model."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Yes, all talks will be live streamed. Recordings will be made available for limited time to be watched after the conference.\n\n\n\nSunday, 24th August in the Biozentrum in Basel.\n\n\n\nNo.\n\n\n\nNo.\n\n\n\nNo.\n\n\n\nNo.\n\n\n\nNo. Just present your updated poster.\n\n\n\nThe conference program supports full-text search, if you search for your name you will be able to find the session you are presenting in. The order of the talks or poster number will also be displayed."
   },
   {
     "objectID": "faq.html#will-the-conference-be-hybrid",
@@ -894,12 +901,5 @@
     "title": "Sponsors",
     "section": "",
     "text": "Become a Sponsor\n\n Download Brochure \n\n \n\nSustainability Sponsor\n  \n\n\nInstitutional Sponsors\n       \n\n\nPlatinum Sponsors\n          \n\n\nGold Sponsors\n       \n\n\nSilver Sponsors\n      \n\n\nBronze Sponsors"
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "Frequently Asked Questions",
-    "section": "",
-    "text": "Yes, all talks will be live streamed. Recordings will be made available for limited time to be watched after the conference.\n\n\n\nSunday, 24th August in the Biozentrum in Basel.\n\n\n\nNo.\n\n\n\nNo.\n\n\n\nNo.\n\n\n\nNo.\n\n\n\nNo. Just present your updated poster.\n\n\n\nThe conference program supports full-text search, if you search for your name you will be able to find the session you are presenting in. The order of the talks or poster number will also be displayed."
   }
 ]
