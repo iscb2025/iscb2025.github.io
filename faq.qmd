@@ -51,7 +51,11 @@ Feel free to do so in your presentation or on your poster. But we will not updat
 
 ## Can my presentation (talk or poster) be moved?
 
-We have hundreds of contributions and the Scientific Committee has very diligently put together a scientific program. We hope it is understandable that we are not able to accommodate requests for moves of contributions to other time slots.
+We have hundreds of contributions and the Scientific Committee has very diligently put together a scientific program. We hope it is understandable that we are not able to accommodate requests for moves of contributions to other time slots. Reasons are:
+
+- Poster panels are numbered and we use all of them. If we move a poster we would have to move another one, and that may interfere with that other contributor's travel plans. 
+- Compound that by many daily requests for moving posters.
+- Posters are ordered by topic.
 
 # Related to registration
 
