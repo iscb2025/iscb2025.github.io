@@ -2,7 +2,7 @@
 title: "Enhancing Cancer Clinical Trials with Patient-Reported Outcomes: Insights from SISAQOL-IMI"
 ---
 
-Contributors: Flora Mazerolle (Modus outcome), Lisa Wintner (Medical University of Innsbruck), Rachael Lawrence (Adelphi Values), Saskia Le Cessie (Leiden University Medical Center),	Johannes Giesinger (Medical University of Innsbruck), TBD
+Contributors: Flora Mazerolle (Modus outcome), Saskia Le Cessie (Leiden University Medical Center),	Johannes Giesinger (Medical University of Innsbruck), Jammbe Musoro (EORTC HQ)
 
 ## Presenters
 
@@ -12,14 +12,11 @@ Flora completed her MSc in Socioeconomic Statistics and Data Processing at Unive
 ### Saskia Le Cessie
 Professor Saskia le Cessie (PhD, Dept. of Clinical Epidemiology and dept. of Biomedical data Sciences) is a broadly oriented statistician, with specific expertise in statistical methods for clinical epidemiological research. Her research in medical statistics and epidemiological methods is generally inspired by collaboration with medical researchers, and she has performed research in different areas including prediction models, competing risks and multistate models, measurement variability, combining control groups in case-control studies, and goodness of fit. The focus of her current research is on epidemiological and statistical methods for non-randomised studies. She is an Associate Editor of Clinical Trials and a member of the STRATOS initiative, a large collaboration of experts in many different areas of biostatistical research aiming to provide accessible and accurate guidance in the design and analysis of observational studies. She is one of the WP 3 leaders on single-arm-trials within the SISAQOL consortium.
 
-### Lisa Wintner
-Lisa Wintner (MSc. BA) is a clinical psychologist, QOL researcher and PhD student. Within the last ten years she gained as a member of the EORTC QLG a broad expertise in PRO research, questionnaire development and she is the first author of an EORTC “blue book” regarding the implementation of EORTC PRO measures in daily clinical practice. She has been significantly involved in the development of psychoeducational and actionable self-management content for cancer patients, which is specifically adapted to the dimensions of EORTC PRO measures. She is involved in SISAQOL being responsible for the project coordination of WP4 on presentation of results.
-
 ### Johannes Giesinger 
 Johannes Giesinger (PhD, MSc), is a research psychologist with main interest in methodological work on PRO measures in various medical fields and holds a degree in biostatistics and epidemiology. From 2013 to 2015 he has been a post-doc fellow at the Netherlands Cancer Institute in Amsterdam and he is currently working as a senior researcher at the Medical University of Innsbruck. As a member of the EORTC QLG since 2009, he is serving in both the Statistical Support Group and Grant Review Committee as well as contributing his scientific expertise to the development of numerous PRO measures. He has also led several international research projects on PRO methodology, is one of the WP6 leaders on clinically meaningful change within the SISAQOL consortium.
 
-### Racheal Lawrance
-Rachael leads a team of statisticians at Adelphi Values Patient-Centered Outcomes group, involved in working with clients in all aspects of strategy, analysis and interpretation of PRO data in clinical programmes. Prior to Adelphi, Rachael worked at AstraZeneca for 16 years, including 6 years as a late phase clinical trial statistician on oncology projects. Rachael has particular interest in the topic of estimands in oncology, leading the PRO task force within the Estimands on Oncology PSI/EFSPI Working Group and co-chairs the ISOQoL Statistical SIG workstream on estimands. Rachael is also a Director on the Board for PSI, leading the scientific programme of events for PSI.
+### Jammbe Musoro
+Jammbe joined the EORTC in 2015 after completing a PhD in Biostatistics at the Academic Medical Center, University of Amsterdam. He supports both the Quality of Life and Statistics Departments. Currently, he serves as the statistician for the EORTC Cutaneous Lymphoma and Thyroid Cancer Groups, providing expertise in the statistical design of cancer clinical trials. In his role with the Quality of Life Department, he contributes to the design, analysis, and reporting of studies focusing on quality of life endpoints. Jammbe is actively engaged in quality of life research and leads various projects, including the EORTC Minimally Important Difference project, which aims to establish interpretation guidelines for the EORTC QLQ-C30. He regularly contributes to EORTC educational courses and participates in international collaborative projects like SISAQOL-IMI, which aims to standardize the use, analysis, and interpretation of patient-reported outcome data in cancer clinical trials.
 
 ## Symposium outline (2h30)
 
@@ -40,22 +37,24 @@ In this half-day mini-symposium, representatives of SISAQOL-IMI will present pra
  
 The symposium will conclude with a moderated panel discussion on the practical implementation of the recommendations and how these may impact the use of PRO data in drug development and clinical decision making.
 
-### Session 1: Introduction (20 min – Flora Mazerolle)
-The absence of clear PRO objectives has lead to uncertainty in cancer clinical trials, causing confusion in their analysis and reporting. Current practices often show inconsistent terminology, an inflation of analyses, and potentially conflicting results, hindering decision-making and cross-validation of PRO results across studies. Using estimands that reflect relevant and concise PRO objectives can improve the design, analysis, interpretation, and communication of PRO results. The terminology and framework of the intial SISAQOL recommendations will be presented, including a taxonomy of PRO objectives. We will also demonstrate how the estimand framework was used to bridge the gap from research question to actual analysis.
+### Session 1: Introduction (20 min – Johannes Giesinger)
+The absence of clear PRO objectives has lead to uncertainty in cancer clinical trials, causing confusion in their analysis and reporting. Current practices often show inconsistent terminology, an inflation of analyses, and potentially conflicting results, hindering decision-making and cross-validation of PRO results across studies. Using estimands that reflect relevant and concise PRO objectives can improve the design, analysis, interpretation, and communication of PRO results. The terminology and framework of the initial SISAQOL recommendations will be presented, including a taxonomy of PRO objectives. We will also demonstrate how the estimand framework was used to bridge the gap from research question to actual analysis.
 
-### Session 2: Randomised Clinical Trials (25 min – Rachael Lawrence)
+
+### Session 2: Randomised Clinical Trials (25 min – Jammbe Musoro)
 Unobserved data is a persistent issue in PRO analyses due to voluntary patient participation, characterized by intercurrent events and missing data. Intercurrent events affect endpoint interpretation and must be aligned with the intended PRO objective, especially in oncology where events like death are not uncommon. Strategies for handling missing data should consider potential informative relationships and assess robustness. Reporting data availability at each assessment timepoint using standardized completion rates and available data rates is recommended to address selection bias in an uniform way across trials.
+ 
 
-
-### Session 3: Single Arm Trials (25 min -  Saskia Le Cessie)
+### Session 3: Single Arm Trials (25 min – Saskia Le Cessie)
 Single Arm Trials (SATs) face additional challenges due to the lack of a randomized concurrent control. Specifying PRO objectives using the ICHE9 (R1) estimand framework is crucial as current practices are hampered by unclear objectives. Strategies for handling terminal events like death vary, with the while-alive strategy often preferred for quality of life. Causal inference methods offer new opportunities for generating evidence, but untestable causal assumptions must be plausible and supported by sensitivity analyses. This session will explore these strategies and their application in SATs.
 
 
-### Session 4: Results Communication and Visualization (25 min -  Lisa Wintner)
+### Session 4: Results Communication and Visualization (25 min – Flora Mazerolle)
 This session will highlight key SISAQOL-IMI recommendations for communicating PRO results from oncology trials, focusing on visualization. Key principles for transparency include aligning figures with pre-specified objectives. Best practices for including sample size details, missing data, and intercurrent events will be presented, along with a template for integrating intercurrent event data into PRO figures. Strategies for reporting statistical significance and distinguishing confirmatory analyses from exploratory findings will be discussed, aiming to improve the accessibility of PRO results for both expert and non-specialist readers.
+
 
 ### Session 5: PRO Score Interpretation Thresholds (25 min – Johannes Giesinger)
 The heterogeneous terminology around thresholds for interpreting PRO data poses challenges in selecting such thresholds. SISAQOL-IMI has established a harmonized terminology differentiating types of PRO score interpretation thresholds, focusing on patient- and group-level data. These types of threshold correspond to specific statistical analysis methods to support their correct implementation and interpretation. This session will provide recommendations on reporting the use of PRO score interpretation thresholds in cancer clinical trial data analysis and interpretation.
 
-### Panel discussion (30 min, moderator: TBD)
+### Panel discussion (30 min, all)
 This interactive panel discussion will bring together the speakers to delve into the practical implementation of SISAQOL-IMI recommendations. The panel will include all session presenters and the discussion will focus on the challenges in harmonizing PRO objectives. Speakers will be asked to identify areas where these recommendations are expected to have practice-changing impact. Attendees will have the opportunity to engage with the panelists through a Q&A format, fostering a dynamic exchange of ideas and experiences aimed at improving the utility of PRO data in cancer clinical trials.
