@@ -15,8 +15,8 @@ If you want to know your session date and time then visit the [schedule](https:/
 
 ## Presentation Format
 
-*	Your presentation should be in a <b>PowerPoint (pptx)</b>, <b>Revealjs (HTML) </b>, or <b>PDF</b> file format. No other formats (e.g. Excel, Word or Prezi) will be accepted. 
-*	All presentations will be projected in 16:9 format landscape (not 4:3) using the provided files on a Windows laptop. Revealjs presentations will be opened in the Chrome browser. 
+*	Your presentation should be in a <b>PowerPoint (pptx)</b>, <b>Revealjs (HTML)</b>, or <b>PDF</b> file format. No other formats (e.g. Excel, Word or Prezi) will be accepted. 
+*	All presentations will be projected in 16:9 format landscape (not 4:3) using the provided files on a Windows laptop. Revealjs presentations will be opened in the Edge browser. 
 * For Reveal.js (HTML) presentations, ensure the file is <b>fully [self-contained](https://quarto.org/docs/reference/formats/presentations/revealjs.html)</b>. All assets (CSS, JS, images, fonts) must be embedded in the single HTML file. External links and internet access will not be available. If this is not possible, please submit your presentation in PowerPoint or PDF format instead.
 *	All presentations must be in English followed by Questions & Answers in English.
 *	Keynote will not be supported because it cannot be played back on a Windows PC. Please export your presentation as MS Office 365, using filename extension ‘.pptx’.
@@ -33,9 +33,9 @@ If you want to know your session date and time then visit the [schedule](https:/
 
 ## Submitting your presentation
 
-* <b>Please submit your presentation within your [conftool](https://www.conftool.org/iscb2025/index.php?page=login) account no later than Wednesday, 20<sup>th</sup> of August 2025.</b>
+* <b>Please submit your presentation within your [conftool](https://www.conftool.org/iscb2025/index.php?page=login) account no later than Friday, 15<sup>th</sup> of August 2025.</b>
 *	We <b><u>cannot</u></b> accept USB sticks or files via email at the conference.
-*	If you want to update your presentation, you can upload a new file the same way the first one was uploaded, but no later than 20th August 2025.
+*	If you want to update your presentation, you can upload a new file the same way the first one was uploaded, but no later than 15th August 2025.
 
 
 ### Upload Instructions
