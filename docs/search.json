@@ -501,14 +501,14 @@
     "href": "guideline_speakers.html#presentation-format",
     "title": "Guideline for speakers",
     "section": "Presentation Format",
-    "text": "Presentation Format\n\nYour presentation should be in a PowerPoint (pptx), Revealjs (HTML) , or PDF file format. No other formats (e.g. Excel, Word or Prezi) will be accepted.\nAll presentations will be projected in 16:9 format landscape (not 4:3) using the provided files on a Windows laptop. Revealjs presentations will be opened in the Chrome browser.\nFor Reveal.js (HTML) presentations, ensure the file is fully self-contained. All assets (CSS, JS, images, fonts) must be embedded in the single HTML file. External links and internet access will not be available. If this is not possible, please submit your presentation in PowerPoint or PDF format instead.\nAll presentations must be in English followed by Questions & Answers in English.\nKeynote will not be supported because it cannot be played back on a Windows PC. Please export your presentation as MS Office 365, using filename extension ‘.pptx’.\nClearly identify your presentation with your presentation date and name in the filename (example: 20250825_John_Smith.pptx)\nThe maximum file size is 30 megabytes.\n\n\nRecommendations\n\nUse high contrast colours; light text on dark background or vice versa.\nHyperlinks to external content such as websites cannot be supported.\nIf using a custom PowerPoint theme, avoid non-standard fonts. These may not display correctly on other systems. If your theme uses non-standard fonts, we recommend exporting your presentation to PDF and submitting both the .pptx and .pdf versions."
+    "text": "Presentation Format\n\nYour presentation should be in a PowerPoint (pptx), Revealjs (HTML), or PDF file format. No other formats (e.g. Excel, Word or Prezi) will be accepted.\nAll presentations will be projected in 16:9 format landscape (not 4:3) using the provided files on a Windows laptop. Revealjs presentations will be opened in the Edge browser.\nFor Reveal.js (HTML) presentations, ensure the file is fully self-contained. All assets (CSS, JS, images, fonts) must be embedded in the single HTML file. External links and internet access will not be available. If this is not possible, please submit your presentation in PowerPoint or PDF format instead.\nAll presentations must be in English followed by Questions & Answers in English.\nKeynote will not be supported because it cannot be played back on a Windows PC. Please export your presentation as MS Office 365, using filename extension ‘.pptx’.\nClearly identify your presentation with your presentation date and name in the filename (example: 20250825_John_Smith.pptx)\nThe maximum file size is 30 megabytes.\n\n\nRecommendations\n\nUse high contrast colours; light text on dark background or vice versa.\nHyperlinks to external content such as websites cannot be supported.\nIf using a custom PowerPoint theme, avoid non-standard fonts. These may not display correctly on other systems. If your theme uses non-standard fonts, we recommend exporting your presentation to PDF and submitting both the .pptx and .pdf versions."
   },
   {
     "objectID": "guideline_speakers.html#submitting-your-presentation",
     "href": "guideline_speakers.html#submitting-your-presentation",
     "title": "Guideline for speakers",
     "section": "Submitting your presentation",
-    "text": "Submitting your presentation\n\nPlease submit your presentation within your conftool account no later than Wednesday, 20th of August 2025.\nWe cannot accept USB sticks or files via email at the conference.\nIf you want to update your presentation, you can upload a new file the same way the first one was uploaded, but no later than 20th August 2025.\n\n\nUpload Instructions\n\nWhen logging into conftool you can click on “Your Submission” to see your submission:"
+    "text": "Submitting your presentation\n\nPlease submit your presentation within your conftool account no later than Friday, 15th of August 2025.\nWe cannot accept USB sticks or files via email at the conference.\nIf you want to update your presentation, you can upload a new file the same way the first one was uploaded, but no later than 15th August 2025.\n\n\nUpload Instructions\n\nWhen logging into conftool you can click on “Your Submission” to see your submission:"
   },
   {
     "objectID": "awards-casp.html",
@@ -873,6 +873,13 @@
     "title": "Key Dates",
     "section": "Registration",
     "text": "Registration\n\n\n\n\n\n\nDate\n\n\n\n\nEarly Bird\n\n\nOpens\nFriday, 21 March 2025\n\n\nCloses\nWednesday, 21 May 2025\n\n\nRegular\n\n\nOpens\nThursday, 22 May 2025\n\n\nCloses\nMonday, 30 June 2025"
+  },
+  {
+    "objectID": "key-dates.html#final-file-upload",
+    "href": "key-dates.html#final-file-upload",
+    "title": "Key Dates",
+    "section": "Final File Upload",
+    "text": "Final File Upload\n\n\n\n\n\n\nDate\n\n\n\n\nDeadline\nFriday, 15 August 2025"
   },
   {
     "objectID": "mini-symposia-4.html",

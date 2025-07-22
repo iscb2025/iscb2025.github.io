@@ -43,6 +43,11 @@ key_dates <- list(
       "Early Bird", "Closes", ymd("2025-05-21"),
       "Regular", "Opens", ymd("2025-05-22"),
       "Regular", "Closes", ymd("2025-06-30")
+    ),
+  "Final File Upload" =
+    tribble(
+      ~ Item1, ~ Date,
+      "Deadline", ymd("2025-08-15"),
     )
 )
   
@@ -119,4 +124,9 @@ registration_dates |>
   tidy_kable() |> 
   pack_rows(index = table(registration_dates$Item1))
 
+```
+
+## Final File Upload
+```{r echo=F, message=F, warning=F}
+key_dates[["Final File Upload"]] |> tidy_kable()
 ```
