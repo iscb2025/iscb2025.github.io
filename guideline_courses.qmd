@@ -24,8 +24,7 @@ Please [get in touch with us](mailto:organizers@iscb2025.info) to inform us abou
 
 ## Upload of presentation (if needed for your course)
 
-* Upload your presentation via conftool if it is smaller than <b>10 megabytes</b>. Clearly <b>identify your presentation</b> with your presentation date and name in the filename (example: `20250824_John_Smith.pptx`)
-* If your presentation is larger you can send it to us via email or bring an USB stick.
+* Upload your presentation via conftool until August 17<sup>th</sup>. Thie file size limit is <b>30 megabytes</b>. Clearly <b>identify your presentation</b> with your presentation date and name in the filename (example: `20250824_John_Smith.pptx`)
 * When logging into conftool you can click on “Your Submission” to see your submission:  
   ![](img/guidance/poster-yoursubmissions.png)
 * Then click on final upload. 
