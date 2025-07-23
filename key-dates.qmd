@@ -47,7 +47,7 @@ key_dates <- list(
   "Final File Upload" =
     tribble(
       ~ Item1, ~ Date,
-      "Deadline", ymd("2025-08-15"),
+      "Deadline", ymd("2025-08-17"),
     )
 )
   
