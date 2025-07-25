@@ -21,7 +21,20 @@ Please find below some guidance for creating and submitting your poster for the 
 
 Size: <b>A0 portrait</b> orientation.  
 
-Printing: Note that there is <b>no printing service at the conference</b> and you will need to bring your printed poster with you.  
+Printing: Note that there is <b>no printing service at the conference</b> and you will need to bring your printed poster with you.
+
+
+## Submitting your poster
+
+* <b>If you want your poster to be available in the online platform, please submit your poster in PDF format within your [conftool](https://www.conftool.org/iscb2025/index.php?page=login) account no later than Sunday, 17<sup>th</sup> of August, 2025.</b>
+*	If you want to update your poster PDF for the online platform, you can upload a new file the same way the first one was uploaded, but no later than 17<sup>th</sup> of August, 2025.
+
+
+### Upload Instructions
+
+* When logging into conftool you can click on “Your Submission” to see your submission:  
+  ![](img/guidance/poster-yoursubmissions.png)  
+  
 
 # FAQs
 
