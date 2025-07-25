@@ -10,9 +10,10 @@ It is also possible to register for the mini symposia separately (without regist
 
 ## Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum
 
-**Date:** Thursday morning, August 28th, 2025\
+**Date:** Thursday, 28th of August 2025, 09:15 - 13:00 <br>
+**Location:** Biozentrum U1.111<br>
 **Organizers:** Alex Ocampo, Cristina Sotto and Jinesh Shah in collaboration with the
-PSI special interest group in Causal Inference.  
+PSI special interest group in Causal Inference.  <br>
 **Details:** Further details can be found [here](mini-symposia-1.qmd).
 
 ### Objective
@@ -40,8 +41,10 @@ between statisticians and clinicians.
 
 ## Mini-Symposium 2: Early Career Biostatisticians' (ECB) Day
 
-**Date:** Thursday morning, August 28th, 2025\
-**Organizers:** The [ISCB Early Career Biostatisticians’ (ECB) Committee](https://iscb.international/early-career-biostatisticians/).\
+**Date:** Thursday, 28th of August 2025, 09:15 - 13:00<br>
+**Location:** ETH E21 & E23<br>
+**Organizers:** The [ISCB Early Career Biostatisticians’ (ECB) Committee](https://iscb.international/early-career-biostatisticians/) and the  
+[Local Organising Committee (LOC)](https://iscb2025.info/committees.html).<br>
 **Details:** Further details can be found [here](mini-symposia-2.qmd).
 
 ### Objective
@@ -78,8 +81,9 @@ by statisticians and onducting biostatistical research.
 
 ## Mini-Symposium 3: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis
 
-**Date:** Thursday morning, August 28th, 2025\
-**Organizers:** Anne-Laure Boulesteix, Willi Sauerbrei\
+**Date:** Thursday, 28th of August 2025, 09:15 - 13:00 <br>
+**Location:** Biozentrum U1.131<br>
+**Organizers:** Anne-Laure Boulesteix, Willi Sauerbrei<br>
 **Details:** Further details can be found [here](mini-symposia-3.qmd).
 
 ### Objective
@@ -135,8 +139,9 @@ new methods. Biometrical Journal, 66(1), 2200222.
 
 ## Mini-Symposium 4: Enhancing Cancer Clinical Trials with Patient-Reported Outcomes: Insights from SISAQOL-IMI
 
-**Date:** Thursday afternoon, August 28th, 2025\
-**Organizers:** Corneel Coens on behalf of SISAQOL-IMI\
+**Date:** Thursday, 28th of August 2025, 13:00 - 17:30 <br>
+**Location:** Biozentrum U1.111<br>
+**Organizers:** Corneel Coens on behalf of SISAQOL-IMI<br>
 **Details:** Further details can be found [here](mini-symposia-4.qmd).
 
 ### Objective

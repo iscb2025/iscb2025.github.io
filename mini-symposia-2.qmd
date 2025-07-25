@@ -2,6 +2,10 @@
 title: "Early Career Biostatisticians' (ECB) Day"
 ---
 
+**Date:** Thursday, 28th of August 2025, 09:15 - 13:00 <br>
+**Location:** ETH E21 & E23
+
+
 The Early Career Biostatisticians’ (ECB) subcommittee has organised two events in conjunction with the Local Organising Committee (LOC) for this year’s ISCB conference in Basel.
 
 **Student Gathering**
@@ -62,3 +66,27 @@ Android: [https://play.google.com/store/apps/details?id=nl.eur.dilemmagame&hl=nl
 
 ## Registration
 The registration fee for the main conference covers the ECB day. It is possible to register for the ECB day only through the conference website [https://iscb2025.info/registration.html](https://iscb2025.info/registration.html), and the cost is €35. 
+
+## Schedule
+
+### Session 1 (09:15 - 10:45)
+Chair: Autumn O’Donnell
+
+**9:15 - 9:20:** Opening address - ECB Chair – Autumn O’Donnell
+
+**9:20 - 9:55:** Invited Speaker: Dr. Karen Lamb
+
+**9:55 - 10:45:** Workshop: Dilemma Game
+
+### Coffee Break (10:45 - 11:30)
+
+### Session 2 (11:30 - 13:00)
+Chair: Davide Paolo Bernasconi
+
+**11:30 - 12:05:** Invited Speaker: Dr. Lisa Hampson
+
+**12:05 - 12:20:** Student Speaker: Solomon Beer
+
+**12:00 - 12:55:** Prof. Maria Garzia Valsecchi
+
+**12:55 - 13:00:** Closing address
