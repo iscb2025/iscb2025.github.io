@@ -174,16 +174,16 @@ The current practice often involves designing studies to compare the initiation 
 A potential alternative that TG5 is exploring is to ask cumulative exposure questions at fixed follow-up periods informed by drug utilization patterns in real-world settings.
 
 #### An overview on recent works and activities of the STRATOS topic group TG3 “Initial data analysis”
-Carsten. O. Schmidt1, Marianne Huebner2, Lara Lusa3
+**Carsten. O. Schmidt**<sup>1</sup>, Marianne Huebner<sup>2</sup>, Lara Lusa<sup>3</sup>
 
-1Institute for Community Medicine, University Medicine of Greifswald, Greifswald, Germany <br>
-2Department of Statistics and Probability, Michigan State University, East Lansing, MI, USA<br>
-3Department of Mathematics, Faculty of Mathematics, Natural Sciences and Information Technology, University of Primorska, Koper, Slovenia
+<sup>1</sup>Institute for Community Medicine, University Medicine of Greifswald, Greifswald, Germany <br>
+<sup>2</sup>Department of Statistics and Probability, Michigan State University, East Lansing, MI, USA<br>
+<sup>3</sup>Department of Mathematics, Faculty of Mathematics, Natural Sciences and Information Technology, University of Primorska, Koper, Slovenia
 
 The key principle of Initial Data Analysis (IDA) is to provide reliable knowledge about the data underlying the main statistical analyses (MDA). The STRATOS topic group TG3 “Initial data analysis” aims to improve awareness of IDA as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner in pursue of transparent and reproducible science. IDA focuses on the workflow from metadata setup, data cleaning, data screening, data quality assessments, reporting prior to conducting the MDA. This talk will provide an overview on these steps and introduces an international effort to develop a statistical analysis plan template in cooperation with all STRATOS topic groups for observational studies that incorporates a systematic IDA plan. 
 
 #### An overview and recent developments of the STRATOS Open Science panel
-Sabine Hoffmann<sup>1</sup> for the Open Science panel
+**Sabine Hoffmann**<sup>1</sup> for the Open Science panel
 
 <sup>1</sup>Institute for Medical Information Processing, Biometry, and Epidemiology, Ludwig-Maximilians-Universität Munich, Germany
 
@@ -192,7 +192,7 @@ The scientific community, publishers and funders are increasingly encouraging op
 1.	Parsons S, Flavio Azevedo F, Elsherif MM, Guay S, Shahim ON,Govaart GH, Norris E, Aoife O’Mahony A, Parker AJ, Todorovic A, et al. A community-sourced glossary of open scholarship terms. Nature Human Behaviour, 6(3):312–318, 2022
 
 #### Adjusting for Covariate Measurement Error in Non-Linear Regression: Comprehensive Phase 2 Results from the STRATOS TG2-TG4 Study
-Aris Perperoglou<sup>1</sup>, Mohammed Sedki<sup>2</sup>, Anne Thiébaut<sup>3</sup>, Michal Abrahamowicz<sup>4</sup>, Paul Gustafson<sup>5</sup>, Victor Kipnis<sup>6</sup>, Laurence Freedman<sup>7</sup> on behalf of the STRATOS TG2 & TG4 collaborative groups
+**Aris Perperoglou**<sup>1</sup>, Mohammed Sedki<sup>2</sup>, Anne Thiébaut<sup>3</sup>, Michal Abrahamowicz<sup>4</sup>, Paul Gustafson<sup>5</sup>, Victor Kipnis<sup>6</sup>, Laurence Freedman<sup>7</sup> on behalf of the STRATOS TG2 & TG4 collaborative groups
 
 <sup>1</sup> GSK, London, UK<br>
 <sup>2</sup> Université Paris-Saclay, France<br>
