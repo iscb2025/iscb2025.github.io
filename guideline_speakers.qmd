@@ -44,8 +44,9 @@ If you want to know your session date and time then visit the [schedule](https:/
   ![](img/guidance/poster-yoursubmissions.png)  
 * Then click on final upload:
   ![](img/guidance/poster-finalupload.png)
-* You can upload 2 files. File number one is , and file number two is an optional After choosing your PDF file please upload and save the data. 
+* You can upload 2 files. File number one is your presentation for live presentation, and file number two is for the PDF version for the online portal on the conference. After choosing your files please upload and save the data. 
   ![](img/guidance/poster-choosefile.png)
+  
 # FAQs
 
 For more general questions please refer to the [FAQs](faq.html).
