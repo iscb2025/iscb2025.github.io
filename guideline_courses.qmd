@@ -42,3 +42,8 @@ Please [get in touch with us](mailto:organizers@iscb2025.info) to inform us abou
 * Be aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.
 * A technician will be present to assist if needed.
 * A microphone will be used for all presentations. 
+* Please note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.
+* To minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.
+* A laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed. 
+* All common connectors will be provided to allow easy connection to the projector.
+
