@@ -5,7 +5,9 @@ format:
     math: mathjax
 ---
 
-Organizers: Alex Ocampo, Cristina Sotto & Jinesh Shah in collaboration with the PSI special interest group in causal inference
+**Date:** Thursday, 28th of August 2025, 09:15 - 13:00 <br>
+**Location:** Biozentrum U1.111<br>
+**Organizers:** Alex Ocampo, Cristina Sotto & Jinesh Shah in collaboration with the PSI special interest group in causal inference
 
 
 ## Short description 
