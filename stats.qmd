@@ -1,0 +1,25 @@
+---
+title: "Basic statistics of ISCB46"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(dplyr)
+library(tidyr)
+library(kableExtra)
+
+bs <- read.csv(file = file.path("data", "basicstats.csv"), sep = ";")
+```
+
+```{r, echo=F, message=F, warning=F}
+bs2 <- bs |>
+  kbl(col.names = NULL) |>
+  kable_styling(full_width = TRUE) |> 
+  pack_rows("Late registration", 1, 2, indent = FALSE, background = "#EAEAEA") 
+
+sub("<thead>.*</thead>", "", bs2)
+```
+
+[geographic distribution of participants](https://baselbiometrics.github.io/home/docs/talks/20250824/analysis_ISCB.html)
