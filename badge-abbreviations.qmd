@@ -1,0 +1,59 @@
+---
+title: "List of Badge Abbreviations"
+---
+
+Please make sure to wear your badge visibly at all times throughout the conference, as it grants access to the indicated sessions and venues, as well as to the catering stations.Be aware that only those attendees who have registered for specific events at the time of conference registration can attend those events. 
+
+Check your badge for abbreviations to see which events you have signed up for:
+
+## Pre-Conference courses
+
+Sunday afternoon, 24 AUG 2025
+
+-   **\[C1\]** Full Day Course 1: Targeted Learning
+
+-   **\[C2\]** Full Day Course 2: The Design of Simulation Studies
+
+-   **\[C3\]** Full Day Course 3: Network Meta-Analysis: From Key Concepts to Advanced Methods
+
+-   **\[C4\]** Full Day Course 4: Good Software Engineering Practice for R Packages
+
+-   **\[CM\]** Half Day Course (morning): Bayesian Methods for Precision Medicine
+
+-   **\[CA\]** Half Day Course (afternoon): Multi-State Models: Theory, Applications and New Developments
+
+## Welcome Reception
+
+🍷 Welcome Reception, Monday evening, 25 AUG 2025
+
+## Social Activities
+
+Tuesday afternoon, 26 AUG 2025
+
+-   **\[SA1\]** Guided Tour: Street Art Guided tour of Basel
+
+-   **\[SA2\]** Guided Tour: Stories of Basel’s Old Town
+
+-   **\[SA3\]** Guided Tour: Novartis Campus Architecture
+
+-   **\[SA4\]** Confiserie Beschle – Chocolate factory visit and create your own chocolate bar
+
+-   **\[SA5\]** Adventure-filled Scavenger Hunt in Basel
+
+-   **\[SA6\]** Crossbow event – William Tell, the central figure of the Swiss Confederacy
+
+## Conference Dinner
+
+🍽️ Conference Dinner, Wednesday evening, 27 AUG 2025
+
+## Mini-Symposia
+
+Thursday, 28 AUG 2025
+
+-   **\[MS1\]** Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum
+
+-   **\[MS2\]** Mini-Symposium 2: Early Career Biostatisticians’ (ECB) Day
+
+-   **\[MS3\]** Mini-Symposium 3: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis
+
+-   **\[MS4\]** Mini-Symposium 4: Enhancing Cancer Clinical Trials with Patient-Reported Outcomes: Insights from SISAQOL-IMI
