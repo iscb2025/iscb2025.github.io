@@ -18,16 +18,16 @@ The fees for the 2025 conference are as follows (see @nte-cond for details on th
 
 * Access to live streams of the scientific sessions
 * Access to Q&A during live streams
-* Access to the Conference proceedings
+* Access to the Conference proceedings (collection of abstracts and recordings)
 
 **[Hybrid attendance](faq.html#what-is-covered-by-hybrid-attendance) entitlements**
 
-* Attendance to all scientific sessions
+* Access to all scientific sessions (in person and online)
 * Access to live streams
-* Conference material
-* Access to the Exhibition Area
-* Coffee breaks & lunches
-* Access to the Conference proceedings
+* Conference materials
+* Entry to the Exhibition Area
+* Coffee breaks and lunches
+* Access to the Conference proceedings (collection of abstracts and recordings)
 
 [Check your badge](badge-abbreviations.qmd) for additional entitlements, corresponding to the additional events selected during registration.
 

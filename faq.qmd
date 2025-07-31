@@ -101,8 +101,9 @@ Hybrid attendance (available through Early and Late registrations) includes:
 * Conference materials
 * Entry to the Exhibition Area
 * Coffee breaks and lunches
-* Welcome Reception attendance
 * Access to the Conference proceedings (collection of abstracts and recordings)
+
+[Check your badge](badge-abbreviations.qmd) for additional entitlements, corresponding to the additional events selected during registration.
 
 ## What is covered by Virtual attendance?
 
