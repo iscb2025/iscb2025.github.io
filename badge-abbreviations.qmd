@@ -24,7 +24,7 @@ Sunday afternoon, 24 AUG 2025
 
 ## Welcome Reception
 
-🍷 Welcome Reception, Monday evening, 25 AUG 2025
+<span style="font-size: 2em; vertical-align:middle;">🍷 </span> Welcome Reception, Monday evening, 25 AUG 2025
 
 ## Social Activities
 
@@ -44,7 +44,7 @@ Tuesday afternoon, 26 AUG 2025
 
 ## Conference Dinner
 
-🍽️ Conference Dinner, Wednesday evening, 27 AUG 2025
+<span style="font-size: 2em; vertical-align:middle;">🍽️ </span> Conference Dinner, Wednesday evening, 27 AUG 2025
 
 ## Mini-Symposia
 
