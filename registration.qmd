@@ -27,10 +27,9 @@ The fees for the 2025 conference are as follows (see @nte-cond for details on th
 * Conference material
 * Access to the Exhibition Area
 * Coffee breaks & lunches
-* Welcome Reception attendance
 * Access to the Conference proceedings
 
-
+[Check your badge](badge-abbreviations.qmd) for additional entitlements, corresponding to the additional events selected during registration.
 
 ```{r, echo=F, results=F, message=F, warning=F}
 library(dplyr)
