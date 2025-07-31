@@ -28,10 +28,12 @@ website:
           href: stats.qmd
       - text: "Conference information"
         menu: 
-        - text: "Registration"
-          href: registration.qmd
+        - text: "Badge Abbreviations"
+          href: badge-abbreviations.qmd
         - text: "Social Program"
           href: social.qmd
+        - text: "Registration (archived)"
+          href: registration.qmd
         - text: "Calls (archived)"
           href: calls.qmd
         - text: "Awards & Support"
