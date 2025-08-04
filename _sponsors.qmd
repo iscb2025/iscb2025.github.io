@@ -36,6 +36,8 @@
 <a href="http://www.beonemedicines.com">![](img/sponsors/gold_beone.jpg){width="37%"}</a>
 <span style="display:inline-block; width:20px;"></span>
 <a href="http://amgen.com/">![](img/sponsors/gold_amgen.png){width="34%"}</a>
+<span style="display:inline-block; width:20px;"></span>
+<a href="https://www.bms.com/">![](img/sponsors/gold_bms.png){width="48%"}</a>
 <br>
 <br>
 
@@ -45,6 +47,8 @@
 <a href="https://www.datamap.de/">![](img/sponsors/silver_datamap.png){width="18%"}</a>
 <span style="display:inline-block; width:20px;"></span>
 <a href="https://www.boehringer-ingelheim.com/">![](img/sponsors/silver_bi.png){width="18%"}</a>
+<span style="display:inline-block; width:20px;"></span>
+<a>![](img/sponsors/silver_springer.svg){width="22%"}</a>
 <br>
 <br>
 
