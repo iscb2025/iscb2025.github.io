@@ -25,6 +25,8 @@ website:
           href: committees.qmd
         - text: "Sustainability"
           href: sustainability.qmd
+        - text: "Conference Bag"
+          href: conference-bag.qmd
         - text: "Conference statistics"
           href: stats.qmd
       - text: "Conference information"
