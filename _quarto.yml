@@ -4,6 +4,7 @@ project:
   resources:
   - fonts/*.*
   - img/IMG_2950_wide.jpg
+  - data/ISCB46_Conference_Book.pdf
 
 website:
   title: "ISCB46"
