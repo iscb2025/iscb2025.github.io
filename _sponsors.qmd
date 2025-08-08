@@ -26,7 +26,8 @@
 <span style="display:inline-block; width:57px;"></span>
 <a href="https://posit.co/">![](img/sponsors/platinum_posit.png){width="35%"}</a>
 <span style="display:inline-block; width:57px"></span>
-<a href="https://www.merckgroup.com">![](img/sponsors/platinum_merck.jpg){width="37%" style="margin-top: 10px;"}</a>
+<a href="https://www.merckgroup.com">![](img/sponsors/platinum_merck.jpg){width="37%" style="margin-top: 10px;"}</a><span style="display:inline-block; width:40px"></span>
+<a href="https://www.sanofi.com/en">![](img/sponsors/platinum_sanofi.png){width="44%" style="margin-top: -15px;"}</a>
 <br><br>
 
 ### Gold Sponsors{style="text-align: center;"}
