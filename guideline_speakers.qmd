@@ -39,6 +39,7 @@ If you want to know your session date and time then visit the [schedule](https:/
 
 * <b>Please submit your presentation within your [conftool](https://www.conftool.org/iscb2025/index.php?page=login) account no later than Sunday, 17<sup>th</sup> of August, 2025.</b> We cannot guarantee availability of your slides at the conference after this date.
 *	We <b><u>cannot</u></b> accept USB sticks or files via email at the conference.
+* We <b><u>cannot</u></b> accept that you present from your own laptop.
 *	If you want to update your presentation, you can upload a new file the same way the first one was uploaded, but no later than 17<sup>th</sup> of August, 2025.
 
 
