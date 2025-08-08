@@ -7,6 +7,10 @@ editor:
 
 You have been accepted as a speaker for a contributed talk at ISCB46 - congratulations! In this document we summarize answers to some common questions and further instructions. 
 
+## At the conference
+
+*	Arrive at the room at least 10 minutes before the start of the session and introduce yourself to the chair. Ideally, you let the chair know upon your arrival that you intend to present.
+
 ## Session time
 
 If you want to know your session date and time then visit the [schedule](https://www.conftool.org/iscb2025/sessions.php) online.
