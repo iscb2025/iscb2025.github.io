@@ -93,6 +93,8 @@ website:
           href: restaurants.qmd
       - text: "FAQ & Instructions"
         menu: 
+        - text: "Attendee Essentials"
+          href: attendee_essentials.qmd
         - text: "General FAQ"
           href: faq.qmd
         - text: "Childcare"
