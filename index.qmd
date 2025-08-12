@@ -34,11 +34,11 @@ title: "2025 Conference"
 
 **The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> is now online!**
 
-**We have reached full capacity and registration is now closed.**
+See the **[FAQ page](faq.qmd)** for frequently asked questions, as well as the guidelines in the FAQ & Instructions section.
 
-See the **[FAQ page](faq.qmd)** for frequently asked questions.
+**We have reached full capacity and registration is closed.**
 
-[Keynote speakers](keynote-speakers.qmd) and [invited sessions](invited-sessions.qmd) are now available, as is the information on [pre-conference courses](courses.qmd), [mini symposia](mini-symposia.qmd), the [social program](social.qmd) and [accommodation](accommodation.qmd).
+[Keynote speakers](keynote-speakers.qmd) and [invited sessions](invited-sessions.qmd) are now available, as is the information on [pre-conference courses](courses.qmd), [mini symposia](mini-symposia.qmd), the [venue](venue.qmd), the [social program](social.qmd) and [accommodation](accommodation.qmd).
 :::
 :::
 

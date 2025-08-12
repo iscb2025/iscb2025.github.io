@@ -1,0 +1,113 @@
+---
+title: "Venue"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Conference Venue
+
+The ISCB46 Conference will be held at two world-class institutions in
+the heart of Basel, just steps away from the Rhine:
+
+-   [Biozentrum, University of
+    Basel](https://www.biozentrum.unibas.ch/directions)\
+    Spitalstrasse 41\
+    CH–4056 Basel\
+    Switzerland
+
+-   [ETH Zurich \| Department of Biosystems Science and
+    Engineering](https://bsse.ethz.ch/department/working-and-studying-at-d-bsse/locations.html)
+    (D-BSSE)\
+    Klingelbergstrasse 48\
+    CH–4056 Basel\
+    Switzerland
+
+Both venues are home to leading life sciences research facilities and
+are located only two minutes’ walk apart.
+
+# Hybrid Conference Experience
+
+All registered participants will receive personal login details for our
+conference platform and mobile app, where you can explore the full
+program at your fingertips. Each session includes detailed information
+and abstracts, as well as a direct link to the livestream, making it
+easy to join in real time. Missed a session? No problem. After the
+conference, recordings will be uploaded to each session’s page so you
+can catch up on anything you may have missed. Those links will be
+available up to 3 months after the conference.
+
+# Arrival & Registration
+
+Upon arrival, participants are kindly asked to proceed to the
+registration desk in the entrance hall on level U1 (-1) of the
+Biozentrum. The registration desk will be open from Sunday 24 August to
+Thursday 28 August 2025, between 08:00 and 17:00. Here, you will receive
+your conference badge and welcome materials. Your badge must be worn
+visibly at all times as it grants access to all sessions and catering
+stations. Staff at the adjacent information desk will be available
+throughout the conference to assist with directions or logistical
+questions.
+
+# Luggage Storage
+
+A designated luggage storage area is available on level U1 of the
+Biozentrum. Please note that this facility is not locked, and items are
+left at your own risk. We recommend not leaving valuables or important
+belongings unattended.
+
+# Catering
+
+To ensure a sustainable and inclusive experience, we provide reusable
+water bottles to all participants. You will receive yours at
+registration on Sunday or at the ETH BSSE handout point on Monday.
+Refill stations offering both still and sparkling water are conveniently
+located across both venues, and Swiss tap water is perfectly safe to
+drink. Note that only closed bottles are allowed inside the lecture
+halls, so please only use the water bottle during the sessions.
+
+Coffee and tea are available before the first session each day, during
+scheduled coffee breaks, and at lunchtime. During morning and afternoon
+breaks, fruit and snacks will also be provided. Participants with
+dietary restrictions (e.g., gluten free) can collect specially prepared
+snacks at the coffee station in the ETH BSSE atrium.
+
+Lunch catering is designed to accommodate a wide range of preferences
+and dietary needs. On Sunday, a warm lunch will be served at the
+Biozentrum for course participants. From Monday to Thursday, lunch bags
+will be available at clearly marked distribution points in both venues.
+The standard option is vegan, suitable for most participants including
+those with lactose intolerance or allergies to eggs, seafood, or
+shellfish. If you indicated specific dietary requirements during
+registration (e.g., gluten free), your lunch will be labeled with a
+sticker matching the sticker on your badge for your convenience. Special
+lunch bags will be available for pickup at the ETH BSSE atrium catering
+station. While we have taken care to meet most dietary restrictions, not
+every individual allergy (such as avocado, chili, pineapple, or garlic)
+could be indicated with a sticker on the badge. All allergens will be
+clearly listed on any food item, so you can double-check yourself.
+
+# WiFi Access
+
+Free WiFi is available at both venues. Participants with an academic
+account can use the eduroam network. Below the instructions to connect
+to the visitor-WiFi at both venues.
+
+## Biozentrum – University of Basel
+
+1.  Connect to unibas-visitor.
+2.  Open your browser (or try a non-secure site like <http://unibas.ch>
+    if the page doesn’t appear).
+3.  Click *Continue here* to access the Monzoon login page.
+4.  If you have a code, log in with your mobile number and access code.
+    If not, register your mobile number to receive a free code via SMS.
+
+Alternative access: Call +41 (0)43 500 3456 for a spoken code (local
+charges apply).\
+Support: Monzoon infoline 0800 666 966 (24/7).
+
+## BSSE – ETH Zurich
+
+1.  Connect to ETH-Visitor.
+2.  Register with your mobile phone number to receive an SMS code.
+3.  Enter the code to connect.
