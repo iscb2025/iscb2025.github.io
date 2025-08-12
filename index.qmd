@@ -34,6 +34,8 @@ title: "2025 Conference"
 
 **The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> is now online!**
 
+**Be prepared!** Check our [Attendee Essentials](attendee_essentials.qmd) page.
+
 See the **[FAQ page](faq.qmd)** for frequently asked questions, as well as the guidelines in the FAQ & Instructions section.
 
 **We have reached full capacity and registration is closed.**
