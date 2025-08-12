@@ -31,6 +31,8 @@ website:
           href: stats.qmd
       - text: "Conference information"
         menu: 
+        - text: "Venue"
+          href: venue.qmd
         - text: "Badge Abbreviations"
           href: badge-abbreviations.qmd
         - text: "Social Program"
