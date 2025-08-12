@@ -44,7 +44,7 @@ title: "Invited Sessions"
 ### Generative AI in clinical research and drug development (BBS invited session)
 **Organisers:** Giusi Moffa (chair), Lilla Di Scala 
 
-*	Holger Fröhlich 
+<!-- *	Holger Fröhlich  -->
 * Sarah Friedrich 
 *	Simon Anders
 
