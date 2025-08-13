@@ -1,0 +1,17 @@
+---
+title: "Guideline for organizers of mini symposia"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions. 
+
+# Material
+
+There is no need to upload your materials to conftool. We ask you to present from our own laptop. Support for setting things up will be availabe in the room.
+
+
+# FAQs
+
+For more general questions please refer to the [FAQs](faq.html).

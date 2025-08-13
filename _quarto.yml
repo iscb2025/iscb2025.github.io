@@ -110,6 +110,8 @@ website:
           href: guideline_speakers.qmd
         - text: "Poster presenters"
           href: guideline_poster_presenters.qmd
+        - text: "Mini symposia organizers"
+          href: guideline_symposia.qmd
       - text: "Sponsors"
         href: sponsors.qmd
   favicon: img/favicon.jpg
