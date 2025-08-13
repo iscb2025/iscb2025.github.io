@@ -75,3 +75,9 @@ Attendance for the Welcome Reception (Monday evening, 24 August) was limited to 
 ## Social Activities
 
 The various social activities (SA) scheduled for Tuesday afternoon, 25 August, each have individual meeting points and durations. Please refer to the conference booklet or conference app for details about the social activity you have registered for (see [List of Badge Abbreviations](badge-abbreviations.qmd))  
+
+
+## Certificate of attendance
+
+By default, no certificate of attendance will be provided. If you need one please refer to the information desk. You can leave your name and email there and will get a certificate electronically.
+

@@ -879,7 +879,7 @@
     "href": "guideline_courses.html#at-the-conference",
     "title": "Guidance for Short Course Presenters",
     "section": "At the conference",
-    "text": "At the conference\n\nArrive at the room at least 10 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nBe aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.\nA technician will be present to assist if needed.\nA microphone will be used for all presentations.\nPlease note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.\nTo minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.\nA laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed.\nAll common connectors will be provided to allow easy connection to the projector."
+    "text": "At the conference\n\nArrive at the room at least 30 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nBe aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.\nA technician will be present to assist if needed.\nA microphone will be used for all presentations.\nPlease note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.\nTo minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.\nA laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed.\nAll common connectors will be provided to allow easy connection to the projector."
   },
   {
     "objectID": "social.html",
@@ -1090,5 +1090,12 @@
     "title": "Attendee Essentials",
     "section": "Keynote Sessions – Broadcast Across Venues",
     "text": "Keynote Sessions – Broadcast Across Venues\n\nTo ensure everyone can enjoy the keynote sessions comfortably and safely, all keynotes will be broadcast live to all rooms in both the Biozentrum and ETH venues.\nWe kindly ask all attendees to distribute themselves across the available rooms, as standing is not permitted due to safety regulations. Your cooperation helps us maintain a smooth and secure experience for everyone."
+  },
+  {
+    "objectID": "attendee_essentials.html#certificate-of-attendance",
+    "href": "attendee_essentials.html#certificate-of-attendance",
+    "title": "Attendee Essentials",
+    "section": "Certificate of attendance",
+    "text": "Certificate of attendance\nBy default, no certificate of attendance will be provided. If you need one please refer to the information desk. You can leave your name and email there and will get a certificate electronically."
   }
 ]
