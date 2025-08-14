@@ -259,46 +259,445 @@
     "text": "Submitting your poster\n\nFor your poster to be available in the online platform and online participants, please submit your poster in PDF format within your conftool account no later than Sunday, 17th of August, 2025.\nIf you want to update your poster PDF for the online platform, you can upload a new file the same way the first one was uploaded, but no later than 17th of August, 2025.\n\n\nUpload Instructions\n\nWhen logging into conftool you can click on “Your Submission” to see your submission:\n\n\nThen click on final upload: \nAfter choosing your PDF file please upload and save the data."
   },
   {
-    "objectID": "guideline_courses.html",
-    "href": "guideline_courses.html",
-    "title": "Guidance for Short Course Presenters",
+    "objectID": "guideline_hybrid.html",
+    "href": "guideline_hybrid.html",
+    "title": "Guideline for remote participants",
     "section": "",
-    "text": "Thank you for presenting a short course at the ISCB46 Conference in Basel. Please find below some guidance for creating and submitting your short course for the conference:"
+    "text": "You have registered for ISCB46 as a hybrid participant. In this document we summarize answers to some common questions and further instructions.\n** Information will follow soon **\n\nFAQs\nFor more general questions please refer to the FAQs."
   },
   {
-    "objectID": "guideline_courses.html#session-time",
-    "href": "guideline_courses.html#session-time",
-    "title": "Guidance for Short Course Presenters",
-    "section": "Session Time",
-    "text": "Session Time\nIf you want to know your session date and time then visit the schedule online.\nAll short courses take place on Sunday, 24th of August."
+    "objectID": "guideline_chairs.html",
+    "href": "guideline_chairs.html",
+    "title": "Guideline for session chairs",
+    "section": "",
+    "text": "You have agreed to be a chair of a session ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions."
   },
   {
-    "objectID": "guideline_courses.html#before-the-conference",
-    "href": "guideline_courses.html#before-the-conference",
-    "title": "Guidance for Short Course Presenters",
+    "objectID": "guideline_chairs.html#before-the-conference",
+    "href": "guideline_chairs.html#before-the-conference",
+    "title": "Guideline for session chairs",
     "section": "Before the conference",
-    "text": "Before the conference\nPlease get in touch with us to inform us about the following points:\n\nDo you need to share any websites or datasets with your participants before the course starts? If yes, please provide a link to the website or datasets. Only participants of your short course will have access to this link via conftool.\nIf you want to communicate anything else to your participants, we can share this via conftool. We will share a list of all participants of your short course with you and you can also contact them on your own.\nPlease indicate if you like the conference to offer a laptop for your course (with only basic functionality, such as PowerPoint and Zoom), otherwise, we assume that you will bring your own laptop."
+    "text": "Before the conference\n\nYou will find the session you are assigned to in conftool. Please log in with your registration details to check them. You will see all speakers and abstracts of the assigned sessions in this overview. You can also check the conference program on the conference website:\n\nEach session has a chair and a supporter from the local organizing committee (LOC).\nYou can reach out to the speakers in advance to ask if they want to suggest one or two questions for their presentation to help with preparing the Q&A."
   },
   {
-    "objectID": "guideline_courses.html#upload-of-presentation-if-needed-for-your-course",
-    "href": "guideline_courses.html#upload-of-presentation-if-needed-for-your-course",
-    "title": "Guidance for Short Course Presenters",
-    "section": "Upload of presentation (if needed for your course)",
-    "text": "Upload of presentation (if needed for your course)\n\nUpload your presentation via conftool until August 17th. Thie file size limit is 30 megabytes. Clearly identify your presentation with your presentation date and name in the filename (example: 20250824_John_Smith.pptx)\nWhen logging into conftool you can click on “Your Submission” to see your submission:\n\nThen click on final upload.\nOnly one file can be uploaded. If you want to share more than one file, please zip them.\n\nAfter choosing your file please upload and save the data."
-  },
-  {
-    "objectID": "guideline_courses.html#equipment",
-    "href": "guideline_courses.html#equipment",
-    "title": "Guidance for Short Course Presenters",
-    "section": "Equipment",
-    "text": "Equipment\nYou are free to run your course from your own device. Support for setting things up will be availabe in the room."
-  },
-  {
-    "objectID": "guideline_courses.html#at-the-conference",
-    "href": "guideline_courses.html#at-the-conference",
-    "title": "Guidance for Short Course Presenters",
+    "objectID": "guideline_chairs.html#at-the-conference",
+    "href": "guideline_chairs.html#at-the-conference",
+    "title": "Guideline for session chairs",
     "section": "At the conference",
-    "text": "At the conference\n\nArrive at the room at least 30 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nBe aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.\nA technician will be present to assist if needed.\nA microphone will be used for all presentations.\nPlease note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.\nTo minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.\nA laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed.\nAll common connectors will be provided to allow easy connection to the projector."
+    "text": "At the conference\n\nTry to verify before your session that all speakers actually are at the conference (speakers are instructed to reach out to chairs prior to the session).\nArrive at the room at least 10 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nIntroduce yourself to the speakers and the LOC supporter. Make sure that they are all aware of the session flow, including the order in which the presentations take place.\nDouble-check with the speakers how questions are asked and answered in the session. In most cases, the Q&A will follow directly after the presentation. Each speaker has 15 minutes excluding Q&A (approx. 3 minutes), and the total allocated 18 minutes include change-over. Invited, topic-contributed and featured sessions might have different rules.\nDouble-check with the speakers how they want to be reminded about the timing during their talks. It is usually easiest to sit at the front and raise your hand to do this.\nPlease make sure that mics are used by the speakers and the audience if available.\nIt might be necessary to repeat questions from the audience and from virtual participants if the room setup does not allow interaction. Our technical support team will inform you about the setup."
+  },
+  {
+    "objectID": "guideline_chairs.html#during-the-session",
+    "href": "guideline_chairs.html#during-the-session",
+    "title": "Guideline for session chairs",
+    "section": "During the Session",
+    "text": "During the Session\n\n\nDescribe the structure of the session (presentations followed by Q&A, panel discussion, Q&A at the end, etc.) as needed.\nMention the mic-set-up for Q&A.\nIntroduce the speakers (name and affiliation) before their presentation.\nTime the speakers to make sure that the session time is spent fairly. If needed, remind the speakers to finish if they get close to the end of their allotted time.\nOnce the speakers have finished their talk, stand up and invite the audience to ask questions, if time allows. If the time slot for the presentation (15 minutes) and questions is exhausted (usually after 18 minutes, which also include change-over to next speaker), no further questions should be allowed. Liaise with your LOC supporter regarding the virtual participants. If there are no questions from the audience ask one to start the discussion.\nAt the end of the session, thank all speakers and the audience."
+  },
+  {
+    "objectID": "conference-bag.html",
+    "href": "conference-bag.html",
+    "title": "Conference Bag",
+    "section": "",
+    "text": "We are proud to share that this year’s conference bags were produced in collaboration with a workplace renowned for its unwavering commitment to diversity and inclusion, particularly in supporting individuals with disabilities.\nHeadquartered in Rheinfelden, St. Josefshaus is home to a dedicated team of roughly 1,500 employees, who collectively provide support to around 2,400 people with disabilities and elderly individuals. Their wide range of services spans 15 municipalities and cities, demonstrating a profound commitment to inclusive, person-centered care. The organization’s impactful work includes housing, employment, education, communal living, and care giving.\nTheir workshops offer meaningful and engaging employment opportunities for individuals who, due to the nature and extent of their disabilities, are unable to participate in the general job market. Within this supportive environment, participants are empowered to discover fulfilling and diverse tasks that match their unique talents—opportunities that foster both a sense of pride and lasting personal satisfaction.\nBy partnering with this organization, we are not only ensuring high-quality conference materials but also contributing to meaningful social inclusion and empowerment. We believe this initiative reflects the spirit of collaboration and positive impact that this conference aims to inspire."
+  },
+  {
+    "objectID": "conference-bag.html#empowering-inclusive-workplaces",
+    "href": "conference-bag.html#empowering-inclusive-workplaces",
+    "title": "Conference Bag",
+    "section": "",
+    "text": "We are proud to share that this year’s conference bags were produced in collaboration with a workplace renowned for its unwavering commitment to diversity and inclusion, particularly in supporting individuals with disabilities.\nHeadquartered in Rheinfelden, St. Josefshaus is home to a dedicated team of roughly 1,500 employees, who collectively provide support to around 2,400 people with disabilities and elderly individuals. Their wide range of services spans 15 municipalities and cities, demonstrating a profound commitment to inclusive, person-centered care. The organization’s impactful work includes housing, employment, education, communal living, and care giving.\nTheir workshops offer meaningful and engaging employment opportunities for individuals who, due to the nature and extent of their disabilities, are unable to participate in the general job market. Within this supportive environment, participants are empowered to discover fulfilling and diverse tasks that match their unique talents—opportunities that foster both a sense of pride and lasting personal satisfaction.\nBy partnering with this organization, we are not only ensuring high-quality conference materials but also contributing to meaningful social inclusion and empowerment. We believe this initiative reflects the spirit of collaboration and positive impact that this conference aims to inspire."
+  },
+  {
+    "objectID": "childcare.html",
+    "href": "childcare.html",
+    "title": "Childcare",
+    "section": "",
+    "text": "The conference venue at Biozentrum offers a breastfeeding room that can be used by participants during the conference. The key for the breastfeeding room can be picked up at the reception of Biozentrum.\nThere are no childcare facilities on site, however, there are external providers in Basel that can be contacted:\n\nkindernaescht.ch at Marktplatz (15 minutes from the conference venue at Biozentrum by foot) can host kids from 18 months to 12 years on an hourly to daily basis by prior arrangement.\nfamilea.ch at Freie Strasse (15 minutes from the conference venue at Biozentrum by foot): Call +41 61 260 82 82 to check availability. Once confirmed, complete attached form. Please note: deadline for submitting form is 11th August 2025."
+  },
+  {
+    "objectID": "basel-card.html",
+    "href": "basel-card.html",
+    "title": "BaselCard - free public transport* in the city and much more",
+    "section": "",
+    "text": "The BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app.\nSome of the main advantages of the BaselCard at a glance:\n\nFree travel on all public transport in Basel throughout your entire stay, including your initial journey to your hotel from EuroAirport Basel-Mulhouse-Freiburg or one of the three train stations in Basel (Basel SBB train station, Basel Bad Bhf and Basel SNCF). For your initial journey the booking confirmation of your accommodation serves as a free ticket for this transfer.\n50% discount\n\non museum entrances and the entrance to Basel Zoo\non the public walking tour of the Basel Old Town and the tour on the sightseeing bus\nand many additional touristic offers\n\n\nFor more information, see www.basel.com/en/baselcard."
+  },
+  {
+    "objectID": "awards-student.html",
+    "href": "awards-student.html",
+    "title": "ISCB Student Conference Award (StCA) at ISCB46",
+    "section": "",
+    "text": "The Student Conference Award (StCA) is available for registered postgraduate students in biostatistics to attend and present a paper at the 46th Annual Conference of the International Society for Clinical Biostatistics, 24-28 August 2025. Approximately three awards will be granted depending on the number and quality of the applications. Selection will be made on the basis of the abstract and a summary of a paper to be presented – for details, see the eligibility criteria and submission procedure below.\nApplicants should submit their abstract using the ISCB46 abstract submission system. In the online abstract submission portal, you are asked to check the box that indicates that you are applying for the 2025 Student Conference Award on your abstract. You will then need to additionally submit the documents described in the Student Conference Award track.\nThe closing date for applications is the same as the general abstract deadline (see the key dates page).\nApplicants should not register for the conference until they have heard the outcome of their application for the Award. Unsuccessful applicants who still wish to attend the conference will remain eligible for the Early Bird rate until three weeks after the outcome of their application is sent to them."
+  },
+  {
+    "objectID": "awards-student.html#eligibility",
+    "href": "awards-student.html#eligibility",
+    "title": "ISCB Student Conference Award (StCA) at ISCB46",
+    "section": "Eligibility",
+    "text": "Eligibility\n\nAny student registered for a postgraduate degree in biostatistics is eligible to apply for an ISCB Student Conference Award, provided s/he has not been the winner of a previous ISCB Student Conference Award. All students may apply for the StCA independently of applying for the Conference Attendance Support Program (CASP).\nThe application must relate to original work that has not yet been published and is predominantly the student’s own work. Acceptable topics encompass all areas of biostatistics, both methodological and applied. However, results of particular studies are of interest only if the analysis has methodological implications or shows a novel and interesting application of biostatistics to clinical or epidemiological research."
+  },
+  {
+    "objectID": "awards-student.html#awards",
+    "href": "awards-student.html#awards",
+    "title": "ISCB Student Conference Award (StCA) at ISCB46",
+    "section": "Awards",
+    "text": "Awards\n\nThe StCA winners will have their papers scheduled in a dedicated session at the conference. Their status as Award Winners will be indicated in the Conference Programme.\nThe StCA will pay for registration, accommodation, conference course, conference dinner, and travel (all expenses will be prepaid on the winners behalf).\n\nOn being selected, a student must submit a travel budget to the StCA Subcommittee Chair by email to StCA@iscb.international for approval by the Treasurer."
+  },
+  {
+    "objectID": "awards-student.html#submission-procedure",
+    "href": "awards-student.html#submission-procedure",
+    "title": "ISCB Student Conference Award (StCA) at ISCB46",
+    "section": "Submission Procedure",
+    "text": "Submission Procedure\nApplications should consist of the following:\n\nA short abstract of the paper prepared according to the ISCB standard conference format, uploaded via the ISCB 2025 Abstract Submission Portal in the “Abstracts” track, with the “StCA” award checkbox selected.\nA summary of the paper of no more than 3 double-spaced pages of 12-point text with a maximum of three figures or tables on additional pages. The summary must be in blinded format, i.e., any indication of the student or further authors should not be included.\nA letter from the student’s supervisor, on official letterhead of the student’s institution, confirming that the student is registered for a postgraduate degree, and that the paper to be presented is original, not previously published, and is predominantly the student’s own work. If the manuscript is co-authored, this letter should also include an indication of the level of involvement of the various authors.\n\nThe two files containing (b) and (c) should be uploaded via the conference abstract handling system by submitting to the Student Award track.\nAny applications submitted after the due date or incomplete or applications not adhering to the procedures above will not be considered."
+  },
+  {
+    "objectID": "awards-student.html#review",
+    "href": "awards-student.html#review",
+    "title": "ISCB Student Conference Award (StCA) at ISCB46",
+    "section": "Review",
+    "text": "Review\n\nApplications will be judged by the StCA Subcommittee, and applicants will be notified of the results as soon as possible, usually within six weeks of the application submission due date. Evaluation of applications will concern the quality of the research described and its relevance to the application of statistics to clinical and epidemiological research. The presentation of the application materials and the interest of the work to the ISCB members will be taken into consideration. The decisions made by the Subcommittee will be final.\nIn selecting papers for Awards, each member of the StCA Subcommittee will independently grade each paper allocated to them by the Subcommittee Chair. In the case of ties in total grades, the Subcommittee will make the final selection through discussion.\nMembers of the StCA Subcommittee must declare a conflict of interest in submissions from students with whom they have had substantial contact. Such contact certainly includes students supervised by or in the same department as Subcommittee members and may also include professional contact with the project as well as family links. The Subcommittee member with a conflict of interest in the submission will not grade it, other grades being scaled accordingly, and will not participate in discussions of that submission.\nApplicants must be able to travel to the meeting and present their work to be selected as the StCA winners.\nThe Society intends to make three awards. However, the StCA Subcommittee reserves the right to make more or fewer awards, or even none at all, subject to the approval of the ISCB President.\nApplications not selected for the StCA may still be considered for selection for an oral presentation at a Contributed Paper session or a poster presentation by the Program Committee, since the abstract has been also submitted separately via the conference abstract handling system. This holds unless the applicant indicates that they do not wish to have their submission considered further.\n\nIn case of questions, please, contact the ISCB Office at the following email: office@iscb.international."
+  },
+  {
+    "objectID": "awards-casp.html",
+    "href": "awards-casp.html",
+    "title": "ISCB Conference Attendance Support Program (CASP) at ISCB46",
+    "section": "",
+    "text": "The program will be available to fund participation in the conference for up to 17 attendees. The CASP will pay for registration, accommodation, conference course, conference dinner or conference excursion (recipient’s choice), and travel (all expenses will be prepaid except for travel, which will be reimbursed within two months after attending the conference).\nTo be eligible, the applicant must be either\n\na current postgraduate student (from any country), and/or\na scientist working or attending school in a World-Bank-designated Developing Country (Low, Lower-middle, and Upper-middle income economies, according to the World Bank list for the fiscal year 2025) or in a country forming a National Group of the ISCB (Czech Republic, Hungary, Poland, Romania, see National Groups (NatG) – ISCB).\n\nTo apply for the support, an applicant has to\n\nsubmit an abstract (prepared according to the ISCB46 standard conference format) as a presenting author for either an oral or poster presentation using the ISCB46 abstract submission system,\nindicate the request for the CASP support at the time of abstract submission (by checking the corresponding checkbox),\nat the time of abstract submission, provide a PDF of a letter (on the official letterhead of the institution where the applicant is enrolled/employed) confirming the status of a current postgraduate student (for students) and/or an employment at an institution located in a Developing Country or an ISCB National Group country (for scientists) by applying to the CASP track (in addition to submitting to the Abstract track) in the conference system.\n\nAwards will be given to those applicants, whose abstract are selected for presentation (oral or poster) by the Scientific Program Committee (SPC). One award per presentation for one author will be given, without transfer to co-authors. A lottery-based selection will be made by a committee established for that purpose.\nPlease note that the previous recipients of the Conference Fund for Developing Countries grant are not eligible to apply.\nIndependently of applying for the CASP, students may also apply for the Student Conference Award (StCA). In that case, the confirmation letter required for the StCA (see the StCA application guidelines) can be used for the CASP application, too. If a student is awarded the StCA, he/she will not be considered for the CASP.\nIn case of questions, please, contact the ISCB Office at the following email: stca@iscb.international."
+  },
+  {
+    "objectID": "app-online-platform.html",
+    "href": "app-online-platform.html",
+    "title": "App & Online Platform",
+    "section": "",
+    "text": "TODO: instructions go here."
+  },
+  {
+    "objectID": "about-basel.html",
+    "href": "about-basel.html",
+    "title": "About Basel",
+    "section": "",
+    "text": "We’ve embedded content from YouTube here. As YouTube may collect personal data and track your viewing behaviour, we’ll only load the video after you consent to their use of cookies and similar technologies as described in their privacy policy.\n\n\nAllow and play content from YouTube"
+  },
+  {
+    "objectID": "about-basel.html#basel-switzerlands-capital-for-art-and-culture",
+    "href": "about-basel.html#basel-switzerlands-capital-for-art-and-culture",
+    "title": "About Basel",
+    "section": "Basel – Switzerland’s Capital for Art and Culture",
+    "text": "Basel – Switzerland’s Capital for Art and Culture\nNestled in the heart of Europe, on both banks of the Rhine, Basel is a pocket-sized metropolis that combines proverbial Swiss quality with a multicultural population.\nThe city is the centre of the idyllic tri-border region of Switzerland, Germany and France – lying between the Swiss Jura, Germany’s Black Forest and the Vosges in Alsace. The narrow alleyways and hidden squares with over 200 fountains as well as the many century-old buildings and eye-catching sights such as the remarkable and richly ornamented Town Hall or the Cathedral, that has stood gracefully above the city for over 1000 years, combine to make Basel’s Old Town one of the most beautiful and intact of its kind in Europe. In hardly any other cityscape in Europe do historic buildings from the 14th and 15th century blend so harmoniously with contemporary buildings.\nIt was not without reason that Basel is seen as Switzerland’s capital of architecture. Just a few steps away from the picturesque Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta or the Basel-based Herzog & de Meuron. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world. Buildings such as the Roche Towers, Novartis Pavillon, Basel Exhibition Centre, Fondation Beyeler or Museum Tinguely are the modern landmarks.\nIn Basel, art can be seen wherever you go, whether strolling through the Old Town or when visiting one of the almost 40 museums. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. Kunstmuseum Basel, whose history dates back to 1661, is one of the world’s very first museums. Its collection includes many major works of art from the last 700 years. Wandering through the halls, you will discover a veritable “Who’s Who” of classical modernism, from Pablo Picasso to Henri Matisse and Joan Miró to Paul Klee. Small wonder then, that London’s The Times named the museum the fifth best in the world in 2013.\nWalking around Basel and letting your eyes wander to the right and left (and sometimes upwards) from time to time, you will be rewarded: you will discover impressive street art and graffiti everywhere in the city centre. National and international artists are also constantly creating new, colourful artworks on the outskirts of the city. Urban art has become an integral part of the art scene in recent years and is now an indispensable element of urban tourism in Basel.\n\nBaselCard\nThe BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app.\nSome of the main advantages of the BaselCard at a glance:\n\nFree travel on all public transport in Basel throughout your entire stay, including your initial journey to your hotel from EuroAirport Basel-Mulhouse-Freiburg or one of the three train stations in Basel (Basel SBB train station, Basel Bad Bhf and Basel SNCF). For your initial journey the booking confirmation of your accommodation serves as a free ticket for this transfer.\n50% discount\n\non museum entrances and the entrance to Basel Zoo\non the public walking tour of the Basel Old Town and the tour on the sightseeing bus\nand many additional touristic offers\n\n\nFor more information, see www.basel.com/en/baselcard."
+  },
+  {
+    "objectID": "about-basel.html#minster-of-basel-or-münster",
+    "href": "about-basel.html#minster-of-basel-or-münster",
+    "title": "About Basel",
+    "section": "Minster of Basel (or Münster)",
+    "text": "Minster of Basel (or Münster)\nTogether with the Mittlere Brücke, the Minster of Basel (Münster), built between 1019 AC and 1500 AC in the Romanesque and Gothic styles, is probably the most famous landmark in Basel. With its red sandstone walls, colourful roof tiles and twin towers, no other building adorns the cityscape of Basel like the Cathedral."
+  },
+  {
+    "objectID": "about-basel.html#mittlere-brücke",
+    "href": "about-basel.html#mittlere-brücke",
+    "title": "About Basel",
+    "section": "Mittlere Brücke",
+    "text": "Mittlere Brücke\nHardly any other monument in the city of Basel has become such a symbol of the city as the Mittlere Brücke. Opened in 1226 AC, it is one of the oldest Rhine crossings between Lake Constance and the North Sea."
+  },
+  {
+    "objectID": "about-basel.html#pfalz",
+    "href": "about-basel.html#pfalz",
+    "title": "About Basel",
+    "section": "Pfalz",
+    "text": "Pfalz\nThe viewing terrace by the Minster of Basel offers stunning vistas of the city and the Rhine. The word “Pfalz” is derived from the Latin word “Palatium”, meaning “palace”. The terrace high above the Rhine is so-called because it is situated close to the location in which the former palace of the Bishop once stood."
+  },
+  {
+    "objectID": "about-basel.html#city-hall",
+    "href": "about-basel.html#city-hall",
+    "title": "About Basel",
+    "section": "City Hall",
+    "text": "City Hall\nThe City Hall is the seat of the Basel government and its parliament. Located in the midst of the Old Town, it is particularly eye-catching with its red facade, the characteristic tower, and playful frescoes."
+  },
+  {
+    "objectID": "about-basel.html#spalentor",
+    "href": "about-basel.html#spalentor",
+    "title": "About Basel",
+    "section": "Spalentor",
+    "text": "Spalentor\nSpalentor (Gate of Spalen) is the most magnificent and impressive of the three city gates still remaining from the city fortifications dating back to 1400 AC. Its square main tower, flanked on each side by two round towers, would have been seen long before arriving at the gates of the city."
+  },
+  {
+    "objectID": "about-basel.html#tinguely-fountain",
+    "href": "about-basel.html#tinguely-fountain",
+    "title": "About Basel",
+    "section": "Tinguely Fountain",
+    "text": "Tinguely Fountain\nIn 1977, Jean Tinguely created sculptural machines in a shallow fountain where the stage of the old city theatre company once stood, and thereby gifting Basel a famous new landmark."
+  },
+  {
+    "objectID": "about-basel.html#basel-zoo",
+    "href": "about-basel.html#basel-zoo",
+    "title": "About Basel",
+    "section": "Basel Zoo",
+    "text": "Basel Zoo\nThe Zoological Gardens, known affectionately as “Zolli” by Basel’s inhabitants, opened in Basel in 1874 and is home to a large number of indigenous and exotic animals. The zoo is a popular excursion destination and well worth a visit at any time of year. In the summer months the park is an ideal place to stroll in the open air, in the winter months the various animal houses guarantee up close and personal encounters with a wide variety of animals. If you wish to discover an underwater world, there are several underwater creatures to discover at the vivarium."
+  },
+  {
+    "objectID": "about-basel.html#public-guided-tour-stories-of-basels-old-town",
+    "href": "about-basel.html#public-guided-tour-stories-of-basels-old-town",
+    "title": "About Basel",
+    "section": "Public Guided Tour – Stories of Basel’s Old Town",
+    "text": "Public Guided Tour – Stories of Basel’s Old Town\nYou’ll take a journey back through the ages. There can be few other cityscapes where buildings dating back as far as the fifteenth century engage so harmoniously and vibrantly with the contemporary creations of internationally distinguished architects. On our tour, we’ll tell you facts and anecdotes about Basel and the background to its development while passing historic buildings such as the Town Hall, the Basel Cathedral (Münster) and the Barfüsserkirche. We’ll also explain a lot about the city’s present situation. As well as taking you to some picturesque corners of the Old Town, we’ll show you places that closely reflect Basel’s present-day Zeitgeist, such as the Museum der Kulturen and the Tinguely Fountain."
+  },
+  {
+    "objectID": "about-basel.html#tickets",
+    "href": "about-basel.html#tickets",
+    "title": "About Basel",
+    "section": "Tickets",
+    "text": "Tickets\nOnline or at the Tourist Information in the Stadtcasino at Barfüsserplatz. The number of participants is limited. With your BaselCard you’ll get 50% discount on boat trips."
+  },
+  {
+    "objectID": "about-basel.html#boat-trips-on-the-rhine",
+    "href": "about-basel.html#boat-trips-on-the-rhine",
+    "title": "About Basel",
+    "section": "Boat trips on the Rhine",
+    "text": "Boat trips on the Rhine\nA boat trip along the Rhine lets you admire the landmarks of Basel, such as Basel Cathedral (Münster), the Roche Towers and the picturesque Old Townhouses on the banks of the Rhine from from their most beautiful perspective.\nIn the evenings, you can enjoy a relaxing aperitif and dinner cruise on board the Rhystärn. Totally relaxed and just as the mood takes you – with constant views of the setting sun and the passing cityscape. A special experience with the feel-good factor. The perfect way to see, feel and experience Basel.\n\nTickets and Timetable\nVisit the website of Basel Tourism. With your BaselCard you’ll get 50% discount on boat trips."
+  },
+  {
+    "objectID": "about-basel.html#city-tour-on-a-sightseeing-bus",
+    "href": "about-basel.html#city-tour-on-a-sightseeing-bus",
+    "title": "About Basel",
+    "section": "City tour on a sightseeing bus",
+    "text": "City tour on a sightseeing bus\nBasel City Tour offers informative and entertaining bus tours around the city centre. The two-hour tour takes you past Spalentor, Kunstmuseum Basel, Museum Tinguely, the Roche Tower, Messe Basel (exhibition square) and the Dreiländereck (tri-border point).\nEach seat has an iPad mini2 with an audio guide app. The app presents the tour highlights and provides interesting background information about culture in Basel. Young passengers can enjoy a special channel with stories in Basel dialect.\nLanguages: German, English, French, Italian, Spanish, Japanese, Arabic, Chinese Mandarin\n\nTickets and Timetable\nVisit the website of Basel Tourism. With your BaselCard you’ll get 50% discount on boat trips."
+  },
+  {
+    "objectID": "about-basel.html#ferries",
+    "href": "about-basel.html#ferries",
+    "title": "About Basel",
+    "section": "Ferries",
+    "text": "Ferries\nWith the four Basel ferries, you’ll cross the Rhine river through the force of the current alone. The four Rhine river ferries “Wild Maa”, “Leu”, “Vogel Gryff” and “Ueli” link Grossbasel to Kleinbasel. They are attached to a long wire cable and are driven purely by the current of the Rhine itself. The ferries will silently bring you to the opposite shore all year round. Experience the way in which time seems to stand still during this brief crossing.\n\nTickets and Timetable\nVisit the website of Basel Tourism."
+  },
+  {
+    "objectID": "about-basel.html#museums",
+    "href": "about-basel.html#museums",
+    "title": "About Basel",
+    "section": "Museums",
+    "text": "Museums\nIn Basel, art can be seen wherever you go, whether strolling through the beautiful Old Town or when visiting one of the nearly 40 museums. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. In addition, there are countless galleries scattered throughout the city.\nWith the BaselCard you enjoy the museums in Basel at half price for admisssion – including for special exhibitions.\n\nKunstmuseum Basel\nOne of the world’s best-known museums, the Kunstmuseum Basel features a prestigious collection – the first ever publicly accessible art collection – and internationally acclaimed exhibitions that provide unforgettable art experiences. The collection of over 300,000 pieces includes artworks by Hans Holbein, Rembrandt, Paul Cézanne, Claude Monet, Vincent van Gogh, Pablo Picasso, Sophie Taeuber-Arp and Andy Warhol.\n\n\nFondation Beyeler\nThe museum in Riehen near Basel is internationally renowned for its high-calibre exhibitions and its major collection of modern and contemporary art. The museum building was designed by Renzo Piano, is set in an idyllic park with venerable trees and water lily ponds. It boasts a unique location in the heart of a local recreation area, loverlooking fields, pastures and vineyards close to the foothills of the Black Forest.\n\n\nMuseum Tinguely\nDesigned by Ticino architect Mario Botta and opened in 1996, Museum Tinguely is situated right on the bank of the Rhine. It houses the largest collection of works by Jean Tinguely (1925–1991), one of the most innovative and important Swiss artists of the 20th century. Vibrancy, laughter, amazement and discovery – this museum stimulates the senses and brings art to the beholder. Jean Tinguely’s kinetic works make him one of the most eminent pioneers in the post-1950 art world. The permanent exhibition showcases a compilation of his work spanning four decades – from early, filigree reliefs to the monumental machine sculptures of the 1980s.\n\n\nVitra Design Museum\nThe Vitra Design Museum is among the world’s most prominent museums of design. It is dedicated to the research and presentation of design, past and present, and examines its relationship to architecture, art and everyday culture. In its main building designed by Frank Gehry, the museum annually mounts two major temporary exhibitions."
+  },
+  {
+    "objectID": "about-basel.html#modern-architecture",
+    "href": "about-basel.html#modern-architecture",
+    "title": "About Basel",
+    "section": "Modern Architecture",
+    "text": "Modern Architecture\nBasel is seen as Switzerland’s capital of architecture. The number of buildings designed by world-famous architects in such close proximity is unsurpassed, all in the midst of an architectural setting that has evolved over centuries. The Swiss architectural scene has an appeal that extends well beyond the country’s borders. Numerous Swiss architectural firms have attracted attention all over the world in recent decades with a series of outstanding creations. Many of the renowned firms hail from Basel such as Christ & Gantenbein, Diener & Diener Architects and Herzog & de Meuron. They have all helped to lay the foundation of a lively architectural scene in Basel.\nJust a few steps away from the picturesque and well-preserved Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world.\n\nRoche Towers\nThe Roche Towers, designed by architects Herzog & de Meuron, can rightly be viewed as a modern landmark of Basel – but as the tallest office buildings in Switzerland, they can be seen far outside the city limits, too.\nThese two skyscrapers are home to the offices of the Roche pharmaceutical group. Building 1 was completed in 2015 and, at 178 metres, was the tallest office building in Switzerland until it was overtaken by Building 2 in 2022.\nBuilding 2 is 205 metres tall and has a total of 50 floors. It is one of the most sustainable, energy-efficient office buildings in the world.\n\n\nGoetheanum Dornach\nThe Goetheanum is situated in Dornach, around 10 kilometres outside the city centre. It serves as the head office and conference venue of the General Anthroposophical Society and boasts a distinctive shape, which has also inspired the architects of neighbouring buildings.\nFollowing the destruction of the original Goetheanum building in an arson attack in 1923, the current building was constructed between 1925 and 1928. Both were designed by the esoteric Rudolf Steiner, the founder of anthroposophy. The monumental exposed-concrete building is particularly striking, owing to the almost complete absence of right angles.\n\n\nNovartis Campus\nWith about 20 buildings designed by top international architects, the Novartis Campus is a true Mecca of modern architecture. f you are interested in top-class architecture, appreciate short distances and also enjoy quiet moments in green surroundings, then the Novartis Campus, open to the public on working days, is just the place for you.\nThe list of architects who have put their stamp on the Novartis Campus reads like a who’s who of architecture: Diener & Diener kicked things off in 2005, followed by SANAA and Peter Märkli (both 2006), Marco Serra (2007), Vittorio Magnago Lampugnani and Adolf Krischanitz (both 2008), Frank O. Gehry, José Rafael Moneo Vallès and Fumihiko Maki (all 2009), Tadao Ando, David Chipperfield and Yoshio Taniguchi (all 2010), Eduardo Souto de Moura and Álvaro Siza (both 2011), Rahul Mehrotra (2013), Juan Navarro Baldeweg (2014) and Herzog & de Meuron (2015). For the time being, the final piece of Vittorio Magnago Lampugnani’s master plan scheduled for completion by 2030 is the Novartis Pavillon – conceived by Michele De Lucchi.\nIf you’re coming to see the Novartis Pavillon with its artistically luminous zero-energy media facade, you’d best plan enough time to visit the “Wonders of Medicine” exhibition, where four interactive areas (exploring life, disease, the history of medicine and the future of healthcare) invite you to delve into the secrets of the life sciences. The Novartis Pavillon is located in one of the carefully designed green spaces bearing the signatures of leading landscape-architecture luminaries, such as Peter Walker, Günther Vogt and Guido Hager. A diverse collection of artworks – including a sculpture by Richard Serra, art within architecture by Jenny Holzer, a sound installation by Laurie Anderson and a 60-metre-high mural by Claudia Comte – make your visit complete.\n\n\nBasel Exhibition Centre / Messe Basel\nThe new Messe Basel trade fair building is one of the city’s newer landmarks. The central architectural urban feature of the hall complex, developed by Herzog & de Meuron, is the City Lounge.\nThis covered, public space not only marks the entrance to the exhibitions, but also functions as a meeting place for locals and visitors. The architects called the prominent hole in the middle the “Fenster zum Himmel” (“window to heaven”)."
+  },
+  {
+    "objectID": "accommodation.html",
+    "href": "accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "Hotels can be booked through Basel Tourism’s website for the conference via hotelmap.com.\nThe BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app. The BaselCard app works mostly offline and offers the same free services and discounts. In its electronic version, the guest card also features an interactive city map. For more information, see www.basel.com/en/baselcard."
+  },
+  {
+    "objectID": "attendee_essentials.html",
+    "href": "attendee_essentials.html",
+    "title": "Attendee Essentials",
+    "section": "",
+    "text": "To ensure a smooth and enjoyable experience at the conference, please take note of the following:"
+  },
+  {
+    "objectID": "attendee_essentials.html#badge-access",
+    "href": "attendee_essentials.html#badge-access",
+    "title": "Attendee Essentials",
+    "section": "Badge = Access",
+    "text": "Badge = Access\n\nPlease always wear your badge visibly, as it serves as your identification card throughout the conference. Additionally, remember to bring your badge to all registered activities to ensure access to the venues.\n\nNo badge = no entry to sessions, social events, or catering areas.\nCheck your badge for abbreviations to see which events you have signed up for, see List of Badge Abbreviations."
+  },
+  {
+    "objectID": "attendee_essentials.html#stay-informed-via-the-app-and-online-platform-for-virtual-attendance",
+    "href": "attendee_essentials.html#stay-informed-via-the-app-and-online-platform-for-virtual-attendance",
+    "title": "Attendee Essentials",
+    "section": "Stay Informed via the App and Online Platform for virtual attendance",
+    "text": "Stay Informed via the App and Online Platform for virtual attendance\n\nAccess details (incl. usernames and passwords) will be communicated a few days before the conference.\nImportant updates and reminders will be sent via push notifications through the official conference App.\nWe strongly recommend enabling notifications and checking the app regularly during the conference days."
+  },
+  {
+    "objectID": "attendee_essentials.html#info-desk-and-registration-desks",
+    "href": "attendee_essentials.html#info-desk-and-registration-desks",
+    "title": "Attendee Essentials",
+    "section": "Info Desk and Registration Desks",
+    "text": "Info Desk and Registration Desks\n\nThese are located at the Biozentrum and will be open daily from Sunday 24th, August to Thursday 28th, August to assist with inquiries, lost & found, and general guidance."
+  },
+  {
+    "objectID": "attendee_essentials.html#venue-navigation",
+    "href": "attendee_essentials.html#venue-navigation",
+    "title": "Attendee Essentials",
+    "section": "Venue Navigation",
+    "text": "Venue Navigation\n\nThe conference spans two venues: Biozentrum (University of Basel) and BSS Building (ETH Zürich), which are conveniently located within close walking distance of each other.\nClear signage and staffed info desk (Biozentrum) will help guide you. Please follow directional signs and ask for help if needed."
+  },
+  {
+    "objectID": "attendee_essentials.html#support-sustainability",
+    "href": "attendee_essentials.html#support-sustainability",
+    "title": "Attendee Essentials",
+    "section": "Support Sustainability",
+    "text": "Support Sustainability\n\nEvery onsite attendee will receive one reusable bottle sponsored by our sustainability partner BWT (Best Water Technology) as part of our shared commitment to reducing single-use plastics.\nBring your reusable water bottle daily. Water refill stations will be available, but no bottle = no refill. We need everyone to take responsibility and be accountable for supporting this sustainable practice.\nPaper coffee cups will be collected in dedicated bins across the venue, as our catering partner will recycle them. Please support this initiative by disposing of your used cups in the marked bins.\nConference bags are distributed once - please reuse them throughout the week.\nYour active participation helps us reduce waste and make ISCB 2025 a greener event. Every small action counts!"
+  },
+  {
+    "objectID": "attendee_essentials.html#be-punctual-and-prepared",
+    "href": "attendee_essentials.html#be-punctual-and-prepared",
+    "title": "Attendee Essentials",
+    "section": "Be Punctual and Prepared",
+    "text": "Be Punctual and Prepared\n\nArrive on time at the designated meeting point for sessions, workshops, and social activities.\nStanding at the back of lecture halls is prohibited due to fire safety regulations."
+  },
+  {
+    "objectID": "attendee_essentials.html#keynote-sessions-broadcast-across-venues",
+    "href": "attendee_essentials.html#keynote-sessions-broadcast-across-venues",
+    "title": "Attendee Essentials",
+    "section": "Keynote Sessions – Broadcast Across Venues",
+    "text": "Keynote Sessions – Broadcast Across Venues\n\nTo ensure everyone can enjoy the keynote sessions comfortably and safely, all keynotes will be broadcast live to all rooms in both the Biozentrum and ETH venues.\nWe kindly ask all attendees to distribute themselves across the available rooms, as standing is not permitted due to safety regulations. Your cooperation helps us maintain a smooth and secure experience for everyone."
+  },
+  {
+    "objectID": "attendee_essentials.html#welcome-reception",
+    "href": "attendee_essentials.html#welcome-reception",
+    "title": "Attendee Essentials",
+    "section": "Welcome Reception",
+    "text": "Welcome Reception\nAttendance for the Welcome Reception (Monday evening, 24 August) was limited to 250 participants based on a first-come, first-served basis during registration. If you successfully registered for the reception, your badge will indicate your access (see List of Badge Abbreviations). For those not registered, we encourage you to explore other options in Basel (see e.g. Restaurants)."
+  },
+  {
+    "objectID": "attendee_essentials.html#social-activities",
+    "href": "attendee_essentials.html#social-activities",
+    "title": "Attendee Essentials",
+    "section": "Social Activities",
+    "text": "Social Activities\nThe various social activities (SA) scheduled for Tuesday afternoon, 25 August, each have individual meeting points and durations. Please refer to the conference booklet or conference app for details about the social activity you have registered for (see List of Badge Abbreviations)"
+  },
+  {
+    "objectID": "attendee_essentials.html#certificate-of-attendance",
+    "href": "attendee_essentials.html#certificate-of-attendance",
+    "title": "Attendee Essentials",
+    "section": "Certificate of attendance",
+    "text": "Certificate of attendance\nBy default, no certificate of attendance will be provided. If you need one please refer to the information desk. You can leave your name and email there and will get a certificate electronically."
+  },
+  {
+    "objectID": "awards-contributions.html",
+    "href": "awards-contributions.html",
+    "title": "Best Poster & Presentation Awards at ISCB46",
+    "section": "",
+    "text": "The scientific program committee will select the best poster and presentation awards from the submitted contributions. Further information to follow."
+  },
+  {
+    "objectID": "badge-abbreviations.html",
+    "href": "badge-abbreviations.html",
+    "title": "List of Badge Abbreviations",
+    "section": "",
+    "text": "Please make sure to wear your badge visibly at all times throughout the conference, as it grants access to the indicated sessions and venues, as well as to the catering stations.Be aware that only those attendees who have registered for specific events at the time of conference registration can attend those events.\nCheck your badge for abbreviations to see which events you have signed up for:"
+  },
+  {
+    "objectID": "badge-abbreviations.html#pre-conference-courses",
+    "href": "badge-abbreviations.html#pre-conference-courses",
+    "title": "List of Badge Abbreviations",
+    "section": "Pre-Conference courses",
+    "text": "Pre-Conference courses\nSunday afternoon, 24 AUG 2025\n\n[C1] Full Day Course 1: Targeted Learning\n[C2] Full Day Course 2: The Design of Simulation Studies\n[C3] Full Day Course 3: Network Meta-Analysis: From Key Concepts to Advanced Methods\n[C4] Full Day Course 4: Good Software Engineering Practice for R Packages\n[CM] Half Day Course (morning): Bayesian Methods for Precision Medicine\n[CA] Half Day Course (afternoon): Multi-State Models: Theory, Applications and New Developments"
+  },
+  {
+    "objectID": "badge-abbreviations.html#welcome-reception",
+    "href": "badge-abbreviations.html#welcome-reception",
+    "title": "List of Badge Abbreviations",
+    "section": "Welcome Reception",
+    "text": "Welcome Reception\n🍷  Welcome Reception, Monday evening, 25 AUG 2025"
+  },
+  {
+    "objectID": "badge-abbreviations.html#social-activities",
+    "href": "badge-abbreviations.html#social-activities",
+    "title": "List of Badge Abbreviations",
+    "section": "Social Activities",
+    "text": "Social Activities\nTuesday afternoon, 26 AUG 2025\n\n[SA1] Guided Tour: Street Art Guided tour of Basel\n[SA2] Guided Tour: Stories of Basel’s Old Town\n[SA3] Guided Tour: Novartis Campus Architecture\n[SA4] Confiserie Beschle – Chocolate factory visit and create your own chocolate bar\n[SA5] Adventure-filled Scavenger Hunt in Basel\n[SA6] Crossbow event – William Tell, the central figure of the Swiss Confederacy"
+  },
+  {
+    "objectID": "badge-abbreviations.html#conference-dinner",
+    "href": "badge-abbreviations.html#conference-dinner",
+    "title": "List of Badge Abbreviations",
+    "section": "Conference Dinner",
+    "text": "Conference Dinner\n🍽️  Conference Dinner, Wednesday evening, 27 AUG 2025"
+  },
+  {
+    "objectID": "badge-abbreviations.html#mini-symposia",
+    "href": "badge-abbreviations.html#mini-symposia",
+    "title": "List of Badge Abbreviations",
+    "section": "Mini-Symposia",
+    "text": "Mini-Symposia\nThursday, 28 AUG 2025\n\n[MS1] Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum\n[MS2] Mini-Symposium 2: Early Career Biostatisticians’ (ECB) Day\n[MS3] Mini-Symposium 3: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis\n[MS4] Mini-Symposium 4: Enhancing Cancer Clinical Trials with Patient-Reported Outcomes: Insights from SISAQOL-IMI"
+  },
+  {
+    "objectID": "calls.html",
+    "href": "calls.html",
+    "title": "Calls",
+    "section": "",
+    "text": "The ISCB 2025 conference will provide a scientific forum for international exchange of theory, methods and applications of clinical biostatistics among biostatisticians, epidemiologists and medical data analysts."
+  },
+  {
+    "objectID": "calls.html#pre-conference-courses",
+    "href": "calls.html#pre-conference-courses",
+    "title": "Calls",
+    "section": "Pre-conference Courses",
+    "text": "Pre-conference Courses\nThe Scientific Programme Committee and Local Organizing Committee for the 46th Annual Conference of the ISCB are pleased to announce that we are seeking proposals for pre-conference courses to be included within the conference programme. The courses will be held on Sunday, August 24, 2025.\nIf you would like to submit a course for consideration, please submit your proposal through conftool (https://www.conftool.org/iscb2025/) with the following details:\n\nTitle of the course\nCourse presenters\nPosition and affiliation of course presenters\nContact details of course presenters including email address\nFull day or half day\nShort abstract of the course, including main topics and learning objectives [300 words]\nTechnical level of the course (low, moderate, high)\nUpper limit for number of participants (if desired)\nReason why the course would be appealing to attendees of ISCB conference [300 words]\n\nFinancial incentives: For successful proposals, the conference budget will cover (for a max. of two presenters) registration fees, attendance at the conference dinner, 200 Euro towards accommodation and limited travel costs (100/350/700 Euro for Switzerland/Europe/Intercontinental). Note that we reserve the right to cancel courses with low number of participants.\nDeadline for pre-conference course submissions was on Sunday January 5th, 2025, 23:59 (CEST).\nNotification of acceptance will be by February 7th, 2025."
+  },
+  {
+    "objectID": "calls.html#abstracts",
+    "href": "calls.html#abstracts",
+    "title": "Calls",
+    "section": "Abstracts",
+    "text": "Abstracts\nTo submit your abstract for consideration to ISCB 2025, please create an account on the online submission portal and submit your abstract by filling in the form in the “Your Submissions” section.\nPlease note the following key points:\n\nThe call for abstracts opens on Monday, December 9th, 2025.\nDeadline for abstract submissions is on Friday, February 14th, 2025, 23:59 (CEST). Note that the abstract submission deadline is final and will not be extended.\nAbstracts submitted by e-mail will not be accepted. Only submissions through the submission portal will be considered.\nThe presenting author must register by the authors’ registration deadline (Wednesday, 21 May 2025; end of early bird registration) to ensure inclusion of the abstract in the Conference Program (once accepted by the Scientific Program Committee).\nEach presenter may present only one talk/poster.\nThe first author can submit up to 2 abstracts. There is no limitation in abstract co-authorship.\nAll abstracts must be submitted in English.\nPlease do not submit multiple copies of the same abstract.\nIf you would like to apply to the Student Conference Award (StCA) or Conference Attendance Support Program (CASP), make sure that you select the corresponding checkbox after topic selection when submitting, and in addition separately submit the required documents through the StCA and/or CASP tracks. See the StCA and CASP guidelines for details.\nAll abstracts will be reviewed and rated by the Scientific Program Committee.\n\n\nFormat\nThe abstracts will be published in the ISCB 2025 Conference Final Program & Abstract Book exactly as submitted (i.e., in their original form). Authors are kindly requested to adhere to the following guidelines:\n\nLanguage: British English\nAbstract text word limit: 400 words (excluding author names and affiliation details).\nThe full names and affiliations of all authors should be submitted in the relevant fields. The abstract should be blinded, meaning no author or affiliation information should exist within the abstract.\nReferences may be included within the abstract provided the total word count does not exceed the 400-word limit.\nWe recommend organising the abstract into the following sections, if applicable; however, other formats will also be accepted:\n\nBackground / Introduction\nMethods\nResults\nConclusion\n\n\n\n\nTopics\nYou are required to choose a primary topic for your abstract submission from the following options (you will need to select 3-5):\n\nAnalysis of multi-omics data\nAnalysis of observational/real-world data (EHR, registries)\nBayesian methods\nBiomarker studies\nCausal inference\nClinical epidemiology\nClinical trials - analysis\nClinical trials - designs\nClinical trials - estimands\nComputational methods in biostatistics\nData integration\nDiagnostic tests\nHealth economics\nImperfect data (missings, measurement error, bias)\nInfectious disease modelling\nLongitudinal data (repeated measures / joint modelling)\nMachine learning & AI\nMeta-analysis\nMeta-science (reproducibility / replicability)\nMethods for genetic epidemiology / statistical genetics\nMultiple testing\nNonparametric methods\nPrediction / prognostic modelling\nPharmaceutical statistics\nRare diseases\nRegulatory issues\nSimulation studies\nStatistical education\nStatistical methods for epidemiology\nTime-to-event analyses (survival / competing risks / multi-state)\n\nImportant Note: Responsibility for accuracy rests with the author(s).\n\n\nSubmission\nThe abstract must be submitted through the online submission portal by completing all required fields. If you experience any problems with the online submission, please do not hesitate to contact the ISCB 2025 Conference Organisers using the contact details provided at the bottom of the submission portal (organizers@iscb2025.info).\n\n\nAbstract withdrawal\nIf you wish to withdraw an abstract ahead of the review process, you can do so in the submission portal in the “Your Submissions” section, directly.\n\n\nConfirmation of receipt & notification of decision\nAfter submission you will receive a confirmation e-mail from the submission system and your submission will be visible in “Your Submissions” when you log into your account.\nNotification of acceptance will be by March 21st, 2025."
+  },
+  {
+    "objectID": "committees.html",
+    "href": "committees.html",
+    "title": "ISCB 2025 Committees",
+    "section": "",
+    "text": "ISCB 2025 Committees\n\n\nLocal Organizing Committee\n\n\n\n\n\n\n\n\n\n\nChairs\n\n\n\n\n\n\n\n\n\nMouna Akacha\nNovartis\n\n\nKaspar Rufibach\nMerck KGaA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\nTrista Bintoro\nPhilip Morris\n\n\nRoland Marion-Gallois\nBMS\n\n\nCharline Meré\nBMS\n\n\nFred Sorenson\nCencora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMembers\n\n\n\n\n\n\n\n\n\nBibiana Blatna\nNovartis\n\n\nJocelyn Buisker\nNovartis\n\n\nMuriel Buri\nRoche\n\n\nClélia Cahuzac\nRoche\n\n\nTafadzwagladys Dhokotera\nSwiss TPH & U Basel\n\n\nLilla di Scala\nJ&J\n\n\nLuisa Eggenschwiler\nU Basel\n\n\nYouyou Hu\nRoche\n\n\nEliane Imfeld\nNovartis\n\n\nDirk Klingbiel\nBMS/Priothera\n\n\nJack Kuipers\nETHZ\n\n\nBaldur Magnusson\nUCB\n\n\nJoana Marques Barros\nIdorsia\n\n\nAntonella Mazzei\nBMS\n\n\nGiusi Moffa\nU Basel\n\n\nTobias Mütze\nNovartis\n\n\nCarmen Pasquale\nNovartis\n\n\nNikki Rommers\nUniversity Hospital Basel\n\n\nAmanda Ross\nSwiss TPH & U Basel\n\n\nHong Sun\nBMS\n\n\nBalint Tamasi\nDSM Firmenich\n\n\nDiane Uschner\nRoche\n\n\nFiona Vanobberghen\nSwiss TPH & U Basel\n\n\nPierre Verweij\nIdorsia\n\n\nDavid Warne\nConsultant Biostatistician\n\n\nLukas Widmer\nNovartis\n\n\nEmmanuel Zuber\nCogitamen\n\n\n\n\n\n\n\n\n\nScientific Organizing Committee\n\n\n\n\n\n\n\n\n\n\nChair\n\n\n\n\n\n\n\n\n\nVanessa Didelez\nBIPS, DE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMembers\n\n\n\n\n\n\n\n\n\nMouna Akacha\nNovartis, CH\n\n\nNiko Beerenwinkel\nETHZ, CH\n\n\nAnne-Laure Boulesteix\nU Munich, DE\n\n\nLilla di Scala\nJ&J, NA\n\n\nKrista Fischer\nU Tartu, EE\n\n\nPaul Gustafson\nU British Columbia, CA\n\n\nLisa Hampson\nNovartis, CH\n\n\nTorsten Hothorn\nU Zurich, CH\n\n\nRuth Keogh\nLSHTM, UK\n\n\nKatherine Lee\nMCRI, AU\n\n\nGiusi Moffa\nU Basel, CH\n\n\nSamuel Muller\nMacquarie U, AU\n\n\nDaniel Nevo\nU Tel Aviv, IL\n\n\nAris Perperoglou\nGSK, UK\n\n\nDavid Phillippo\nU Bristol, UK\n\n\nKaspar Rufibach\nMerck KGaA, CH\n\n\nMarci Rückbeil\nSanofi, NA\n\n\nKelly Van Lancker\nU Ghent, BE\n\n\nMarcel Wolbers\nRoche, CH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Reviewers\n\n\n\n\n\n\n\n\n\nBjörn Bornkamp\nNovartis, CH\n\n\nHarlan Campbell\nU British Columbia, CA\n\n\nDavid Dejardin\nRoche, CH\n\n\nJenny Devenport\nRoche, CH\n\n\nOliver Dukes\nU Ghent, BE\n\n\nElise Dumas\nEPFL, CH\n\n\nYair Goldberg\nTechnion, IL\n\n\nJack Kuipers\nETHZ, CH\n\n\nDominic Edmund Magirr\nNovartis, CH\n\n\nFrancois Mercier\nRoche, CH\n\n\nTim P. Morris\nUCL, UK\n\n\nAntonio Remiro-Azocar\nNovo Nordisk, DK\n\n\nGarth Tarr\nU Sydney, AU\n\n\nMarvin Wright\nBIPS, DE"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Pre-conference Courses",
+    "section": "",
+    "text": "The following full-day and half-day (morning or afternoon) pre-conference courses will be held in-person-only on Sunday, 24th of August 2025 (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book pre-conference courses. See the registration page for details on the registration costs for the pre-conference courses.\n\n\n\n \n  \n    Time \n    Course \n    Instructors \n  \n \n\n  \n    Full-day \n    Targeted Learning \n    Oliver Dukes,Stijn Vansteelandt,Shaun Seaman \n  \n  \n    Full-day \n    The Design of Simulation Studies \n    Tim P. Morris,Ian R. White \n  \n  \n    Full-day \n    Network Meta-Analysis:From Key Concepts to Advanced Methods \n    Virginia Chiocchia,Konstantina Chalkou,Orestis Efthimiou,Tasnim Hamza,Georgia Salanti \n  \n  \n    Full-day \n    Good Software Engineering Practice for R Packages \n    Audrey Te-ying Yeo,Alessandro Gasparini,Daniel Sabanés Bové \n  \n  \n    Morning \n    Bayesian Methods for Precision Medicine \n    Peter F. Thall \n  \n  \n    Afternoon \n    Multi-State Models:Theory, Applications and New Developments \n    Liesbeth de Wreede,Hein Putter"
+  },
+  {
+    "objectID": "courses.html#overview",
+    "href": "courses.html#overview",
+    "title": "Pre-conference Courses",
+    "section": "",
+    "text": "The following full-day and half-day (morning or afternoon) pre-conference courses will be held in-person-only on Sunday, 24th of August 2025 (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book pre-conference courses. See the registration page for details on the registration costs for the pre-conference courses.\n\n\n\n \n  \n    Time \n    Course \n    Instructors \n  \n \n\n  \n    Full-day \n    Targeted Learning \n    Oliver Dukes,Stijn Vansteelandt,Shaun Seaman \n  \n  \n    Full-day \n    The Design of Simulation Studies \n    Tim P. Morris,Ian R. White \n  \n  \n    Full-day \n    Network Meta-Analysis:From Key Concepts to Advanced Methods \n    Virginia Chiocchia,Konstantina Chalkou,Orestis Efthimiou,Tasnim Hamza,Georgia Salanti \n  \n  \n    Full-day \n    Good Software Engineering Practice for R Packages \n    Audrey Te-ying Yeo,Alessandro Gasparini,Daniel Sabanés Bové \n  \n  \n    Morning \n    Bayesian Methods for Precision Medicine \n    Peter F. Thall \n  \n  \n    Afternoon \n    Multi-State Models:Theory, Applications and New Developments \n    Liesbeth de Wreede,Hein Putter"
+  },
+  {
+    "objectID": "courses.html#targeted-learning",
+    "href": "courses.html#targeted-learning",
+    "title": "Pre-conference Courses",
+    "section": "Targeted Learning",
+    "text": "Targeted Learning\nInstructors:\n\nOliver Dukes, Ghent University, Belgium\nStijn Vansteelandt, Ghent University, Belgium\nShaun Seaman, University of Cambridge, United Kingdom\n\nEvaluating treatment effects using observational data or trials with complex intercurrent events may require accounting for high-dimensional confounding. This course will describe how, in these challenging situations, machine learning and variable selection procedures can be used to infer causal effects. The first part is a high level overview of how and why this methodology works, touching on recent developments in ‘double machine learning’ and ‘targeted maximum likelihood estimation’. In the second part the participants will exercise the concepts and methods explained during the first part via the analysis of real data sets.\nThis introductory course is aimed at researchers in the (pharmaceutical) industry and academia working with observational as well as trial data; a basic understanding of causal inference can be helpful but is not necessary. We foresee a mix of lectures and hands-on exercises using R."
+  },
+  {
+    "objectID": "courses.html#the-design-of-simulation-studies",
+    "href": "courses.html#the-design-of-simulation-studies",
+    "title": "Pre-conference Courses",
+    "section": "The Design of Simulation Studies",
+    "text": "The Design of Simulation Studies\nInstructors:\n\nTim P. Morris, UCL, United Kingdom\nIan R. White, UCL, United Kingdom\n\nSimulation studies are an invaluable tool for biostatistical research, as you will see at the ISCB46 conference this week, where they will play a prominent role in many presentations. You may even be presenting one of your own. Do you have the confidence to thoughtfully critique someone’s simulation study, or to defend yours? Although it is tempting to think of a simulation studies as a mere coding exercise, we have a rather different view. This short course will focus on the design of simulation studies, following the ADEMP framework (Aims, Data-generating mechanisms, Estimands, Methods of Analysis, Performance measures). Practical sessions will be interactive rather than computer-based, involving group discussions and debates on issues around the design of simulation studies."
+  },
+  {
+    "objectID": "courses.html#network-meta-analysis-from-key-concepts-to-advanced-methods",
+    "href": "courses.html#network-meta-analysis-from-key-concepts-to-advanced-methods",
+    "title": "Pre-conference Courses",
+    "section": "Network Meta-Analysis: From Key Concepts to Advanced Methods",
+    "text": "Network Meta-Analysis: From Key Concepts to Advanced Methods\nInstructors:\n\nVirginia Chiocchia, Institute of Social and Preventive Medicine, University of Bern, Switzerland\nKonstantina Chalkou, Institute of Social and Preventive Medicine, University of Bern, Switzerland\nOrestis Efthimiou, Institute of Primary Health Care (BIHAM), University of Bern, Switzerland\nTasnim Hamza, Institute of Social and Preventive Medicine, University of Bern, Switzerland\nGeorgia Salanti, Institute of Social and Preventive Medicine, University of Bern, Switzerland\n\nNetwork meta-analysis is an extension of pairwise meta-analysis that allows us to compare three or more interventions simultaneously, by combining direct and indirect evidence from a network of studies. Network meta-analysis can be used to estimate the relative treatmenteffects between any pair of interventions in the network, it increases precision compared to using only direct evidence, and it can produce a hierarchy of the interventions.\nIn the morning session of this full-day course we will demonstrate the assumptions and methods of network meta-analysis and network meta-regression with interactive lectures and practical exercise. In the afternoon we will introduce advanced topics in network meta-analysis, such as the use of individual participant data, component network meta-analysis for composite interventions, and dose-response analysis.\nThe course is designed for participants who are familiar with meta-analysis and Bayesian statistics. By the end of the course, participants will be able to:\n\nUnderstand and assess the assumptions underlying the validity of indirect comparisonsand network meta-analysis\nEstimate the relative treatment effects between any pair of interventions within a network of studies and present them in a transparent way\nAssess and test for inconsistency within a network of interventions\nFormulate a network meta-regression model and interpret the results and output\nObtain an overview of advanced methods and extensions in network meta-analysis\n\nThe practical exercises will be performed in the statistical software R."
+  },
+  {
+    "objectID": "courses.html#good-software-engineering-practice-for-r-packages",
+    "href": "courses.html#good-software-engineering-practice-for-r-packages",
+    "title": "Pre-conference Courses",
+    "section": "Good Software Engineering Practice for R Packages",
+    "text": "Good Software Engineering Practice for R Packages\nInstructors:\n\nAudrey Te-ying Yeo, Finc Research\nAlessandro Gasparini, Red Door Analytics AB\nDaniel Sabanés Bové, RCONIS\n\nThe vast majority of statisticians in academia and industry alike write statistical software daily. Nonetheless, software engineering principles are often neglected in biostatistics: most biostatisticians know a programming language (such as R) but lack formal training in writing reusable and reliable code.\nThis course aims to equip participants with the essential software engineering practices required to develop and maintain robust R packages. With the growing demand for reproducible research and the increasing complexity of statistical methods developed for multidimensional data, writing high-quality R packages has become a critical skill for statisticians to prototype, develop, and disseminate novel methods and push their adoption in practice. The course will focus on the key principles of software engineering, such as workflows, modular design, version control, testing, documentation, and quality indicators. Focussing on these aspects ensures the reliability and sustainability of R packages.\nParticipants will learn how to structure their R packages following best practices and making use of tools that streamline the development process. The course will also cover version control using Git, allowing participants to manage code changes effectively and collaborate with others. A significant emphasis will be placed on writing and running unit tests, ensuring that packages are error-free and behave as expected across different environments and over time.\nFurthermore, the course will cover quality indicators for R packages and explore techniques for writing effective documentation, enabling users to pick, understand, and use statistical software packages effectively.\nBy the end of the course, participants will have a solid understanding of good software engineering principles tailored to R package development, enabling them to build packages that are not only functional but also reliable, reusable, and easy to maintain."
+  },
+  {
+    "objectID": "courses.html#bayesian-methods-for-precision-medicine",
+    "href": "courses.html#bayesian-methods-for-precision-medicine",
+    "title": "Pre-conference Courses",
+    "section": "Bayesian Methods for Precision Medicine",
+    "text": "Bayesian Methods for Precision Medicine\nInstructor:\n\nPeter F. Thall, M.D. Anderson Cancer Center, United States of America\n\nThis half day short course will present statistical concepts and methods related to precision, or ‘personalized’ medicine, which uses individual patient covariates to choose treatment or doses. The topics are drawn from the book, ‘Bayesian Precision Medicine’ published by Chapman and Hall in 2024. To start, the problem of comparing immunotherapy to prayer for treating a severe disease will be discussed. Basic concepts of causal inference will be reviewed, including bias correction methods for analyzing observational data, causal diagrams, with both toy and real-world illustrative examples. Two clinical trial designs will be reviewed that aim to identify optimal subgroup-specific doses or treatments in particular medical settings, each using a utility of a multivariate outcome. The first is a phase 1-2 design that uses the joint utility of five time-to-event outcomes to optimize patient subgroup-specific natural killer cell doses for treating advanced leukemia or lymphoma. The second design does phase 2 treatment screening and selection, illustrated by a randomized three-arm trial to compare targeted agents. Two data analyses that apply Bayesian nonparametric regression models to identify optimal covariate-specific treatments then will be presented. The first analysis uses observational data to identify optimal covariate-specific doses of intravenous busulfan as part of the preparative regimen for allogeneic stem cell transplantation. The second is a re-analysis of a published dataset from a randomized trial, with a joint utility of progression free survival time and total toxicity burden used to choose optimal personalized targeted therapies for advanced breast cancer."
+  },
+  {
+    "objectID": "courses.html#multi-state-models-theory-applications-and-new-developments",
+    "href": "courses.html#multi-state-models-theory-applications-and-new-developments",
+    "title": "Pre-conference Courses",
+    "section": "Multi-State Models: Theory, Applications and New Developments",
+    "text": "Multi-State Models: Theory, Applications and New Developments\nInstructors:\n\nLiesbeth de Wreede, Leiden University Medical Center, Netherlands\nHein Putter, Leiden University Medical Center, Netherlands\n\nThe Multi-state models play an increasingly important role in the analysis of time-to-event data. They provide a comprehensive framework to analyze and understand complex medical phenomena, making them invaluable in research aimed at improving patient care, guiding public health policies, and advancing medical science. Extensions of the Nelson-Aalen estimator of the cumulative hazard and of the Kaplan-Meier estimator of the survival function allow for a detailed assessment of the dynamics of complex disease processes and patient trajectories, and the effect of covariates on these patterns.\nIn the first half we offer a brief coverage of basic concepts and techniques in multi-state models, focusing on non- and semi-parametric (Cox-model based) Markov models. We start with an introduction to important concepts, in particular transition intensities (rates) and transition probabilities (risks) and the relation between them, viewing multi-state models as an extension of competing risks models. We continue with methods for assessment of the effect of covariates on the transition intensities through proportional hazards models. Throughout the course, all steps needed for a multi-state analysis will be illustrated with examples and syntax based on the mstate package in R.\nIn the second half we focus on two selected topics related to more recent advancements in multi-state modelling. The first concerns the Markov assumption. We discuss formal tests for the Markov assumption. We explore estimation of transition probabilities that are consistent also when the Markov assumption is violated, in particular the landmark Aalen-Johansen estimator, and extensions like the hybrid landmark Aalen-Johansen estimator. The second topic concerns incorporation of relative survival in multi-state models. This allows to split mortality in excess and background mortality with and without intermediate events. Two different models for assessing the impact of covariates on the excess hazard will be introduced: the Cox model and Aalen’s additive hazards model."
   },
   {
     "objectID": "faq.html",
@@ -469,445 +868,46 @@
     "text": "I need a visa. How do I get all the necessary information from the organizers?\nYou can chose the option of getting a visa invitation while registering for the conference."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Pre-conference Courses",
+    "objectID": "guideline_courses.html",
+    "href": "guideline_courses.html",
+    "title": "Guidance for Short Course Presenters",
     "section": "",
-    "text": "The following full-day and half-day (morning or afternoon) pre-conference courses will be held in-person-only on Sunday, 24th of August 2025 (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book pre-conference courses. See the registration page for details on the registration costs for the pre-conference courses.\n\n\n\n \n  \n    Time \n    Course \n    Instructors \n  \n \n\n  \n    Full-day \n    Targeted Learning \n    Oliver Dukes,Stijn Vansteelandt,Shaun Seaman \n  \n  \n    Full-day \n    The Design of Simulation Studies \n    Tim P. Morris,Ian R. White \n  \n  \n    Full-day \n    Network Meta-Analysis:From Key Concepts to Advanced Methods \n    Virginia Chiocchia,Konstantina Chalkou,Orestis Efthimiou,Tasnim Hamza,Georgia Salanti \n  \n  \n    Full-day \n    Good Software Engineering Practice for R Packages \n    Audrey Te-ying Yeo,Alessandro Gasparini,Daniel Sabanés Bové \n  \n  \n    Morning \n    Bayesian Methods for Precision Medicine \n    Peter F. Thall \n  \n  \n    Afternoon \n    Multi-State Models:Theory, Applications and New Developments \n    Liesbeth de Wreede,Hein Putter"
+    "text": "Thank you for presenting a short course at the ISCB46 Conference in Basel. Please find below some guidance for creating and submitting your short course for the conference:"
   },
   {
-    "objectID": "courses.html#overview",
-    "href": "courses.html#overview",
-    "title": "Pre-conference Courses",
-    "section": "",
-    "text": "The following full-day and half-day (morning or afternoon) pre-conference courses will be held in-person-only on Sunday, 24th of August 2025 (the day before the start of the main conference). Note that main conference registration is a prerequisite to be able to book pre-conference courses. See the registration page for details on the registration costs for the pre-conference courses.\n\n\n\n \n  \n    Time \n    Course \n    Instructors \n  \n \n\n  \n    Full-day \n    Targeted Learning \n    Oliver Dukes,Stijn Vansteelandt,Shaun Seaman \n  \n  \n    Full-day \n    The Design of Simulation Studies \n    Tim P. Morris,Ian R. White \n  \n  \n    Full-day \n    Network Meta-Analysis:From Key Concepts to Advanced Methods \n    Virginia Chiocchia,Konstantina Chalkou,Orestis Efthimiou,Tasnim Hamza,Georgia Salanti \n  \n  \n    Full-day \n    Good Software Engineering Practice for R Packages \n    Audrey Te-ying Yeo,Alessandro Gasparini,Daniel Sabanés Bové \n  \n  \n    Morning \n    Bayesian Methods for Precision Medicine \n    Peter F. Thall \n  \n  \n    Afternoon \n    Multi-State Models:Theory, Applications and New Developments \n    Liesbeth de Wreede,Hein Putter"
+    "objectID": "guideline_courses.html#session-time",
+    "href": "guideline_courses.html#session-time",
+    "title": "Guidance for Short Course Presenters",
+    "section": "Session Time",
+    "text": "Session Time\nIf you want to know your session date and time then visit the schedule online.\nAll short courses take place on Sunday, 24th of August."
   },
   {
-    "objectID": "courses.html#targeted-learning",
-    "href": "courses.html#targeted-learning",
-    "title": "Pre-conference Courses",
-    "section": "Targeted Learning",
-    "text": "Targeted Learning\nInstructors:\n\nOliver Dukes, Ghent University, Belgium\nStijn Vansteelandt, Ghent University, Belgium\nShaun Seaman, University of Cambridge, United Kingdom\n\nEvaluating treatment effects using observational data or trials with complex intercurrent events may require accounting for high-dimensional confounding. This course will describe how, in these challenging situations, machine learning and variable selection procedures can be used to infer causal effects. The first part is a high level overview of how and why this methodology works, touching on recent developments in ‘double machine learning’ and ‘targeted maximum likelihood estimation’. In the second part the participants will exercise the concepts and methods explained during the first part via the analysis of real data sets.\nThis introductory course is aimed at researchers in the (pharmaceutical) industry and academia working with observational as well as trial data; a basic understanding of causal inference can be helpful but is not necessary. We foresee a mix of lectures and hands-on exercises using R."
-  },
-  {
-    "objectID": "courses.html#the-design-of-simulation-studies",
-    "href": "courses.html#the-design-of-simulation-studies",
-    "title": "Pre-conference Courses",
-    "section": "The Design of Simulation Studies",
-    "text": "The Design of Simulation Studies\nInstructors:\n\nTim P. Morris, UCL, United Kingdom\nIan R. White, UCL, United Kingdom\n\nSimulation studies are an invaluable tool for biostatistical research, as you will see at the ISCB46 conference this week, where they will play a prominent role in many presentations. You may even be presenting one of your own. Do you have the confidence to thoughtfully critique someone’s simulation study, or to defend yours? Although it is tempting to think of a simulation studies as a mere coding exercise, we have a rather different view. This short course will focus on the design of simulation studies, following the ADEMP framework (Aims, Data-generating mechanisms, Estimands, Methods of Analysis, Performance measures). Practical sessions will be interactive rather than computer-based, involving group discussions and debates on issues around the design of simulation studies."
-  },
-  {
-    "objectID": "courses.html#network-meta-analysis-from-key-concepts-to-advanced-methods",
-    "href": "courses.html#network-meta-analysis-from-key-concepts-to-advanced-methods",
-    "title": "Pre-conference Courses",
-    "section": "Network Meta-Analysis: From Key Concepts to Advanced Methods",
-    "text": "Network Meta-Analysis: From Key Concepts to Advanced Methods\nInstructors:\n\nVirginia Chiocchia, Institute of Social and Preventive Medicine, University of Bern, Switzerland\nKonstantina Chalkou, Institute of Social and Preventive Medicine, University of Bern, Switzerland\nOrestis Efthimiou, Institute of Primary Health Care (BIHAM), University of Bern, Switzerland\nTasnim Hamza, Institute of Social and Preventive Medicine, University of Bern, Switzerland\nGeorgia Salanti, Institute of Social and Preventive Medicine, University of Bern, Switzerland\n\nNetwork meta-analysis is an extension of pairwise meta-analysis that allows us to compare three or more interventions simultaneously, by combining direct and indirect evidence from a network of studies. Network meta-analysis can be used to estimate the relative treatmenteffects between any pair of interventions in the network, it increases precision compared to using only direct evidence, and it can produce a hierarchy of the interventions.\nIn the morning session of this full-day course we will demonstrate the assumptions and methods of network meta-analysis and network meta-regression with interactive lectures and practical exercise. In the afternoon we will introduce advanced topics in network meta-analysis, such as the use of individual participant data, component network meta-analysis for composite interventions, and dose-response analysis.\nThe course is designed for participants who are familiar with meta-analysis and Bayesian statistics. By the end of the course, participants will be able to:\n\nUnderstand and assess the assumptions underlying the validity of indirect comparisonsand network meta-analysis\nEstimate the relative treatment effects between any pair of interventions within a network of studies and present them in a transparent way\nAssess and test for inconsistency within a network of interventions\nFormulate a network meta-regression model and interpret the results and output\nObtain an overview of advanced methods and extensions in network meta-analysis\n\nThe practical exercises will be performed in the statistical software R."
-  },
-  {
-    "objectID": "courses.html#good-software-engineering-practice-for-r-packages",
-    "href": "courses.html#good-software-engineering-practice-for-r-packages",
-    "title": "Pre-conference Courses",
-    "section": "Good Software Engineering Practice for R Packages",
-    "text": "Good Software Engineering Practice for R Packages\nInstructors:\n\nAudrey Te-ying Yeo, Finc Research\nAlessandro Gasparini, Red Door Analytics AB\nDaniel Sabanés Bové, RCONIS\n\nThe vast majority of statisticians in academia and industry alike write statistical software daily. Nonetheless, software engineering principles are often neglected in biostatistics: most biostatisticians know a programming language (such as R) but lack formal training in writing reusable and reliable code.\nThis course aims to equip participants with the essential software engineering practices required to develop and maintain robust R packages. With the growing demand for reproducible research and the increasing complexity of statistical methods developed for multidimensional data, writing high-quality R packages has become a critical skill for statisticians to prototype, develop, and disseminate novel methods and push their adoption in practice. The course will focus on the key principles of software engineering, such as workflows, modular design, version control, testing, documentation, and quality indicators. Focussing on these aspects ensures the reliability and sustainability of R packages.\nParticipants will learn how to structure their R packages following best practices and making use of tools that streamline the development process. The course will also cover version control using Git, allowing participants to manage code changes effectively and collaborate with others. A significant emphasis will be placed on writing and running unit tests, ensuring that packages are error-free and behave as expected across different environments and over time.\nFurthermore, the course will cover quality indicators for R packages and explore techniques for writing effective documentation, enabling users to pick, understand, and use statistical software packages effectively.\nBy the end of the course, participants will have a solid understanding of good software engineering principles tailored to R package development, enabling them to build packages that are not only functional but also reliable, reusable, and easy to maintain."
-  },
-  {
-    "objectID": "courses.html#bayesian-methods-for-precision-medicine",
-    "href": "courses.html#bayesian-methods-for-precision-medicine",
-    "title": "Pre-conference Courses",
-    "section": "Bayesian Methods for Precision Medicine",
-    "text": "Bayesian Methods for Precision Medicine\nInstructor:\n\nPeter F. Thall, M.D. Anderson Cancer Center, United States of America\n\nThis half day short course will present statistical concepts and methods related to precision, or ‘personalized’ medicine, which uses individual patient covariates to choose treatment or doses. The topics are drawn from the book, ‘Bayesian Precision Medicine’ published by Chapman and Hall in 2024. To start, the problem of comparing immunotherapy to prayer for treating a severe disease will be discussed. Basic concepts of causal inference will be reviewed, including bias correction methods for analyzing observational data, causal diagrams, with both toy and real-world illustrative examples. Two clinical trial designs will be reviewed that aim to identify optimal subgroup-specific doses or treatments in particular medical settings, each using a utility of a multivariate outcome. The first is a phase 1-2 design that uses the joint utility of five time-to-event outcomes to optimize patient subgroup-specific natural killer cell doses for treating advanced leukemia or lymphoma. The second design does phase 2 treatment screening and selection, illustrated by a randomized three-arm trial to compare targeted agents. Two data analyses that apply Bayesian nonparametric regression models to identify optimal covariate-specific treatments then will be presented. The first analysis uses observational data to identify optimal covariate-specific doses of intravenous busulfan as part of the preparative regimen for allogeneic stem cell transplantation. The second is a re-analysis of a published dataset from a randomized trial, with a joint utility of progression free survival time and total toxicity burden used to choose optimal personalized targeted therapies for advanced breast cancer."
-  },
-  {
-    "objectID": "courses.html#multi-state-models-theory-applications-and-new-developments",
-    "href": "courses.html#multi-state-models-theory-applications-and-new-developments",
-    "title": "Pre-conference Courses",
-    "section": "Multi-State Models: Theory, Applications and New Developments",
-    "text": "Multi-State Models: Theory, Applications and New Developments\nInstructors:\n\nLiesbeth de Wreede, Leiden University Medical Center, Netherlands\nHein Putter, Leiden University Medical Center, Netherlands\n\nThe Multi-state models play an increasingly important role in the analysis of time-to-event data. They provide a comprehensive framework to analyze and understand complex medical phenomena, making them invaluable in research aimed at improving patient care, guiding public health policies, and advancing medical science. Extensions of the Nelson-Aalen estimator of the cumulative hazard and of the Kaplan-Meier estimator of the survival function allow for a detailed assessment of the dynamics of complex disease processes and patient trajectories, and the effect of covariates on these patterns.\nIn the first half we offer a brief coverage of basic concepts and techniques in multi-state models, focusing on non- and semi-parametric (Cox-model based) Markov models. We start with an introduction to important concepts, in particular transition intensities (rates) and transition probabilities (risks) and the relation between them, viewing multi-state models as an extension of competing risks models. We continue with methods for assessment of the effect of covariates on the transition intensities through proportional hazards models. Throughout the course, all steps needed for a multi-state analysis will be illustrated with examples and syntax based on the mstate package in R.\nIn the second half we focus on two selected topics related to more recent advancements in multi-state modelling. The first concerns the Markov assumption. We discuss formal tests for the Markov assumption. We explore estimation of transition probabilities that are consistent also when the Markov assumption is violated, in particular the landmark Aalen-Johansen estimator, and extensions like the hybrid landmark Aalen-Johansen estimator. The second topic concerns incorporation of relative survival in multi-state models. This allows to split mortality in excess and background mortality with and without intermediate events. Two different models for assessing the impact of covariates on the excess hazard will be introduced: the Cox model and Aalen’s additive hazards model."
-  },
-  {
-    "objectID": "committees.html",
-    "href": "committees.html",
-    "title": "ISCB 2025 Committees",
-    "section": "",
-    "text": "ISCB 2025 Committees\n\n\nLocal Organizing Committee\n\n\n\n\n\n\n\n\n\n\nChairs\n\n\n\n\n\n\n\n\n\nMouna Akacha\nNovartis\n\n\nKaspar Rufibach\nMerck KGaA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\nTrista Bintoro\nPhilip Morris\n\n\nRoland Marion-Gallois\nBMS\n\n\nCharline Meré\nBMS\n\n\nFred Sorenson\nCencora\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMembers\n\n\n\n\n\n\n\n\n\nBibiana Blatna\nNovartis\n\n\nJocelyn Buisker\nNovartis\n\n\nMuriel Buri\nRoche\n\n\nClélia Cahuzac\nRoche\n\n\nTafadzwagladys Dhokotera\nSwiss TPH & U Basel\n\n\nLilla di Scala\nJ&J\n\n\nLuisa Eggenschwiler\nU Basel\n\n\nYouyou Hu\nRoche\n\n\nEliane Imfeld\nNovartis\n\n\nDirk Klingbiel\nBMS/Priothera\n\n\nJack Kuipers\nETHZ\n\n\nBaldur Magnusson\nUCB\n\n\nJoana Marques Barros\nIdorsia\n\n\nAntonella Mazzei\nBMS\n\n\nGiusi Moffa\nU Basel\n\n\nTobias Mütze\nNovartis\n\n\nCarmen Pasquale\nNovartis\n\n\nNikki Rommers\nUniversity Hospital Basel\n\n\nAmanda Ross\nSwiss TPH & U Basel\n\n\nHong Sun\nBMS\n\n\nBalint Tamasi\nDSM Firmenich\n\n\nDiane Uschner\nRoche\n\n\nFiona Vanobberghen\nSwiss TPH & U Basel\n\n\nPierre Verweij\nIdorsia\n\n\nDavid Warne\nConsultant Biostatistician\n\n\nLukas Widmer\nNovartis\n\n\nEmmanuel Zuber\nCogitamen\n\n\n\n\n\n\n\n\n\nScientific Organizing Committee\n\n\n\n\n\n\n\n\n\n\nChair\n\n\n\n\n\n\n\n\n\nVanessa Didelez\nBIPS, DE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMembers\n\n\n\n\n\n\n\n\n\nMouna Akacha\nNovartis, CH\n\n\nNiko Beerenwinkel\nETHZ, CH\n\n\nAnne-Laure Boulesteix\nU Munich, DE\n\n\nLilla di Scala\nJ&J, NA\n\n\nKrista Fischer\nU Tartu, EE\n\n\nPaul Gustafson\nU British Columbia, CA\n\n\nLisa Hampson\nNovartis, CH\n\n\nTorsten Hothorn\nU Zurich, CH\n\n\nRuth Keogh\nLSHTM, UK\n\n\nKatherine Lee\nMCRI, AU\n\n\nGiusi Moffa\nU Basel, CH\n\n\nSamuel Muller\nMacquarie U, AU\n\n\nDaniel Nevo\nU Tel Aviv, IL\n\n\nAris Perperoglou\nGSK, UK\n\n\nDavid Phillippo\nU Bristol, UK\n\n\nKaspar Rufibach\nMerck KGaA, CH\n\n\nMarci Rückbeil\nSanofi, NA\n\n\nKelly Van Lancker\nU Ghent, BE\n\n\nMarcel Wolbers\nRoche, CH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Reviewers\n\n\n\n\n\n\n\n\n\nBjörn Bornkamp\nNovartis, CH\n\n\nHarlan Campbell\nU British Columbia, CA\n\n\nDavid Dejardin\nRoche, CH\n\n\nJenny Devenport\nRoche, CH\n\n\nOliver Dukes\nU Ghent, BE\n\n\nElise Dumas\nEPFL, CH\n\n\nYair Goldberg\nTechnion, IL\n\n\nJack Kuipers\nETHZ, CH\n\n\nDominic Edmund Magirr\nNovartis, CH\n\n\nFrancois Mercier\nRoche, CH\n\n\nTim P. Morris\nUCL, UK\n\n\nAntonio Remiro-Azocar\nNovo Nordisk, DK\n\n\nGarth Tarr\nU Sydney, AU\n\n\nMarvin Wright\nBIPS, DE"
-  },
-  {
-    "objectID": "calls.html",
-    "href": "calls.html",
-    "title": "Calls",
-    "section": "",
-    "text": "The ISCB 2025 conference will provide a scientific forum for international exchange of theory, methods and applications of clinical biostatistics among biostatisticians, epidemiologists and medical data analysts."
-  },
-  {
-    "objectID": "calls.html#pre-conference-courses",
-    "href": "calls.html#pre-conference-courses",
-    "title": "Calls",
-    "section": "Pre-conference Courses",
-    "text": "Pre-conference Courses\nThe Scientific Programme Committee and Local Organizing Committee for the 46th Annual Conference of the ISCB are pleased to announce that we are seeking proposals for pre-conference courses to be included within the conference programme. The courses will be held on Sunday, August 24, 2025.\nIf you would like to submit a course for consideration, please submit your proposal through conftool (https://www.conftool.org/iscb2025/) with the following details:\n\nTitle of the course\nCourse presenters\nPosition and affiliation of course presenters\nContact details of course presenters including email address\nFull day or half day\nShort abstract of the course, including main topics and learning objectives [300 words]\nTechnical level of the course (low, moderate, high)\nUpper limit for number of participants (if desired)\nReason why the course would be appealing to attendees of ISCB conference [300 words]\n\nFinancial incentives: For successful proposals, the conference budget will cover (for a max. of two presenters) registration fees, attendance at the conference dinner, 200 Euro towards accommodation and limited travel costs (100/350/700 Euro for Switzerland/Europe/Intercontinental). Note that we reserve the right to cancel courses with low number of participants.\nDeadline for pre-conference course submissions was on Sunday January 5th, 2025, 23:59 (CEST).\nNotification of acceptance will be by February 7th, 2025."
-  },
-  {
-    "objectID": "calls.html#abstracts",
-    "href": "calls.html#abstracts",
-    "title": "Calls",
-    "section": "Abstracts",
-    "text": "Abstracts\nTo submit your abstract for consideration to ISCB 2025, please create an account on the online submission portal and submit your abstract by filling in the form in the “Your Submissions” section.\nPlease note the following key points:\n\nThe call for abstracts opens on Monday, December 9th, 2025.\nDeadline for abstract submissions is on Friday, February 14th, 2025, 23:59 (CEST). Note that the abstract submission deadline is final and will not be extended.\nAbstracts submitted by e-mail will not be accepted. Only submissions through the submission portal will be considered.\nThe presenting author must register by the authors’ registration deadline (Wednesday, 21 May 2025; end of early bird registration) to ensure inclusion of the abstract in the Conference Program (once accepted by the Scientific Program Committee).\nEach presenter may present only one talk/poster.\nThe first author can submit up to 2 abstracts. There is no limitation in abstract co-authorship.\nAll abstracts must be submitted in English.\nPlease do not submit multiple copies of the same abstract.\nIf you would like to apply to the Student Conference Award (StCA) or Conference Attendance Support Program (CASP), make sure that you select the corresponding checkbox after topic selection when submitting, and in addition separately submit the required documents through the StCA and/or CASP tracks. See the StCA and CASP guidelines for details.\nAll abstracts will be reviewed and rated by the Scientific Program Committee.\n\n\nFormat\nThe abstracts will be published in the ISCB 2025 Conference Final Program & Abstract Book exactly as submitted (i.e., in their original form). Authors are kindly requested to adhere to the following guidelines:\n\nLanguage: British English\nAbstract text word limit: 400 words (excluding author names and affiliation details).\nThe full names and affiliations of all authors should be submitted in the relevant fields. The abstract should be blinded, meaning no author or affiliation information should exist within the abstract.\nReferences may be included within the abstract provided the total word count does not exceed the 400-word limit.\nWe recommend organising the abstract into the following sections, if applicable; however, other formats will also be accepted:\n\nBackground / Introduction\nMethods\nResults\nConclusion\n\n\n\n\nTopics\nYou are required to choose a primary topic for your abstract submission from the following options (you will need to select 3-5):\n\nAnalysis of multi-omics data\nAnalysis of observational/real-world data (EHR, registries)\nBayesian methods\nBiomarker studies\nCausal inference\nClinical epidemiology\nClinical trials - analysis\nClinical trials - designs\nClinical trials - estimands\nComputational methods in biostatistics\nData integration\nDiagnostic tests\nHealth economics\nImperfect data (missings, measurement error, bias)\nInfectious disease modelling\nLongitudinal data (repeated measures / joint modelling)\nMachine learning & AI\nMeta-analysis\nMeta-science (reproducibility / replicability)\nMethods for genetic epidemiology / statistical genetics\nMultiple testing\nNonparametric methods\nPrediction / prognostic modelling\nPharmaceutical statistics\nRare diseases\nRegulatory issues\nSimulation studies\nStatistical education\nStatistical methods for epidemiology\nTime-to-event analyses (survival / competing risks / multi-state)\n\nImportant Note: Responsibility for accuracy rests with the author(s).\n\n\nSubmission\nThe abstract must be submitted through the online submission portal by completing all required fields. If you experience any problems with the online submission, please do not hesitate to contact the ISCB 2025 Conference Organisers using the contact details provided at the bottom of the submission portal (organizers@iscb2025.info).\n\n\nAbstract withdrawal\nIf you wish to withdraw an abstract ahead of the review process, you can do so in the submission portal in the “Your Submissions” section, directly.\n\n\nConfirmation of receipt & notification of decision\nAfter submission you will receive a confirmation e-mail from the submission system and your submission will be visible in “Your Submissions” when you log into your account.\nNotification of acceptance will be by March 21st, 2025."
-  },
-  {
-    "objectID": "badge-abbreviations.html",
-    "href": "badge-abbreviations.html",
-    "title": "List of Badge Abbreviations",
-    "section": "",
-    "text": "Please make sure to wear your badge visibly at all times throughout the conference, as it grants access to the indicated sessions and venues, as well as to the catering stations.Be aware that only those attendees who have registered for specific events at the time of conference registration can attend those events.\nCheck your badge for abbreviations to see which events you have signed up for:"
-  },
-  {
-    "objectID": "badge-abbreviations.html#pre-conference-courses",
-    "href": "badge-abbreviations.html#pre-conference-courses",
-    "title": "List of Badge Abbreviations",
-    "section": "Pre-Conference courses",
-    "text": "Pre-Conference courses\nSunday afternoon, 24 AUG 2025\n\n[C1] Full Day Course 1: Targeted Learning\n[C2] Full Day Course 2: The Design of Simulation Studies\n[C3] Full Day Course 3: Network Meta-Analysis: From Key Concepts to Advanced Methods\n[C4] Full Day Course 4: Good Software Engineering Practice for R Packages\n[CM] Half Day Course (morning): Bayesian Methods for Precision Medicine\n[CA] Half Day Course (afternoon): Multi-State Models: Theory, Applications and New Developments"
-  },
-  {
-    "objectID": "badge-abbreviations.html#welcome-reception",
-    "href": "badge-abbreviations.html#welcome-reception",
-    "title": "List of Badge Abbreviations",
-    "section": "Welcome Reception",
-    "text": "Welcome Reception\n🍷  Welcome Reception, Monday evening, 25 AUG 2025"
-  },
-  {
-    "objectID": "badge-abbreviations.html#social-activities",
-    "href": "badge-abbreviations.html#social-activities",
-    "title": "List of Badge Abbreviations",
-    "section": "Social Activities",
-    "text": "Social Activities\nTuesday afternoon, 26 AUG 2025\n\n[SA1] Guided Tour: Street Art Guided tour of Basel\n[SA2] Guided Tour: Stories of Basel’s Old Town\n[SA3] Guided Tour: Novartis Campus Architecture\n[SA4] Confiserie Beschle – Chocolate factory visit and create your own chocolate bar\n[SA5] Adventure-filled Scavenger Hunt in Basel\n[SA6] Crossbow event – William Tell, the central figure of the Swiss Confederacy"
-  },
-  {
-    "objectID": "badge-abbreviations.html#conference-dinner",
-    "href": "badge-abbreviations.html#conference-dinner",
-    "title": "List of Badge Abbreviations",
-    "section": "Conference Dinner",
-    "text": "Conference Dinner\n🍽️  Conference Dinner, Wednesday evening, 27 AUG 2025"
-  },
-  {
-    "objectID": "badge-abbreviations.html#mini-symposia",
-    "href": "badge-abbreviations.html#mini-symposia",
-    "title": "List of Badge Abbreviations",
-    "section": "Mini-Symposia",
-    "text": "Mini-Symposia\nThursday, 28 AUG 2025\n\n[MS1] Mini-Symposium 1: Causal Inference for Improved Clinical Collaborations: A Practicum\n[MS2] Mini-Symposium 2: Early Career Biostatisticians’ (ECB) Day\n[MS3] Mini-Symposium 3: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis\n[MS4] Mini-Symposium 4: Enhancing Cancer Clinical Trials with Patient-Reported Outcomes: Insights from SISAQOL-IMI"
-  },
-  {
-    "objectID": "awards-contributions.html",
-    "href": "awards-contributions.html",
-    "title": "Best Poster & Presentation Awards at ISCB46",
-    "section": "",
-    "text": "The scientific program committee will select the best poster and presentation awards from the submitted contributions. Further information to follow."
-  },
-  {
-    "objectID": "attendee_essentials.html",
-    "href": "attendee_essentials.html",
-    "title": "Attendee Essentials",
-    "section": "",
-    "text": "To ensure a smooth and enjoyable experience at the conference, please take note of the following:"
-  },
-  {
-    "objectID": "attendee_essentials.html#badge-access",
-    "href": "attendee_essentials.html#badge-access",
-    "title": "Attendee Essentials",
-    "section": "Badge = Access",
-    "text": "Badge = Access\n\nPlease always wear your badge visibly, as it serves as your identification card throughout the conference. Additionally, remember to bring your badge to all registered activities to ensure access to the venues.\n\nNo badge = no entry to sessions, social events, or catering areas.\nCheck your badge for abbreviations to see which events you have signed up for, see List of Badge Abbreviations."
-  },
-  {
-    "objectID": "attendee_essentials.html#stay-informed-via-the-app-and-online-platform-for-virtual-attendance",
-    "href": "attendee_essentials.html#stay-informed-via-the-app-and-online-platform-for-virtual-attendance",
-    "title": "Attendee Essentials",
-    "section": "Stay Informed via the App and Online Platform for virtual attendance",
-    "text": "Stay Informed via the App and Online Platform for virtual attendance\n\nAccess details (incl. usernames and passwords) will be communicated a few days before the conference.\nImportant updates and reminders will be sent via push notifications through the official conference App.\nWe strongly recommend enabling notifications and checking the app regularly during the conference days."
-  },
-  {
-    "objectID": "attendee_essentials.html#info-desk-and-registration-desks",
-    "href": "attendee_essentials.html#info-desk-and-registration-desks",
-    "title": "Attendee Essentials",
-    "section": "Info Desk and Registration Desks",
-    "text": "Info Desk and Registration Desks\n\nThese are located at the Biozentrum and will be open daily from Sunday 24th, August to Thursday 28th, August to assist with inquiries, lost & found, and general guidance."
-  },
-  {
-    "objectID": "attendee_essentials.html#venue-navigation",
-    "href": "attendee_essentials.html#venue-navigation",
-    "title": "Attendee Essentials",
-    "section": "Venue Navigation",
-    "text": "Venue Navigation\n\nThe conference spans two venues: Biozentrum (University of Basel) and BSS Building (ETH Zürich), which are conveniently located within close walking distance of each other.\nClear signage and staffed info desk (Biozentrum) will help guide you. Please follow directional signs and ask for help if needed."
-  },
-  {
-    "objectID": "attendee_essentials.html#support-sustainability",
-    "href": "attendee_essentials.html#support-sustainability",
-    "title": "Attendee Essentials",
-    "section": "Support Sustainability",
-    "text": "Support Sustainability\n\nEvery onsite attendee will receive one reusable bottle sponsored by our sustainability partner BWT (Best Water Technology) as part of our shared commitment to reducing single-use plastics.\nBring your reusable water bottle daily. Water refill stations will be available, but no bottle = no refill. We need everyone to take responsibility and be accountable for supporting this sustainable practice.\nPaper coffee cups will be collected in dedicated bins across the venue, as our catering partner will recycle them. Please support this initiative by disposing of your used cups in the marked bins.\nConference bags are distributed once - please reuse them throughout the week.\nYour active participation helps us reduce waste and make ISCB 2025 a greener event. Every small action counts!"
-  },
-  {
-    "objectID": "attendee_essentials.html#be-punctual-and-prepared",
-    "href": "attendee_essentials.html#be-punctual-and-prepared",
-    "title": "Attendee Essentials",
-    "section": "Be Punctual and Prepared",
-    "text": "Be Punctual and Prepared\n\nArrive on time at the designated meeting point for sessions, workshops, and social activities.\nStanding at the back of lecture halls is prohibited due to fire safety regulations."
-  },
-  {
-    "objectID": "attendee_essentials.html#keynote-sessions-broadcast-across-venues",
-    "href": "attendee_essentials.html#keynote-sessions-broadcast-across-venues",
-    "title": "Attendee Essentials",
-    "section": "Keynote Sessions – Broadcast Across Venues",
-    "text": "Keynote Sessions – Broadcast Across Venues\n\nTo ensure everyone can enjoy the keynote sessions comfortably and safely, all keynotes will be broadcast live to all rooms in both the Biozentrum and ETH venues.\nWe kindly ask all attendees to distribute themselves across the available rooms, as standing is not permitted due to safety regulations. Your cooperation helps us maintain a smooth and secure experience for everyone."
-  },
-  {
-    "objectID": "attendee_essentials.html#welcome-reception",
-    "href": "attendee_essentials.html#welcome-reception",
-    "title": "Attendee Essentials",
-    "section": "Welcome Reception",
-    "text": "Welcome Reception\nAttendance for the Welcome Reception (Monday evening, 24 August) was limited to 250 participants based on a first-come, first-served basis during registration. If you successfully registered for the reception, your badge will indicate your access (see List of Badge Abbreviations). For those not registered, we encourage you to explore other options in Basel (see e.g. Restaurants)."
-  },
-  {
-    "objectID": "attendee_essentials.html#social-activities",
-    "href": "attendee_essentials.html#social-activities",
-    "title": "Attendee Essentials",
-    "section": "Social Activities",
-    "text": "Social Activities\nThe various social activities (SA) scheduled for Tuesday afternoon, 25 August, each have individual meeting points and durations. Please refer to the conference booklet or conference app for details about the social activity you have registered for (see List of Badge Abbreviations)"
-  },
-  {
-    "objectID": "attendee_essentials.html#certificate-of-attendance",
-    "href": "attendee_essentials.html#certificate-of-attendance",
-    "title": "Attendee Essentials",
-    "section": "Certificate of attendance",
-    "text": "Certificate of attendance\nBy default, no certificate of attendance will be provided. If you need one please refer to the information desk. You can leave your name and email there and will get a certificate electronically."
-  },
-  {
-    "objectID": "accommodation.html",
-    "href": "accommodation.html",
-    "title": "Accommodation",
-    "section": "",
-    "text": "Hotels can be booked through Basel Tourism’s website for the conference via hotelmap.com.\nThe BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app. The BaselCard app works mostly offline and offers the same free services and discounts. In its electronic version, the guest card also features an interactive city map. For more information, see www.basel.com/en/baselcard."
-  },
-  {
-    "objectID": "about-basel.html",
-    "href": "about-basel.html",
-    "title": "About Basel",
-    "section": "",
-    "text": "We’ve embedded content from YouTube here. As YouTube may collect personal data and track your viewing behaviour, we’ll only load the video after you consent to their use of cookies and similar technologies as described in their privacy policy.\n\n\nAllow and play content from YouTube"
-  },
-  {
-    "objectID": "about-basel.html#basel-switzerlands-capital-for-art-and-culture",
-    "href": "about-basel.html#basel-switzerlands-capital-for-art-and-culture",
-    "title": "About Basel",
-    "section": "Basel – Switzerland’s Capital for Art and Culture",
-    "text": "Basel – Switzerland’s Capital for Art and Culture\nNestled in the heart of Europe, on both banks of the Rhine, Basel is a pocket-sized metropolis that combines proverbial Swiss quality with a multicultural population.\nThe city is the centre of the idyllic tri-border region of Switzerland, Germany and France – lying between the Swiss Jura, Germany’s Black Forest and the Vosges in Alsace. The narrow alleyways and hidden squares with over 200 fountains as well as the many century-old buildings and eye-catching sights such as the remarkable and richly ornamented Town Hall or the Cathedral, that has stood gracefully above the city for over 1000 years, combine to make Basel’s Old Town one of the most beautiful and intact of its kind in Europe. In hardly any other cityscape in Europe do historic buildings from the 14th and 15th century blend so harmoniously with contemporary buildings.\nIt was not without reason that Basel is seen as Switzerland’s capital of architecture. Just a few steps away from the picturesque Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta or the Basel-based Herzog & de Meuron. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world. Buildings such as the Roche Towers, Novartis Pavillon, Basel Exhibition Centre, Fondation Beyeler or Museum Tinguely are the modern landmarks.\nIn Basel, art can be seen wherever you go, whether strolling through the Old Town or when visiting one of the almost 40 museums. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. Kunstmuseum Basel, whose history dates back to 1661, is one of the world’s very first museums. Its collection includes many major works of art from the last 700 years. Wandering through the halls, you will discover a veritable “Who’s Who” of classical modernism, from Pablo Picasso to Henri Matisse and Joan Miró to Paul Klee. Small wonder then, that London’s The Times named the museum the fifth best in the world in 2013.\nWalking around Basel and letting your eyes wander to the right and left (and sometimes upwards) from time to time, you will be rewarded: you will discover impressive street art and graffiti everywhere in the city centre. National and international artists are also constantly creating new, colourful artworks on the outskirts of the city. Urban art has become an integral part of the art scene in recent years and is now an indispensable element of urban tourism in Basel.\n\nBaselCard\nThe BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app.\nSome of the main advantages of the BaselCard at a glance:\n\nFree travel on all public transport in Basel throughout your entire stay, including your initial journey to your hotel from EuroAirport Basel-Mulhouse-Freiburg or one of the three train stations in Basel (Basel SBB train station, Basel Bad Bhf and Basel SNCF). For your initial journey the booking confirmation of your accommodation serves as a free ticket for this transfer.\n50% discount\n\non museum entrances and the entrance to Basel Zoo\non the public walking tour of the Basel Old Town and the tour on the sightseeing bus\nand many additional touristic offers\n\n\nFor more information, see www.basel.com/en/baselcard."
-  },
-  {
-    "objectID": "about-basel.html#minster-of-basel-or-münster",
-    "href": "about-basel.html#minster-of-basel-or-münster",
-    "title": "About Basel",
-    "section": "Minster of Basel (or Münster)",
-    "text": "Minster of Basel (or Münster)\nTogether with the Mittlere Brücke, the Minster of Basel (Münster), built between 1019 AC and 1500 AC in the Romanesque and Gothic styles, is probably the most famous landmark in Basel. With its red sandstone walls, colourful roof tiles and twin towers, no other building adorns the cityscape of Basel like the Cathedral."
-  },
-  {
-    "objectID": "about-basel.html#mittlere-brücke",
-    "href": "about-basel.html#mittlere-brücke",
-    "title": "About Basel",
-    "section": "Mittlere Brücke",
-    "text": "Mittlere Brücke\nHardly any other monument in the city of Basel has become such a symbol of the city as the Mittlere Brücke. Opened in 1226 AC, it is one of the oldest Rhine crossings between Lake Constance and the North Sea."
-  },
-  {
-    "objectID": "about-basel.html#pfalz",
-    "href": "about-basel.html#pfalz",
-    "title": "About Basel",
-    "section": "Pfalz",
-    "text": "Pfalz\nThe viewing terrace by the Minster of Basel offers stunning vistas of the city and the Rhine. The word “Pfalz” is derived from the Latin word “Palatium”, meaning “palace”. The terrace high above the Rhine is so-called because it is situated close to the location in which the former palace of the Bishop once stood."
-  },
-  {
-    "objectID": "about-basel.html#city-hall",
-    "href": "about-basel.html#city-hall",
-    "title": "About Basel",
-    "section": "City Hall",
-    "text": "City Hall\nThe City Hall is the seat of the Basel government and its parliament. Located in the midst of the Old Town, it is particularly eye-catching with its red facade, the characteristic tower, and playful frescoes."
-  },
-  {
-    "objectID": "about-basel.html#spalentor",
-    "href": "about-basel.html#spalentor",
-    "title": "About Basel",
-    "section": "Spalentor",
-    "text": "Spalentor\nSpalentor (Gate of Spalen) is the most magnificent and impressive of the three city gates still remaining from the city fortifications dating back to 1400 AC. Its square main tower, flanked on each side by two round towers, would have been seen long before arriving at the gates of the city."
-  },
-  {
-    "objectID": "about-basel.html#tinguely-fountain",
-    "href": "about-basel.html#tinguely-fountain",
-    "title": "About Basel",
-    "section": "Tinguely Fountain",
-    "text": "Tinguely Fountain\nIn 1977, Jean Tinguely created sculptural machines in a shallow fountain where the stage of the old city theatre company once stood, and thereby gifting Basel a famous new landmark."
-  },
-  {
-    "objectID": "about-basel.html#basel-zoo",
-    "href": "about-basel.html#basel-zoo",
-    "title": "About Basel",
-    "section": "Basel Zoo",
-    "text": "Basel Zoo\nThe Zoological Gardens, known affectionately as “Zolli” by Basel’s inhabitants, opened in Basel in 1874 and is home to a large number of indigenous and exotic animals. The zoo is a popular excursion destination and well worth a visit at any time of year. In the summer months the park is an ideal place to stroll in the open air, in the winter months the various animal houses guarantee up close and personal encounters with a wide variety of animals. If you wish to discover an underwater world, there are several underwater creatures to discover at the vivarium."
-  },
-  {
-    "objectID": "about-basel.html#public-guided-tour-stories-of-basels-old-town",
-    "href": "about-basel.html#public-guided-tour-stories-of-basels-old-town",
-    "title": "About Basel",
-    "section": "Public Guided Tour – Stories of Basel’s Old Town",
-    "text": "Public Guided Tour – Stories of Basel’s Old Town\nYou’ll take a journey back through the ages. There can be few other cityscapes where buildings dating back as far as the fifteenth century engage so harmoniously and vibrantly with the contemporary creations of internationally distinguished architects. On our tour, we’ll tell you facts and anecdotes about Basel and the background to its development while passing historic buildings such as the Town Hall, the Basel Cathedral (Münster) and the Barfüsserkirche. We’ll also explain a lot about the city’s present situation. As well as taking you to some picturesque corners of the Old Town, we’ll show you places that closely reflect Basel’s present-day Zeitgeist, such as the Museum der Kulturen and the Tinguely Fountain."
-  },
-  {
-    "objectID": "about-basel.html#tickets",
-    "href": "about-basel.html#tickets",
-    "title": "About Basel",
-    "section": "Tickets",
-    "text": "Tickets\nOnline or at the Tourist Information in the Stadtcasino at Barfüsserplatz. The number of participants is limited. With your BaselCard you’ll get 50% discount on boat trips."
-  },
-  {
-    "objectID": "about-basel.html#boat-trips-on-the-rhine",
-    "href": "about-basel.html#boat-trips-on-the-rhine",
-    "title": "About Basel",
-    "section": "Boat trips on the Rhine",
-    "text": "Boat trips on the Rhine\nA boat trip along the Rhine lets you admire the landmarks of Basel, such as Basel Cathedral (Münster), the Roche Towers and the picturesque Old Townhouses on the banks of the Rhine from from their most beautiful perspective.\nIn the evenings, you can enjoy a relaxing aperitif and dinner cruise on board the Rhystärn. Totally relaxed and just as the mood takes you – with constant views of the setting sun and the passing cityscape. A special experience with the feel-good factor. The perfect way to see, feel and experience Basel.\n\nTickets and Timetable\nVisit the website of Basel Tourism. With your BaselCard you’ll get 50% discount on boat trips."
-  },
-  {
-    "objectID": "about-basel.html#city-tour-on-a-sightseeing-bus",
-    "href": "about-basel.html#city-tour-on-a-sightseeing-bus",
-    "title": "About Basel",
-    "section": "City tour on a sightseeing bus",
-    "text": "City tour on a sightseeing bus\nBasel City Tour offers informative and entertaining bus tours around the city centre. The two-hour tour takes you past Spalentor, Kunstmuseum Basel, Museum Tinguely, the Roche Tower, Messe Basel (exhibition square) and the Dreiländereck (tri-border point).\nEach seat has an iPad mini2 with an audio guide app. The app presents the tour highlights and provides interesting background information about culture in Basel. Young passengers can enjoy a special channel with stories in Basel dialect.\nLanguages: German, English, French, Italian, Spanish, Japanese, Arabic, Chinese Mandarin\n\nTickets and Timetable\nVisit the website of Basel Tourism. With your BaselCard you’ll get 50% discount on boat trips."
-  },
-  {
-    "objectID": "about-basel.html#ferries",
-    "href": "about-basel.html#ferries",
-    "title": "About Basel",
-    "section": "Ferries",
-    "text": "Ferries\nWith the four Basel ferries, you’ll cross the Rhine river through the force of the current alone. The four Rhine river ferries “Wild Maa”, “Leu”, “Vogel Gryff” and “Ueli” link Grossbasel to Kleinbasel. They are attached to a long wire cable and are driven purely by the current of the Rhine itself. The ferries will silently bring you to the opposite shore all year round. Experience the way in which time seems to stand still during this brief crossing.\n\nTickets and Timetable\nVisit the website of Basel Tourism."
-  },
-  {
-    "objectID": "about-basel.html#museums",
-    "href": "about-basel.html#museums",
-    "title": "About Basel",
-    "section": "Museums",
-    "text": "Museums\nIn Basel, art can be seen wherever you go, whether strolling through the beautiful Old Town or when visiting one of the nearly 40 museums. With their themed collections, the museums have something for every taste, and many have reputations that stretch far beyond the Swiss border. In addition, there are countless galleries scattered throughout the city.\nWith the BaselCard you enjoy the museums in Basel at half price for admisssion – including for special exhibitions.\n\nKunstmuseum Basel\nOne of the world’s best-known museums, the Kunstmuseum Basel features a prestigious collection – the first ever publicly accessible art collection – and internationally acclaimed exhibitions that provide unforgettable art experiences. The collection of over 300,000 pieces includes artworks by Hans Holbein, Rembrandt, Paul Cézanne, Claude Monet, Vincent van Gogh, Pablo Picasso, Sophie Taeuber-Arp and Andy Warhol.\n\n\nFondation Beyeler\nThe museum in Riehen near Basel is internationally renowned for its high-calibre exhibitions and its major collection of modern and contemporary art. The museum building was designed by Renzo Piano, is set in an idyllic park with venerable trees and water lily ponds. It boasts a unique location in the heart of a local recreation area, loverlooking fields, pastures and vineyards close to the foothills of the Black Forest.\n\n\nMuseum Tinguely\nDesigned by Ticino architect Mario Botta and opened in 1996, Museum Tinguely is situated right on the bank of the Rhine. It houses the largest collection of works by Jean Tinguely (1925–1991), one of the most innovative and important Swiss artists of the 20th century. Vibrancy, laughter, amazement and discovery – this museum stimulates the senses and brings art to the beholder. Jean Tinguely’s kinetic works make him one of the most eminent pioneers in the post-1950 art world. The permanent exhibition showcases a compilation of his work spanning four decades – from early, filigree reliefs to the monumental machine sculptures of the 1980s.\n\n\nVitra Design Museum\nThe Vitra Design Museum is among the world’s most prominent museums of design. It is dedicated to the research and presentation of design, past and present, and examines its relationship to architecture, art and everyday culture. In its main building designed by Frank Gehry, the museum annually mounts two major temporary exhibitions."
-  },
-  {
-    "objectID": "about-basel.html#modern-architecture",
-    "href": "about-basel.html#modern-architecture",
-    "title": "About Basel",
-    "section": "Modern Architecture",
-    "text": "Modern Architecture\nBasel is seen as Switzerland’s capital of architecture. The number of buildings designed by world-famous architects in such close proximity is unsurpassed, all in the midst of an architectural setting that has evolved over centuries. The Swiss architectural scene has an appeal that extends well beyond the country’s borders. Numerous Swiss architectural firms have attracted attention all over the world in recent decades with a series of outstanding creations. Many of the renowned firms hail from Basel such as Christ & Gantenbein, Diener & Diener Architects and Herzog & de Meuron. They have all helped to lay the foundation of a lively architectural scene in Basel.\nJust a few steps away from the picturesque and well-preserved Old Town you will glimpse architectural masterpieces designed by internationally renowned figures such as Richard Meier, Frank Gehry and Mario Botta. Numerous winners of the prestigious Pritzker Architecture Prize have immortalized themselves in Basel with their buildings – a concentration of superior architecture that is unique in the world.\n\nRoche Towers\nThe Roche Towers, designed by architects Herzog & de Meuron, can rightly be viewed as a modern landmark of Basel – but as the tallest office buildings in Switzerland, they can be seen far outside the city limits, too.\nThese two skyscrapers are home to the offices of the Roche pharmaceutical group. Building 1 was completed in 2015 and, at 178 metres, was the tallest office building in Switzerland until it was overtaken by Building 2 in 2022.\nBuilding 2 is 205 metres tall and has a total of 50 floors. It is one of the most sustainable, energy-efficient office buildings in the world.\n\n\nGoetheanum Dornach\nThe Goetheanum is situated in Dornach, around 10 kilometres outside the city centre. It serves as the head office and conference venue of the General Anthroposophical Society and boasts a distinctive shape, which has also inspired the architects of neighbouring buildings.\nFollowing the destruction of the original Goetheanum building in an arson attack in 1923, the current building was constructed between 1925 and 1928. Both were designed by the esoteric Rudolf Steiner, the founder of anthroposophy. The monumental exposed-concrete building is particularly striking, owing to the almost complete absence of right angles.\n\n\nNovartis Campus\nWith about 20 buildings designed by top international architects, the Novartis Campus is a true Mecca of modern architecture. f you are interested in top-class architecture, appreciate short distances and also enjoy quiet moments in green surroundings, then the Novartis Campus, open to the public on working days, is just the place for you.\nThe list of architects who have put their stamp on the Novartis Campus reads like a who’s who of architecture: Diener & Diener kicked things off in 2005, followed by SANAA and Peter Märkli (both 2006), Marco Serra (2007), Vittorio Magnago Lampugnani and Adolf Krischanitz (both 2008), Frank O. Gehry, José Rafael Moneo Vallès and Fumihiko Maki (all 2009), Tadao Ando, David Chipperfield and Yoshio Taniguchi (all 2010), Eduardo Souto de Moura and Álvaro Siza (both 2011), Rahul Mehrotra (2013), Juan Navarro Baldeweg (2014) and Herzog & de Meuron (2015). For the time being, the final piece of Vittorio Magnago Lampugnani’s master plan scheduled for completion by 2030 is the Novartis Pavillon – conceived by Michele De Lucchi.\nIf you’re coming to see the Novartis Pavillon with its artistically luminous zero-energy media facade, you’d best plan enough time to visit the “Wonders of Medicine” exhibition, where four interactive areas (exploring life, disease, the history of medicine and the future of healthcare) invite you to delve into the secrets of the life sciences. The Novartis Pavillon is located in one of the carefully designed green spaces bearing the signatures of leading landscape-architecture luminaries, such as Peter Walker, Günther Vogt and Guido Hager. A diverse collection of artworks – including a sculpture by Richard Serra, art within architecture by Jenny Holzer, a sound installation by Laurie Anderson and a 60-metre-high mural by Claudia Comte – make your visit complete.\n\n\nBasel Exhibition Centre / Messe Basel\nThe new Messe Basel trade fair building is one of the city’s newer landmarks. The central architectural urban feature of the hall complex, developed by Herzog & de Meuron, is the City Lounge.\nThis covered, public space not only marks the entrance to the exhibitions, but also functions as a meeting place for locals and visitors. The architects called the prominent hole in the middle the “Fenster zum Himmel” (“window to heaven”)."
-  },
-  {
-    "objectID": "app-online-platform.html",
-    "href": "app-online-platform.html",
-    "title": "App & Online Platform",
-    "section": "",
-    "text": "TODO: instructions go here."
-  },
-  {
-    "objectID": "awards-casp.html",
-    "href": "awards-casp.html",
-    "title": "ISCB Conference Attendance Support Program (CASP) at ISCB46",
-    "section": "",
-    "text": "The program will be available to fund participation in the conference for up to 17 attendees. The CASP will pay for registration, accommodation, conference course, conference dinner or conference excursion (recipient’s choice), and travel (all expenses will be prepaid except for travel, which will be reimbursed within two months after attending the conference).\nTo be eligible, the applicant must be either\n\na current postgraduate student (from any country), and/or\na scientist working or attending school in a World-Bank-designated Developing Country (Low, Lower-middle, and Upper-middle income economies, according to the World Bank list for the fiscal year 2025) or in a country forming a National Group of the ISCB (Czech Republic, Hungary, Poland, Romania, see National Groups (NatG) – ISCB).\n\nTo apply for the support, an applicant has to\n\nsubmit an abstract (prepared according to the ISCB46 standard conference format) as a presenting author for either an oral or poster presentation using the ISCB46 abstract submission system,\nindicate the request for the CASP support at the time of abstract submission (by checking the corresponding checkbox),\nat the time of abstract submission, provide a PDF of a letter (on the official letterhead of the institution where the applicant is enrolled/employed) confirming the status of a current postgraduate student (for students) and/or an employment at an institution located in a Developing Country or an ISCB National Group country (for scientists) by applying to the CASP track (in addition to submitting to the Abstract track) in the conference system.\n\nAwards will be given to those applicants, whose abstract are selected for presentation (oral or poster) by the Scientific Program Committee (SPC). One award per presentation for one author will be given, without transfer to co-authors. A lottery-based selection will be made by a committee established for that purpose.\nPlease note that the previous recipients of the Conference Fund for Developing Countries grant are not eligible to apply.\nIndependently of applying for the CASP, students may also apply for the Student Conference Award (StCA). In that case, the confirmation letter required for the StCA (see the StCA application guidelines) can be used for the CASP application, too. If a student is awarded the StCA, he/she will not be considered for the CASP.\nIn case of questions, please, contact the ISCB Office at the following email: stca@iscb.international."
-  },
-  {
-    "objectID": "awards-student.html",
-    "href": "awards-student.html",
-    "title": "ISCB Student Conference Award (StCA) at ISCB46",
-    "section": "",
-    "text": "The Student Conference Award (StCA) is available for registered postgraduate students in biostatistics to attend and present a paper at the 46th Annual Conference of the International Society for Clinical Biostatistics, 24-28 August 2025. Approximately three awards will be granted depending on the number and quality of the applications. Selection will be made on the basis of the abstract and a summary of a paper to be presented – for details, see the eligibility criteria and submission procedure below.\nApplicants should submit their abstract using the ISCB46 abstract submission system. In the online abstract submission portal, you are asked to check the box that indicates that you are applying for the 2025 Student Conference Award on your abstract. You will then need to additionally submit the documents described in the Student Conference Award track.\nThe closing date for applications is the same as the general abstract deadline (see the key dates page).\nApplicants should not register for the conference until they have heard the outcome of their application for the Award. Unsuccessful applicants who still wish to attend the conference will remain eligible for the Early Bird rate until three weeks after the outcome of their application is sent to them."
-  },
-  {
-    "objectID": "awards-student.html#eligibility",
-    "href": "awards-student.html#eligibility",
-    "title": "ISCB Student Conference Award (StCA) at ISCB46",
-    "section": "Eligibility",
-    "text": "Eligibility\n\nAny student registered for a postgraduate degree in biostatistics is eligible to apply for an ISCB Student Conference Award, provided s/he has not been the winner of a previous ISCB Student Conference Award. All students may apply for the StCA independently of applying for the Conference Attendance Support Program (CASP).\nThe application must relate to original work that has not yet been published and is predominantly the student’s own work. Acceptable topics encompass all areas of biostatistics, both methodological and applied. However, results of particular studies are of interest only if the analysis has methodological implications or shows a novel and interesting application of biostatistics to clinical or epidemiological research."
-  },
-  {
-    "objectID": "awards-student.html#awards",
-    "href": "awards-student.html#awards",
-    "title": "ISCB Student Conference Award (StCA) at ISCB46",
-    "section": "Awards",
-    "text": "Awards\n\nThe StCA winners will have their papers scheduled in a dedicated session at the conference. Their status as Award Winners will be indicated in the Conference Programme.\nThe StCA will pay for registration, accommodation, conference course, conference dinner, and travel (all expenses will be prepaid on the winners behalf).\n\nOn being selected, a student must submit a travel budget to the StCA Subcommittee Chair by email to StCA@iscb.international for approval by the Treasurer."
-  },
-  {
-    "objectID": "awards-student.html#submission-procedure",
-    "href": "awards-student.html#submission-procedure",
-    "title": "ISCB Student Conference Award (StCA) at ISCB46",
-    "section": "Submission Procedure",
-    "text": "Submission Procedure\nApplications should consist of the following:\n\nA short abstract of the paper prepared according to the ISCB standard conference format, uploaded via the ISCB 2025 Abstract Submission Portal in the “Abstracts” track, with the “StCA” award checkbox selected.\nA summary of the paper of no more than 3 double-spaced pages of 12-point text with a maximum of three figures or tables on additional pages. The summary must be in blinded format, i.e., any indication of the student or further authors should not be included.\nA letter from the student’s supervisor, on official letterhead of the student’s institution, confirming that the student is registered for a postgraduate degree, and that the paper to be presented is original, not previously published, and is predominantly the student’s own work. If the manuscript is co-authored, this letter should also include an indication of the level of involvement of the various authors.\n\nThe two files containing (b) and (c) should be uploaded via the conference abstract handling system by submitting to the Student Award track.\nAny applications submitted after the due date or incomplete or applications not adhering to the procedures above will not be considered."
-  },
-  {
-    "objectID": "awards-student.html#review",
-    "href": "awards-student.html#review",
-    "title": "ISCB Student Conference Award (StCA) at ISCB46",
-    "section": "Review",
-    "text": "Review\n\nApplications will be judged by the StCA Subcommittee, and applicants will be notified of the results as soon as possible, usually within six weeks of the application submission due date. Evaluation of applications will concern the quality of the research described and its relevance to the application of statistics to clinical and epidemiological research. The presentation of the application materials and the interest of the work to the ISCB members will be taken into consideration. The decisions made by the Subcommittee will be final.\nIn selecting papers for Awards, each member of the StCA Subcommittee will independently grade each paper allocated to them by the Subcommittee Chair. In the case of ties in total grades, the Subcommittee will make the final selection through discussion.\nMembers of the StCA Subcommittee must declare a conflict of interest in submissions from students with whom they have had substantial contact. Such contact certainly includes students supervised by or in the same department as Subcommittee members and may also include professional contact with the project as well as family links. The Subcommittee member with a conflict of interest in the submission will not grade it, other grades being scaled accordingly, and will not participate in discussions of that submission.\nApplicants must be able to travel to the meeting and present their work to be selected as the StCA winners.\nThe Society intends to make three awards. However, the StCA Subcommittee reserves the right to make more or fewer awards, or even none at all, subject to the approval of the ISCB President.\nApplications not selected for the StCA may still be considered for selection for an oral presentation at a Contributed Paper session or a poster presentation by the Program Committee, since the abstract has been also submitted separately via the conference abstract handling system. This holds unless the applicant indicates that they do not wish to have their submission considered further.\n\nIn case of questions, please, contact the ISCB Office at the following email: office@iscb.international."
-  },
-  {
-    "objectID": "basel-card.html",
-    "href": "basel-card.html",
-    "title": "BaselCard - free public transport* in the city and much more",
-    "section": "",
-    "text": "The BaselCard is offered as a free bonus with every booking at a Basel hotel, hostel, bed and breakfast or apartment. You will receive your personal guest card when you check in, and you can also load it to your smartphone as a web app.\nSome of the main advantages of the BaselCard at a glance:\n\nFree travel on all public transport in Basel throughout your entire stay, including your initial journey to your hotel from EuroAirport Basel-Mulhouse-Freiburg or one of the three train stations in Basel (Basel SBB train station, Basel Bad Bhf and Basel SNCF). For your initial journey the booking confirmation of your accommodation serves as a free ticket for this transfer.\n50% discount\n\non museum entrances and the entrance to Basel Zoo\non the public walking tour of the Basel Old Town and the tour on the sightseeing bus\nand many additional touristic offers\n\n\nFor more information, see www.basel.com/en/baselcard."
-  },
-  {
-    "objectID": "childcare.html",
-    "href": "childcare.html",
-    "title": "Childcare",
-    "section": "",
-    "text": "The conference venue at Biozentrum offers a breastfeeding room that can be used by participants during the conference. The key for the breastfeeding room can be picked up at the reception of Biozentrum.\nThere are no childcare facilities on site, however, there are external providers in Basel that can be contacted:\n\nkindernaescht.ch at Marktplatz (15 minutes from the conference venue at Biozentrum by foot) can host kids from 18 months to 12 years on an hourly to daily basis by prior arrangement.\nfamilea.ch at Freie Strasse (15 minutes from the conference venue at Biozentrum by foot): Call +41 61 260 82 82 to check availability. Once confirmed, complete attached form. Please note: deadline for submitting form is 11th August 2025."
-  },
-  {
-    "objectID": "conference-bag.html",
-    "href": "conference-bag.html",
-    "title": "Conference Bag",
-    "section": "",
-    "text": "We are proud to share that this year’s conference bags were produced in collaboration with a workplace renowned for its unwavering commitment to diversity and inclusion, particularly in supporting individuals with disabilities.\nHeadquartered in Rheinfelden, St. Josefshaus is home to a dedicated team of roughly 1,500 employees, who collectively provide support to around 2,400 people with disabilities and elderly individuals. Their wide range of services spans 15 municipalities and cities, demonstrating a profound commitment to inclusive, person-centered care. The organization’s impactful work includes housing, employment, education, communal living, and care giving.\nTheir workshops offer meaningful and engaging employment opportunities for individuals who, due to the nature and extent of their disabilities, are unable to participate in the general job market. Within this supportive environment, participants are empowered to discover fulfilling and diverse tasks that match their unique talents—opportunities that foster both a sense of pride and lasting personal satisfaction.\nBy partnering with this organization, we are not only ensuring high-quality conference materials but also contributing to meaningful social inclusion and empowerment. We believe this initiative reflects the spirit of collaboration and positive impact that this conference aims to inspire."
-  },
-  {
-    "objectID": "conference-bag.html#empowering-inclusive-workplaces",
-    "href": "conference-bag.html#empowering-inclusive-workplaces",
-    "title": "Conference Bag",
-    "section": "",
-    "text": "We are proud to share that this year’s conference bags were produced in collaboration with a workplace renowned for its unwavering commitment to diversity and inclusion, particularly in supporting individuals with disabilities.\nHeadquartered in Rheinfelden, St. Josefshaus is home to a dedicated team of roughly 1,500 employees, who collectively provide support to around 2,400 people with disabilities and elderly individuals. Their wide range of services spans 15 municipalities and cities, demonstrating a profound commitment to inclusive, person-centered care. The organization’s impactful work includes housing, employment, education, communal living, and care giving.\nTheir workshops offer meaningful and engaging employment opportunities for individuals who, due to the nature and extent of their disabilities, are unable to participate in the general job market. Within this supportive environment, participants are empowered to discover fulfilling and diverse tasks that match their unique talents—opportunities that foster both a sense of pride and lasting personal satisfaction.\nBy partnering with this organization, we are not only ensuring high-quality conference materials but also contributing to meaningful social inclusion and empowerment. We believe this initiative reflects the spirit of collaboration and positive impact that this conference aims to inspire."
-  },
-  {
-    "objectID": "guideline_chairs.html",
-    "href": "guideline_chairs.html",
-    "title": "Guideline for session chairs",
-    "section": "",
-    "text": "You have agreed to be a chair of a session ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions."
-  },
-  {
-    "objectID": "guideline_chairs.html#before-the-conference",
-    "href": "guideline_chairs.html#before-the-conference",
-    "title": "Guideline for session chairs",
+    "objectID": "guideline_courses.html#before-the-conference",
+    "href": "guideline_courses.html#before-the-conference",
+    "title": "Guidance for Short Course Presenters",
     "section": "Before the conference",
-    "text": "Before the conference\n\nYou will find the session you are assigned to in conftool. Please log in with your registration details to check them. You will see all speakers and abstracts of the assigned sessions in this overview. You can also check the conference program on the conference website:\n\nEach session has a chair and a supporter from the local organizing committee (LOC).\nYou can reach out to the speakers in advance to ask if they want to suggest one or two questions for their presentation to help with preparing the Q&A."
+    "text": "Before the conference\nPlease get in touch with us to inform us about the following points:\n\nDo you need to share any websites or datasets with your participants before the course starts? If yes, please provide a link to the website or datasets. Only participants of your short course will have access to this link via conftool.\nIf you want to communicate anything else to your participants, we can share this via conftool. We will share a list of all participants of your short course with you and you can also contact them on your own.\nPlease indicate if you like the conference to offer a laptop for your course (with only basic functionality, such as PowerPoint and Zoom), otherwise, we assume that you will bring your own laptop."
   },
   {
-    "objectID": "guideline_chairs.html#at-the-conference",
-    "href": "guideline_chairs.html#at-the-conference",
-    "title": "Guideline for session chairs",
+    "objectID": "guideline_courses.html#organization-of-your-session",
+    "href": "guideline_courses.html#organization-of-your-session",
+    "title": "Guidance for Short Course Presenters",
+    "section": "Organization of your session",
+    "text": "Organization of your session\nYou are free to either fun the course from your own device (support for setting things up will be available in the room) or using the available equipment and conftool.\nIn the latter case:\n\nUpload your presentation via conftool until August 17th. Thie file size limit is 30 megabytes. Clearly identify your presentation with your presentation date and name in the filename (example: 20250824_John_Smith.pptx)\nWhen logging into conftool you can click on “Your Submission” to see your submission:\n\nThen click on final upload.\nOnly one file can be uploaded. If you want to share more than one file, please zip them.\n\nAfter choosing your file please upload and save the data."
+  },
+  {
+    "objectID": "guideline_courses.html#at-the-conference",
+    "href": "guideline_courses.html#at-the-conference",
+    "title": "Guidance for Short Course Presenters",
     "section": "At the conference",
-    "text": "At the conference\n\nTry to verify before your session that all speakers actually are at the conference (speakers are instructed to reach out to chairs prior to the session).\nArrive at the room at least 10 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nIntroduce yourself to the speakers and the LOC supporter. Make sure that they are all aware of the session flow, including the order in which the presentations take place.\nDouble-check with the speakers how questions are asked and answered in the session. In most cases, the Q&A will follow directly after the presentation. Each speaker has 15 minutes excluding Q&A (approx. 3 minutes), and the total allocated 18 minutes include change-over. Invited, topic-contributed and featured sessions might have different rules.\nDouble-check with the speakers how they want to be reminded about the timing during their talks. It is usually easiest to sit at the front and raise your hand to do this.\nPlease make sure that mics are used by the speakers and the audience if available.\nIt might be necessary to repeat questions from the audience and from virtual participants if the room setup does not allow interaction. Our technical support team will inform you about the setup."
+    "text": "At the conference\n\nArrive at the room at least 30 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nBe aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.\nA technician will be present to assist if needed.\nA microphone will be used for all presentations.\nPlease note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.\nTo minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.\nA laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed.\nAll common connectors will be provided to allow easy connection to the projector."
   },
   {
-    "objectID": "guideline_chairs.html#during-the-session",
-    "href": "guideline_chairs.html#during-the-session",
-    "title": "Guideline for session chairs",
-    "section": "During the Session",
-    "text": "During the Session\n\n\nDescribe the structure of the session (presentations followed by Q&A, panel discussion, Q&A at the end, etc.) as needed.\nMention the mic-set-up for Q&A.\nIntroduce the speakers (name and affiliation) before their presentation.\nTime the speakers to make sure that the session time is spent fairly. If needed, remind the speakers to finish if they get close to the end of their allotted time.\nOnce the speakers have finished their talk, stand up and invite the audience to ask questions, if time allows. If the time slot for the presentation (15 minutes) and questions is exhausted (usually after 18 minutes, which also include change-over to next speaker), no further questions should be allowed. Liaise with your LOC supporter regarding the virtual participants. If there are no questions from the audience ask one to start the discussion.\nAt the end of the session, thank all speakers and the audience."
-  },
-  {
-    "objectID": "guideline_hybrid.html",
-    "href": "guideline_hybrid.html",
-    "title": "Guideline for remote participants",
+    "objectID": "guideline_posterhighlight.html",
+    "href": "guideline_posterhighlight.html",
+    "title": "Instructions for Presenters at the Poster Highlight Session",
     "section": "",
-    "text": "You have registered for ISCB46 as a hybrid participant. In this document we summarize answers to some common questions and further instructions.\n** Information will follow soon **\n\nFAQs\nFor more general questions please refer to the FAQs."
+    "text": "You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions.\n\nTime Limit:\n\nYour oral presentation should take no more than 2 minutes.\n\nThe aim is to present a concise summary of your poster, not to cover all its content in detail.\n\n\n\nSlide Requirements:\n\nYou may prepare one slide in PDF format (16:9) to accompany your presentation (no animations).\n\nThe slide should include: Poster title, author names and poster number.\nThe slide deck will be centrally managed, so you must submit it in advance (see submission deadline below).\nIf you prefer to present without a slide, please inform the organizers by the deadline, see email below.\n\n\n\nSubmission Deadline\nSend your PDF slide to Mouna Akacha by Sunday, 17 August, 23:59 CEST.\n\n\nSession Logistics\n\nStrict compliance with time limits is essential, as there will be 30 poster highlights during the session.\nPlease arrive 15 minutes before the session to ensure readiness and coordination with the session chairs.\n\nOrder of presentation slots can be found here - please remember your slot number.\n\n\n\nFAQs\nFor more general questions please refer to the FAQs."
   },
   {
     "objectID": "guideline_speakers.html",
@@ -1111,12 +1111,5 @@
     "title": "Environmental Considerations and Ecological Sustainability Concept",
     "section": "",
     "text": "As part of our commitment to ecological sustainability during the 46th Annual Conference of the International Society for Clinical Biostatistics, we are taking several initiatives to ensure our event is as green as possible.\nWe are thrilled to partner with BWT (Best Water Technology) - our esteemed sustainability sponsor. BWT is aligned with our sustainability vision and will generously provide each conference attendee with a specially designed Climate Bottle: https://www.bwt-shop.ch/de/climatebottle.html. These reusable bottles will eliminate the need for single-use plastic, contributing significantly to our plastic waste reduction goals. Attendees will have access to water dispensers throughout the venue to refill these bottles, ensuring a constant supply of fresh water while promoting sustainable practices.\nFurther, we are introducing a dedicated collection system for used paper coffee cups. Our catering partner has committed to recycling these cups, ensuring they are processed responsibly. We kindly ask all attendees to support this initiative by disposing of their used coffee cups in the clearly marked recycling bins located throughout the venue.\nWe are proud to share that our conference dinner venue partner, Restaurant Seegarten, fully supports our sustainability goals. They have confirmed that no disposable tableware will be used during the event. All dining materials will be either reusable or sustainably sourced, reinforcing our shared commitment to reducing waste and minimizing environmental impact throughout ISCB 2025.\nMoreover, in an effort to reduce emission and carbon footprint, we have chosen not to organize buses for social activities. Instead, we encourage all attendees to utilize Basel’s excellent public transportation system. When you stay overnight in Basel, you will receive the BaselCard and benefit from free travel on public transport. The booking confirmation of your hotel or Airbnb in Basel serves as a free ticket for the transfer from the airport or train station to your hotel.\nLastly, all lunch boxes made available during the conference will be fully vegan, while we ensure to accommodate other dietary requirements as needed.\nWe are dedicated to making ISCB46 an event to be remembered, not just for its scientific contributions, but for its dedication to ecological sustainability as well."
-  },
-  {
-    "objectID": "guideline_courses.html#organization-of-your-session",
-    "href": "guideline_courses.html#organization-of-your-session",
-    "title": "Guidance for Short Course Presenters",
-    "section": "Organization of your session",
-    "text": "Organization of your session\nYou are free to either fun the course from your own device (support for setting things up will be available in the room) or using the available equipment and conftool.\nIn the latter case:\n\nUpload your presentation via conftool until August 17th. Thie file size limit is 30 megabytes. Clearly identify your presentation with your presentation date and name in the filename (example: 20250824_John_Smith.pptx)\nWhen logging into conftool you can click on “Your Submission” to see your submission:\n\nThen click on final upload.\nOnly one file can be uploaded. If you want to share more than one file, please zip them.\n\nAfter choosing your file please upload and save the data."
   }
 ]

@@ -1,0 +1,34 @@
+---
+title: "Instructions for Presenters at the Poster Highlight Session"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions. 
+
+# Time Limit: 
+
+- Your oral presentation should take no more than 2 minutes.  
+- The aim is to present a concise summary of your poster, not to cover all its content in detail.  
+
+# Slide Requirements:
+
+- You may prepare one slide in PDF format (16:9) to accompany your presentation (no animations).  
+- The slide should include:  Poster title, author names and poster number.
+- The slide deck will be centrally managed, so you must submit it in advance (see submission deadline below).
+- If you prefer to present without a slide, please inform the organizers by the deadline, see email below. 
+
+# Submission Deadline
+
+Send your PDF slide to [Mouna Akacha](mailto:mouna.akacha@novartis.com) by Sunday, 17 August, 23:59 CEST.  
+
+# Session Logistics
+
+- Strict compliance with time limits is essential, as there will be 30 poster highlights during the session. 
+- Please arrive 15 minutes before the session to ensure readiness and coordination with the session chairs.  
+- Order of presentation slots can be found [here](https://www.conftool.org/iscb2025/index.php?page=browseSessions&form_session=39) - please remember your slot number. 
+
+# FAQs
+
+For more general questions please refer to the [FAQs](faq.html).
