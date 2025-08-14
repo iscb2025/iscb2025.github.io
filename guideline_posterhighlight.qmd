@@ -5,8 +5,6 @@ editor:
     wrap: 72
 ---
 
-You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions. 
-
 # Time Limit: 
 
 - Your oral presentation should take no more than 2 minutes.  
