@@ -226,9 +226,9 @@
   {
     "objectID": "guideline_symposia.html",
     "href": "guideline_symposia.html",
-    "title": "Guideline for organizers of mini symposia",
+    "title": "Guideline for organizers of and contributors to mini symposia",
     "section": "",
-    "text": "You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions.\n\nMaterial\nThere is no need to upload your materials to conftool. We ask you to present from our own laptop. Support for setting things up will be availabe in the room.\n\n\nFAQs\nFor more general questions please refer to the FAQs."
+    "text": "You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions.\n\nContributors\nThere is no need to upload your materials to conftool. Please send material to the organizer of your symposium.\n\n\nOrganizers\nThe symposia will have to be run from a private laptop. We strongly encourage you to have all presentations ready before the event.\nSupport for setting things up will be availabe in the room.\n\n\nFAQs\nFor more general questions please refer to the FAQs."
   },
   {
     "objectID": "guideline_poster_presenters.html",
@@ -285,6 +285,13 @@
     "title": "Guidance for Short Course Presenters",
     "section": "Upload of presentation (if needed for your course)",
     "text": "Upload of presentation (if needed for your course)\n\nUpload your presentation via conftool until August 17th. Thie file size limit is 30 megabytes. Clearly identify your presentation with your presentation date and name in the filename (example: 20250824_John_Smith.pptx)\nWhen logging into conftool you can click on “Your Submission” to see your submission:\n\nThen click on final upload.\nOnly one file can be uploaded. If you want to share more than one file, please zip them.\n\nAfter choosing your file please upload and save the data."
+  },
+  {
+    "objectID": "guideline_courses.html#equipment",
+    "href": "guideline_courses.html#equipment",
+    "title": "Guidance for Short Course Presenters",
+    "section": "Equipment",
+    "text": "Equipment\nYou are free to run your course from your own device. Support for setting things up will be availabe in the room."
   },
   {
     "objectID": "guideline_courses.html#at-the-conference",

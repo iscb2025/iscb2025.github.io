@@ -33,7 +33,9 @@ Please [get in touch with us](mailto:organizers@iscb2025.info) to inform us abou
 * After choosing your file please upload and save the data. 
   ![](img/guidance/poster-choosefile.png)
 
+## Equipment
 
+You are free to run your course from your own device. Support for setting things up will be availabe in the room.
 
 
 ## At the conference
