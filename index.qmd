@@ -32,7 +32,7 @@ title: "2025 Conference"
 ::: {.callout-important}
 # Latest News
 
-**The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> is now online!**
+**The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> and [<b>the conference book</b>](data/ISCB46_Conference_Book.pdf) are now online!**
 
 **Be prepared!** Check our [Attendee Essentials](attendee_essentials.qmd) page.
 
