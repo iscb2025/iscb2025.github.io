@@ -22,7 +22,11 @@ Please [get in touch with us](mailto:organizers@iscb2025.info) to inform us abou
 * Please indicate if you like the conference to offer a laptop for your course (with only basic functionality, such as PowerPoint and Zoom), otherwise, we assume that you will bring your <b>own laptop</b>.
 
 
-## Upload of presentation (if needed for your course)
+## Organization of your session
+
+You are free to either fun the course from your own device (support for setting things up will be available in the room) or using the available equipment and conftool. 
+
+In the latter case:
 
 * Upload your presentation via conftool until August 17<sup>th</sup>. Thie file size limit is <b>30 megabytes</b>. Clearly <b>identify your presentation</b> with your presentation date and name in the filename (example: `20250824_John_Smith.pptx`)
 * When logging into conftool you can click on “Your Submission” to see your submission:  
@@ -32,10 +36,6 @@ Please [get in touch with us](mailto:organizers@iscb2025.info) to inform us abou
   ![](img/guidance/poster-finalupload.png)
 * After choosing your file please upload and save the data. 
   ![](img/guidance/poster-choosefile.png)
-
-## Equipment
-
-You are free to run your course from your own device. Support for setting things up will be availabe in the room.
 
 
 ## At the conference
