@@ -1,0 +1,22 @@
+---
+title: "Guideline for organizers of and contributors to mini symposia"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+You are organizing a mini symposia for ISCB46 - many thanks for that! In this document we summarize answers to some common questions and further instructions. 
+
+# Contributors
+
+There is no need to upload your materials to conftool. Please send material to the organizer of your symposium.
+
+# Organizers
+
+The symposia will have to be run from a private laptop. We strongly encourage you to have all presentations ready before the event. 
+
+Support for setting things up will be availabe in the room.
+
+# FAQs
+
+For more general questions please refer to the [FAQs](faq.html).
