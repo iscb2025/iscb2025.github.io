@@ -62,6 +62,9 @@ website:
            target: "_blank"    
          - text: "Conference Program"
            href: https://www.conftool.org/iscb2025/sessions.php
+           target: "_blank"
+         - text: "Conference Book"
+           href: data/ISCB46_Conference_Book.pdf
            target: "_blank"    
          - text: "Pre-conference Courses"
            href: courses.qmd
