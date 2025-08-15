@@ -59,6 +59,10 @@ We have hundreds of contributions and the Scientific Committee has very diligent
 - Compound that by many daily requests for moving posters.
 - Posters are ordered by topic.
 
+## I am not able to meet the deadline (17th August) announced in the email for upload. What does happen now?
+
+See [here](guideline_speakers.html#submitting-your-presentation).
+
 # Related to registration
 
 ## The instructions state that "Each presenter may present only one talk/poster." Does this mean I can present a talk and poster or one or the other?
