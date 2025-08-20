@@ -42,7 +42,7 @@ The context of the case studies will be presented by their respective contributo
 **12:00 - 13:00: Panel Discussion**<br>
 Lastly, the mini-symposium will conclude with a panel discussion of casual inference experts who will provide their experiences using causal tools in clinical collaborations. Participants will also have a chance to ask questions relevant to the mini-symposium and causal inference more generally.
 
-Panelists: Erica Moodie, Giusi Moffa, Antonio Remiro-Acózar, Kelly Van Lancker, & Emily Granger
+Panelists: Erica Moodie, Giusi Moffa, Antonio Remiro-Acózar, Stijn Vansteelandt, & Emily Granger
 
 
 
