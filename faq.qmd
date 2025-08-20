@@ -49,7 +49,7 @@ See [instructions for presenters](guideline_speakers.html).
 
 ## Can I updated my contribution (list of authors, title, etc.)
 
-Feel free to do so in your presentation or on your poster. But we will not update the conference information online anymore.
+Feel free to do so in your presentation or on your poster. But we will not update the conference information online anymore (starting beginning of July).
 
 ## Can my presentation (talk or poster) be moved?
 
@@ -58,6 +58,10 @@ We have hundreds of contributions and the Scientific Committee has very diligent
 - Poster panels are numbered and we use all of them. If we move a poster we would have to move another one, and that may interfere with that other contributor's travel plans. 
 - Compound that by many daily requests for moving posters.
 - Posters are ordered by topic.
+
+## I am not able to meet the deadline (17th August) announced in the email for upload. What does happen now?
+
+See [here](guideline_speakers.html#submitting-your-presentation).
 
 # Related to registration
 

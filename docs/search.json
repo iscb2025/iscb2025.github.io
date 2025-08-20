@@ -361,7 +361,7 @@
     "href": "faq.html#can-i-updated-my-contribution-list-of-authors-title-etc.",
     "title": "Frequently Asked Questions",
     "section": "Can I updated my contribution (list of authors, title, etc.)",
-    "text": "Can I updated my contribution (list of authors, title, etc.)\nFeel free to do so in your presentation or on your poster. But we will not update the conference information online anymore."
+    "text": "Can I updated my contribution (list of authors, title, etc.)\nFeel free to do so in your presentation or on your poster. But we will not update the conference information online anymore (starting beginning of July)."
   },
   {
     "objectID": "faq.html#can-my-presentation-talk-or-poster-be-moved",
@@ -1026,7 +1026,7 @@
     "href": "guideline_courses.html#at-the-conference",
     "title": "Guidance for Short Course Presenters",
     "section": "At the conference",
-    "text": "At the conference\n\nArrive at the room at least 30 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nBe aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.\nA technician will be present to assist if needed.\nA microphone will be used for all presentations.\nPlease note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.\nTo minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.\nA laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed.\nAll common connectors will be provided to allow easy connection to the projector."
+    "text": "At the conference\n\nArrive at the room at least 30 minutes before the start of the session so that you can check with our technical support person for any issues or outstanding items.\nBe aware of the time for your short course. We will have joint coffee breaks and lunch for all pre-conference courses.\nA technician will be present to assist if needed.\nA microphone will be used for all presentations.\nPlease note that IT maintenance is scheduled during the time of the courses, which may lead to brief interruptions to the Wi-Fi connection, see here. We recommend planning accordingly, especially if your course involves online content, live demonstrations, or interactive tools that rely on internet access.\nTo minimize any potential disruption, we advise downloading any necessary software packages, updates, or materials in advance of the conference. We will share the participant list in a separate e-mail so you can reach out to participants.\nA laptop will be provided without any special software, but you are welcome to use your own laptop for the course to ensure all required software is available and configured as needed.\nAll common connectors will be provided to allow easy connection to the projector."
   },
   {
     "objectID": "social.html",
@@ -1118,5 +1118,19 @@
     "title": "Instructions for Presenters at the Poster Highlight Session",
     "section": "",
     "text": "Time Limit:\n\nYour oral presentation should take no more than 2 minutes.\n\nThe aim is to present a concise summary of your poster, not to cover all its content in detail.\n\n\n\nSlide Requirements:\n\nYou may prepare one slide in PDF format (16:9) to accompany your presentation (no animations).\n\nThe slide should include: Poster title, author names and poster number.\nThe slide deck will be centrally managed, so you must submit it in advance (see submission deadline below).\nIf you prefer to present without a slide, please inform the organizers by the deadline, see email below.\n\n\n\nSubmission Deadline\nSend your PDF slide to Mouna Akacha by Sunday, 17 August, 23:59 CEST.\n\n\nSession Logistics\n\nStrict compliance with time limits is essential, as there will be 30 poster highlights during the session.\nPlease arrive 15 minutes before the session to ensure readiness and coordination with the session chairs.\n\nOrder of presentation slots can be found here - please remember your slot number.\n\n\n\nFAQs\nFor more general questions please refer to the FAQs."
+  },
+  {
+    "objectID": "attendee_essentials.html#wifi-in-biozentrum-on-sunday",
+    "href": "attendee_essentials.html#wifi-in-biozentrum-on-sunday",
+    "title": "Attendee Essentials",
+    "section": "Wifi in Biozentrum on Sunday",
+    "text": "Wifi in Biozentrum on Sunday\nFor those presenting or attending short courses on Sunday please note the following: The University of Basel’s IT department is performing planned maintenance (these weekends are scheduled a year in advance and cannot be changed) on Saturday and Sunday. Based on past Biozentrum experience, most of the work tends to take place on Saturday, with interruptions being quite short, if at all, on Sunday. Bottom line is that we cannot rely on the WiFi on Sunday in Biozentrum."
+  },
+  {
+    "objectID": "faq.html#i-am-not-able-to-meet-the-deadline-17th-august-announced-in-the-email-for-upload.-what-does-happen-now",
+    "href": "faq.html#i-am-not-able-to-meet-the-deadline-17th-august-announced-in-the-email-for-upload.-what-does-happen-now",
+    "title": "Frequently Asked Questions",
+    "section": "I am not able to meet the deadline (17th August) announced in the email for upload. What does happen now?",
+    "text": "I am not able to meet the deadline (17th August) announced in the email for upload. What does happen now?\nSee here."
   }
 ]
