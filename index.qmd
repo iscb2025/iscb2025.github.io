@@ -32,15 +32,13 @@ title: "2025 Conference"
 ::: {.callout-important}
 # Latest News
 
-**The <a href="https://www.conftool.org/iscb2025/sessions.php" target="_blank"><b>full conference program</b></a> and [<b>the conference book</b>](data/ISCB46_Conference_Book.pdf) are now online!**
+**ISCB46 has concluded!** We hope you enjoyed the conference and wish you a safe trip back home! We would like to thank all the course, talk, and poster presenters for contributing to ISCB46 in Basel, and hope to see you again at [<b>next year's ISCB GMDS 2026 conference in Freiburg, Germany</b>](https://iscbgmds2026.info){.external target="_blank"}!
 
-**Be prepared!** Check our [Attendee Essentials](attendee_essentials.qmd) page.
+**Video recordings are currently being processed, you will be notified once these are available.**
 
-See the **[FAQ page](faq.qmd)** for frequently asked questions, as well as the guidelines in the FAQ & Instructions section.
+All presented abstracts are available in [<b>the conference book</b>](data/ISCB46_Conference_Book.pdf).
 
-**We have reached full capacity and registration is closed.**
-
-[Keynote speakers](keynote-speakers.qmd) and [invited sessions](invited-sessions.qmd) are now available, as is the information on [pre-conference courses](courses.qmd), [mini symposia](mini-symposia.qmd), the [venue](venue.qmd), the [social program](social.qmd) and [accommodation](accommodation.qmd).
+See the **[FAQ page](faq.qmd)** for frequently asked questions.
 :::
 :::
 
