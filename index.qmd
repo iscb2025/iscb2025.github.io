@@ -32,13 +32,12 @@ title: "2025 Conference"
 ::: {.callout-important}
 # Latest News
 
-**ISCB46 has concluded!** We hope you enjoyed the conference and wish you a safe trip back home! We would like to thank all the course, talk, and poster presenters for contributing to ISCB46 in Basel, and hope to see you again at [<b>next year's ISCB GMDS 2026 conference in Freiburg, Germany</b>](https://iscbgmds2026.info){.external target="_blank"}!
+**ISCB46 has concluded!** We hope you enjoyed the conference had a safe trip back home! We would like to thank all the course, talk, and poster presenters for contributing to ISCB46 in Basel, and hope to see you again at [<b>next year's ISCB GMDS 2026 conference in Freiburg, Germany</b>](https://iscbgmds2026.info){.external target="_blank"}!
 
-**Video recordings are currently being processed, you will be notified once these are available.**
+**Video recordings and slides are available on the online platform now (check your inbox).**
 
-All presented abstracts are available in [<b>the conference book</b>](data/ISCB46_Conference_Book.pdf).
+All presented abstracts are also available in [<b>the conference book</b>](data/ISCB46_Conference_Book.pdf).
 
-See the **[FAQ page](faq.qmd)** for frequently asked questions.
 :::
 :::
 
